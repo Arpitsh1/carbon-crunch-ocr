@@ -3,3 +3,4 @@ pytesseract
 pandas
 numpy
 Pillow
+pytest
