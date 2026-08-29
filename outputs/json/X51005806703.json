@@ -1,0 +1,38 @@
+{
+  "store_name": {
+    "value": "SINNATHAMBY HOLDINGS SON. istiD. 2 49336-T",
+    "confidence": 0.642,
+    "status": "low"
+  },
+  "date": {
+    "value": "2018-02-06",
+    "confidence": 0.782,
+    "status": "medium"
+  },
+  "items": [],
+  "total_amount": {
+    "value": null,
+    "confidence": 0.0,
+    "status": "low"
+  },
+  "reliability": {
+    "low_confidence_fields": [
+      "store_name",
+      "total_amount",
+      "items"
+    ],
+    "requires_manual_review": true
+  },
+  "_debug": {
+    "total_line": null,
+    "line_count": 29,
+    "ocr_confidence": 0.686
+  },
+  "source_file": "X51005806703.jpg",
+  "ocr": {
+    "confidence": 0.686,
+    "preprocessing_variant": "gray",
+    "deskew_angle": -0.48,
+    "raw_text": "Cash Saie\nSINNATHAMBY HOLDINGS SON. istiD. (2:49336-T)\nNO.17, 18 & 41, JALAN BESAR,\n39100 BRINCHANG,,\nCAMERON HIGHLANDS,\nPAHANG\nGST Reg.: 002120876032 :\nDocument No. : T04-18/084227 _ Brean\nDate + 06/02/2018 07:09,46 PM\nDESC PRICE ise AMOUNT TAX\nary RM RM (ODE\nPOLY CHOPPING BOARD - 013 i\n3 UNIT * 480 0.00 1440 SR\nPLASTIC BOWL -2.80\n2 INIT * 280 0.00 22.40 SR\nPLASTIC CONTAINER W COVER MS-SQ-1\n6 UNIT = 1% 000 9.00 sr\nBENXON PP HYGIENIC CUP: AQ-700 22 02-50PCS\n1 UNIT « 10.00 0.00 10.00 SR\nSTAEDTLER LUNA COLOUR 11CIL\n11 UNIT * 490 000 5390 sR\nTotal Qh: 29\nTotal Inclusive GST 6% : \"109,70\nRounding Adjustment: 0.00\nRounded Total (RM): ~~ Gi0s.78)\nCash: Sa\n| GsTSummary Amount(RM) Tax(RM)\n| sRe@6% 103.49 621\nee vey Thanks You www tees"
+  }
+}

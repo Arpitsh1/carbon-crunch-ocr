@@ -1,0 +1,39 @@
+{
+  "store_name": {
+    "value": "MOM 1& ToY s",
+    "confidence": 0.542,
+    "status": "low"
+  },
+  "date": {
+    "value": "2015-01-26",
+    "confidence": 0.686,
+    "status": "low"
+  },
+  "items": [],
+  "total_amount": {
+    "value": null,
+    "confidence": 0.0,
+    "status": "low"
+  },
+  "reliability": {
+    "low_confidence_fields": [
+      "store_name",
+      "date",
+      "total_amount",
+      "items"
+    ],
+    "requires_manual_review": true
+  },
+  "_debug": {
+    "total_line": null,
+    "line_count": 22,
+    "ocr_confidence": 0.538
+  },
+  "source_file": "6.JPG",
+  "ocr": {
+    "confidence": 0.538,
+    "preprocessing_variant": "enhanced",
+    "deskew_angle": 0.0,
+    "raw_text": "MOM 1& ToY’s =\ncRePeRie\nLi =\nPenang! vEeRENe |\n= momiantoys_ind Cinst\n@indmomi, Ctwitter)\nCheck : 3850\nPax: 1 OP: Gunawan_ Gunawan,\nPOS Title:Cashier,\nROREE ACO me ss 1619\n1 Woman 0\n2 Ham Cheese 74, 000\n| sia ah te\nTBlack& White 72, 000\nSECA OX)\nTOTAL 175,000\nGASH 200, 000\nSenge eee. 00\n7 Closed Bi11\n<-—--—-—-=—-26/01/2015.16:14----—----—->\nThank you for tasting,\nour “Meltingly Crepe"
+  }
+}

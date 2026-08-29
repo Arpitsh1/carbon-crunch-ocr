@@ -1,0 +1,45 @@
+{
+  "store_name": {
+    "value": "RESTORAN WAN SHENG",
+    "confidence": 0.716,
+    "status": "medium"
+  },
+  "date": {
+    "value": "2018-03-21",
+    "confidence": 0.856,
+    "status": "high"
+  },
+  "items": [
+    {
+      "name": "Teh (B) SR",
+      "price": 4.4,
+      "confidence": 0.808
+    },
+    {
+      "name": "Bunga Kekwa 1x 1,70 1,70 SR Take Away 0,60 SR",
+      "price": 0.2,
+      "confidence": 0.808
+    }
+  ],
+  "total_amount": {
+    "value": 6.7,
+    "confidence": 0.8,
+    "status": "medium"
+  },
+  "reliability": {
+    "low_confidence_fields": [],
+    "requires_manual_review": false
+  },
+  "_debug": {
+    "total_line": "TOTAL: 6.70",
+    "line_count": 25,
+    "ocr_confidence": 0.8
+  },
+  "source_file": "X51005711441.jpg",
+  "ocr": {
+    "confidence": 0.8,
+    "preprocessing_variant": "enhanced",
+    "deskew_angle": 0.0,
+    "raw_text": "y=\nRESTORAN WAN SHENG\n002043319-W\nNo.2, Jalan Temenggung 19/9,\nSeksyen 9, Bandar Mahkata Cheras,\n43200 Cheras, Selangor\n| GST REG NO: 001335787520\nTax Invoice\nINV No.; 1054650 Cashier: Nicole\nOate : 21-03-2018 16:08:24\nDescription Qty U.price Total TAX\nTeh (B)\n2x 2.20 4.40 SR\nBunga Kekwa\n1x 1,70 1,70 SR\nTake Away\n3x 0.20 0,60 SR\nTotal QTY: 6\nTotal (Excluding GST): 8.33\nGST payable (6%): 0.37\nTotal (Inclusive of GST): 8,70\nTOTAL: 6.70\nCASH : 6.70\nGST Suanary Aunt (FM) Tax(RA)\nSR (@ 6%) _ 8.33 0.37"
+  }
+}

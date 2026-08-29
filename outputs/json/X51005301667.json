@@ -1,0 +1,37 @@
+{
+  "store_name": {
+    "value": "eRY SDN BHD",
+    "confidence": 0.685,
+    "status": "low"
+  },
+  "date": {
+    "value": "2017-11-20",
+    "confidence": 0.759,
+    "status": "medium"
+  },
+  "items": [],
+  "total_amount": {
+    "value": 39.8,
+    "confidence": 0.703,
+    "status": "medium"
+  },
+  "reliability": {
+    "low_confidence_fields": [
+      "store_name",
+      "items"
+    ],
+    "requires_manual_review": true
+  },
+  "_debug": {
+    "total_line": "TOTAL : RM 39.80",
+    "line_count": 42,
+    "ocr_confidence": 0.651
+  },
+  "source_file": "X51005301667.jpg",
+  "ocr": {
+    "confidence": 0.651,
+    "preprocessing_variant": "enhanced",
+    "deskew_angle": 0.93,
+    "raw_text": "eRY SDN BHD\nLIGHTROOM GALLERY, 5)\nNo: 28, JALAN ASTANA, 1\nBANDAR BUKIT RAJA, MALAYSIA\nKLANG SELANGOR E96 -A)\nio. 1 (107282\nGST No, : 000584089600 .\nT5l:03°3862 4995 Fax: 03-3362) 4395\nCREDIT NOTE ;\n2\nStation: CASHIER oN Fes WER\nCashier: ANGELA Cover\nBill Date ; 20/11/2017\nBill Stare: 20/11/2017 03:65:07 PM\nCode: -900-E0009\nName ESWARAN 012-6369400\nAddress:\nGST No. =\nZ SR\nREFER 1CS03158\n0 INIT\nYT51775, SR\n1059 18W SQ WW BK SUR LED LIGHT.\n1059 SQUARE BLACK FRAME\n2 * RM 18.77 UNI ( 2.25)=RM 37. 65\nSub 1 tal : RM 37, 65\nService Charge: Ru 0,00\nGST/TAK Of : RM 225\nTOTAL : RM 39.80\nCASH: RM 39,80\nCHANGE: RM 0.00\nTtem Count: 2\nQty Pant : 2.0\nCloses Bill: 20/11/2017 03:55:56 PM\nThank You, Please cone again,\njs Sold are not refundable, v\nBANK ACG MBE 5128 4851 21187 Table\nBANK ACO MBB 6626 4792 1744\nBANK ACC AMBANK 888 100 123 3706\nGST Summary Amount (RM) Tax (Ri)\nSR @ OH 31.55 2.95\n78/08/82 000 (Bae"
+  }
+}

@@ -1,0 +1,42 @@
+{
+  "store_name": {
+    "value": "YONG CEN ENTERPRISE",
+    "confidence": 0.74,
+    "status": "medium"
+  },
+  "date": {
+    "value": "2018-03-02",
+    "confidence": 0.838,
+    "status": "medium"
+  },
+  "items": [
+    {
+      "name": "SR:FEI YAN BRAND YOUNG CORN 425G (2.333X 2 200",
+      "price": 4.0,
+      "confidence": 0.792
+    }
+  ],
+  "total_amount": {
+    "value": null,
+    "confidence": 0.0,
+    "status": "low"
+  },
+  "reliability": {
+    "low_confidence_fields": [
+      "total_amount"
+    ],
+    "requires_manual_review": true
+  },
+  "_debug": {
+    "total_line": null,
+    "line_count": 26,
+    "ocr_confidence": 0.773
+  },
+  "source_file": "X51005746140.jpg",
+  "ocr": {
+    "confidence": 0.773,
+    "preprocessing_variant": "enhanced",
+    "deskew_angle": 0.0,
+    "raw_text": "—— -~_ =—hlmlti(<(i‘<=iMrt\nYONG CEN ENTERPRISE\n9, JALAN SUBANG JASA 3,\n40150 SHAH ALAM, SELANGOR,\nTEL: 012-9719498\nGST NO: 001147981824\nCASH\nRECEIPT #. CS00677115 DATE: 02/03/2018\nSALESPERSON: TIME: 09:43:00\nCOUNTER :\nITEM QTY _U/P_ AMOUNT\n9555223600307 24 233 5599\nSR:FEI YAN BRAND YOUNG CORN 425G (2.333X\n9557166110018 2 200 4.00\nZRL:ASAM BOI 656\nTOTAL QUANTITY 26\nSUB-TOTAL 59.99\nDISC 0.00\nGST 336 /\nTAX 0.00 (3 na\nROUNDING 0.00, VES\n\\ TOTAL 63.35%\nCASH 63.35\nCHANGE 0.00\nGOODS SOLD ARE NOT RETURNABLE,\nTHANK YOU."
+  }
+}

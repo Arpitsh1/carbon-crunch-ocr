@@ -1,0 +1,38 @@
+{
+  "store_name": {
+    "value": "1249-THN PANDAN CAHAYA",
+    "confidence": 0.666,
+    "status": "low"
+  },
+  "date": {
+    "value": "2018-02-20",
+    "confidence": 0.841,
+    "status": "medium"
+  },
+  "items": [],
+  "total_amount": {
+    "value": null,
+    "confidence": 0.0,
+    "status": "low"
+  },
+  "reliability": {
+    "low_confidence_fields": [
+      "store_name",
+      "total_amount",
+      "items"
+    ],
+    "requires_manual_review": true
+  },
+  "_debug": {
+    "total_line": null,
+    "line_count": 16,
+    "ocr_confidence": 0.776
+  },
+  "source_file": "X51005447852.jpg",
+  "ocr": {
+    "confidence": 0.776,
+    "preprocessing_variant": "enhanced",
+    "deskew_angle": 0.0,
+    "raw_text": "99 SPEED MART S/B (519537-X)\nLOT P.T. 2811, JALAN ANGSA,\nTAMAN BERKELEY\n44150 KLANG, SELANGOR\n1249-THN PANDAN CAHAYA\n| GST 1D. NO s 00018174712\nINVOICE NO : 18314/102/70422\n06:20PH $68008 20-02-18\n8991 NUTRI PLUS TELUR SEGAR RAY, 90 z\n| Total Sales (Inclusive 6ST) RH 9.90\nCASH RN 10.00\nCHANGE RM 10\nGST Summary Amount (RM) Tax(RM)\n220% 9.90 00\nThank You. Please come again\nKeep the invoice for applicable returns"
+  }
+}

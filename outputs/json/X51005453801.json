@@ -1,0 +1,37 @@
+{
+  "store_name": {
+    "value": "GL HANDICRAFT & TAILORING",
+    "confidence": 0.627,
+    "status": "low"
+  },
+  "date": {
+    "value": "2018-03-20",
+    "confidence": 0.767,
+    "status": "medium"
+  },
+  "items": [],
+  "total_amount": {
+    "value": 102.0,
+    "confidence": 0.774,
+    "status": "medium"
+  },
+  "reliability": {
+    "low_confidence_fields": [
+      "store_name",
+      "items"
+    ],
+    "requires_manual_review": true
+  },
+  "_debug": {
+    "total_line": "Total Incl. of GST 102.00",
+    "line_count": 25,
+    "ocr_confidence": 0.663
+  },
+  "source_file": "X51005453801.jpg",
+  "ocr": {
+    "confidence": 0.663,
+    "preprocessing_variant": "gray",
+    "deskew_angle": 1.87,
+    "raw_text": "3180303\nGL HANDICRAFT & TAILORING\n19, JALAN KANCIL,\nOFF JALAN PUDU,\n95100 KUALA LUMPUR.\nMALAYSIA\nCompany Reg No. :75495-W\n| GST Reg No. 001948532738\nTAR INVOICE\ninvolge No. GS 10012\nDate: 20/03/2018 13:01\ncashler#: 01\nRM Code\nSAFETY PINS BUTTERFLY - S\ng00H0xS ¥ 17.00 102.00 SR\nSubtotal 102.00\nToa Excl of GST SSCS\nTotal Incl. of GST 102.00\nTotal AmtRoundea «102.00\nPayment : 102.00\nChange Que : 0.00\nTotal item(s) : 5\nGST Summary Arount(RM) Tax (RM)\nsrk @ar 96.23 $8.77\ns+ PLEASE COME AGAIN *****"
+  }
+}

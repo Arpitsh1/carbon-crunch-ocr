@@ -1,0 +1,37 @@
+{
+  "store_name": {
+    "value": "SYARIKAT PERNIAGAAN GIN KEE",
+    "confidence": 0.703,
+    "status": "medium"
+  },
+  "date": {
+    "value": null,
+    "confidence": 0.0,
+    "status": "low"
+  },
+  "items": [],
+  "total_amount": {
+    "value": 6.0,
+    "confidence": 0.787,
+    "status": "medium"
+  },
+  "reliability": {
+    "low_confidence_fields": [
+      "date",
+      "items"
+    ],
+    "requires_manual_review": true
+  },
+  "_debug": {
+    "total_line": "Total : 6.00 036] / |",
+    "line_count": 30,
+    "ocr_confidence": 0.78
+  },
+  "source_file": "X51005676545.jpg",
+  "ocr": {
+    "confidence": 0.78,
+    "preprocessing_variant": "enhanced",
+    "deskew_angle": 0.0,
+    "raw_text": "3 \\Go\\olt ~\nwm)\nSYARIKAT PERNIAGAAN GIN KEE\n(21109-A)\nNO 290. JALAN AIR PANAS.\nSETAPAK, |\n53200, KUALA LUMPUR.\nTEL 03-40210276\nGST ID 000750673920\nSIMPLIFIED TAX INVOICE\nCASH —t—<“S—......CS\nDoc No 800012727 Date 13/0172018\nCastier USER Time 15:53:00\nSalesperson Ret\n‘tem Qty SiPrice Amount Tax\n1432 3 42 636 SR\nGLOVE 12000\"\nTotal Qty 3 636\nTotal Sales (Excluding GST) 6.00\nDiscount 0.00\nTotal GST 0.36\n@ Rounding 0.00\nTotal Sales (Inclusive of GST) 636\nCASH 6.36\nChange 0.00 |\nGST SUMMARY\nTax Code % Amt(RM) = Tax (RM)\nSR 6 6.00 0.38\nTotal : 6.00 036] / |\nGOODS SOLD ARE NOT RETURNABLE THANK YOU. |"
+  }
+}

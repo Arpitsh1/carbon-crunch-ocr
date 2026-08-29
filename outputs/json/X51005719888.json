@@ -1,0 +1,40 @@
+{
+  "store_name": {
+    "value": "POTTERS GARDEN SDN BHD",
+    "confidence": 0.787,
+    "status": "medium"
+  },
+  "date": {
+    "value": "2018-01-04",
+    "confidence": 0.86,
+    "status": "high"
+  },
+  "items": [
+    {
+      "name": "‘AA00007 PLASTIC PLATE 1,00 SR ‘AA00022 CHINA POT @7,90 SR",
+      "price": 15.8,
+      "confidence": 0.812
+    }
+  ],
+  "total_amount": {
+    "value": 39.0,
+    "confidence": 0.867,
+    "status": "high"
+  },
+  "reliability": {
+    "low_confidence_fields": [],
+    "requires_manual_review": false
+  },
+  "_debug": {
+    "total_line": "NET TOTAL 39.00",
+    "line_count": 25,
+    "ocr_confidence": 0.806
+  },
+  "source_file": "X51005719888.jpg",
+  "ocr": {
+    "confidence": 0.806,
+    "preprocessing_variant": "enhanced",
+    "deskew_angle": 0.0,
+    "raw_text": "POTTERS GARDEN SDN BHD\n(1183774-D)\nBatu 11, Sg Buloh, 47000 Selangor.\nTel: 016-667 0982, 016-333 3812\nGST Reg No: 000392024084\nTAX INVOICE\nTABLE : O1\nPOS ID : G\nIN NO; G/OOO02268\nCASHIER: Administrator\nINV DT: 04/01/2018 12:29; 18 PM RM\nITEM ‘AMOUNT\n‘AA00007 PLASTIC PLATE 1,00 SR\n‘AA00022 CHINA POT\n2 @7,90 15.80 SR\n‘AA00016 PLANT 16.00 SR\n‘AA00016 PLANT 7.00 SR\n5 SUB TOTAL 39.80\nNET TOTAL 39.00\nCash 40.00\nCHANGE 0.20\nSR Inclusive GST 6% 37.54 2.26\n| ### Thank you Please Come Again ##*\nTtem Sold are Not Refundable & Exchangeable\nae a"
+  }
+}

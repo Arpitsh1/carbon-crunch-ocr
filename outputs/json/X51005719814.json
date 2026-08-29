@@ -1,0 +1,36 @@
+{
+  "store_name": {
+    "value": "KIKU JAPANESE RESTAURANT",
+    "confidence": 0.717,
+    "status": "medium"
+  },
+  "date": {
+    "value": "2018-01-17",
+    "confidence": 0.815,
+    "status": "medium"
+  },
+  "items": [],
+  "total_amount": {
+    "value": 29.7,
+    "confidence": 0.759,
+    "status": "medium"
+  },
+  "reliability": {
+    "low_confidence_fields": [
+      "items"
+    ],
+    "requires_manual_review": true
+  },
+  "_debug": {
+    "total_line": "Total Sales RM 29.70",
+    "line_count": 26,
+    "ocr_confidence": 0.738
+  },
+  "source_file": "X51005719814.jpg",
+  "ocr": {
+    "confidence": 0.738,
+    "preprocessing_variant": "adaptive",
+    "deskew_angle": 0.0,
+    "raw_text": "‘ :\nKIKU JAPANESE RESTAURANT\nTK DIVISION KITCHEN SON BHO\n1202162-P\n19-1, JALAN MALINJA 2, TAMAN BUNGA RAYA,\n53100 SETAPAK, KUALA LUMPUR.\nTEL 03-4161 8936\nINVOICE\nInvoice .9722 Gashiersadnin\nPOS Nol Tabla: 03\nDato : 17/1/2018 12.12:21\nPax:0\nTEN QTY L/P CRM} DISG(®) Amt {RM}\nChicken Katsu Bento\nBENO2 1 12.90 0.00 12.90\nOmu Gurry Fried Rice Set\nSat10 1 6.90 0000 «6.90\nKatsu Don (Fish)Sat\n1802 Kat 1 9.90 000 «9.90\nSub Total Before Diacount RM 29.70\nService Charge RM 0. 00\nTotal Sales RM 29.70\nRounding Adjuetment : RM 0. 00\nTOTAL RM 29. 70\nCASH RM 30. 00\nCHANGE RM 0. 30"
+  }
+}

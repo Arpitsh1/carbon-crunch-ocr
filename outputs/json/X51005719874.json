@@ -1,0 +1,37 @@
+{
+  "store_name": {
+    "value": "NADEJE PRESTIGE SDN BHD",
+    "confidence": 0.705,
+    "status": "medium"
+  },
+  "date": {
+    "value": "2018-02-22",
+    "confidence": 0.803,
+    "status": "medium"
+  },
+  "items": [],
+  "total_amount": {
+    "value": null,
+    "confidence": 0.0,
+    "status": "low"
+  },
+  "reliability": {
+    "low_confidence_fields": [
+      "total_amount",
+      "items"
+    ],
+    "requires_manual_review": true
+  },
+  "_debug": {
+    "total_line": null,
+    "line_count": 17,
+    "ocr_confidence": 0.719
+  },
+  "source_file": "X51005719874.jpg",
+  "ocr": {
+    "confidence": 0.719,
+    "preprocessing_variant": "enhanced",
+    "deskew_angle": 0.0,
+    "raw_text": "q .\nNADEJE PRESTIGE SDN BHD\nLOT NO.:G1.1164,GROUND FLOOR,\n‘SUNWAY PYRAMID,NO,3, JALAN PJS 11/15,\nBANDAR SUNWAY, 47500 PETALING JAYA,\n(1198447-X)\nGST 1D:000182431744\nTAX INVOICE\n| Invoice: 000-074020 aa Take Out\nDate: 2018/02/22 13:34:14\nOriginal Slice 2 RM26.00\nDoubleChoc Slice 1 RM13.00\nGrand Total an . 00\n| (Bill Inclusive of 6% GST : RM2.21)\nCash RMSO.00.\nChange RM11.00\n(001-2018/02/22 19:34:27 Myo Tun(1) 000-074020 (11"
+  }
+}

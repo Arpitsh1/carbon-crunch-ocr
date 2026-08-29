@@ -1,0 +1,50 @@
+{
+  "store_name": {
+    "value": "Banh Mi CafE",
+    "confidence": 0.758,
+    "status": "medium"
+  },
+  "date": {
+    "value": "2017-10-29",
+    "confidence": 0.859,
+    "status": "high"
+  },
+  "items": [
+    {
+      "name": "205 SUONG NON RAM CHUA SR",
+      "price": 9.9,
+      "confidence": 0.811
+    },
+    {
+      "name": "205 Sweet &Sour Pork Ribs 217 Tau Hu Gor Thit Chi SR",
+      "price": 9.9,
+      "confidence": 0.811
+    },
+    {
+      "name": "217 Stuff Meat Tau Fu 605 TRA DA SR",
+      "price": 1.5,
+      "confidence": 0.811
+    }
+  ],
+  "total_amount": {
+    "value": 23.25,
+    "confidence": 0.803,
+    "status": "medium"
+  },
+  "reliability": {
+    "low_confidence_fields": [],
+    "requires_manual_review": false
+  },
+  "_debug": {
+    "total_line": "TOTAL: 23.25",
+    "line_count": 30,
+    "ocr_confidence": 0.805
+  },
+  "source_file": "X51005568827.jpg",
+  "ocr": {
+    "confidence": 0.805,
+    "preprocessing_variant": "enhanced",
+    "deskew_angle": 0.0,
+    "raw_text": "Banh Mi CafE\nDimi 1iki: banh mi cafe sdn bhd 1110644-W\nNo. 1 Jalan Puteri 7/16\nBandar Puteri, 47100 Puchong\nSelangor, Malaysia\n(GST Reg. No : 000306700288)\nGUEST CHECK\nTable A\nINV No.; 153887 Pax(s): 2\nDate: 29-10-2017 18.31:45\nCashier: Cashier A\nQty Description Total TAX\n1 205 SUONG NON RAM CHUA 9.90 SR\n205 Sweet &Sour Pork Ribs\n1 217 Tau Hu Gor Thit Chi 9.90 SR\n217 Stuff Meat Tau Fu\n1 605 TRA DA 1.50 SR\n605 Vietnamese Iced Tea\nTotal (Excluding GST): 21,30\nServ. Charge (3%): 0.65\nGST payable (6%): 1.31\nTotal (Inclusive of GST): 23.28\nRounding Adj: 0.01\nTOTAL: 23.25\nClosed; 29-10-2017\nServer: Cashier A\nGST Summary Amount (RM) — Tax(RM)\nInquries: 012-3225548\nLike us @ Facebook: banhmik]\nEmail : banhmicafelégnail.com"
+  }
+}

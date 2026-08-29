@@ -1,0 +1,62 @@
+{
+  "store_name": {
+    "value": "VIVOPAC MARKETING SDN BHD 1070687-M",
+    "confidence": 0.728,
+    "status": "medium"
+  },
+  "date": {
+    "value": "2017-01-17",
+    "confidence": 0.801,
+    "status": "medium"
+  },
+  "items": [
+    {
+      "name": "ay RM RM CODE PP - 14x20 0.04mm _ PKT * 14,6000 SR",
+      "price": 14.6,
+      "confidence": 0.758
+    },
+    {
+      "name": "PP - 16x26 0.04mm PKT = 14.6000 SR",
+      "price": 14.6,
+      "confidence": 0.758
+    },
+    {
+      "name": "28 (75HT) Red PKT * 6.0000 SR",
+      "price": 6.0,
+      "confidence": 0.758
+    },
+    {
+      "name": "26 x 33 (8SHT) Red PKT = 8.0000 SR",
+      "price": 8.0,
+      "confidence": 0.758
+    },
+    {
+      "name": "1 OPP Tapes PCS * 0.8000 SR",
+      "price": 0.8,
+      "confidence": 0.758
+    }
+  ],
+  "total_amount": {
+    "value": null,
+    "confidence": 0.0,
+    "status": "low"
+  },
+  "reliability": {
+    "low_confidence_fields": [
+      "total_amount"
+    ],
+    "requires_manual_review": true
+  },
+  "_debug": {
+    "total_line": null,
+    "line_count": 37,
+    "ocr_confidence": 0.716
+  },
+  "source_file": "X51005568894.jpg",
+  "ocr": {
+    "confidence": 0.716,
+    "preprocessing_variant": "enhanced",
+    "deskew_angle": 0.0,
+    "raw_text": "VIVOPAC MARKETING SDN BHD (1070687-M)\n14 JALAN MANIS 4 TAMAN SEGAR 56100 KL\nTEL: 03-91334364 FAX: 03-91310522\nwww, vivopac.com\nGST REG: 000565808056\nTAX INVOICE\nDoc#: 521532619\nDate 17/01/2017 01:31:27 PM\nPromgter\nTerminal: 102 Cashier» AL\nDESCRIPTION PRICE Disc AMOUNT TAX\nay RM RM CODE\nPP - 14x20 0.04mm _\n1.00 PKT * 14,6000 14.60 SR\nPP - 16x26 0.04mm\n1.00 PKT = 14.6000 14.60 SR\n28 (75HT) Red\n1.00 PKT * 6.0000 6.00 SR\n26 x 33 (8SHT) Red\n1.00 PKT = 8.0000 8.00 SR\n1 OPP Tapes\n1.00PCS * 0.8000 0.80 SR\n| Ttem Count: 5 Item Qty: 5.00\nSub Total (Exclusive GST) 4400\nGST 6% 264\nRounding Adi 0.01\nRounded Total (RM): 46.65\nCash 51.65\nCash Change 5.00\nGSTSummary __Amount(RI) __Tax(RM)\nSROE% 44.00 264\n‘Terms & Conditions\n‘Goods sold are not refundable with cash.\nFor exchange of goods sold the following appl:\n4. The original receipt must be presented\n2. Exchange is done within 7 days from date of receipt\n2. In good condition and in it's criginal pakcing"
+  }
+}

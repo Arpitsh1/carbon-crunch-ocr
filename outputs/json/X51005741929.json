@@ -1,0 +1,36 @@
+{
+  "store_name": {
+    "value": "MY MYDIN SDN BHO 257229-K",
+    "confidence": 0.768,
+    "status": "medium"
+  },
+  "date": {
+    "value": "2018-01-18",
+    "confidence": 0.786,
+    "status": "medium"
+  },
+  "items": [],
+  "total_amount": {
+    "value": 5.5,
+    "confidence": 0.73,
+    "status": "medium"
+  },
+  "reliability": {
+    "low_confidence_fields": [
+      "items"
+    ],
+    "requires_manual_review": true
+  },
+  "_debug": {
+    "total_line": "Total after Rounding 5.50",
+    "line_count": 28,
+    "ocr_confidence": 0.692
+  },
+  "source_file": "X51005741929.jpg",
+  "ocr": {
+    "confidence": 0.692,
+    "preprocessing_variant": "enhanced",
+    "deskew_angle": 0.0,
+    "raw_text": "_— Or !——\n. MyMydin Subang Bestari 2300\nMY MYDIN SDN BHO (257229-K)\nHo 13, 15, 17 & 19 Jalan Nova US/Q,\nSeksyen’US,Subang Bestari 40150 Shah Ala\nSelangor Darul Ehsan\nTel: 03- 78322935\nGST ID : 001400971264\nRECEIPT\nTERMINAL : 1670\nINVOICE NO. : 1670327566\nDATE + 18/01/2018 10:59:13\nCASHIER : Azhar - 928374\nEVEREADY BAT S/H/D 12 128PS AfiFA S\n9556500903668 1 * 6.50 5.50\n[tem cont oo 1\nTotal 5.50 4\nRounding Adjustment 0.00\nTotal after Rounding 5.50\nCASH 100.00\nChange CASH 94.50\nasl Rate Amt Exe) GST(RM) Tax(RK)\n53 6 5.19 0.31 V\nPowits earned in this trans. + 0\nRevzipt No: 1670327556\nPrint Date. 15/01/2018 1:59:29\nThank You\n7 Please Come Again"
+  }
+}

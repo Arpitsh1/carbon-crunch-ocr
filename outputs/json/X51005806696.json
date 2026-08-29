@@ -1,0 +1,38 @@
+{
+  "store_name": {
+    "value": "MAGE PRINTEC M SON BHD",
+    "confidence": 0.602,
+    "status": "low"
+  },
+  "date": {
+    "value": "2018-02-23",
+    "confidence": 0.717,
+    "status": "medium"
+  },
+  "items": [],
+  "total_amount": {
+    "value": null,
+    "confidence": 0.0,
+    "status": "low"
+  },
+  "reliability": {
+    "low_confidence_fields": [
+      "store_name",
+      "total_amount",
+      "items"
+    ],
+    "requires_manual_review": true
+  },
+  "_debug": {
+    "total_line": null,
+    "line_count": 23,
+    "ocr_confidence": 0.587
+  },
+  "source_file": "X51005806696.jpg",
+  "ocr": {
+    "confidence": 0.587,
+    "preprocessing_variant": "gray",
+    "deskew_angle": 6.06,
+    "raw_text": "\\MAGE PRINTEC (M) SON BHD\nReg No: 41! 6123-0\nost: 901241862144\nNo. 12A-G, Jalan Wangss, Delma 11.\nDiwangsa Wangse Mal:\n53300 Kuala LUmPUC\n-y,x(603) 4141 9822 F 44603) 41419722\nTAX INVOICE\nCBF 61967 23/02/2018 7: 44.16\nsalesperson\nHeese “Price __ Tote\nZCOLOR COPY AM 400 200SR\n2, PHOTOCOPY AA oro 920 SR\nDLAMINATE AA ge) SRDSS\npou Z\nsubtotal\ngst 6% re)\nRounding Ad) = 002\nNET TOTAL 765\nCASH 40.00\nChange: 238\nThank you:\nPlease come again."
+  }
+}

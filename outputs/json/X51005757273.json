@@ -1,0 +1,36 @@
+{
+  "store_name": {
+    "value": "HR. O.1. . KUCHAT SON BHO",
+    "confidence": 0.706,
+    "status": "medium"
+  },
+  "date": {
+    "value": "2018-03-12",
+    "confidence": 0.846,
+    "status": "medium"
+  },
+  "items": [],
+  "total_amount": {
+    "value": 45.0,
+    "confidence": 0.853,
+    "status": "high"
+  },
+  "reliability": {
+    "low_confidence_fields": [
+      "items"
+    ],
+    "requires_manual_review": true
+  },
+  "_debug": {
+    "total_line": "TOTAL INCL. GST@6% RM 45.00",
+    "line_count": 23,
+    "ocr_confidence": 0.784
+  },
+  "source_file": "X51005757273.jpg",
+  "ocr": {
+    "confidence": 0.784,
+    "preprocessing_variant": "enhanced",
+    "deskew_angle": 0.1,
+    "raw_text": "31803033\nHR. O.1.¥. (KUCHAT) SON BHO\n(CO Reg :750441-W)\nLOT 1851-A & 1851-B, JALAN KPB 6,\nKAWASAN PERINDUSTRIAN BALAKONG,\n43300 SERI KEMBANGAN, SELANGOR\n(GST ID No :000473792512)\n(STRAND MALL _KOTA DAMANSARA)\n- TAX INVOICE -\nPYEDRAIN CLOG FREE CLOROZ - 1000ML +S\nWAOS - 12\n9556268000210 3X 15.00 45.00\nItem(s) : 1 Qty(s) : 3\nTOTAL INCL. GST@6% RM 45.00\nCARD RM 45,00\nGST Summary Amt(RM) — Tax(RM)\nGST S@6x 42.45 2.55\n$--------==--~---------------- —-------¥\n12-03-18 14:37 SHO2 8011 11 R000183898.\nOPERATOR STMT - AZMIZAN\nEXCHANGE ARE ALLOWED WITHIN\n. 1 DAYS WITH! RECEIPT.\nSTRICTLY NO CASH REFUND."
+  }
+}

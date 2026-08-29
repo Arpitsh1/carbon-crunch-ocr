@@ -1,0 +1,37 @@
+{
+  "store_name": {
+    "value": "SVARIKAT PERNIAGAAN GINKEE",
+    "confidence": 0.663,
+    "status": "low"
+  },
+  "date": {
+    "value": "2017-12-28",
+    "confidence": 0.803,
+    "status": "medium"
+  },
+  "items": [],
+  "total_amount": {
+    "value": 465.34,
+    "confidence": 0.747,
+    "status": "medium"
+  },
+  "reliability": {
+    "low_confidence_fields": [
+      "store_name",
+      "items"
+    ],
+    "requires_manual_review": true
+  },
+  "_debug": {
+    "total_line": "Total Oty 470 ~ 465.34",
+    "line_count": 48,
+    "ocr_confidence": 0.719
+  },
+  "source_file": "X51005663324.jpg",
+  "ocr": {
+    "confidence": 0.719,
+    "preprocessing_variant": "enhanced",
+    "deskew_angle": 0.0,
+    "raw_text": "£ OB Don. . |\nSVARIKAT PERNIAGAAN GINKEE\n(81109-A)\nNO 290, JALAN AIR PANAS,\nSETAPAK,\n53200, KUALA LUMPUR |\nTEL 03-40210276\nGST ID 000750673920\n‘SIMPLIFIED TAX INVOICE\nCASH —~—“—OOSCSCOCSCSCSCSCS 7\nDoc No S00012440 Date 28/12/2017\n‘Cashier USER: Time. 115700\nSalesperson Ref.\nttem _ Qty SiPrice Amount Tax\n2623 2 212 424 SR\nNAIL (PER/PACK) - RM2\n3483 1 795 795 SR\n14 1/2\" SANCORA PAINT BRUSH\n1452 1 1007 1007 SR\n7\" PAINT ROLLER SET\n1664 2 2650 6300 SR\n| ILT BIG TREE HIGH GLOSS PAINT\n1665 450 0.30 133.66 SR\n‘CEMENT BRICK\n1041 3 16.90 4770 SR\n6 X 35% CORRUGATED ROOFING SHEET\n2430 4 18027208 SR\nCEMENT (50KG)\n1812 2 16.96 3392 SR\nW2K3\n1792 3 742 2226 «SR\n10 1x2\n184. 2 4028 8056 SR\nKIO’. 1X8\nTotal Oty 470 ~ 465.34\nTotal Sales (Excluding GST) 439.00\nDiscount 000\nTotal GST 26.34\nRounding 0.00\nTotal Sales (Inclusive of GST). 486.34\nCASH 465.34\nChange: 0.00\nGST SUMMARY\nTaxCode = % = AMLRM) Taxi)\nSR 6 439.00 26.34\n| Total. 498.00 28.34\n362\n{GOODS SOLD ARE NOT RETURNABLE THANK YOU."
+  }
+}

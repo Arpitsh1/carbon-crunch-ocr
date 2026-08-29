@@ -1,0 +1,37 @@
+{
+  "store_name": {
+    "value": "LIGHTROOM GALLERY SDN. BHD",
+    "confidence": 0.713,
+    "status": "medium"
+  },
+  "date": {
+    "value": "2017-11-20",
+    "confidence": 0.787,
+    "status": "medium"
+  },
+  "items": [],
+  "total_amount": {
+    "value": null,
+    "confidence": 0.0,
+    "status": "low"
+  },
+  "reliability": {
+    "low_confidence_fields": [
+      "total_amount",
+      "items"
+    ],
+    "requires_manual_review": true
+  },
+  "_debug": {
+    "total_line": null,
+    "line_count": 46,
+    "ocr_confidence": 0.693
+  },
+  "source_file": "X51005268275.jpg",
+  "ocr": {
+    "confidence": 0.693,
+    "preprocessing_variant": "enhanced",
+    "deskew_angle": 0.87,
+    "raw_text": "LIGHTROOM GALLERY SDN. BHD\nNo: 28, TALAN ASTANA. 1G,\nBANDAR BUKIT RAJA, 41050.\nKLANG) SELANGOR D. E,” MALAYSIA\nROC No, : (L072825-A)\nGST No. : (000584089600\nTel 03-3362 4395 Fax:03-3362 4395\nCREDIT NOTE\nStation: CASHIER C/N No: LCN00212\nCashier: ANGELA Cover = 1\nBill Date ; 20/11/2017\nBill Start: 20/11/2017 03:57:01 PM\nCode + 300-£0009\nName + ESWARAN 012-6369400\nAddress:\nGST No, :\nYT51129 SR\nYE36 BK 12W WW LED TRACK LIGHT\n2 * RM 45.29 UNI ( 5,43)=RM 90.57\n752683 Sk\nYE44 35W WW_BK TRACK HOLDER\n1 * RM 155.66 UNI ( 9.34)=RM 155. 66\nCH50688 SR\nIMETER TRACK-BK\n1 * RM 16.99 UNI ( 1.01)=RM 1\n= si\nRM39. 80 CONTRA W LCNOO211\n0 * UNIT\nSub Total : Ral 263,02\nTten Discomt : * Ru 0/20.\nService Charge = RM 0.00\nGSI/TAX Gh : RM 15,78\nTOT: RM 278. 80\nCAS: RM 278. 80\nCHANGE: Ru 0.00\nItem Count: 4\nQty Count ; 4.0\nClosed Bill: 20/11/2017 04:01:23 Pal\nPlease come again.\nTee seta rhe mot refundable, returnable\nBANK ACC MBB 5128 4851 2118\nBANK ACC MBB 626 4732, 17-44\nBANK ACC AMBANK 888 100 123 3706\nGST Summary Amount RM) Tax(RIO\nSe --«263,02,—=«té«CN2 TB\nSR eS/e 0.00 0.00"
+  }
+}

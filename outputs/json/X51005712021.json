@@ -1,0 +1,38 @@
+{
+  "store_name": {
+    "value": "HAPPY SNACKS ENTERPRISE",
+    "confidence": 0.678,
+    "status": "low"
+  },
+  "date": {
+    "value": "2018-03-20",
+    "confidence": 0.776,
+    "status": "medium"
+  },
+  "items": [],
+  "total_amount": {
+    "value": null,
+    "confidence": 0.0,
+    "status": "low"
+  },
+  "reliability": {
+    "low_confidence_fields": [
+      "store_name",
+      "total_amount",
+      "items"
+    ],
+    "requires_manual_review": true
+  },
+  "_debug": {
+    "total_line": null,
+    "line_count": 31,
+    "ocr_confidence": 0.677
+  },
+  "source_file": "X51005712021.jpg",
+  "ocr": {
+    "confidence": 0.677,
+    "preprocessing_variant": "enhanced",
+    "deskew_angle": 0.0,
+    "raw_text": "‘ - os\nHAPPY SNACKS ENTERPRISE\n“4 (002022599 - U)\n19 & 19A , JALAN MERANTI 2A , SEKSYET\nBANDAR BARU BATANG KALI, 44300\n03-60570314\nj panecksso@hotal.com\nRe\n: “HPO1-188357\nDate : 20/03/2018 1:11:38 PM\nCashier : 123\nTax Invoice\ni Qty Price Amount\nSa icc mapa eee ei\n‘950PCS FRUIT PLUS- APPLE\n2 SR 9566296307411 14251 1251\n300PCS LOT100 CANDY- ASSORTED\n. SS ——— oe\nd 0.00\nTotal Sales Inclusive GST: ———S—=6. 82\nRounding Adjustment: ——s0r\n‘Amount To Be Paid : 26.80\nCash Received 50.00\nChange 23.20\nGST Summary\nTaxCode % Taxable Amount GST\nSR 6.00 25.30 1.52\nGst 1.52\n* GST Include Item\nThank You. Please Come Again\n’ aaa... ae."
+  }
+}

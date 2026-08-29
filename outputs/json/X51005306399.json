@@ -1,0 +1,37 @@
+{
+  "store_name": {
+    "value": "Shell ISNT PETRO TRADING",
+    "confidence": 0.771,
+    "status": "medium"
+  },
+  "date": {
+    "value": "2018-03-18",
+    "confidence": 0.845,
+    "status": "medium"
+  },
+  "items": [],
+  "total_amount": {
+    "value": null,
+    "confidence": 0.0,
+    "status": "low"
+  },
+  "reliability": {
+    "low_confidence_fields": [
+      "total_amount",
+      "items"
+    ],
+    "requires_manual_review": true
+  },
+  "_debug": {
+    "total_line": null,
+    "line_count": 25,
+    "ocr_confidence": 0.782
+  },
+  "source_file": "X51005306399.jpg",
+  "ocr": {
+    "confidence": 0.782,
+    "preprocessing_variant": "enhanced",
+    "deskew_angle": 0.0,
+    "raw_text": "Shell ISNT PETRO TRADING\nrerany No 002643278-A\nLOT 2685 JUN GENTING KLANG\n53300 KL Site 1066\nie heen 03- 40212008\nCST No 0010 9010 5344\n>o>2>2> Recelpi <a<cc<<\nInvoice number 60000053668\n36 10 litre Pump # 02\nV-Power 97 Ri 86 OO A\n2450 RN + litre\nTotal Ri 86 00\nVisa RH = 86 00\n6 00» CST A RN 4 87\nTotal Gross ARM 86 00\nShell Loyalty Card\n6018840126306675\nPoints Awarded 35\nDate Tine Nun OPT\n18/03/18 15 17 06051 02\nDiesel & Petrol RON 95\ngiven Relief under Section\n6 (3) (b) GST Act 2014\nThank You\nPleasae Cone Again"
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "store_name": {
+    "value": "PREMIO STATIONERY SDN BHD",
+    "confidence": 0.688,
+    "status": "low"
+  },
+  "date": {
+    "value": "2018-03-20",
+    "confidence": 0.821,
+    "status": "medium"
+  },
+  "items": [],
+  "total_amount": {
+    "value": null,
+    "confidence": 0.0,
+    "status": "low"
+  },
+  "reliability": {
+    "low_confidence_fields": [
+      "store_name",
+      "total_amount",
+      "items"
+    ],
+    "requires_manual_review": true
+  },
+  "_debug": {
+    "total_line": null,
+    "line_count": 37,
+    "ocr_confidence": 0.747
+  },
+  "source_file": "X51005621482.jpg",
+  "ocr": {
+    "confidence": 0.747,
+    "preprocessing_variant": "enhanced",
+    "deskew_angle": 0.0,
+    "raw_text": "e\n. . :\ny\nPREMIO STATIONERY SDN BHD\n(Co, No. 123768-W)\nGST Reg No. 001032994816\nNo 67 Jalan SS 3/29,\n47300 Petaling Jaya, Selangor\n03-7874 8605\nscrgeeneyreenessnne tt ca NV OIC IE. ssessesccoscennses\nInvoice No: $$3-154439\nDate : 20/03/2018 3:20:16 PM\nCashier Iw\nDescription Qty Price Amount\nUT SR ENERGIZER SSA\nBATTERY AAA's\nTotal\nDiscount 0.00\nTotal Sales Inclusive GST @6.00% ~~ 13.40\nCash Received 20.00\nChange 6.60\nStarting 1st Apri we wil no longer be issuing hanawritten\ninvoices. Your service jobs such as photocopy and printing are\n‘replaced by the order form along with a copy ofthis receipt\nAll goods and services are subjected to the 6% GST during checkout\n‘All goods sold are not returnablerefundable. Exchanges are only\n‘acceptable within 3 days with a proof of receipt\n‘All cartridge & toner sales are final and non-refundable.\n‘No cash refunds for credit card purchases.\nNo refunds or exchanges will be entertained without proof of receipt\nTerms and conditions apppled.\nGST Summary % ——Amount(RM)—Tax(RM)\nSR 6.00 12.64 076\nThank you for Shopping at PREMIO\nHave a Nice Day!\nFor the latest news and updates\nlike us on facebook com/premiostationery"
+  }
+}

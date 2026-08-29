@@ -1,0 +1,39 @@
+{
+  "store_name": {
+    "value": "aie aaa",
+    "confidence": 0.357,
+    "status": "low"
+  },
+  "date": {
+    "value": null,
+    "confidence": 0.0,
+    "status": "low"
+  },
+  "items": [],
+  "total_amount": {
+    "value": null,
+    "confidence": 0.0,
+    "status": "low"
+  },
+  "reliability": {
+    "low_confidence_fields": [
+      "store_name",
+      "date",
+      "total_amount",
+      "items"
+    ],
+    "requires_manual_review": true
+  },
+  "_debug": {
+    "total_line": null,
+    "line_count": 12,
+    "ocr_confidence": 0.29
+  },
+  "source_file": "X51005442333.jpg",
+  "ocr": {
+    "confidence": 0.29,
+    "preprocessing_variant": "adaptive",
+    "deskew_angle": -5.32,
+    "raw_text": "foro\naie aaa)\nee\nenema\nFae\nSEH\n=a\na\n=\nEss,\n=\n."
+  }
+}

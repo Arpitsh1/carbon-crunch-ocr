@@ -1,0 +1,48 @@
+{
+  "store_name": {
+    "value": "AL MENDIS-THE MINES",
+    "confidence": 0.642,
+    "status": "low"
+  },
+  "date": {
+    "value": "2018-03-21",
+    "confidence": 0.782,
+    "status": "medium"
+  },
+  "items": [
+    {
+      "name": "Maghgout Lanb w 1S 22,60 SR",
+      "price": 22.5,
+      "confidence": 0.74
+    },
+    {
+      "name": "Garden Salad (S) } 590 sR",
+      "price": 5.9,
+      "confidence": 0.74
+    }
+  ],
+  "total_amount": {
+    "value": null,
+    "confidence": 0.0,
+    "status": "low"
+  },
+  "reliability": {
+    "low_confidence_fields": [
+      "store_name",
+      "total_amount"
+    ],
+    "requires_manual_review": true
+  },
+  "_debug": {
+    "total_line": null,
+    "line_count": 37,
+    "ocr_confidence": 0.687
+  },
+  "source_file": "X51005663298.jpg",
+  "ocr": {
+    "confidence": 0.687,
+    "preprocessing_variant": "enhanced",
+    "deskew_angle": 0.0,
+    "raw_text": "9, BoZory\nAL MENDIS-THE MINES\nZTAWIAJAYA FOOD N BEVERAGE SON BAD\n(1168272-U)\n106-107, LEVEL 1 THE MINES MALL SERDANG\nSSRI KEMBANGAN, 43300,\nSELANGOR DARUL EHSAN\n(GST Reg. No: 001685499904)\ntax Invoice\nTable 23\nOrdera: 116455\nBjlT#: vool- 515592 Pax(s): 2\nDate: 21-03-2018 13:29:51\nCashier: TAMEEM\nEMS Ref\n180321142900_516592_bjcb691918+365,\n| Description ty U.price Total TAK\nMaghgout Lanb w 1S\n1x 22,60 22.50 SR\nGarden Salad (S)\n} 1x 5.90 590 sR\nTEA POT BIG\nTx 12,90 12.90 sR\nTotal (Excluding GST): 41.30\nServ. Charge (10X): 413\nGST Payable: 273\nTotal (Inclusive of GST) 48.18\nRounding Ad): -0.01\nClosed: 011 21032018 14:29:00\nServer: TEMP STAFF\nCASH : 80.00\nCHANGE + 1.85\nCST Summary fount (RM) Tax(RM)\nSR (a 68) 45.43 23S\nerr Thank You se\nPlease Come Again\nPOWERED BY STSPOS.COM. MY"
+  }
+}

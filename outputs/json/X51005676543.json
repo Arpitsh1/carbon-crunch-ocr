@@ -1,0 +1,36 @@
+{
+  "store_name": {
+    "value": "SYARIKAT PERNIAGAAN GIN KEE",
+    "confidence": 0.702,
+    "status": "medium"
+  },
+  "date": {
+    "value": "2018-01-02",
+    "confidence": 0.842,
+    "status": "medium"
+  },
+  "items": [],
+  "total_amount": {
+    "value": 0.75,
+    "confidence": 0.786,
+    "status": "medium"
+  },
+  "reliability": {
+    "low_confidence_fields": [
+      "items"
+    ],
+    "requires_manual_review": true
+  },
+  "_debug": {
+    "total_line": "Total : 12.50 0.75:",
+    "line_count": 32,
+    "ocr_confidence": 0.778
+  },
+  "source_file": "X51005676543.jpg",
+  "ocr": {
+    "confidence": 0.778,
+    "preprocessing_variant": "gray",
+    "deskew_angle": 0.0,
+    "raw_text": "OO\n31901 014\nSYARIKAT PERNIAGAAN GIN KEE\n(81109-A)\nNO 290, JALAN AIR PANAS,\nSETAPAK,\n53200, KUALA LUMPUR,\nTEL : 03-40210276\nGST ID : 000750673920\nSIMPLIFIED TAX INVOICE\ncc\nDoc No. €S00012493 Date: 02/01/2018\nCashier USER Time: 09:28:00\nSalesperson Ref. |\ntem Qty SIPrice Amount Tax _\n1720 1 318 3.18 SR\nSPONGE SCRUB W-PLASTIC HANDLE\n1604 1 10.07 1007 SR\n41/2\" PLASTERING TROWEL\n—“foal@ty 2 —~CS~SS BH\nTotal Sales (Excluding GST) 12.50\nDiscount 0.00\nTotal GST 075\nRounding 0.00\nTotal Sales (Inclusive of GST) : 19.25\nCASH: 13.28\nChange : 0.00\n[(GSTSUMMARY ————“‘“‘CO!;*~™*#\nTaxCode % Amt(RM) Tax(RM)\nSR 6 12.50 0.75\nTotal : 12.50 0.75:\nGOODS SOLD ARE NOT RETURNABLE, THANK YOU |"
+  }
+}

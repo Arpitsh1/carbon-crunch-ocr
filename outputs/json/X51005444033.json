@@ -1,0 +1,36 @@
+{
+  "store_name": {
+    "value": "BENS INDEPENDENT GROCER SDN. BHD",
+    "confidence": 0.747,
+    "status": "medium"
+  },
+  "date": {
+    "value": "2018-03-12",
+    "confidence": 0.845,
+    "status": "medium"
+  },
+  "items": [],
+  "total_amount": {
+    "value": 0.0,
+    "confidence": 0.789,
+    "status": "medium"
+  },
+  "reliability": {
+    "low_confidence_fields": [
+      "items"
+    ],
+    "requires_manual_review": true
+  },
+  "_debug": {
+    "total_line": "Total Saving 0.00 Total 77:20",
+    "line_count": 29,
+    "ocr_confidence": 0.784
+  },
+  "source_file": "X51005444033.jpg",
+  "ocr": {
+    "confidence": 0.784,
+    "preprocessing_variant": "enhanced",
+    "deskew_angle": 0.0,
+    "raw_text": "(a Tridepen cleat Grater\nBENS INDEPENDENT GROCER SDN. BHD\n(913144-A)\nLot 6, Jalan Batai,\nPlaza Batai, Damansara Heights\n. 50490, Kuala Lumpur\nT: 03-2093 7358 | F: 03-2093 7359\n(GST REG NO 000243941376)\nTax Invoice BATO2201803120255 12/03/18\nCashier Fatin Sy 20,29:59\nDole Pineapple Pes\n8809059300708 790\"3 23702\nEvian Mineral Water 6x1 25L\n3068320113784 5350\" 53,50 S\nItem 2 Total with GST @ 6% 77.20\nay 4 Rounding 0.00\nTotal Saving 0.00 Total 77:20\nTender\nCash 100.00\nChange 22.80\nGST Analysis Goods Tax Amount\nS = 6% 50.47 303\nZ= 0% 23.70 0.00\nBIG.COM.MY\nFACEBOOK.COM/THEBIGGROUP\nEXCHANGE & REFUND MAY BE ALLOWED\nWITHIN 3 DAYS WITH ORIGINAL TAX INVOICE\nTHANK YOU, PLEASE COME AGAIN\nBATO2201003120255"
+  }
+}

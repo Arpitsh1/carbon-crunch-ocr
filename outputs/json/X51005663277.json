@@ -1,0 +1,39 @@
+{
+  "store_name": {
+    "value": "SYARIKAT PERNIAGAAN GIN KEE",
+    "confidence": 0.583,
+    "status": "low"
+  },
+  "date": {
+    "value": null,
+    "confidence": 0.0,
+    "status": "low"
+  },
+  "items": [],
+  "total_amount": {
+    "value": 1.68,
+    "confidence": 0.642,
+    "status": "low"
+  },
+  "reliability": {
+    "low_confidence_fields": [
+      "store_name",
+      "date",
+      "total_amount",
+      "items"
+    ],
+    "requires_manual_review": true
+  },
+  "_debug": {
+    "total_line": "Total : 28.00 1.68,",
+    "line_count": 27,
+    "ocr_confidence": 0.557
+  },
+  "source_file": "X51005663277.jpg",
+  "ocr": {
+    "confidence": 0.557,
+    "preprocessing_variant": "enhanced",
+    "deskew_angle": 0.0,
+    "raw_text": "SYARIKAT PERNIAGAAN GIN KEE\n(@t109-A)\nNO 290, JALAN AIR PANAS.\nSETAPAK\n63200, KUALA LUMPUR\nTEL 03-40210275\nSTD 000750673920\nSIMPLIFIED TAX INVOICE\na\nDeco CS00011826 Dale; 02/122017\nCestier USER Time’ 08:4400\nSalesperson Ret\nToney SPrice Amount Tax\nmz TL aae8 2868 SR\n(WSs) 106MIMa GUTTING DISC.\naay ts”*=“‘;+=S~S\n| Tolal Seles (Exekxing GST). 2800\n| Decoun —000\nTosiGsT : 168\nRowdng 900\n| Total sates (Inclusive of GST) :\n| CASH = 29.68\nChange: 0.00\nGSTSUNMARY.\nTaxCode % Amt (RM) ‘Tax(RM)\nSR: 6 28,00 1.68\nTotal : 28.00 1.68,"
+  }
+}

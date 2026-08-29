@@ -1,0 +1,37 @@
+{
+  "store_name": {
+    "value": "ALSERKAM ENTERPRISE",
+    "confidence": 0.78,
+    "status": "medium"
+  },
+  "date": {
+    "value": "2018-02-01",
+    "confidence": 0.878,
+    "status": "high"
+  },
+  "items": [],
+  "total_amount": {
+    "value": null,
+    "confidence": 0.0,
+    "status": "low"
+  },
+  "reliability": {
+    "low_confidence_fields": [
+      "total_amount",
+      "items"
+    ],
+    "requires_manual_review": true
+  },
+  "_debug": {
+    "total_line": null,
+    "line_count": 26,
+    "ocr_confidence": 0.833
+  },
+  "source_file": "X51005230605.jpg",
+  "ocr": {
+    "confidence": 0.833,
+    "preprocessing_variant": "enhanced",
+    "deskew_angle": 0.0,
+    "raw_text": "a ——\nPETRON BAT LANJAN SB\nALSERKAM ENTERPRISE\nTel: 03-6156 8757 Co No: 001083069-M\nKM 458.4 BKT LANJAN UTARA,\nL/RAYA UTARA SELATAN,SG BULOH\n47000 SUNGAT BUL\nGST ID No: 001210736640\nDaw TAX INVOICE\nTAX INVOICE NO: 19729058\nPOS: 1\nStore No.: 129077 Babu\n~ 01/02/2018 4:43:17 PH\nA 2 double ,mint te 3.00\nA 1 sandwich vaniTT 1.90\nGST RM: 0.28\nTotal RM ine GST: 4.90\nCash 5.00\nChange 0.10\nGST Summary Anount (RM) Tax (RH)\nA=6.00% 4.62 0.28\nA ITAL INCLUDES 6.00% GST\n; Use 3000 Petron Niles\npoints to pay for\nRM45 Fuel\nq ."
+  }
+}

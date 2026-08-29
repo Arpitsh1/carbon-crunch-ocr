@@ -1,0 +1,38 @@
+{
+  "store_name": {
+    "value": "T.A.S Leisure Sdn Bhd 25864-P",
+    "confidence": 0.674,
+    "status": "low"
+  },
+  "date": {
+    "value": null,
+    "confidence": 0.0,
+    "status": "low"
+  },
+  "items": [],
+  "total_amount": {
+    "value": 102.4,
+    "confidence": 0.779,
+    "status": "medium"
+  },
+  "reliability": {
+    "low_confidence_fields": [
+      "store_name",
+      "date",
+      "items"
+    ],
+    "requires_manual_review": true
+  },
+  "_debug": {
+    "total_line": "Total 102.40",
+    "line_count": 38,
+    "ocr_confidence": 0.768
+  },
+  "source_file": "X51005663280.jpg",
+  "ocr": {
+    "confidence": 0.768,
+    "preprocessing_variant": "enhanced",
+    "deskew_angle": 0.27,
+    "raw_text": "31BI2012\nChatii*s\nChili’s Grill & Bar KLCo\nT.A.S Leisure Sdn Bhd (25864-P)\nTel:03-2164 1400\nGST 1D:001042104320\nTax Receipt\nBST 1D;0010421043520\n4 CHILISS 23 Anis\nChk 1080323 Gst4\n30 Dec 17 18:40:57\nTBL44 / 1 30/!a]17\n—---- EAT IN —---~\n4 PINEAPPLE JUICE 12.95 $\n1 TOSTADA CHIPS 16.95 S$\n1 CHP_BWL CK 29.95 S\n1 MARG CK 27.95 S$\nSubtotal 87.80\n10% Srv Chg 8.78\nGST 66% 5.81\nTotal: 102.39\n0.01\nTotal 102.40\nYOUR OPINION NaTTERS (0d. 40\nWe invite you to complete our\nGUEST EXPERIENCE SURVEY\nYOU COULD WIN RM500 CASH OR\nCHILI’S VOUCHER FOR RM1 000\n@ WINNER EVERY MONTH\nVisit nwi.go-chilis.con\nYOUR SURVEY CODE:5013\nPls enter within the next 4 days\nMust be 18 or above. Void where\nprohibited. See web for complete\nrules and sweepstakes details.\nAnount(RM)EST(RM)\nGeCST @64:96.58 5-817\nZ=68T G0%:0.00 0.00"
+  }
+}

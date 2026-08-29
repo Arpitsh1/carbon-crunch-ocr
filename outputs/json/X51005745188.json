@@ -1,0 +1,37 @@
+{
+  "store_name": {
+    "value": "SLF CASH & CARRY",
+    "confidence": 0.662,
+    "status": "low"
+  },
+  "date": {
+    "value": "2018-02-02",
+    "confidence": 0.778,
+    "status": "medium"
+  },
+  "items": [],
+  "total_amount": {
+    "value": 48.0,
+    "confidence": 0.722,
+    "status": "medium"
+  },
+  "reliability": {
+    "low_confidence_fields": [
+      "store_name",
+      "items"
+    ],
+    "requires_manual_review": true
+  },
+  "_debug": {
+    "total_line": "TOTAL 48.00%",
+    "line_count": 25,
+    "ocr_confidence": 0.68
+  },
+  "source_file": "X51005745188.jpg",
+  "ocr": {
+    "confidence": 0.68,
+    "preprocessing_variant": "enhanced",
+    "deskew_angle": 0.0,
+    "raw_text": "SLF CASH & CARRY\nNO.15,JLN 1832, THN SUBANG JASA,\nOFF JUN BT 3 SUBANG,\n40000 SHAH ALAM, SEL’\nBST NOs 001149382944\nTEL: 03-77343662 FAX: TAX INVOICE\nRECEIPT #: C800241867 DATE: 02/02/2018\nSALESPERSON : TIME: 08:31:00\nCASHIER KELLY\n1TH QTY U/P_ AMOUNT\n6194020100124 «411.32 45,28 §\n(UNIT) ROYAL BAKING POWDER’ 4506\nTOTAL QUANTITY 4\nSUB-TOTAL 45.28\nBISt 0.00\nTAX 0.90\nROUNDING 9.00\nTOTAL 48.00%\nCASH 48:00\nCHANGE cL “alco\nGOODS SOLD ARE NO RETURNABLE,\nTHANK YOU.\nGST SUMMARY\ncone AMOUNT a TAX/ANT\nSR 45.28 6 2.721"
+  }
+}

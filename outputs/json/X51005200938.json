@@ -1,0 +1,39 @@
+{
+  "store_name": {
+    "value": "aay Aas",
+    "confidence": 0.376,
+    "status": "low"
+  },
+  "date": {
+    "value": null,
+    "confidence": 0.0,
+    "status": "low"
+  },
+  "items": [],
+  "total_amount": {
+    "value": null,
+    "confidence": 0.0,
+    "status": "low"
+  },
+  "reliability": {
+    "low_confidence_fields": [
+      "store_name",
+      "date",
+      "total_amount",
+      "items"
+    ],
+    "requires_manual_review": true
+  },
+  "_debug": {
+    "total_line": null,
+    "line_count": 13,
+    "ocr_confidence": 0.283
+  },
+  "source_file": "X51005200938.jpg",
+  "ocr": {
+    "confidence": 0.283,
+    "preprocessing_variant": "adaptive",
+    "deskew_angle": -19.22,
+    "raw_text": "\"aay, Aas,\nReo ea\neee\nSee\nPILES\nEng\nwre\n“St g tr\na7\nee\nag re tay\na\n“te"
+  }
+}

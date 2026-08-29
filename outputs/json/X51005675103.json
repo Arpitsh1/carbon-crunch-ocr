@@ -1,0 +1,37 @@
+{
+  "store_name": {
+    "value": "SYARIKAT PERNIAGAAN GIN KEE",
+    "confidence": 0.687,
+    "status": "low"
+  },
+  "date": {
+    "value": "2018-01-04",
+    "confidence": 0.827,
+    "status": "medium"
+  },
+  "items": [],
+  "total_amount": {
+    "value": 5.67,
+    "confidence": 0.771,
+    "status": "medium"
+  },
+  "reliability": {
+    "low_confidence_fields": [
+      "store_name",
+      "items"
+    ],
+    "requires_manual_review": true
+  },
+  "_debug": {
+    "total_line": "Total 94.50 5.67",
+    "line_count": 34,
+    "ocr_confidence": 0.756
+  },
+  "source_file": "X51005675103.jpg",
+  "ocr": {
+    "confidence": 0.756,
+    "preprocessing_variant": "enhanced",
+    "deskew_angle": 0.0,
+    "raw_text": "218010\"\n,\nSYARIKAT PERNIAGAAN GIN KEE\n(81109-A)\nNO 290, JALAN AIR PANAS\nSETAPAK,\n$3200, KUALA LUMPUR.\nTEL 03-40210276\nGST ID 000750673920\nSIMPLIFIED TAX INVOICE\nCASH—~—“CSOSOOSOCOOCOCOSOSCSCSCSCSCSS\n‘Doc No S00012544 Date’ 04/01/2018\nCashier USER Time: 15:46:00 |\nSalesperson Ref\n“tem ty_—SiPrice Amount Tax\n“1840 1 40.28 40.28 SR\nK10' 1X8\n1664 2 2650 «63.00 SR\n1LT BIG TREE HIGH GLOSS PAINT\n1909 1 6.89 689 SR\n7\" ROLLER REFILL\nTotaly 400 TT\nTotal Sales (Excluding GST) 9450 .\nDiscount 0.00\nTotal GST 5.67\nRounding 0.00\n| Total Sales (Inclusive of GST) : 100.17 |\nCASH : 100.17\nChange : 0.00\nGST SUMMARY oO\nTaxCode = =% Amt(RM) = Tax (RM)\nSR 6 94.50 567\nTotal 94.50 5.67\n| ‘GOODS SOLD ARE NOT RETURNABLE nancrod"
+  }
+}

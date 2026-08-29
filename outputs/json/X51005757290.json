@@ -1,0 +1,37 @@
+{
+  "store_name": {
+    "value": "MR. D.I.Y. M SON BHD",
+    "confidence": 0.698,
+    "status": "low"
+  },
+  "date": {
+    "value": "2018-03-17",
+    "confidence": 0.838,
+    "status": "medium"
+  },
+  "items": [],
+  "total_amount": {
+    "value": 42.9,
+    "confidence": 0.845,
+    "status": "medium"
+  },
+  "reliability": {
+    "low_confidence_fields": [
+      "store_name",
+      "items"
+    ],
+    "requires_manual_review": true
+  },
+  "_debug": {
+    "total_line": "Total Incl. GSTé6% RM 42.90",
+    "line_count": 30,
+    "ocr_confidence": 0.773
+  },
+  "source_file": "X51005757290.jpg",
+  "ocr": {
+    "confidence": 0.773,
+    "preprocessing_variant": "enhanced",
+    "deskew_angle": 0.0,
+    "raw_text": "CS\n31803040\nMR. D.I.Y. (M) SON BHD\n(CO.REG :860671-D)\nLOT 1851-A & 1851-B, JALAN KPB 6,\nKAWASAN PERINDUSTRIAN BALAKONG,\n43300 SERI KEMBANGAN, SELANGOR\n(GST ID No :000306020352)\n(TOT PUCHONG)\n-TAX INVOICE-\nSTUDENT SOCKS 3PCS BK #8\nJH61 = 4/200\n9034915 1X 9.50 9.50\nBELT 5202-3##VS #8\nQI31 = 12/480\n9034870 1 X 22.90 22.90\nPVC MAN PPER 969 (BK) #8\nWASB =\n9555590500184 1X 10.50 10.50\nItem(s) : 3 Qty(s) : 3\nTotal Incl. GSTé6% RM 42.90\nCASH RH 50.00\nCHANGE RM 7.10\nGST @6% included in total RM 2.43\nRenna nena anna nnn nanan nnn --t\n17-03-18 14:49 SHO1 ZJ86 11 R000110133\nOPERATOR TRAINEE CASHIER\nEXCHANGE ARE ALLOWED) WITHIN\n7_DAY WITH RECEIPT.\nSTRICTLY NO CASH) REFUND."
+  }
+}

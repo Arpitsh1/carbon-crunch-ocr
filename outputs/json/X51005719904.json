@@ -1,0 +1,38 @@
+{
+  "store_name": {
+    "value": "Yem Fresh",
+    "confidence": 0.616,
+    "status": "low"
+  },
+  "date": {
+    "value": "2018-03-16",
+    "confidence": 0.784,
+    "status": "medium"
+  },
+  "items": [],
+  "total_amount": {
+    "value": null,
+    "confidence": 0.0,
+    "status": "low"
+  },
+  "reliability": {
+    "low_confidence_fields": [
+      "store_name",
+      "total_amount",
+      "items"
+    ],
+    "requires_manual_review": true
+  },
+  "_debug": {
+    "total_line": null,
+    "line_count": 29,
+    "ocr_confidence": 0.69
+  },
+  "source_file": "X51005719904.jpg",
+  "ocr": {
+    "confidence": 0.69,
+    "preprocessing_variant": "enhanced",
+    "deskew_angle": 0.0,
+    "raw_text": ".\nYem Fresh\nNo, 1456, Jalan Rimbunan Raya 1\nLaman Rimbunan Kepong,\n$2100 Kuala Lumpur\nTel: (603) 6243 5520\nGST 1D=001817907200\ne111 .: 001-3246 bine In\nDate: 2018-03-16 13:18:48\nROS Oyster Mee 1 RM9.90\nsTake Away\nAQT BlackSugar Ice 1 RM7.50\nFresh Milk\n:Pear)\n| Herb.J RH3.00\nsTake Away\n‘$02 Pudding Soybean 1 RMB.90\nsTake Away\nGrand Total 29 . 30\n(B111 Inclusive of 6% GST . RM1.66)\nCash R30. 30\nChange RM1.00\nThank You.\nPlease visit us at:\nFacebook :-Yam Fresh\ns\nWiff SSID: yanfresh\nWifi Pasword: buyadrinkfirst\nO01-2018-03-18 19:21:02 Rainny 001-3246 1"
+  }
+}

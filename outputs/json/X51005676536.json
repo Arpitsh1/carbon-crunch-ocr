@@ -1,0 +1,36 @@
+{
+  "store_name": {
+    "value": "2 1Q Ol OF",
+    "confidence": 0.714,
+    "status": "medium"
+  },
+  "date": {
+    "value": "2018-01-02",
+    "confidence": 0.829,
+    "status": "medium"
+  },
+  "items": [],
+  "total_amount": {
+    "value": 5.27,
+    "confidence": 0.773,
+    "status": "medium"
+  },
+  "reliability": {
+    "low_confidence_fields": [
+      "items"
+    ],
+    "requires_manual_review": true
+  },
+  "_debug": {
+    "total_line": "Total : 87.80 5.27 |",
+    "line_count": 32,
+    "ocr_confidence": 0.759
+  },
+  "source_file": "X51005676536.jpg",
+  "ocr": {
+    "confidence": 0.759,
+    "preprocessing_variant": "enhanced",
+    "deskew_angle": 0.0,
+    "raw_text": "2 1Q Ol OF\nSYARIKAT PERNIAGAAN GIN KEE\n(81109-A)\nNO 290, JALAN AIR PANAS,\nSETAPAK,\n53200, KUALA LUMPUR,\nTEL 03-40210276\nGST ID 000750673920\n‘SIMPLIFIED TAX INVOICE\nCASH\nDoc No CS00012507 Date: 02/01/2018\nCashier USER Time: 16:58:00\nSalesperson Ref\ntem Qty SiPrice Amount Tax\n1811 1 13.67 1357 SR\n82x33\n1042 4 18.65 7420 SR\n7' ¥ 35% CORRUGATED ROOFING SHEET\n1921 1 6.30 530 SR\nNAIL (PER/PACK) - RMS\n——“Toialay «6 ~SSSSSSSCSCSOT\nTotal Sales (Excluding GST) 87.80\nDiscount 0.00\nTotal GST 6.27\nRounding 0.00\nTotal Sales (Inclusive of GST) : 93.07\nCASH : 93.07\nChange 0.00\nGST SUMMARY\nTaxCodo = % «© AmL(RM) Tax (RM)\nSR 6 87 80 5.27\nTotal : 87.80 5.27 |"
+  }
+}

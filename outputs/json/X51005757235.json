@@ -1,0 +1,36 @@
+{
+  "store_name": {
+    "value": "AEON CO. M BHD 126926-H",
+    "confidence": 0.788,
+    "status": "medium"
+  },
+  "date": {
+    "value": "2018-03-09",
+    "confidence": 0.805,
+    "status": "medium"
+  },
+  "items": [],
+  "total_amount": {
+    "value": 1.16,
+    "confidence": 0.749,
+    "status": "medium"
+  },
+  "reliability": {
+    "low_confidence_fields": [
+      "items"
+    ],
+    "requires_manual_review": true
+  },
+  "_debug": {
+    "total_line": "Total 2.24 1.16",
+    "line_count": 31,
+    "ocr_confidence": 0.722
+  },
+  "source_file": "X51005757235.jpg",
+  "ocr": {
+    "confidence": 0.722,
+    "preprocessing_variant": "enhanced",
+    "deskew_angle": 2.54,
+    "raw_text": "1001+\nAEON CO. (M) BHD (126926-H)\n9R0 FLR, AEON TAMAN MALURI SC\nSUN JEJAKA, TAMAN WALURT\nCHERAS, 95100 KUALA LUMPUR\nGST 1D ; 002017394688\nSHOPPING HOURS\nSUN-THU: 1000) HRS ~ 2200 HRS\nFRI-SAT: 1000 HRS = 7300 HRS\nVALUED CUSTOMER: 1370001392\n1x 00002781709 15.505R\nAIO ZIP POWOER\nyx 000002781709 15.508R\nBIO ZIP PONDER\nSub total 31.00\nTotal Sales Incl GST 31.60\nTotal After Adj Incl 6ST 37.00\nCASH 50.00\nTtem Count 2 Change Ant 19.00\nTnvoice No: 2018030910080010555\nGST Sumaary, Anount Tax\nSR @ 6% 29.24 1.16\nTotal 2.24 1.16\n09/03/2018 18:54 1008 061 0010555\n0305101 HALINA\nAEON BANOAR PUCHONG\nTEL 1-300-80-AEON (2366)\nTHANK YOU) FOR) YOUR PATRONAGE\nPLEASE COME AGAIN\ngaunt en\nVOL"
+  }
+}

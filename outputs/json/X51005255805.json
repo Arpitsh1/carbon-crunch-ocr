@@ -1,0 +1,37 @@
+{
+  "store_name": {
+    "value": "SAM SAM TRADING CO",
+    "confidence": 0.698,
+    "status": "low"
+  },
+  "date": {
+    "value": "2017-12-29",
+    "confidence": 0.771,
+    "status": "medium"
+  },
+  "items": [],
+  "total_amount": {
+    "value": 14.1,
+    "confidence": 0.715,
+    "status": "medium"
+  },
+  "reliability": {
+    "low_confidence_fields": [
+      "store_name",
+      "items"
+    ],
+    "requires_manual_review": true
+  },
+  "_debug": {
+    "total_line": "TOTAL RM 14.10",
+    "line_count": 28,
+    "ocr_confidence": 0.67
+  },
+  "source_file": "X51005255805.jpg",
+  "ocr": {
+    "confidence": 0.67,
+    "preprocessing_variant": "enhanced",
+    "deskew_angle": -0.66,
+    "raw_text": "SAM SAM TRADING CO\n(742016-4)\n67,JLN HEWAH 25/63 THN SRI HUDA,\n40400 SHAH ALAM.\nTEL/FAX : 03-51213881\nGST NOs 001006288896\nTAK INVOICE -\nHE £06 UNICORN TWIN SUPER GLUE Us6-99-\n9557368063013 1X 5,20 5.20 §\nSS EZL Ad CYBER MIX COLOR PAPER 100758\n208 1X 8.90 8.905\nNo, Gtyss 2 No. Teens: 2\nTAX ANT (8) 6% RM 13.30\n657 62 RH 0.80\nTAK ANT (2) OL RM 0.00\n657 OZ Ri 0.00\nTAX ANT (E) 6% RA 0.00\nEXC OST 4x RH 0.00\nTOTAL RM 14.10\nASH RM 20.00\nCHANGE RM 5.90\naha!\nTHANK YOU FOR SHOPPING\n| GOODS SOLD ARE NOT RETURNABLE,\n| Frid, 29-12-2017 Tine + 20:17\nCas, 7 SAN SAH\nWS SMH OL InvsROOD72I136\n—————e"
+  }
+}

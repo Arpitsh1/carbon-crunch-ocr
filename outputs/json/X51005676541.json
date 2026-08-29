@@ -1,0 +1,37 @@
+{
+  "store_name": {
+    "value": "SYARIKAT PERNIAGAAN GIN KEE",
+    "confidence": 0.681,
+    "status": "low"
+  },
+  "date": {
+    "value": "2018-01-03",
+    "confidence": 0.821,
+    "status": "medium"
+  },
+  "items": [],
+  "total_amount": {
+    "value": 5.37,
+    "confidence": 0.765,
+    "status": "medium"
+  },
+  "reliability": {
+    "low_confidence_fields": [
+      "store_name",
+      "items"
+    ],
+    "requires_manual_review": true
+  },
+  "_debug": {
+    "total_line": "Total : 89.50 5.37) 7",
+    "line_count": 37,
+    "ocr_confidence": 0.746
+  },
+  "source_file": "X51005676541.jpg",
+  "ocr": {
+    "confidence": 0.746,
+    "preprocessing_variant": "enhanced",
+    "deskew_angle": 0.0,
+    "raw_text": ". ee\n2 WOOF ie\nSYARIKAT PERNIAGAAN GIN KEE\n(81109-A)\nNO 290, JALAN AIR PANAS.\nSETAPAK,\n$3200, KUALA LUMPUR.\nTEL 03-40210276\nGST ID 000750673920\nSIMPLIFIED TAX INVOICE\nCASH —CSCSCi~s™S —\nDoc No CS00012514 = Date: _ 03/01/2018\nCashier USER Time: 10:37:00\nSalesperson Ref.\nttem Qty SiPrice Amount Tax\n1938 2 689 1378 SR\n4\" ROLLER SET\n1618 4 40.28 4028 SR\nTLT TO 3 EMULSION PAINT\n2430 2 18.02 3604 SR\nCEMEN | (50KG)\n2225 1 477 477 SR\nPLASTIC TRAP (L)\n~~ Totaay 6 9487\nTota! Sales (Excluding GST) 89.60\nDiscount 0.00\nTotal GST 5.37\nRounding 0.00\nTotal Sales (Inclusive of GST) : 94.87\nCASH : 94.87\nChange : 0.00\nGST SUMMARY\nTaxCode = % = AmL(RM) Tax (RM)\nSR 6 89.50 5.37\nTotal : 89.50 5.37) 7\nGOODS SOLD ARE NOT RETURNABLE, THANK YOU\nwe"
+  }
+}

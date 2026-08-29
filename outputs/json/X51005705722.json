@@ -1,0 +1,36 @@
+{
+  "store_name": {
+    "value": "ASO ELECTRICAL TRADING SDN BHD",
+    "confidence": 0.703,
+    "status": "medium"
+  },
+  "date": {
+    "value": "2017-09-27",
+    "confidence": 0.776,
+    "status": "medium"
+  },
+  "items": [],
+  "total_amount": {
+    "value": 248.05,
+    "confidence": 0.72,
+    "status": "medium"
+  },
+  "reliability": {
+    "low_confidence_fields": [
+      "items"
+    ],
+    "requires_manual_review": true
+  },
+  "_debug": {
+    "total_line": "Total : 248.05",
+    "line_count": 30,
+    "ocr_confidence": 0.678
+  },
+  "source_file": "X51005705722.jpg",
+  "ocr": {
+    "confidence": 0.678,
+    "preprocessing_variant": "gray",
+    "deskew_angle": -0.48,
+    "raw_text": "ASO ELECTRICAL TRADING SDN BHD\n1000131-K\nNO 31G, JALAN SEPADU C 26/0,\nSECTION 26, TAMAN INDUSTRIES,\n‘AXIS 40400 SHAH ALAM, SELANGOR,\nTEL: 03-61221701, 51313091 FAX: 03-61216716\nGST NO : 000683900928\nTAX INVOICE\nUk es\n“Receipt; CS00067400 ate: 27/09/2017\nSalesperson:\n‘Cashier: USER WATS TESIED\nee\ntom Qty RSP RSP_Amount_\n107636 378006268 24804\nSR: HAGER TIMER, 24HRS POWER RESERVE\nSeeeTOGasScs 5 OT\n(Excluded GST) Sub Total 234.00\nDiscount 0.00\nTotal GST 14.04\nRounding : 0.01\nTotal : 248.05\nCASH : 248.05\nChange : 0.00\nGST SUMMARY\nTaxCode _% ___Amount__—_—a@sT.\nSR 6 234.00 14.04\neaeanicn, otal: avon: 204.00). 14.08.\nGOODS SOLD ARE NOT RETURNABLE,\nTHANKYOU."
+  }
+}

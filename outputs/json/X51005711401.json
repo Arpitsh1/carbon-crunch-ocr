@@ -1,0 +1,47 @@
+{
+  "store_name": {
+    "value": "RESTORAN WAN SHENG",
+    "confidence": 0.769,
+    "status": "medium"
+  },
+  "date": {
+    "value": "2018-03-19",
+    "confidence": 0.884,
+    "status": "high"
+  },
+  "items": [
+    {
+      "name": "Milo (B) SR",
+      "price": 6.6,
+      "confidence": 0.834
+    },
+    {
+      "name": "Take Away SR",
+      "price": 0.4,
+      "confidence": 0.834
+    }
+  ],
+  "total_amount": {
+    "value": null,
+    "confidence": 0.0,
+    "status": "low"
+  },
+  "reliability": {
+    "low_confidence_fields": [
+      "total_amount"
+    ],
+    "requires_manual_review": true
+  },
+  "_debug": {
+    "total_line": null,
+    "line_count": 23,
+    "ocr_confidence": 0.843
+  },
+  "source_file": "X51005711401.jpg",
+  "ocr": {
+    "confidence": 0.843,
+    "preprocessing_variant": "enhanced",
+    "deskew_angle": 0.0,
+    "raw_text": "RESTORAN WAN SHENG\n' 002043319-H\nNo.2, Jalan Temenggung 19/9,\nSeksyen 9, Bandar Mahkota Cheras,\n43200 Cheras, Selangor\nGST REG NO: 001335787520\nTax Invoice\nINV No. 1063110 Cashier: Thandar\nDate : 19-03-2018 18:08:38\nDescription Qty U.price Total TAX\nMilo (B)\n2x 2.80 6.60 SR\nTake Away\n2x 0.20 0.40 SR\nTotal QTY: 4\n| Total (Excluding GST): 5. 66\nGST payable (6%) : 0.34\n| Total (Inclusive of GST): 6.00\nTOTAL: 6. 0O\nCASH : 6.00\nGST Summary Amount (RM) Tax(RM)\nSR (@ 6%) 5.66 0.34\n4"
+  }
+}

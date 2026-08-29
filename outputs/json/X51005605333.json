@@ -1,0 +1,40 @@
+{
+  "store_name": {
+    "value": "POPULAR BOOK",
+    "confidence": 0.807,
+    "status": "medium"
+  },
+  "date": {
+    "value": "2018-01-07",
+    "confidence": 0.796,
+    "status": "medium"
+  },
+  "items": [
+    {
+      "name": "70g P.Copy 450°S Spe @ T",
+      "price": 44.07,
+      "confidence": 0.753
+    }
+  ],
+  "total_amount": {
+    "value": 9.6,
+    "confidence": 0.74,
+    "status": "medium"
+  },
+  "reliability": {
+    "low_confidence_fields": [],
+    "requires_manual_review": false
+  },
+  "_debug": {
+    "total_line": "Total Savings 9.60",
+    "line_count": 30,
+    "ocr_confidence": 0.708
+  },
+  "source_file": "X51005605333.jpg",
+  "ocr": {
+    "confidence": 0.708,
+    "preprocessing_variant": "enhanced",
+    "deskew_angle": -0.39,
+    "raw_text": "POPULAR BOOK.\n) (0. (M) SDN BHD\n(Company No. 113825-14)\n(G5T Reg No. 001472992000)\nNo 8, Jalan 7/1188, Desa Tun Razak\n56000 Kuala Lumpur, Halaysia\nKL FESTIVAL CITY MALL\n~\nTel : 03-41424540/20\n07/01/18 14:41 Slip No.s 7010385004\nNorhasmida Trans: 354810\nDescription Amount\n70g P.Copy 450°S\nSpe @ 13.67 44.07 T\nStat-Great Saving 9.60\n» Total RM Incl. of 6ST 31.47\nRounding Adj 0.02\nTotal Ri 31.45\nCash 50.00\nCHANGE 18.5\nTtea_ Count 3\n6ST “mary Amount (RH) Tax (RH)\nTRS 29.89 1.78\nTotal Savings 9.60\nBE A POPULAR CARD MEMBER\nAND ENJOY SPECIAL DISCOUNTS\nTHANK YOU. PLEASE COME AGAIN.\nww. popular Com .tiy\nBuy Chinese books online\nwow popularonline.com.my"
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "store_name": {
+    "value": "MR. D.I.Y. SON BHD",
+    "confidence": 0.733,
+    "status": "medium"
+  },
+  "date": {
+    "value": "2017-10-18",
+    "confidence": 0.849,
+    "status": "medium"
+  },
+  "items": [],
+  "total_amount": {
+    "value": 5.9,
+    "confidence": 0.856,
+    "status": "high"
+  },
+  "reliability": {
+    "low_confidence_fields": [
+      "items"
+    ],
+    "requires_manual_review": true
+  },
+  "_debug": {
+    "total_line": "Total Incl. GSTé6x RH 5.90",
+    "line_count": 23,
+    "ocr_confidence": 0.789
+  },
+  "source_file": "X51005568899.jpg",
+  "ocr": {
+    "confidence": 0.789,
+    "preprocessing_variant": "enhanced",
+    "deskew_angle": 0.0,
+    "raw_text": "MR. D.I.Y. SON BHD\n(CO.REG :704427-T )\nLOT 1851-A & 1851-B, JALAN KPB 6,\nKAWASAN PERINDUSTRIAN BALAKONG ,\n43300 SERI KEMBANGAN, SELANGOR\n(GST ID No :001092886528)\n(CHERAS LEISURE MALL)\nTAX INVOICE-\n| CLOTH PEG E-140 #8\nWA3B - 6/60\n9555112901406 1X 5.90 56.90\nItem(s) : 1 Qty(s) : 1\nTotal Incl. GSTé6x RH 5.90\nCASH RM 5.90\nGST Summary Amt(RM) = Tax(RM)\nGST S@6x 5.57 0.33\n$--------------------------------------#\n18-10-17 15:16 SHO1 ZT03 13 RO00000163\nOPERATOR GCHT - NOR MASLIZA\nEXCHANGE ARE ALLOWED WITHIN\n7 DAYS WITH RECEIPT.\nSTRICTLY NO CASH REFUND,\nes"
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "store_name": {
+    "value": "AEON CO. M BHD 126926-H",
+    "confidence": 0.855,
+    "status": "high"
+  },
+  "date": {
+    "value": "2018-02-19",
+    "confidence": 0.848,
+    "status": "medium"
+  },
+  "items": [],
+  "total_amount": {
+    "value": 0.99,
+    "confidence": 0.792,
+    "status": "medium"
+  },
+  "reliability": {
+    "low_confidence_fields": [
+      "items"
+    ],
+    "requires_manual_review": true
+  },
+  "_debug": {
+    "total_line": "Total 16.71 0.99",
+    "line_count": 29,
+    "ocr_confidence": 0.788
+  },
+  "source_file": "X51005447860.jpg",
+  "ocr": {
+    "confidence": 0.788,
+    "preprocessing_variant": "gray",
+    "deskew_angle": 0.0,
+    "raw_text": "AEON CO. (M) BHD (126926-H)\nSRD FLR, AEON TAMAN MALURT SC\nJLN JEJAKA, TAMAN MALURI\nCHERAS, 55100 KUALA LUMPUR\nGST ID : 002017394688\n“SHOPPING HOURS\n| MON-SUN: 1000 HRS - 2200 HRS\n1x 000004089728 5.905R\nSAKUMASHIK [DROP\n1x 000007572029 5.908R\nBINDER CLIP -BL\ntx 000006751878 5.90SR\nTSOVEN CAR NECK\nSub-total 17.70\nTotal Sales Incl GST 17,70\nTotal After Adj Incl GST 7.10\nCASH 50.70\n{tea Count 3 Change Ant 33,00\nInvoice No: 2018021951320026157\nGST Sunmary Amount Tax\nFSR 6 BY 16.71 0,98\nTotal 16.71 0.99\n19/02/2018 16:45 5132 002 6026157\n0293605 SHIVANESWARY A/P MANY\nDAISO SUNNAY VELOCITY\nTEL 1-300-86-AEON (2366)\nTHANK YOU FOR YOUR PATRONAGE\nPLEASE COME AGAIN\nNAMM EA"
+  }
+}

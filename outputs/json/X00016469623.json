@@ -1,0 +1,37 @@
+{
+  "store_name": {
+    "value": "TESCO PUTRA NILAI",
+    "confidence": 0.684,
+    "status": "low"
+  },
+  "date": {
+    "value": "2018-11-18",
+    "confidence": 0.764,
+    "status": "medium"
+  },
+  "items": [],
+  "total_amount": {
+    "value": 30.9,
+    "confidence": 0.708,
+    "status": "medium"
+  },
+  "reliability": {
+    "low_confidence_fields": [
+      "store_name",
+      "items"
+    ],
+    "requires_manual_review": true
+  },
+  "_debug": {
+    "total_line": "TOTAL ROUNDED RM 30.90",
+    "line_count": 35,
+    "ocr_confidence": 0.659
+  },
+  "source_file": "X00016469623.jpg",
+  "ocr": {
+    "confidence": 0.659,
+    "preprocessing_variant": "gray",
+    "deskew_angle": 0.21,
+    "raw_text": "tan woon yann\nMR OO.T.¥. (M) SON BHD\n(CO.REG : 86Q67)-D)\n101 125)-A & 1051-B, JALAN KPB 6,\nKAWASAN PERINDUSTRIAN BALAKONG ,\n43300 SERT KEMBANGAN, SELANGOR\n(TESCO PUTRA NILAI)\nINVOICE-\nRELA AUTO ECO WASH & SHINE ES1000 11\nWAS -/2A = 12\n965916500133 1.)\nKILAT’ ECO AUTO WASH &HAX EW-1000-11\nWASS-A - 12\nG59 16500126 1X 4.62 4.62\nWo40 2771 MOQ 2572\nWAIG-A ~ 24\n079587600084 1X 11,23 11.23\nKLEENSO AJAIB 99 SERAI WANYI $008\nW000 = 15\n9555651400385 1X 7.45 7.45\nHANDKERCHIEF 7138682PCS\nPL2PUT1 4 ~ 6/300\n9090822 1X 4.50 4.50\nItem(s) : 6 Oty(s) : 5\nTotal RM 30.91\nROUNDING ADJUSTMEN] ‘ RN 0.01\nTOTAL ROUNDED RM 30.90\nCASH RM 51.00\nCHANGE RH 20.10\n+ +\n18-11-18 15:58 SHOI 2153 12 RoD0002902\nOPERATOR TRAINEE CASHTER\nEXCHANGE ARE ALLOWED WITHIN\n7 DAYS WITH RECEIPT,\nSTRICTLY NO CASH REFUND."
+  }
+}

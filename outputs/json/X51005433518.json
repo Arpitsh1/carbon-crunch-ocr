@@ -1,0 +1,39 @@
+{
+  "store_name": {
+    "value": "Arznag",
+    "confidence": 0.343,
+    "status": "low"
+  },
+  "date": {
+    "value": null,
+    "confidence": 0.0,
+    "status": "low"
+  },
+  "items": [],
+  "total_amount": {
+    "value": null,
+    "confidence": 0.0,
+    "status": "low"
+  },
+  "reliability": {
+    "low_confidence_fields": [
+      "store_name",
+      "date",
+      "total_amount",
+      "items"
+    ],
+    "requires_manual_review": true
+  },
+  "_debug": {
+    "total_line": null,
+    "line_count": 12,
+    "ocr_confidence": 0.231
+  },
+  "source_file": "X51005433518.jpg",
+  "ocr": {
+    "confidence": 0.231,
+    "preprocessing_variant": "enhanced",
+    "deskew_angle": -8.7,
+    "raw_text": "Arznag\nro ou,\nan\n=\noS\nSee\n=\n— ao\n=. *\nSorel\nSo\netna"
+  }
+}

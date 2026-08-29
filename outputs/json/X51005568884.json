@@ -1,0 +1,36 @@
+{
+  "store_name": {
+    "value": "MR. D.I.Y. SDN BHD",
+    "confidence": 0.763,
+    "status": "medium"
+  },
+  "date": {
+    "value": "2017-11-24",
+    "confidence": 0.836,
+    "status": "medium"
+  },
+  "items": [],
+  "total_amount": {
+    "value": 3.9,
+    "confidence": 0.843,
+    "status": "medium"
+  },
+  "reliability": {
+    "low_confidence_fields": [
+      "items"
+    ],
+    "requires_manual_review": true
+  },
+  "_debug": {
+    "total_line": "Total Incl. GST@6% RM 3.90",
+    "line_count": 23,
+    "ocr_confidence": 0.77
+  },
+  "source_file": "X51005568884.jpg",
+  "ocr": {
+    "confidence": 0.77,
+    "preprocessing_variant": "enhanced",
+    "deskew_angle": 0.0,
+    "raw_text": "MR. D.I.Y. SDN BHD\n(CO.REG :704427-T )\nLOT 1951-A & 1851-B, JALAN KPB 6,\nKAWASAN PERINDUSTRIAN BALAKONG,\n43300 SERI KEMBANGAN, SELANGOR\n(GST ID No 001092886528)\n(CHERAS LEISURE MALL)\nTAX INVOICE-\nBATTERY KU3 4B AAA 4 PCS #8\nMCI2 12; 144\n9021997 1X 3.90 3,90\nItem(s) : 1 Qty(s) : 1\nTotal Incl. GST@6% RM 3.90\nCASH RM 4,00\nCHANGE RM 0.10\nGST Summary Amt(RM) — Tax(RM)\nGST S@6x 3.68 0.22\n$--------------------------------------#\n24-11-17 13:11 SHO1 2709 12 ROODO11248\nOPERATOR TRAINEE CASHIER\nEXCHANGE ARE ALLOWED WITHIN\n7 DAYS WITH RECEIPT,\nSTRICTLY NO CASH REFUND."
+  }
+}

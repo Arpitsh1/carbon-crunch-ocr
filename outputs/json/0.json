@@ -1,0 +1,39 @@
+{
+  "store_name": {
+    "value": "WAL MART",
+    "confidence": 0.695,
+    "status": "low"
+  },
+  "date": {
+    "value": null,
+    "confidence": 0.0,
+    "status": "low"
+  },
+  "items": [],
+  "total_amount": {
+    "value": null,
+    "confidence": 0.0,
+    "status": "low"
+  },
+  "reliability": {
+    "low_confidence_fields": [
+      "store_name",
+      "date",
+      "total_amount",
+      "items"
+    ],
+    "requires_manual_review": true
+  },
+  "_debug": {
+    "total_line": null,
+    "line_count": 13,
+    "ocr_confidence": 0.666
+  },
+  "source_file": "0.jpg",
+  "ocr": {
+    "confidence": 0.666,
+    "preprocessing_variant": "enhanced",
+    "deskew_angle": 0.0,
+    "raw_text": "WAL*MART\nALWAYS LOW PRICES.\nAsie\n‘SUPERCENTER\n24 HOURS\nsti\nyy, TOTAL 5.11\na ae]\n# ITEMS SOLD 2\nTC# 5679 8948 6485 7808 2003\nini iio\n¢ *\na a"
+  }
+}

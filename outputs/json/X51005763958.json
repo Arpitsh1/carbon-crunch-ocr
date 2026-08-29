@@ -1,0 +1,36 @@
+{
+  "store_name": {
+    "value": "SUPER SEVEN CASH & CaRRY SON BHD",
+    "confidence": 0.835,
+    "status": "medium"
+  },
+  "date": {
+    "value": "2018-01-27",
+    "confidence": 0.828,
+    "status": "medium"
+  },
+  "items": [],
+  "total_amount": {
+    "value": 9.0,
+    "confidence": 0.835,
+    "status": "medium"
+  },
+  "reliability": {
+    "low_confidence_fields": [
+      "items"
+    ],
+    "requires_manual_review": true
+  },
+  "_debug": {
+    "total_line": "Net Total RHS9.00 (A",
+    "line_count": 32,
+    "ocr_confidence": 0.757
+  },
+  "source_file": "X51005763958.jpg",
+  "ocr": {
+    "confidence": 0.757,
+    "preprocessing_variant": "enhanced",
+    "deskew_angle": -0.76,
+    "raw_text": "SUPER SEVEN CASH & CaRRY SON BHD\n(590150-a\nPASARAYA EORONG SUPER SEVEN\nNO. 1 Jalen Euro 1 (\nOff Jalan Batu Tiga\nSungai Buloh Seksyen U3 Shah Alam, 40150\nhttp: //m.suzer7.com ay\nTEL : 03-78599861\nFAX : 03-78599864\nGST ID : (0063909068@\nTAX INVOICE\nCustomer ; [77853745]\nMes. ONG (UAT CHYE\nTAX INVOICE NJ : 152164 COUNTER :006\nOPERATOR : (NU3UL FATEHA BT MOHD-ASST SUPERVISOR]\n27-01-2018 04:32:13 PM\n(RH)\nAX KACANGOORENG 3008 €5.90\n955662400140 #10 59.00 SR\nQUANTITY : 10 Units\nTotal Sales (Incl. GST 66%) RNS9.00\nRounding Adjustment RMO.00\nNet Total RHS9.00 (A\nPayment Method VISA CARD\nGST Sunmery Sales amt Tax Amt\n(RM) (RM) Jf\nSR (6%) 55.66 3.34\nZR (Ok) 0.00 0.00\nPLEASE VERIFY YOUR RECEIPT\nBEFORE LEAVIN THE COUNTER,\nGOODS SOL ARE NOT RETURNABLE,\nTHANK YOU"
+  }
+}

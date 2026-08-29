@@ -1,0 +1,39 @@
+{
+  "store_name": {
+    "value": "Teavessstanere ms",
+    "confidence": 0.325,
+    "status": "low"
+  },
+  "date": {
+    "value": null,
+    "confidence": 0.0,
+    "status": "low"
+  },
+  "items": [],
+  "total_amount": {
+    "value": null,
+    "confidence": 0.0,
+    "status": "low"
+  },
+  "reliability": {
+    "low_confidence_fields": [
+      "store_name",
+      "date",
+      "total_amount",
+      "items"
+    ],
+    "requires_manual_review": true
+  },
+  "_debug": {
+    "total_line": null,
+    "line_count": 9,
+    "ocr_confidence": 0.204
+  },
+  "source_file": "X51005361897.jpg",
+  "ocr": {
+    "confidence": 0.204,
+    "preprocessing_variant": "adaptive",
+    "deskew_angle": 0.0,
+    "raw_text": "Teavessstanere ms\na\nos\nee\n— =\nEE mani\n—___*_\nom ST\n‘afoeettnoa ng"
+  }
+}

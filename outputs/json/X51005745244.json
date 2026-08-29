@@ -1,0 +1,36 @@
+{
+  "store_name": {
+    "value": "URBAN IDEA SON BHD 417940-M",
+    "confidence": 0.701,
+    "status": "medium"
+  },
+  "date": {
+    "value": "2018-02-14",
+    "confidence": 0.841,
+    "status": "medium"
+  },
+  "items": [],
+  "total_amount": {
+    "value": 11.9,
+    "confidence": 0.785,
+    "status": "medium"
+  },
+  "reliability": {
+    "low_confidence_fields": [
+      "items"
+    ],
+    "requires_manual_review": true
+  },
+  "_debug": {
+    "total_line": "Total (Fat In) RM11.90",
+    "line_count": 23,
+    "ocr_confidence": 0.777
+  },
+  "source_file": "X51005745244.jpg",
+  "ocr": {
+    "confidence": 0.777,
+    "preprocessing_variant": "gray",
+    "deskew_angle": -0.99,
+    "raw_text": "Subway#42210-0 Phone 03-78870693\nURBAN IDEA SON BHD (417940-M),\nA-G-06, DATARAN GLOMAC,\nJALAN SS6/SA, PUSAT BANDAR KELANA JAYA,\n47301 PETALING JAVA, SELANGOR, Malaysia\nServed by: JOSEPH 14/02/2018 11:13:31\nTax Tnvoice# 1/A-42210- 138075\nGST ID: 600220499968\nQty Size tem Price\n1 (MY) EDV Meal RM11.90\n6\" -Meatbal) Sub\n~!602 Fountain Drink\n“1 Cockies\nTotal (Fat In) RM11.90\nCash \\\\ 5 RH11.90\nChange - RMO.00\nTax Info:\nGST 6% (6%) RMO.67\nTotal-€xcl-GST RMI1.23\nTake our 1 Minute Survey at a\nwww.telIsubWay.my and get a TREE COOKTE\nwith next purchase Redemption of 1\ncookie per transaction"
+  }
+}

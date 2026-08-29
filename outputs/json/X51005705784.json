@@ -1,0 +1,39 @@
+{
+  "store_name": {
+    "value": "EDAI BUKU NEW ACHEIVERS 1s",
+    "confidence": 0.583,
+    "status": "low"
+  },
+  "date": {
+    "value": null,
+    "confidence": 0.0,
+    "status": "low"
+  },
+  "items": [],
+  "total_amount": {
+    "value": 45.28,
+    "confidence": 0.667,
+    "status": "low"
+  },
+  "reliability": {
+    "low_confidence_fields": [
+      "store_name",
+      "date",
+      "total_amount",
+      "items"
+    ],
+    "requires_manual_review": true
+  },
+  "_debug": {
+    "total_line": "Total: 45.28 272",
+    "line_count": 44,
+    "ocr_confidence": 0.595
+  },
+  "source_file": "X51005705784.jpg",
+  "ocr": {
+    "confidence": 0.595,
+    "preprocessing_variant": "gray",
+    "deskew_angle": 0.0,
+    "raw_text": "| =\n— (EDAI BUKU NEW ACHEIVERS 1s\nfe) (CO NO. SA0345444-K) ie\n| NO. 12.8 14, JALAN JINIANG 27/54 3\nTAMAN ALAM MEGAH, SEKSYEN 27 &\n40400 SHAH ALAM, SELANGOR D.E. * ys\n* TEL :603-51910643 FAX : 603-51910643 S\nGST NO : 001729572864 gE\n“al iB\nFULL TAX INVOICE Es\ni 2\n3# 0500294436 1\nderson: ate: 151092017\nae USER) Time: 10:22:00 EI\n(esr) (est)\nQty RsP___RSP__Amount\n020 332033808\n(ON ENVOLOPE 4X9 WINDOW 20.5 e|\n12363087 3 «3.80 = 4.03 17.08\n3 SEASONSHARD COVER BOOK 3007 =\n70446287 1 «790 = 837.\nP RWT HARDCOVER FOOLSCAP 300,S 26138\n1300514 32.79 2.69 eee iB\n(© SHARPIE FINE PERMANENT MARKER ig\njsoos? 3273200 ae IE\n(© SHARPIE FINE PERMANENT MARKER |B\niereingé WR\nis)\n(Excluded GST) Sub Total 4528\n| Discount: 0.00 A\n\\ Total GST : 2\nRounding : 0.00 fA\nTotal: 48.00\nCASH: 48.00\nChange : 0.00\nee ee\n; %\nSUMMARY a\n©\nCode th Amount cst fe\n6 46.28 272 a\nTotal: 45.28 272\nGOODS SOLD ARE NOT RETURNABLE,\nTHANK YOU."
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "store_name": {
+    "value": "PETRODELT ENIERPRISE",
+    "confidence": 0.73,
+    "status": "medium"
+  },
+  "date": {
+    "value": "2018-02-26",
+    "confidence": 0.846,
+    "status": "medium"
+  },
+  "items": [],
+  "total_amount": {
+    "value": null,
+    "confidence": 0.0,
+    "status": "low"
+  },
+  "reliability": {
+    "low_confidence_fields": [
+      "total_amount",
+      "items"
+    ],
+    "requires_manual_review": true
+  },
+  "_debug": {
+    "total_line": null,
+    "line_count": 27,
+    "ocr_confidence": 0.784
+  },
+  "source_file": "X51005447832.jpg",
+  "ocr": {
+    "confidence": 0.784,
+    "preprocessing_variant": "enhanced",
+    "deskew_angle": 0.0,
+    "raw_text": "PETRODELT ENIERPRISE\nfonnany No SA0127959-0\nSite 2395\nLOT 485 TNN LEMBAH KERANAT\nJLN ULU KELANG\n54200 KUALA LUMPUR\nperepnons 03- 41056485\nGST No 000145047552\nInvoice number 60000152273\n39 42 litre Punp # 09\nFuelSave 95 Rn 85 54 C |\n2170 RM / litre |\nTotal RN 85 54\nVisa RH 85 54\nRelief GST CRN 0 00\nTotal Gross CRN 85 54\nShell boyaley Card\n6018840059147765\nPoints Awarded 39\nDate Tine Nun OPT\n26/02/18 08 28 10886 09\n|\nDiesel & Petrol RON95\npiven Relief under Section\n| 6 (3) (b) GST Act 2014\n— Thank you\n| Please come again"
+  }
+}

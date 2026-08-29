@@ -1,0 +1,36 @@
+{
+  "store_name": {
+    "value": "SUN WONG KUT SDN BHD",
+    "confidence": 0.8,
+    "status": "medium"
+  },
+  "date": {
+    "value": "2018-02-21",
+    "confidence": 0.873,
+    "status": "high"
+  },
+  "items": [],
+  "total_amount": {
+    "value": 86.17,
+    "confidence": 0.817,
+    "status": "medium"
+  },
+  "reliability": {
+    "low_confidence_fields": [
+      "items"
+    ],
+    "requires_manual_review": true
+  },
+  "_debug": {
+    "total_line": "Total Gross C RM 86.17",
+    "line_count": 25,
+    "ocr_confidence": 0.826
+  },
+  "source_file": "X51005447833.jpg",
+  "ocr": {
+    "confidence": 0.826,
+    "preprocessing_variant": "gray",
+    "deskew_angle": 0.0,
+    "raw_text": "SUN WONG KUT SDN BHD\nCompany No 20965-¥\nSite: 1046\n176 JLN SUNGEI BESI\n57100 KUALA LUNPUR\nae 03-9221345\nGST No: 001580630016\"\nInvoice nunber 60000483942\n39.54 litre Punp # 07\nFuelSave 95 RN 88.17 C\n2.230 RN / litre\nTotal RM 88.17\nVisa RN 68.17\nRelief GST CRN 0.00\nTotal Gross C RM 86.17\nShell Loyalty Card\n6018840059147 765\nPoints Awarded 39\nDate Tine Nun OPT\n21/02/18 11.19 40278 07\nDiesel & Petrol RONGS\npiven Relief under Section\n6 (3) (b) GST Act 2014\nThank you\n_ Please cone again"
+  }
+}

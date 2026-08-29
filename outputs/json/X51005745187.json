@@ -1,0 +1,39 @@
+{
+  "store_name": {
+    "value": "PP GOODS SOLD ARE NUT RETURNABLE THtis YOU",
+    "confidence": 0.629,
+    "status": "low"
+  },
+  "date": {
+    "value": null,
+    "confidence": 0.0,
+    "status": "low"
+  },
+  "items": [],
+  "total_amount": {
+    "value": 1.2,
+    "confidence": 0.689,
+    "status": "low"
+  },
+  "reliability": {
+    "low_confidence_fields": [
+      "store_name",
+      "date",
+      "total_amount",
+      "items"
+    ],
+    "requires_manual_review": true
+  },
+  "_debug": {
+    "total_line": "Total: 20.00 1.20",
+    "line_count": 28,
+    "ocr_confidence": 0.629
+  },
+  "source_file": "X51005745187.jpg",
+  "ocr": {
+    "confidence": 0.629,
+    "preprocessing_variant": "gray",
+    "deskew_angle": 0.0,
+    "raw_text": "PP, GOODS SOLD ARE NUT RETURNABLE, THtis YOU :\nSLF CASH & CARRY\n(002107265 -V) ¢\nNO 15 JUN TSJ2.7MN SUBANG JASA,\nOFF JN BT 3 SUBANG,\n40000 SHAH AL AM,SEL\nTEL 03-773480682 FAK TAX INVOKE\nGST ID 001169382944\nSIMPLIFIED TAX INVOICE:\nDoc No CS0i1241905 Gate 03/0/2018\nCashier WOON Twne 08:37:00\nSalesperson Ret\nNem. — ty Pace | Amount Tax _\n9857366100208 1 2120 2126 SR\nCRISPO MINYAK SAPIBOOS __\nTota ay 2120\nTotal Sales (Exchuding GS1) 2000\nDiscount 000\nTotal GST 120\nDy) Rounding 000\nP®rotai Sales : 21.20 &\n(Inclusive of GST)\nCASH : 100.00\nChange = 78.80\n[or SUMMARY\n‘Tax Code th AwLiRM) = Tox (RM)\nSR 6 20 00 120)\nTotal: 20.00 1.20"
+  }
+}

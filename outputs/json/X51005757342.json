@@ -1,0 +1,36 @@
+{
+  "store_name": {
+    "value": "MR. O.T.Y. M SDN BHD",
+    "confidence": 0.781,
+    "status": "medium"
+  },
+  "date": {
+    "value": "2018-03-23",
+    "confidence": 0.879,
+    "status": "high"
+  },
+  "items": [],
+  "total_amount": {
+    "value": 6.2,
+    "confidence": 0.886,
+    "status": "high"
+  },
+  "reliability": {
+    "low_confidence_fields": [
+      "items"
+    ],
+    "requires_manual_review": true
+  },
+  "_debug": {
+    "total_line": "Total Incl. GST@6% RM 6.20",
+    "line_count": 29,
+    "ocr_confidence": 0.836
+  },
+  "source_file": "X51005757342.jpg",
+  "ocr": {
+    "confidence": 0.836,
+    "preprocessing_variant": "gray",
+    "deskew_angle": -0.38,
+    "raw_text": "3180304Q\nMR. O.T.Y. (M) SDN BHD\n(CO.REG :860671-D) -\nLOT 1851-A & 1851-B, JALAN KPB 6,\nKAWASAN PERINDUSTRIAN BALAKONG,\n43300 SERT KEMBANGAN, SELANGOR\n(GST ID No :000306020352)\n(101 PUCHONG)\n-TAX INVOICE-\nMESH SPONGE 4S +8\nAN62-72 - 12/96\n9064234 1X 1.80 1.80\nBROWN COCO BRUSH 6’ VGN #§\nWA5O - 20/300\n9555221303658 2X 2.10 4.20\nPLASTIC BAGS *S\n99999 1X 0.20 0.20\nItem(s) : 3 Qty(s) : 4\nTotal Incl. GST@6% RM 6.20\nCASH RM 100.00\nCHANGE RM 93.80\nGST @6% included in total RM 0.35\nee\n23-03-18 16:43 SHO! ZJ86 11 ROOO111721\nOPERATOR IRAINEE CASHIER\nEXCHANGE ARE ALLOWED WITHIN\n7 DAY WITH RECEIPT.\nSTRICTLY NO CASH REFUND.\nXv"
+  }
+}

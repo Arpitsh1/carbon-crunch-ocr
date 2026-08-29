@@ -1,0 +1,39 @@
+{
+  "store_name": {
+    "value": "SIA MART",
+    "confidence": 0.642,
+    "status": "low"
+  },
+  "date": {
+    "value": null,
+    "confidence": 0.0,
+    "status": "low"
+  },
+  "items": [],
+  "total_amount": {
+    "value": null,
+    "confidence": 0.0,
+    "status": "low"
+  },
+  "reliability": {
+    "low_confidence_fields": [
+      "store_name",
+      "date",
+      "total_amount",
+      "items"
+    ],
+    "requires_manual_review": true
+  },
+  "_debug": {
+    "total_line": null,
+    "line_count": 45,
+    "ocr_confidence": 0.584
+  },
+  "source_file": "X51005268472.jpg",
+  "ocr": {
+    "confidence": 0.584,
+    "preprocessing_variant": "gray",
+    "deskew_angle": -1.03,
+    "raw_text": "SIA MART\n($20208100-1) eh\nNO.23 BATU 10, TAMAN Sey ANGOR.\nJALAN KAPAR, 42200 KLANG,\nGST ID : 001609584640\nSara TAM atl\n00: No 802070163 Date’ Bey\nCashier EIRA TG\nSalesperson : EIRA Relea\nere\nop AG x\n958664132002; 17° «085 0.00 1\nDELICIA CHOCOLATE [506]\n955825111004 1 3.55 3.55 355 2\n‘GARDENIA ORIGINAL CLASSIC JUMBO. (6006)\n9556127101331 141 1.50 1.50 SR\nUS LIME 506\n985019032072; 1421.81 1.51 SR\nDOREMON CATCAT JOY 156\n985019032072; + 142 1.51 151 SR\nDOREMON CATCAT JOY 156\n88800218851: + 2.30 244 244° SR\nAINUTE MAIO PULPY [OREN] [350ML]\nanv 30 1 230 244 2446 SR\nJIE OREN! {950M\nS346 ‘ 1 1.60 1.60 SR\n1 DRINK SUOML\n9996670312), 274 2.90 290 sR\n100 Fes (1\nTotal iy” 28> Lo a\nTotal Sales (Excluding GST) ; 31.03\nDiscount : 9.09\nTollGST : 195\nRounding 002\nTatal Sales (Inclusive of GST) ; 3270\nCASH : 40.00\nChange ; 7.30\nGST SUMMARY ~~\nTuGode ame,\n| se 6 we Ty\n2RL ° 3.55 1.65\neee Oli 31.03 ot\nae\nGOODS SOLD ARE Nor R:\nETURNABLE, THANK yoy"
+  }
+}

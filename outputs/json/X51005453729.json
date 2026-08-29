@@ -1,0 +1,39 @@
+{
+  "store_name": {
+    "value": "LAN HING STATIONERY SON BHO",
+    "confidence": 0.566,
+    "status": "low"
+  },
+  "date": {
+    "value": null,
+    "confidence": 0.0,
+    "status": "low"
+  },
+  "items": [],
+  "total_amount": {
+    "value": null,
+    "confidence": 0.0,
+    "status": "low"
+  },
+  "reliability": {
+    "low_confidence_fields": [
+      "store_name",
+      "date",
+      "total_amount",
+      "items"
+    ],
+    "requires_manual_review": true
+  },
+  "_debug": {
+    "total_line": null,
+    "line_count": 27,
+    "ocr_confidence": 0.569
+  },
+  "source_file": "X51005453729.jpg",
+  "ocr": {
+    "confidence": 0.569,
+    "preprocessing_variant": "enhanced",
+    "deskew_angle": 4.84,
+    "raw_text": "180303\nLAN HING STATIONERY SON BHO\n(162761)\nho.52 8 33, JALANSR 19 SERSYENS\nTAMAN SERDANG RAYA.\n449300 SEP REMBANGAN. SELANGOR\nDARUL EHSAN\nGSTID 002199201536\nTax invoice\n2799/2018 _ _— €S-20242\nCry Tax RM\nDurafie 399110 x95rw0) 100 SR $830\nName Badge (H) @ 08800\n409 Metal Name Badge CIP sR 2120\n= 100s @ 20.0000\n“Tonal Amt loc. GST @ 6% 7080 /\nRounding Adjustment Wi\n“Total Aint Payable 79.50\nPaid Amount 100.00\nChange 2050\n“Totud Gry Tender 101\nGST Summary Amount Tax!\n(RM) (RM) |\nsR @A 15,00 450,\nTous 75.00 450!\nTHANK YOU\nor anv anduiry niaase contact"
+  }
+}

@@ -1,0 +1,39 @@
+{
+  "store_name": {
+    "value": "Chane M329",
+    "confidence": 0.401,
+    "status": "low"
+  },
+  "date": {
+    "value": null,
+    "confidence": 0.0,
+    "status": "low"
+  },
+  "items": [],
+  "total_amount": {
+    "value": null,
+    "confidence": 0.0,
+    "status": "low"
+  },
+  "reliability": {
+    "low_confidence_fields": [
+      "store_name",
+      "date",
+      "total_amount",
+      "items"
+    ],
+    "requires_manual_review": true
+  },
+  "_debug": {
+    "total_line": null,
+    "line_count": 16,
+    "ocr_confidence": 0.32
+  },
+  "source_file": "X51005442383.jpg",
+  "ocr": {
+    "confidence": 0.32,
+    "preprocessing_variant": "gray",
+    "deskew_angle": -11.5,
+    "raw_text": "Chane M329\nFOUR Res e\near T AUR Any\ncere, oat,\noo id\nBoe! ag ae\nBig se oe\nLo\noe\ncorre! ae\nSe is\nye ES\nCHANGE igo\n1340\noot a9 00,\nae"
+  }
+}

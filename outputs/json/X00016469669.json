@@ -1,0 +1,40 @@
+{
+  "store_name": {
+    "value": "ABC HO TRADING",
+    "confidence": 0.705,
+    "status": "medium"
+  },
+  "date": {
+    "value": "2019-01-09",
+    "confidence": 0.803,
+    "status": "medium"
+  },
+  "items": [
+    {
+      "name": "EEE ee Plastic 2",
+      "price": 31.0,
+      "confidence": 0.759
+    }
+  ],
+  "total_amount": {
+    "value": 34.0,
+    "confidence": 0.747,
+    "status": "medium"
+  },
+  "reliability": {
+    "low_confidence_fields": [],
+    "requires_manual_review": false
+  },
+  "_debug": {
+    "total_line": "Total Amount: ~~\" 34.00",
+    "line_count": 18,
+    "ocr_confidence": 0.718
+  },
+  "source_file": "X00016469669.jpg",
+  "ocr": {
+    "confidence": 0.718,
+    "preprocessing_variant": "enhanced",
+    "deskew_angle": 0.0,
+    "raw_text": "tan chay yee\nABC HO TRADING\nNo.2&4,JALAN HARMONT 3/2,\nTAMAN DESA HARMONI.\n81100 JOHOR BAHRUJOHOR\n07-355 2616\nCash Bill, 01-143008 ~ *\nDate * 09/01/2019 8:01:11 PM\nCashier o1\nDescription Qty Price Amount\nEEE ee\nPlastic 2 15.50 31.00\nTotal Amount: ~~\" 34.00\nCash Received 101.00\nChange : 70.00\n\"Goods Sold are non-refundabl\n\"Thank You™**\n*e\"Please Come Again*** 3)-40"
+  }
+}

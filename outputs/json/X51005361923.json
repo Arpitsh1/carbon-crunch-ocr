@@ -1,0 +1,39 @@
+{
+  "store_name": {
+    "value": "oi mn",
+    "confidence": 0.392,
+    "status": "low"
+  },
+  "date": {
+    "value": null,
+    "confidence": 0.0,
+    "status": "low"
+  },
+  "items": [],
+  "total_amount": {
+    "value": null,
+    "confidence": 0.0,
+    "status": "low"
+  },
+  "reliability": {
+    "low_confidence_fields": [
+      "store_name",
+      "date",
+      "total_amount",
+      "items"
+    ],
+    "requires_manual_review": true
+  },
+  "_debug": {
+    "total_line": null,
+    "line_count": 8,
+    "ocr_confidence": 0.307
+  },
+  "source_file": "X51005361923.jpg",
+  "ocr": {
+    "confidence": 0.307,
+    "preprocessing_variant": "adaptive",
+    "deskew_angle": 0.0,
+    "raw_text": "oi mn\nSCRE erm\nant ge\narene\nouts 1) SSP\noaiee 3\n\"Rois it mgt |\n|"
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "store_name": {
+    "value": "YONG CEN ENTERPRISE",
+    "confidence": 0.733,
+    "status": "medium"
+  },
+  "date": {
+    "value": "2018-01-06",
+    "confidence": 0.806,
+    "status": "medium"
+  },
+  "items": [],
+  "total_amount": {
+    "value": 65.7,
+    "confidence": 0.75,
+    "status": "medium"
+  },
+  "reliability": {
+    "low_confidence_fields": [
+      "items"
+    ],
+    "requires_manual_review": true
+  },
+  "_debug": {
+    "total_line": "TOTAL 65.70",
+    "line_count": 22,
+    "ocr_confidence": 0.724
+  },
+  "source_file": "X51005742110.jpg",
+  "ocr": {
+    "confidence": 0.724,
+    "preprocessing_variant": "enhanced",
+    "deskew_angle": 0.0,
+    "raw_text": "YONG CEN ENTERPRISE\n9, JALAN SUBANG JASA 3,\n40150 SHAH ALAM, SELANGOR\nTEL: 012-9719498\nGST NO: 001147981824\nRECEIPT #: CS00668595 DATE: 06/01/2018\nSALESPERSON: TIME: 10:47:00\nCOUNTER\n(TEM QTY _ UP AMOUNT\n9555223500000 24 258 61.99\nSR‘CHAMPIGNONS MUSHROOMS 425G(2.5833X\nJOTALQUANTITY 24\nSUB-TOTAL 61.99\nDISC 0.00\nGST 3727 bubbov- atshir-\nTAX 0.00\nROUNDING — -0.01\nTOTAL 65.70\nCASH 65704 fs lo\nCHANGE 0.00\nGOODS SOLD ARE NOT RETURNABLE,\nTHANK YOU"
+  }
+}

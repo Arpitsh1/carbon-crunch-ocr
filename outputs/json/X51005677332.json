@@ -1,0 +1,38 @@
+{
+  "store_name": {
+    "value": "SYARIKAT PERNIAGAAN GIN KEE",
+    "confidence": 0.657,
+    "status": "low"
+  },
+  "date": {
+    "value": "2018-01-12",
+    "confidence": 0.797,
+    "status": "medium"
+  },
+  "items": [],
+  "total_amount": {
+    "value": null,
+    "confidence": 0.0,
+    "status": "low"
+  },
+  "reliability": {
+    "low_confidence_fields": [
+      "store_name",
+      "total_amount",
+      "items"
+    ],
+    "requires_manual_review": true
+  },
+  "_debug": {
+    "total_line": null,
+    "line_count": 28,
+    "ocr_confidence": 0.71
+  },
+  "source_file": "X51005677332.jpg",
+  "ocr": {
+    "confidence": 0.71,
+    "preprocessing_variant": "gray",
+    "deskew_angle": 0.0,
+    "raw_text": "2\\Q02 0G ws 71%\nSYARIKAT PERNIAGAAN GIN KEE\n(81109-A)\nNO 290, JALAN AIR PANAS\nSETAPAK.\n53200, KUALA LUMPUR,\nTEL : 03-40210276\nGST ID : 000760673920\nSIMPLIFIED TAX INVOICE\nCASH\nDoc No CS00012693 Date 12/01/2018\nCashier USER Time: 13:02.00\nSalesperson Ref.\n342 1 795 795 SR\n11/2\" SANCORA PAINT BRUSH\nTotal Qty [ :)\nTotal Sales (Excluding GST) 7.60\nDiscount 0.00\nTotal GST 0.45\ntr ) Rounding 0.00\nTotal Sales (Inclusive of GST) 7.95\nCASH 7.95\n~ Ou\n; |\nI Amt (RA Tax (RM,\nG t 750 045)\ni 7.50 0.44}\na. OLD YT RETURNABLE THANK (Ou"
+  }
+}

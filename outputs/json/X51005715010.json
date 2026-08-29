@@ -1,0 +1,39 @@
+{
+  "store_name": {
+    "value": "Vatson s Personal Care Stores sch Bhd",
+    "confidence": 0.521,
+    "status": "low"
+  },
+  "date": {
+    "value": null,
+    "confidence": 0.0,
+    "status": "low"
+  },
+  "items": [],
+  "total_amount": {
+    "value": null,
+    "confidence": 0.0,
+    "status": "low"
+  },
+  "reliability": {
+    "low_confidence_fields": [
+      "store_name",
+      "date",
+      "total_amount",
+      "items"
+    ],
+    "requires_manual_review": true
+  },
+  "_debug": {
+    "total_line": null,
+    "line_count": 29,
+    "ocr_confidence": 0.544
+  },
+  "source_file": "X51005715010.jpg",
+  "ocr": {
+    "confidence": 0.544,
+    "preprocessing_variant": "enhanced",
+    "deskew_angle": 0.0,
+    "raw_text": "_ ’\n3-1708032\nVatson’s Personal Care Stores sch Bhd\nCompany Reg No. :289892)\nGST Reg No. 000947339264\nUSd Summit, Subang ($S)\n22241 WS CUT SCISSORS 18.00 $\n64542 OVS TEMPO TWEEZER 17.90 $\n21434 11S BABY WIPES FRAG 1.0 $\nPHP LESS 90% HAR 18 -2.37\n95448 WATSONS BASKET 0.00 2\nSUBTOTAL (QTY 4) RMI .43\nROUNDING RHO.02\nSUBTOTAL (IY 4) RY4T 45\nCASH RMB! 50\nCHANGE CASH RHTO,05\nre rn\nRate Net(RH) GST(RM) Total (RM)\n~-—-$ 80039092184 44 ——— —\nRnR cebeeeehchaie\nSTATEMENT\nHERDER ERE EKER dee sh\nLoyalty acc nunber 9926016%%\nDescription Total Points\nDenne Balance 2264\narned Paints 43\nClosing Balance 2307\nSA RSS HSS SSR EERO EAC EER.\n00440010038 25052018 13:11:54 0003 ika"
+  }
+}

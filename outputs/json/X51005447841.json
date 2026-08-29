@@ -1,0 +1,37 @@
+{
+  "store_name": {
+    "value": "SDN BHD",
+    "confidence": 0.783,
+    "status": "medium"
+  },
+  "date": {
+    "value": "2018-03-09",
+    "confidence": 0.881,
+    "status": "high"
+  },
+  "items": [],
+  "total_amount": {
+    "value": null,
+    "confidence": 0.0,
+    "status": "low"
+  },
+  "reliability": {
+    "low_confidence_fields": [
+      "total_amount",
+      "items"
+    ],
+    "requires_manual_review": true
+  },
+  "_debug": {
+    "total_line": null,
+    "line_count": 31,
+    "ocr_confidence": 0.838
+  },
+  "source_file": "X51005447841.jpg",
+  "ocr": {
+    "confidence": 0.838,
+    "preprocessing_variant": "gray",
+    "deskew_angle": 0.0,
+    "raw_text": "PASARAYA BORONG PINTAR\nSDN BHD\nBR No.: (124526-H)\nNO 19-G8 19-18 19-2 JALAN TASIK UTAMA 4\nMEDAN NIAGA TASIK DAMA\\\n016-5498845,\nGST No.\n09/03/2018 4:21:23PM\nTRN: CROO08252\nCOUNTER 3 CASHIER: 2\nQTY UOM UNITAmt Exc. Amt Inc. GST\nPrice Tax Tax Code\nA&M SARSAP 330ML\n1 WALK 1.20 1.20 1.20 ZRL\n100PLUS REGULAR 500ML\n1 WALK 1.90 1.90 1.90 ZRL\nLoacker wafer milk 45g\n1 WALK 270 2.70 2.70 ZRL\n| fishermans.f s/free lemon 259\n| 1 WALK 4.60 4.60 460 ZRL\n“Total Qty: 4.00 10.40\nTotal Includes GST 0% 10.40\nCustomer's Payment\nCash 10.50\nChange 010\nGST Summary Amount (RM) Tax (RM)\nZRL=0% 1040 0.00\n“Goods sold are not returnable\nThank you for shopping at PASARAYA\nBORONG PINTAR SDN BHO\nPa"
+  }
+}

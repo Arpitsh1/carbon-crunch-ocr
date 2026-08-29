@@ -1,0 +1,39 @@
+{
+  "store_name": {
+    "value": "TAHAN BERKELEY",
+    "confidence": 0.562,
+    "status": "low"
+  },
+  "date": {
+    "value": null,
+    "confidence": 0.0,
+    "status": "low"
+  },
+  "items": [],
+  "total_amount": {
+    "value": null,
+    "confidence": 0.0,
+    "status": "low"
+  },
+  "reliability": {
+    "low_confidence_fields": [
+      "store_name",
+      "date",
+      "total_amount",
+      "items"
+    ],
+    "requires_manual_review": true
+  },
+  "_debug": {
+    "total_line": null,
+    "line_count": 21,
+    "ocr_confidence": 0.563
+  },
+  "source_file": "X51005764161.jpg",
+  "ocr": {
+    "confidence": 0.563,
+    "preprocessing_variant": "enhanced",
+    "deskew_angle": 0.0,
+    "raw_text": "99 SPEED HART 5/2 (519837-X)\nLOT F.7. 2811, JALAN ANGSA,\nTAHAN BERKELEY\n41150 KLANG, SELANGOR\n1313-SUBANG BESTARI\nSST 1D, NO + 000181757712\nINVOICE NO s 18291/102/T0385\n16 06FHH sesane 28-Wi-18\n5593 LEA & PERRINS 50S WORC —RH9B.89\nGit X RH 8.92\nTotal Sales (Inclusive GST) RH 98,89\nRounding Adjustwent XL\nRounding Rt 28.90\nCREDIT PH 98.90\nCHAWEE RH Ml\nSST Summary ReounttRH) = Tax(RH)\n$= oh . 93.28 5.61 /\n9-90\nThank You. Please cone ansin\nKeep the invoice for applicatie returns\need detrtiirsernin sg"
+  }
+}

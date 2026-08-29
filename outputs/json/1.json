@@ -1,0 +1,39 @@
+{
+  "store_name": {
+    "value": "TRADER JOE S",
+    "confidence": 0.487,
+    "status": "low"
+  },
+  "date": {
+    "value": null,
+    "confidence": 0.0,
+    "status": "low"
+  },
+  "items": [],
+  "total_amount": {
+    "value": null,
+    "confidence": 0.0,
+    "status": "low"
+  },
+  "reliability": {
+    "low_confidence_fields": [
+      "store_name",
+      "date",
+      "total_amount",
+      "items"
+    ],
+    "requires_manual_review": true
+  },
+  "_debug": {
+    "total_line": null,
+    "line_count": 35,
+    "ocr_confidence": 0.447
+  },
+  "source_file": "1.jpg",
+  "ocr": {
+    "confidence": 0.447,
+    "preprocessing_variant": "adaptive",
+    "deskew_angle": 0.0,
+    "raw_text": "8 nt\nTRADER JOE’S\nrome 2001 Greemt}ie Ave\nDallas TX 75206 —\nStore #403 - (469) 0514\n‘OPEM B:00AH TO 9:00PM ‘DAILY\nR-CARROTS SHREDDED 10 OF 12\n— R-CUCUMBERS PERSIAN 1 Lb 1A -——_——\nis ‘TOHATOES CRUSHED WO Sal 1.59 a\nPASE 1B\ncee re ree i ueMisa UTE 393 ——\nOe uae :\n~ Beane careanra be _\n_- SPROHIED ta SIE 78 ~\na a Ses\np caer oe ante 2B sy\nE ~~ A-PEPPER BELL EACH ML RED 0.98\n= GROCERY NOM TAXABLE: 0.58 2\n< 200.49.\n=< BANANAS ORGANIC. og\n3k 0.23 as\nOREAMY SALTED PE ANUT BUTTER 29\nHL WHT PITA BREAD 1,53\nGROCERY ROW TARABLE, VB\noy 260.69\nTa SBTOT, we po\n= TOTAL $36.68. as\nCASH $40.00\n” — CHANGE. ik 7\n- —_ | [TERS 22 ‘Higgins, Ryan -\nDY ER Be ees one 0 Hts Th\n~> roa yf SRE A co.\n== mine fs\n2 —\n—_ = +"
+  }
+}

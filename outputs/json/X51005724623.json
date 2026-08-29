@@ -1,0 +1,48 @@
+{
+  "store_name": {
+    "value": "KEDPS PAN YEW Ch JAN",
+    "confidence": 0.643,
+    "status": "low"
+  },
+  "date": {
+    "value": null,
+    "confidence": 0.0,
+    "status": "low"
+  },
+  "items": [
+    {
+      "name": "1650 (480 SR",
+      "price": 17.49,
+      "confidence": 0.718
+    },
+    {
+      "name": "SIME « 2 6890 © 13780 SR",
+      "price": 5.0,
+      "confidence": 0.718
+    }
+  ],
+  "total_amount": {
+    "value": 17.7,
+    "confidence": 0.703,
+    "status": "medium"
+  },
+  "reliability": {
+    "low_confidence_fields": [
+      "store_name",
+      "date"
+    ],
+    "requires_manual_review": true
+  },
+  "_debug": {
+    "total_line": "Total : 205.00 17.70)",
+    "line_count": 34,
+    "ocr_confidence": 0.651
+  },
+  "source_file": "X51005724623.jpg",
+  "ocr": {
+    "confidence": 0.651,
+    "preprocessing_variant": "enhanced",
+    "deskew_angle": 0.0,
+    "raw_text": "KEDPS PAN YEW Ch JAN\n1658 85-K)\nLO. (6 JAI AN BANTING\n300 VEN SELANGOR\nTEL 03-87686092 FA. 03-87686092\nGST ID 000781600416\n5 ——__TAXINVOIGE\nSucik 1JAYA TRANSPORT\n21 JALAN AMAN 2\nTAMAN DESA 43800\nDENG\" SELANGOR\nor 1\n7 CS000 T0812 Date: 0803/2018\nr USER Time: 14:58:00\nFe\nsty st)\nitem __SiPrice S/Price Amount Tax\n101756 1650 17.49 (480 SR\nSIME «\n401870 2 05.00 6890 © 13780 SR\n| PASIR HALUS (D)\nTotal ty. 12 31270\n| Total Sales (Excluding GST) 295.00\nDiscount 0.00\nTotal GST 1770\nRounding 0.00\nTotal Sales (Inclusive of GST) : 312.70\nCASH 350.00\nChange: 37.30\nST SUMMARY a\n‘Tax Code % = AmtiRNt, — Tax (RM)\nSR 6 296.00 1770\nTotal : 205.00 17.70)\n(GOODS SOLD ARE NOT RETURNABLE 1»."
+  }
+}

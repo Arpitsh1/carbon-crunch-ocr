@@ -1,0 +1,39 @@
+{
+  "store_name": {
+    "value": "sone ae",
+    "confidence": 0.387,
+    "status": "low"
+  },
+  "date": {
+    "value": null,
+    "confidence": 0.0,
+    "status": "low"
+  },
+  "items": [],
+  "total_amount": {
+    "value": null,
+    "confidence": 0.0,
+    "status": "low"
+  },
+  "reliability": {
+    "low_confidence_fields": [
+      "store_name",
+      "date",
+      "total_amount",
+      "items"
+    ],
+    "requires_manual_review": true
+  },
+  "_debug": {
+    "total_line": null,
+    "line_count": 7,
+    "ocr_confidence": 0.391
+  },
+  "source_file": "X51005361898.jpg",
+  "ocr": {
+    "confidence": 0.391,
+    "preprocessing_variant": "adaptive",
+    "deskew_angle": 0.0,
+    "raw_text": "EES\n=\net\nrr\n=\nsone | ae\nweeny"
+  }
+}

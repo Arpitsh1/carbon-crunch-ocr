@@ -1,0 +1,38 @@
+{
+  "store_name": {
+    "value": "ECONSAVE MUG",
+    "confidence": 0.64,
+    "status": "low"
+  },
+  "date": {
+    "value": "2018-03-22",
+    "confidence": 0.78,
+    "status": "medium"
+  },
+  "items": [],
+  "total_amount": {
+    "value": null,
+    "confidence": 0.0,
+    "status": "low"
+  },
+  "reliability": {
+    "low_confidence_fields": [
+      "store_name",
+      "total_amount",
+      "items"
+    ],
+    "requires_manual_review": true
+  },
+  "_debug": {
+    "total_line": null,
+    "line_count": 26,
+    "ocr_confidence": 0.684
+  },
+  "source_file": "X51005605295.jpg",
+  "ocr": {
+    "confidence": 0.684,
+    "preprocessing_variant": "enhanced",
+    "deskew_angle": -0.82,
+    "raw_text": "3\n(ECONSAVE MUG\nECONSAVE CASH & CARRY (FC) 5/3 (930311-W)\nLot G01, KL Festival city,\nNo. 6? Jin Ibu Kata Taa Oanau Kota, KL\nTel : (603) 4148 1027\n22/03/18 10:17 Red 1K:24982\nGST Reg No : 001919221760\nInu No: 220318/10049/04/24382\nTTEH # 9555501403092 /\n(URDES CHOICE SOFT = 4 ( 4.20 a\nTTEH # 9555501400367 =\n(NRJES ICE COOL HT =O85™ $\nSUBTOTAL SE\nTOTALCINCL GST) “Telb.\ncasi 4.20\nCHANGE DUE 0.05\nTTENS PURCHASED: 2\nGST ~ RATE ---~-ANT(RH) -~ TAKCRH)\n5 8 4.86 0.29\nBANDINGKAN HARGA KAMT\nThank You. Please Cone again.\nPAULINE AK JABAN\nSt:10049 Rg:4 Ch:1010 Tr:24382\n10:18 22/03/18\n\\"
+  }
+}

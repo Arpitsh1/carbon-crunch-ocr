@@ -1,0 +1,50 @@
+{
+  "store_name": {
+    "value": "RESTORAN IBRAHIM MAJU SB",
+    "confidence": 0.71,
+    "status": "medium"
+  },
+  "date": {
+    "value": "2018-03-19",
+    "confidence": 0.85,
+    "status": "high"
+  },
+  "items": [
+    {
+      "name": "MAKANAN",
+      "price": 2.3,
+      "confidence": 0.802
+    },
+    {
+      "name": "| MAKANAN S",
+      "price": 1.4,
+      "confidence": 0.802
+    },
+    {
+      "name": "MAKANAN 1,60 S",
+      "price": 1.6,
+      "confidence": 0.802
+    }
+  ],
+  "total_amount": {
+    "value": 5.3,
+    "confidence": 0.857,
+    "status": "high"
+  },
+  "reliability": {
+    "low_confidence_fields": [],
+    "requires_manual_review": false
+  },
+  "_debug": {
+    "total_line": "Sub Total Incl. GST RM 5.30",
+    "line_count": 30,
+    "ocr_confidence": 0.79
+  },
+  "source_file": "X51005685355.jpg",
+  "ocr": {
+    "confidence": 0.79,
+    "preprocessing_variant": "gray",
+    "deskew_angle": 0.0,
+    "raw_text": "3180301\nRESTORAN IBRAHIM MAJU SB\nNO.2, GROUND FLOOR, JALAN REKO SENTRAL 8\nTAMAN REKO SENTRAL, 43000 KAJANG\nSELANGOR DE\nTEL : 03-87342689\nGST ID NO :000696532992\nTAX INVOICE\nINVOICE # : 1-161696\nTIME + 19/03/2018 03:43:44 PM\nCASHIER : JAHABA R ALT\nSELF SERVICE: 1000\nQTY DESCRIPTION PRICE AMOUNT\n1 MAKANAN 2.30 2.30\n| MAKANAN 1.40 1.40 S\n1 -MAKANAN 1.60 1,60 S\nSub Total Incl. GST RM 5.30\nRound Adjustmt RM 0.00\nTotal RM 5.30\nPayment CASH RM 10,00\nChange RM 4.70\nGST 6% Paid RM 0.30\nGST ANALYSIS ‘AMT (RM) TAX (RM)\nS=6% 5.00 0.30\n0% 0.00 0.00\n19/03/2018 03:44:03 PM\n<THANK YOU >\n<PLEASE COME AGAIN>\neR Tegel wep Wn-bod-\nusr Lan"
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "store_name": {
+    "value": "23 Jin Burung Jentayu Tmn Bukit",
+    "confidence": 0.668,
+    "status": "low"
+  },
+  "date": {
+    "value": "2018-03-02",
+    "confidence": 0.871,
+    "status": "high"
+  },
+  "items": [],
+  "total_amount": {
+    "value": null,
+    "confidence": 0.0,
+    "status": "low"
+  },
+  "reliability": {
+    "low_confidence_fields": [
+      "store_name",
+      "total_amount",
+      "items"
+    ],
+    "requires_manual_review": true
+  },
+  "_debug": {
+    "total_line": null,
+    "line_count": 29,
+    "ocr_confidence": 0.823
+  },
+  "source_file": "X51005685357.jpg",
+  "ocr": {
+    "confidence": 0.823,
+    "preprocessing_variant": "enhanced",
+    "deskew_angle": 0.62,
+    "raw_text": "3180301\n\" &\nFarmasi Maluri S/B(587969-U)\nGST NO: 000342237184 (1D:5033)\n23, Jin Burung Jentayu, Tmn Bukit\nMaluri, Kepong, 52100 KL.\nTAX INVOICE\nCashier : posiN Wc. ID : POS?\nReceipt : 71857936 02/03/18 05:16 PM\nDescription Disc. Subtotal\n061558 - *¥BMS MILK THISTLE\n1X 111.30 36.75 72.35 S\n910845 - TRILON-E CRM\n1X 7.00 7.00 Z\nTOTAL (Including GST) 79. 35\nROUNDING 0.00\nNET 79. 35\nTENDER 100. 00\nCHANGE/BALANCE 20.65\nGST Summary Amt (Excl.Gst) — Tax(RM)\nZRL @0. 00% 7.00 0.00\nSR @6. 00% 68. 25 4.10\nGOODS SOLD ARE NON-REFUNDABLE BUT\nEXCHANGEABLE WITHIN 7 DAYS WITH\nRECEIPT PLUS GOODS ARE IN\nRESALEABLE CONDITION.\nAll face mask & injectable are\nnon-returnable & non ~exchangeable\nwxsoerial oramotian"
+  }
+}

@@ -1,0 +1,39 @@
+{
+  "store_name": {
+    "value": "POSTED",
+    "confidence": 0.647,
+    "status": "low"
+  },
+  "date": {
+    "value": null,
+    "confidence": 0.0,
+    "status": "low"
+  },
+  "items": [],
+  "total_amount": {
+    "value": null,
+    "confidence": 0.0,
+    "status": "low"
+  },
+  "reliability": {
+    "low_confidence_fields": [
+      "store_name",
+      "date",
+      "total_amount",
+      "items"
+    ],
+    "requires_manual_review": true
+  },
+  "_debug": {
+    "total_line": null,
+    "line_count": 31,
+    "ocr_confidence": 0.656
+  },
+  "source_file": "X51005806719.jpg",
+  "ocr": {
+    "confidence": 0.656,
+    "preprocessing_variant": "gray",
+    "deskew_angle": -1.04,
+    "raw_text": "POSTED\n‘SATU KAMPUNG ENTERPRISE SDN BHD\n(1127686-K)\nNO.42, PASAR BORONG SELANGOR\nJALAN PUTRA PERMAI,\n43300 SERI KEMBANGAN, SELANGOR\nTEL : 03-8938 2188\nSATUKAMPUNGESB@GMAIL. COM\nGST ID 000816205824\n—————_—TAXINVOICE\nDoc No, €$00039037 Date: 130101.\nCashier USER Time’ 23 37.00\nSalesperson Ret\nec cari pean\n-tem______Qty_S/Price_S/Price__Amouni\nxKITO} 3” 1981 21006300\nKITCHENWARE\nZi ‘Tol Qyicwdies. ba apres 6300\nTotal Sales (Exciuding GST) 50.42\nDiscount G00\nTotal GST 387\nRounding 0.00\nTotal Sales (Inclusive of GST) :\nCASH 000\nChange : 7.00\nOSI) EE\n% — AmtRM) Tax (FM) |\n6 59.43 3577\nSDN BHD Total: 6843.87!\nS6-H_ 11a RE\nSAR BORONG .D ARE NOT RETURNABLE, THANK YO."
+  }
+}

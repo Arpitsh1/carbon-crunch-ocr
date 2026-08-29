@@ -1,0 +1,36 @@
+{
+  "store_name": {
+    "value": "SUPER SEVEN CASH & SON BHD",
+    "confidence": 0.768,
+    "status": "medium"
+  },
+  "date": {
+    "value": "2018-03-01",
+    "confidence": 0.761,
+    "status": "medium"
+  },
+  "items": [],
+  "total_amount": {
+    "value": 408.25,
+    "confidence": 0.768,
+    "status": "medium"
+  },
+  "reliability": {
+    "low_confidence_fields": [
+      "items"
+    ],
+    "requires_manual_review": true
+  },
+  "_debug": {
+    "total_line": "Net Total RH408.25",
+    "line_count": 48,
+    "ocr_confidence": 0.654
+  },
+  "source_file": "X51005746203.jpg",
+  "ocr": {
+    "confidence": 0.654,
+    "preprocessing_variant": "enhanced",
+    "deskew_angle": 0.0,
+    "raw_text": "/SUPER SEVEN CASH & —) ‘SON BHD\n» (590150-A)\n‘PASARAVA BORONG SUPER SEVEN\nNC, 1 Jalan Euro 1\nOff Jalan Batu Tiga\nSungai Buloh Seksyen U3 Shah Alam,40150\nhhttp//w.super7 .com.ay\nTEL : 03-76590861\nFOX + 03-78590864\nGST 10 : 000639090688\nTAX INVOICE\nCustoner : [77853745]\nMrs. ONG GUAT CHYE\nTex INVOICE NO : 179509 COUNTER :004\nOPERATOR :(WUR ATICAH BINTI MUH-CASHIER)\n01-03-2018 09:23:06 AN\n: (RH)\nTENDERLION 643.37\n4212 41 43.37 1R\n03) TENDERLOIN 49.42\n40240 - Ht 49.42 IR\n031 TENDERLOIN 643.90\n40240 #1 43.90 2R\n031 TENDERLOIN 29.66\n40240 4] 49.66 2R\nAYAMAS CHICKEN FRANKFURTER 3406 €4.30\n9556276020392 48 34.40 SR\nBUTTERCUP LUXURY SPREAD 5008 €9.90\n888010995552 #1 9.90 SR\nBUTTERCUP LUXURY SPREAD $006 69.90\n6686010395552 #1 9.90 SR\nQy CINCAU 2kG 63.90\n9554100149455 #1 3.90 SR\nCRAB NUGGET 5003 MUSHROOM 8.20\n9557240160502 +20 164.00 SR\nQUANTITY : 35 Units\nTotal Sales (Incl. GST @6%) M408. 45\nRounding Adjustment RHO.00\nNet Total RH408.25\nPaynent Nethod WASTER CARD\n6ST Sunaary Sales Ant Tax Ant\n1 (o) el\nF 00\nSR (6%) 209.53 12.57 4\nPLEASE VERIFY YOUR RECEIPT - Oy\nBEFORE LEAVING THE COUNTER. 406 %\n‘GGODS SOLD ARE NOT RETURNABLE.\nTHANK YOU"
+  }
+}

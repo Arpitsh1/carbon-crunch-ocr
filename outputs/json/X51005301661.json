@@ -1,0 +1,38 @@
+{
+  "store_name": {
+    "value": "LIGHTROOM GALLERY SDN BHI",
+    "confidence": 0.677,
+    "status": "low"
+  },
+  "date": {
+    "value": "2017-12-20",
+    "confidence": 0.792,
+    "status": "medium"
+  },
+  "items": [],
+  "total_amount": {
+    "value": null,
+    "confidence": 0.0,
+    "status": "low"
+  },
+  "reliability": {
+    "low_confidence_fields": [
+      "store_name",
+      "total_amount",
+      "items"
+    ],
+    "requires_manual_review": true
+  },
+  "_debug": {
+    "total_line": null,
+    "line_count": 40,
+    "ocr_confidence": 0.702
+  },
+  "source_file": "X51005301661.jpg",
+  "ocr": {
+    "confidence": 0.702,
+    "preprocessing_variant": "enhanced",
+    "deskew_angle": -1.15,
+    "raw_text": "LIGHTROOM GALLERY SDN BHI\nLL D\nNo: 28; JALAN’ ASTANA’ 16,\nBANDAR BUKIT. RAJA, 41050\nKLANG SELANGOR p, E, MALAYSIA\nROC No. : (1072825-A)\nGST No. :| 000584089600\nTel 03-3362 4395 Fax:03-3369 4395\nTAX INVOICE\nStarton: CASHIER Bill No: LCso390%\nCas: ANGELA core 1\nBill Date : 20/12/2017\nBill Start: 20/12/2017 07:10:35 py\nCode : 300-coo01\nName + CASH\nAddress:\nGST No, :\nCHSO514 SR\n15 JOIND 2PIN 2Pcs\nTe RM 2.83 UNT ( 0.17)-RM 2.83\nYT51874 SR\nYE30 BK 7W WW LED TRACK LIGHT\n2) * RM 33,02 UNI ( 3,96)=RM 66, 04\nSub Total 3 RM 68.87\nServiceCharge : RM 0,00\nGST/TAX 6% 9 RM 4.13\nOma RM 73.00\nCAL 8 RM 73.00\nCHANGE: RM 0.00\nTtem Count: 2\nQty Count ; 3.0\nClosed Bill: 20/12/2017 07:10:51 PM\nThank You, Please cone again.\nGoods Sold aré not refundable, returnable\nBANK ACC MBB 5128 4851 2118\nBANK ACG MBB 696 4732 1744\nBANK ACC AMBANK 888 100 123 3706\nGST Summary Amount (RM) Tax (RMD.\nSR @ 6% 68. 87 4.13\nZR/0S/E2, 0,00 0,00"
+  }
+}

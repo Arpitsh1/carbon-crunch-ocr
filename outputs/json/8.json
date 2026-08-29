@@ -1,0 +1,38 @@
+{
+  "store_name": {
+    "value": "Costco 9",
+    "confidence": 0.716,
+    "status": "medium"
+  },
+  "date": {
+    "value": null,
+    "confidence": 0.0,
+    "status": "low"
+  },
+  "items": [],
+  "total_amount": {
+    "value": null,
+    "confidence": 0.0,
+    "status": "low"
+  },
+  "reliability": {
+    "low_confidence_fields": [
+      "date",
+      "total_amount",
+      "items"
+    ],
+    "requires_manual_review": true
+  },
+  "_debug": {
+    "total_line": null,
+    "line_count": 32,
+    "ocr_confidence": 0.655
+  },
+  "source_file": "8.jpg",
+  "ocr": {
+    "confidence": 0.655,
+    "preprocessing_variant": "enhanced",
+    "deskew_angle": 0.0,
+    "raw_text": "——————— ae eee\n| Costco 9\n=—WHOLESALE ee\n: Thornton #629 “4\n16375 N. Washington St.\nThornton, CO 80023\n2X Member 111826278335 ¥ Y\nE 673919 FF BS BREAST 2.99 E\nE 633561 KS DICED TOM 6.49E ©\ne 967596 JACKORGSALSA 2.97 E\n38 4.29\nE 878137 18CT EGGS 12.87 E :\nE 71053 GRAPE TOMATO 6.29 E\n404609 ECO HALF PAN 6.49 A\nE 55992 GRND TURKEY 18.47 E\nE 263423 CHPD ONION 3.59 E\nE 22101 MONT JACK 2% 4.45E pe a\n3 ‘SUBTOTAL 85.61\nTAX 3.82\nwer TOTAL, AK\nCheck/Menber Protd 89.13\nCHANGE 0.00\nRj 88.50% TAX 0.55\nE 3.75% 2.97\nTOTAL TAX 3.52\nTOTAL NUMBER OF ITEMS SOLD = rt]\neu 15: 4172.14\nop#: 14 Name:\nThank You!\n. Please Come Ai\nwse:629 Toned Trntl?2 OPH14\n_—— cE ees: a"
+  }
+}

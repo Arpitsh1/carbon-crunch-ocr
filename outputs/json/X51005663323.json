@@ -1,0 +1,37 @@
+{
+  "store_name": {
+    "value": "KOH SENG HARDWARE",
+    "confidence": 0.669,
+    "status": "low"
+  },
+  "date": {
+    "value": "2017-12-04",
+    "confidence": 0.767,
+    "status": "medium"
+  },
+  "items": [],
+  "total_amount": {
+    "value": 848.0,
+    "confidence": 0.711,
+    "status": "medium"
+  },
+  "reliability": {
+    "low_confidence_fields": [
+      "store_name",
+      "items"
+    ],
+    "requires_manual_review": true
+  },
+  "_debug": {
+    "total_line": "TOTAL 848.00",
+    "line_count": 27,
+    "ocr_confidence": 0.663
+  },
+  "source_file": "X51005663323.jpg",
+  "ocr": {
+    "confidence": 0.663,
+    "preprocessing_variant": "enhanced",
+    "deskew_angle": 0.0,
+    "raw_text": "Zion _\nKOH SENG HARDWARE\n1502665-P\nNO. 939, BATU LIMA,\nJALAN IPOH,\n51200 KUALA LUAPUR.\nTEL: 03-62504769 FAX: 03-62504769\nGST NO: 001117650944 :\nTxiwore SS\nCASH\nRECEIPT #: C300042153 DATE: 04/12/2017\nCASHIER : USER\nITEM QTY U/P AMOUNT\n3751, 2 | 424.00 848.00\nSReEXTENSION LADDER 12” X i2°\nTOTAL QUANTITY 2\nBase 0.00\n6ST 48.00\nROUNDING 0.00\nTOTAL 848.00\nCASH 848-00\nCHANGE 0:00\nCONE AMOUNT = TAX/ANT\nSR 800.00 6 «© 48.00\n48.00\nGOODS SOLD ARE HOT RETURNABLE,\nTHANK YOU."
+  }
+}

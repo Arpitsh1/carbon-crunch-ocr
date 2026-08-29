@@ -1,0 +1,39 @@
+{
+  "store_name": {
+    "value": "ro iw",
+    "confidence": 0.685,
+    "status": "low"
+  },
+  "date": {
+    "value": null,
+    "confidence": 0.0,
+    "status": "low"
+  },
+  "items": [],
+  "total_amount": {
+    "value": null,
+    "confidence": 0.0,
+    "status": "low"
+  },
+  "reliability": {
+    "low_confidence_fields": [
+      "store_name",
+      "date",
+      "total_amount",
+      "items"
+    ],
+    "requires_manual_review": true
+  },
+  "_debug": {
+    "total_line": null,
+    "line_count": 45,
+    "ocr_confidence": 0.758
+  },
+  "source_file": "X51005444037.jpg",
+  "ocr": {
+    "confidence": 0.758,
+    "preprocessing_variant": "gray",
+    "deskew_angle": 0.0,
+    "raw_text": "ro iw\no\ncE\nNando's\nPERi-PERI CHICKEN\nNando's Chickenland Malaysia\nSdn Bhd\nNando\"s 1 Mont Kiara\nUnit G-13, Ground Floor, No.1\nJin Kiara, Mont Kiara\n50480 Kuala Lumpur\nTel: 1300-88-6555 Fax: 603-6203 6355\nTax Invoice\nGST 1D:000097492992\n4 NANDOSS 76 SYAFIO 2\nChk 8660 GuestO\n28 Mar 18 18:32:36\n1 DELIVERY CHG 4.00 $\n4° 1/4 Chictisd-T 617.90 71.60 $\n4 1/4-H $\n4 ~~ CharGrill Veg(R)-1C s\nGrillVeg-H\nGrillVeg-H\nGrillVeg-H\nGrillVeg-H\n3 1/4 Chictisd-T 617.90 53.70 $\n3 V4-4 $\n3° Coleslaw(R)-TC $\n‘Sub Total 123.30\nAmt Due 129.30\nGST 66% 7.30\nHow was it for you?\nYour feedback is important,\n80 please complete our\n‘wen .howwas it 4you~my net\n‘A peal for you & 10 friends\nis up for grabs.\nSurvey Code:MALO2S\nT&C apply.\nFor Take Away and Delivery,\nfood is best consumed within 2 hours\nGSTSummary Amount(RM) GST(RM)\n‘S=GST @6%; 122.00 7.30\n1=GST @0%: 0.00 0.00\n|"
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "store_name": {
+    "value": "MYDIN MART SRI MUDA",
+    "confidence": 0.851,
+    "status": "high"
+  },
+  "date": {
+    "value": "2017-03-13",
+    "confidence": 0.841,
+    "status": "medium"
+  },
+  "items": [],
+  "total_amount": {
+    "value": 5.0,
+    "confidence": 0.785,
+    "status": "medium"
+  },
+  "reliability": {
+    "low_confidence_fields": [
+      "items"
+    ],
+    "requires_manual_review": true
+  },
+  "_debug": {
+    "total_line": "Total After Rounding 5.00",
+    "line_count": 35,
+    "ocr_confidence": 0.777
+  },
+  "source_file": "X51005587254.jpg",
+  "ocr": {
+    "confidence": 0.777,
+    "preprocessing_variant": "gray",
+    "deskew_angle": 2.36,
+    "raw_text": "|\nTRI SHAAS SON BHD (728515-H)\n‘MYDIN MART SRI MUDA |\n4-20, Jalan Ria 25/62 Taman Sri Huda\nSeksyen 25, 40400 Shah Alan Selangor\nTel : 03-51217970, Fax : 03-51218059\nGST 10:7000429166592\nRECEIPT\nTerminal: 468, ,5505P0S004\nTrans # ; 255018\nDate : 13/03/2017 03:00:42PM\nCashier : CH110137\nMSM - ROHINI\nEVEREADY BAT H/D 1015 Si4 AA EA 33\n8999002310564 re 2.00) 5.09\nTien Count 2\nTotal 5.00\nRounding Adjustment 0.09\nTotal After Rounding 5.00\nCash 10,09\nCHANGE 5.09\nGST Rate ‘Amt Excl GST(RH) Tax(RH)\nG = 6% 4.72 0.28\n= 0% 0.00 0.00\nPoints aig >\nJoin at F iT today!\n6605505001880000255018\nPrint Date: 13/03/2017 03:00:44PH\note: Any request for production of full\ntax invoice must be made within 3 sonths\nfron the date of purchase, If the request\n{snot wade within the prescribed\ntine frane,HYDIN nay based on its absolute\ndiscretion reject the request.\nThank You and Please Cone Again"
+  }
+}

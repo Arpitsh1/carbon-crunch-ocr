@@ -1,0 +1,39 @@
+{
+  "store_name": {
+    "value": "wet 23",
+    "confidence": 0.398,
+    "status": "low"
+  },
+  "date": {
+    "value": null,
+    "confidence": 0.0,
+    "status": "low"
+  },
+  "items": [],
+  "total_amount": {
+    "value": null,
+    "confidence": 0.0,
+    "status": "low"
+  },
+  "reliability": {
+    "low_confidence_fields": [
+      "store_name",
+      "date",
+      "total_amount",
+      "items"
+    ],
+    "requires_manual_review": true
+  },
+  "_debug": {
+    "total_line": null,
+    "line_count": 10,
+    "ocr_confidence": 0.354
+  },
+  "source_file": "X51005442376.jpg",
+  "ocr": {
+    "confidence": 0.354,
+    "preprocessing_variant": "gray",
+    "deskew_angle": -15.27,
+    "raw_text": "eT\nwet 23\n~Se”\n=\n— a\n= =\n“SaaS\n=\n“nese\na"
+  }
+}

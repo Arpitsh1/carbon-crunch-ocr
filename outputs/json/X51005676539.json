@@ -1,0 +1,38 @@
+{
+  "store_name": {
+    "value": "AID E",
+    "confidence": 0.699,
+    "status": "low"
+  },
+  "date": {
+    "value": "2018-01-10",
+    "confidence": 0.815,
+    "status": "medium"
+  },
+  "items": [],
+  "total_amount": {
+    "value": null,
+    "confidence": 0.0,
+    "status": "low"
+  },
+  "reliability": {
+    "low_confidence_fields": [
+      "store_name",
+      "total_amount",
+      "items"
+    ],
+    "requires_manual_review": true
+  },
+  "_debug": {
+    "total_line": null,
+    "line_count": 30,
+    "ocr_confidence": 0.736
+  },
+  "source_file": "X51005676539.jpg",
+  "ocr": {
+    "confidence": 0.736,
+    "preprocessing_variant": "enhanced",
+    "deskew_angle": 0.0,
+    "raw_text": "AID ————E\n/ Z13010lF —. <j\nSYARIKAT PERNIAGAAN GIN KEE\n(81109-A)\nNO 290, JALAN AIR PANAS,\nSETAPAK,\n63200, KUALA LUMPUR,\nTEL 03-40210276\nGST ID 000750673920\nSIMPLIFIED TAX INVOICE |\nCASH _\nDoc No (C$00012626 Date: 10/01/2018\nCashier USER Time: 09:20.00\nSalesperson Ret.\ntem Qty SiPrice_ Amount Tax\n1943 1 23.32 2332 SR\nHOES SET\nToy 1 2332.\nTotal Sales (Excluding GST) 22.00\nDiscount 0.00\nTotal GST 1.32\nRounding 0.00\nTotal Sales (Inclusive of GST): 23.32\nCASH : 23.32\nChange : 0.00\nGST SUMMARY\nTax Code % Amt(RM) Tax(RM)\nSR 6 22.00 132\n| Total : 22.00 1.32 )\nGOODS SOLD ARE Ni T RETUK) ABLE THANK YOU."
+  }
+}

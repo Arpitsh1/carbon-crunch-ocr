@@ -1,0 +1,37 @@
+{
+  "store_name": {
+    "value": "WESTERN EASTERN",
+    "confidence": 0.758,
+    "status": "medium"
+  },
+  "date": {
+    "value": "2018-02-26",
+    "confidence": 0.898,
+    "status": "high"
+  },
+  "items": [],
+  "total_amount": {
+    "value": null,
+    "confidence": 0.0,
+    "status": "low"
+  },
+  "reliability": {
+    "low_confidence_fields": [
+      "total_amount",
+      "items"
+    ],
+    "requires_manual_review": true
+  },
+  "_debug": {
+    "total_line": null,
+    "line_count": 22,
+    "ocr_confidence": 0.864
+  },
+  "source_file": "X51005684949.jpg",
+  "ocr": {
+    "confidence": 0.864,
+    "preprocessing_variant": "enhanced",
+    "deskew_angle": 1.76,
+    "raw_text": "3180203\n- WESTERN EASTERN\nSTATIONERY SON. BHD\nCO REG NO : 210038-k\nGST 1D : 000517095424\n42-46, JLN SULTAN AZLAN\nSHAH 51200 KUALA LUMPUR\nTEL : 03-4043 7678\nTAX INVOICE\nREG 26-02-2018 14:27\ncol kL O01 035857\nCLR P.S A4/A3\ns RM7. 42\n1 No\nGST TA AMT RM7.00\nGST 6% RMO. 42\nTOTAL RM. 42\nROUND ING ~0.02\nCASH RM7. 40\nTAX INVOICE OF GSI\nGOODS SOLD ARE NOT\nRETURNABLE"
+  }
+}

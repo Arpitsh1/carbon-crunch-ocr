@@ -1,0 +1,38 @@
+{
+  "store_name": {
+    "value": "laste Of Ihe World Sdn Bhd",
+    "confidence": 0.692,
+    "status": "low"
+  },
+  "date": {
+    "value": null,
+    "confidence": 0.0,
+    "status": "low"
+  },
+  "items": [],
+  "total_amount": {
+    "value": 64.15,
+    "confidence": 0.762,
+    "status": "medium"
+  },
+  "reliability": {
+    "low_confidence_fields": [
+      "store_name",
+      "date",
+      "items"
+    ],
+    "requires_manual_review": true
+  },
+  "_debug": {
+    "total_line": "TOTAL RM 64.15",
+    "line_count": 29,
+    "ocr_confidence": 0.742
+  },
+  "source_file": "X51005441407.jpg",
+  "ocr": {
+    "confidence": 0.742,
+    "preprocessing_variant": "enhanced",
+    "deskew_angle": 0.67,
+    "raw_text": "Geoventure\nlaste Of Ihe World Sdn Bhd\n965857-A\nLot 38 39 10! Boulevard\nJalan Kenar! § Bandar Puchong Jaya\n47170 Puchong Selangor\nTEL 03 ~ 8079 0255\nGST REG NO 000136577024\nRESERVATION NO 010 = /745055\nSIMPLIFIED TAX INVOICE\nInvoice 581355 Cashier NINI\n°0S No 1 Pax 0\nDate 5 3 2018 22 52 33\nTable No (038\nTEM QTY U PARM)DISG Cy Ant+GST RM\nS Tiger Bucket\n@1602 1 55 00 010 58 40\nS Service Ghredine! GST 6%) RM 5 BS\nTotal Sales(inel GSI 6%) RM 64 13\nRounding Adjustment RM O 02\nTOTAL RM 64.15\nCASH RM 100. 00\nCHANGE RM 35. 85\nMain Item Count 1\nTotal Discount RM 0 00\nGST Summary Amount (RM Tax (RM.\ns oN 60 50 3 63\nZ on 0 00 0 00\nK"
+  }
+}

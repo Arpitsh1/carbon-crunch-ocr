@@ -1,0 +1,38 @@
+{
+  "store_name": {
+    "value": "NYDIN MART SRI MOOK",
+    "confidence": 0.618,
+    "status": "low"
+  },
+  "date": {
+    "value": "2017-08-10",
+    "confidence": 0.716,
+    "status": "medium"
+  },
+  "items": [],
+  "total_amount": {
+    "value": 21.4,
+    "confidence": 0.66,
+    "status": "low"
+  },
+  "reliability": {
+    "low_confidence_fields": [
+      "store_name",
+      "total_amount",
+      "items"
+    ],
+    "requires_manual_review": true
+  },
+  "_debug": {
+    "total_line": "Total donding 21.40",
+    "line_count": 46,
+    "ocr_confidence": 0.584
+  },
+  "source_file": "X51005705760.jpg",
+  "ocr": {
+    "confidence": 0.584,
+    "preprocessing_variant": "enhanced",
+    "deskew_angle": 0.67,
+    "raw_text": "TRI SHAAS SON BHD (728515-)\nNYDIN MART SRI MOOK\n4-20, Jalan Ria 25/62 Tanan Sri Huda\nSeksyen 25, 40400 Shah Alan Selangor\nTel : 03-51217970_ Fax : 03-51216059\n6ST 1D: 000429166592\nRECEIPT\nTerminal: 195 = 550509011\nTrans # : 322563\nSate 3 10/08/2017 03:26:21PH\nCashier : cH10700$\nHSH ~ ALAIDAH\nFARTHER E/LORE 4.5INN.5IN W252 EAS\n355023304662 2 + 2.60 5.20\nPLASTIC BAG RHO.20. fv Ss\nPeowor7ses 1 + 0.20 0.20\nTEN 0 E/LOPE ISINCIOIN TO-SI015 EAS\n9958023907724 2 + 250 5.00\n‘WOE S/T TOOHKTSM;,N/GRN fA S\n9555495401722 1 + © 3.00 3.00\nUME S/NT TOOHKTSH, N/YLH fA AS\n955549540065 1+ 3.00) 3.00\nUGE S/NT SONKGEN,, YL f& 3S\n1255495400961 ue 230 Ge\nWOE S/NTETSRNSON,\nten: o ae\nTota > ‘\ntout a? 0.00\nTotal donding 21.40\ncash 50.00\nCHANGE 2860)\nGST Rate Ant Exc] GST(RM) —Tax(RH)\n8 = 6% 2.19 1,21\n120k 0.00 0.00\nPoints Missed: 20\n‘aid faa Progranne today!\nYUMA TL a\nPrint Date: 10/08/2017 03:26:22°H\nAny request for production of full. tax\n‘nvolce or related paynent information\n‘shall be nade Within 3 months from the :\ndate of purchase, failing which MYDIN at\nits absolute discretion as deen fit may\nTeJect or refuse to entertain such x\nrequest.\nThank You and Please Cone Again ."
+  }
+}

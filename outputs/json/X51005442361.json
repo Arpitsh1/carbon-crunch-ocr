@@ -1,0 +1,39 @@
+{
+  "store_name": {
+    "value": "More pred",
+    "confidence": 0.356,
+    "status": "low"
+  },
+  "date": {
+    "value": null,
+    "confidence": 0.0,
+    "status": "low"
+  },
+  "items": [],
+  "total_amount": {
+    "value": null,
+    "confidence": 0.0,
+    "status": "low"
+  },
+  "reliability": {
+    "low_confidence_fields": [
+      "store_name",
+      "date",
+      "total_amount",
+      "items"
+    ],
+    "requires_manual_review": true
+  },
+  "_debug": {
+    "total_line": null,
+    "line_count": 16,
+    "ocr_confidence": 0.29
+  },
+  "source_file": "X51005442361.jpg",
+  "ocr": {
+    "confidence": 0.29,
+    "preprocessing_variant": "adaptive",
+    "deskew_angle": 12.85,
+    "raw_text": "ad\n.\nMore pred?\na ee”\neste\nee\nBee\net Oo,\n—\nene =\ner\" aa\nBeet +8\nee\n\\ Remar ie\na\n=F gs"
+  }
+}

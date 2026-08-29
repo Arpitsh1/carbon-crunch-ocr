@@ -1,0 +1,37 @@
+{
+  "store_name": {
+    "value": "WR. 0.1.Y. M SDN BHO",
+    "confidence": 0.697,
+    "status": "low"
+  },
+  "date": {
+    "value": "2018-03-26",
+    "confidence": 0.837,
+    "status": "medium"
+  },
+  "items": [],
+  "total_amount": {
+    "value": 28.0,
+    "confidence": 0.844,
+    "status": "medium"
+  },
+  "reliability": {
+    "low_confidence_fields": [
+      "store_name",
+      "items"
+    ],
+    "requires_manual_review": true
+  },
+  "_debug": {
+    "total_line": "Total Incl. GST@6x RM 28.00",
+    "line_count": 28,
+    "ocr_confidence": 0.771
+  },
+  "source_file": "X51005757323.jpg",
+  "ocr": {
+    "confidence": 0.771,
+    "preprocessing_variant": "gray",
+    "deskew_angle": 0.0,
+    "raw_text": "2)803060\nWR. 0.1.Y. (M) SDN BHO\n(CO.REG :860671-D)\nLOT 1851-A & 1851-B, JALAN KFB 6,\nKAWASAN PERINDUSTRIAN BALAKONG,\n43300 SERI KEMBANGAN, SELANGOR\n(GST ID Ko :000308020352)\n(101 PUCHONG)\n-TAX INVOICE-\nPILLAR SINK TAP 87601 45\n0205 - 5/60\n9074624 1X 19.90 19.90\nNASCO SEAL TAPE NST 4S\nWA33 - 100/1000\n9180501 1X 0.80 0.80\nS/S COLANDER RH-008# 24.5CM +5\nAD41/2 - 5/100\n9067474 eX GO 7330)\nItem(s) : 3 aty(s) : 3\nTotal Incl. GST@6x RM 28.00\nCASH RN 40.00\nCHANGE RH 12.00\nGST 86% included in total RM 1.58\n26-03-18 15:25 SHO 2J86 1 RO00112587\nOPERATOR TRAINEE CASHIER\nEXCHANGE ARE ALLOWED WITHIN\n7 OAY WITH RECEIPT.\nSTRICTLY NO CASH REFUND."
+  }
+}

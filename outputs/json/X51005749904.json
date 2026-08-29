@@ -1,0 +1,37 @@
+{
+  "store_name": {
+    "value": "SWC ENTERPRISE SDN BHD",
+    "confidence": 0.726,
+    "status": "medium"
+  },
+  "date": {
+    "value": "2018-03-06",
+    "confidence": 0.824,
+    "status": "medium"
+  },
+  "items": [],
+  "total_amount": {
+    "value": null,
+    "confidence": 0.0,
+    "status": "low"
+  },
+  "reliability": {
+    "low_confidence_fields": [
+      "total_amount",
+      "items"
+    ],
+    "requires_manual_review": true
+  },
+  "_debug": {
+    "total_line": null,
+    "line_count": 24,
+    "ocr_confidence": 0.75
+  },
+  "source_file": "X51005749904.jpg",
+  "ocr": {
+    "confidence": 0.75,
+    "preprocessing_variant": "enhanced",
+    "deskew_angle": 0.0,
+    "raw_text": "4. 5\nit .\nSWC ENTERPRISE SDN BHD\n+ (1125830-V)\n28-8, Ground Floor,\nJalan Dinar 4 U3/A,\nTmn Subang Perdana, 40150\n. Shah Alam, Selangor.\n| TAX INVOICE\n(8ST ID No. : 002017808384)\n_ 06/03/2018 Cashaers 123\n20205: 5é No:0100122617 |\n| Ttem/Desc Oty Price Amt.\nTM&21 1.5\"B/CAT NYLON\nOLS 23 BoZi-1 1 2.0 2.00\nOPP TAPE 1.5\" |\nQPP TAPE 1.5\" 1 2,00 2.00 |\nTotal Oty + 2 ‘\nby AMOUNT Sa 4.00\nc 4.00\nGST @6\"% Incinded In Total 0.22\nThank Yo eese Lome Again '\nGoods Scic Only Exchargable\n1 Withir 3 Days"
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "store_name": {
+    "value": "Walmart",
+    "confidence": 0.714,
+    "status": "medium"
+  },
+  "date": {
+    "value": null,
+    "confidence": 0.0,
+    "status": "low"
+  },
+  "items": [],
+  "total_amount": {
+    "value": null,
+    "confidence": 0.0,
+    "status": "low"
+  },
+  "reliability": {
+    "low_confidence_fields": [
+      "date",
+      "total_amount",
+      "items"
+    ],
+    "requires_manual_review": true
+  },
+  "_debug": {
+    "total_line": null,
+    "line_count": 41,
+    "ocr_confidence": 0.705
+  },
+  "source_file": "7.jpg",
+  "ocr": {
+    "confidence": 0.705,
+    "preprocessing_variant": "enhanced",
+    "deskew_angle": 0.0,
+    "raw_text": "Soe back of receipt for your chance\nto win $1000\nID #: TL2T9MIM25F\nWalmart >)<\nalmart >,<\nSave money. Live better.\n4 «701 ) 223 - 9066\nMANAGER. TIM MORRIS\n2717 ROCK TSLAND PL.\nBISMARCK ND 58504\nSTW 01534 OPH 009048 TE 48 TRA 04455\n6 WING PLATE 020108870998 3.98 P\nASST 27. 063099656595, 4:88 X\nCUTIE CAR 063099656644 12.88 X\nSUBTOTAL 21.74\naoe TAK 1 6.500 % 1215\nTAX 47.500 % 0:30\n—_ TOTAL = 23.19\nDEBIT TEN) — 23.19\nCHANGE DUE “000\nEFT DEBIT PAY FROM PRIMARY\n23.19 TOTAL PURCHASE\nUs DEBIT xxx xxex xxxx 2696 1 0\nREF # 731700494718\nNETWORK ID. 0081 APPR CODE 996886\nUs DEBIT\n‘ATD_A0000000980840\nTC 588772390A583844\n+*NO STGNATURE REQUIRED\nTERMINAL # SCO11090\nMAST 12:34:04\n# TIEMS SOLD 3\nTew 2188 7274 6444 1567 3762\nLow Prices You Can Trust. Every Day.\nU/13/17 12:34:11\nStore receipts on your phone. Walmart P\nay.\nneds\ncee\nPi ae\nGees"
+  }
+}

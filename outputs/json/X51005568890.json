@@ -1,0 +1,38 @@
+{
+  "store_name": {
+    "value": "HON HWA HARDWARE TRADING",
+    "confidence": 0.662,
+    "status": "low"
+  },
+  "date": {
+    "value": null,
+    "confidence": 0.0,
+    "status": "low"
+  },
+  "items": [],
+  "total_amount": {
+    "value": 5.6,
+    "confidence": 0.704,
+    "status": "medium"
+  },
+  "reliability": {
+    "low_confidence_fields": [
+      "store_name",
+      "date",
+      "items"
+    ],
+    "requires_manual_review": true
+  },
+  "_debug": {
+    "total_line": "Total 4h 0.28 5.60",
+    "line_count": 25,
+    "ocr_confidence": 0.653
+  },
+  "source_file": "X51005568890.jpg",
+  "ocr": {
+    "confidence": 0.653,
+    "preprocessing_variant": "adaptive",
+    "deskew_angle": 0.0,
+    "raw_text": "“e .\n- , woe\n. HON HWA HARDWARE TRADING\nCompany Reg. Na. : 001055194\n+ NO 37, JALAN MANIS 7, TAMAN SEGAR,\n66100 CHERAS, KUALA LUMPUR.\n+¥603-9130 2672\nGST Rag \"001426220352\nTAXINVOICE\nCom: 08549 0601/2017 4:47:51 PM\nMi ; C2-0\nCashior * casht -\nOty Description Frico Tolal(RMt\n5 PVC WALLPLUG Too 4.00 SR\nS Tyna: t Total 5.00\nDiscount’ oon\nRounding Adj 0.00\nTotal Inchisive GST 5.00\nCASH 5.00\nGST Summary\nCode % ——NelAmt GST _Totaam)\nSR__ SR 472 0.28 5.00\nTotal 4h 0.28 5.60\nThank you | & Please core again |!\nGoods Sokt are nol teturmable for tetund or exchange M"
+  }
+}

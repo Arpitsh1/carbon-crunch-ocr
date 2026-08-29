@@ -1,0 +1,38 @@
+{
+  "store_name": {
+    "value": "Zen and coffee 28 S B",
+    "confidence": 0.731,
+    "status": "medium"
+  },
+  "date": {
+    "value": null,
+    "confidence": 0.0,
+    "status": "low"
+  },
+  "items": [],
+  "total_amount": {
+    "value": null,
+    "confidence": 0.0,
+    "status": "low"
+  },
+  "reliability": {
+    "low_confidence_fields": [
+      "date",
+      "total_amount",
+      "items"
+    ],
+    "requires_manual_review": true
+  },
+  "_debug": {
+    "total_line": null,
+    "line_count": 35,
+    "ocr_confidence": 0.829
+  },
+  "source_file": "X51005719906.jpg",
+  "ocr": {
+    "confidence": 0.829,
+    "preprocessing_variant": "enhanced",
+    "deskew_angle": 0.0,
+    "raw_text": "Zen and coffee 28 S/B\nNo 53, Jalan 3/62A,\nBandar menjalara,\n52208 Kuala Lumpur.\n(GST Number: 001363259392)\nDate: 25 Mar 2018 9:27PM\nReceipt No: 57269\nServed By: Cashier\nPax: 2\nTable: L2\n1 Saba shioyaki wazen (20mins) 26.00 S\n1 Unagi don 28.00 S\n1 Spicy ASARI Pasta 19.00 S\n1 Ebi Mentai Pasta 22.00 S\n1 Jasmine Green Tea 10.00 S\n* Extra 1 Tea Cup\nSubtotal: 105.08\nTotal:\n105.00\nCash: 105.08\nChange: 0.00\nseppeoieroobctonk GST Summary sosekebbicopisco\nTax Code Amount Tax\nS CO% 99.05, 5.95\ncnecehecrineehieierneeeieroeibeeieee\nBusiness Hour :\nMON-FRI 11:30am ~10:@0pm\nSAT-SUN 11:0@am-10:@0pm\nTel: @3-62619337\nEmail: zenandcof fee88@gmail.com\nFacebook: zenandcoffee\nInstagram: ZenAndCof fee\nWifi Password: zenandcoffee\nThank You, Please come again.\nPowered by ARMS F&B (www.anns-fnb. com)"
+  }
+}

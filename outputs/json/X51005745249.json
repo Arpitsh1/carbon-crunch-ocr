@@ -1,0 +1,36 @@
+{
+  "store_name": {
+    "value": "URBAN IDEA SON BHD 417940-M",
+    "confidence": 0.71,
+    "status": "medium"
+  },
+  "date": {
+    "value": "2018-02-27",
+    "confidence": 0.85,
+    "status": "high"
+  },
+  "items": [],
+  "total_amount": {
+    "value": 24.0,
+    "confidence": 0.794,
+    "status": "medium"
+  },
+  "reliability": {
+    "low_confidence_fields": [
+      "items"
+    ],
+    "requires_manual_review": true
+  },
+  "_debug": {
+    "total_line": "Total (Eat In) Rw24.00 A",
+    "line_count": 30,
+    "ocr_confidence": 0.791
+  },
+  "source_file": "X51005745249.jpg",
+  "ocr": {
+    "confidence": 0.791,
+    "preprocessing_variant": "enhanced",
+    "deskew_angle": -0.11,
+    "raw_text": ". ad . .\nSubway#42210-0 Phone 03-78870693\nURBAN IDEA SON BHD (417940-M),\nA-G-06, DATARAN GLOHAC,\nJALAN SS6/5A, PUSAT BANDAR KELANA JAYA,\n47301 PETALING JAYA, SELANGUR, Malaysia\nServed by: rojan 27/02/2018 15:32:47\nTax Invoice# 1/A-42210-140220\nGST ID: 000220499968\nQty Size Ttem Price\n1 Bag Fee RMO.20\n1 (MY) EDY Meal RM11.90\n6\" -Meatball Sub\n~1602 Fountain Brink\n-1 Cookies\n1 (MY) EDV Meal RMI1.90\n6” -BBQ Chicken Strips Sub\n~1602 Fountain Drink\n-1 Cookies\nCash Rounding ~GNO.01\nTotal (Eat In) Rw24.00 A\nCash RM30.00\nChange RM6 .00\nTax Info:\nGST 6% (6%) a V RMI.36 \"A\nTotal-Exc)-GST RN22.65\nTake our 1 Minute Survey at\nwaw.tellsubway.my and get a FREE COOKIE\nwith next purchase Redemption of 1\ncookie per transaction"
+  }
+}

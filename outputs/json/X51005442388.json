@@ -1,0 +1,39 @@
+{
+  "store_name": {
+    "value": "ro hts",
+    "confidence": 0.398,
+    "status": "low"
+  },
+  "date": {
+    "value": null,
+    "confidence": 0.0,
+    "status": "low"
+  },
+  "items": [],
+  "total_amount": {
+    "value": null,
+    "confidence": 0.0,
+    "status": "low"
+  },
+  "reliability": {
+    "low_confidence_fields": [
+      "store_name",
+      "date",
+      "total_amount",
+      "items"
+    ],
+    "requires_manual_review": true
+  },
+  "_debug": {
+    "total_line": null,
+    "line_count": 9,
+    "ocr_confidence": 0.354
+  },
+  "source_file": "X51005442388.jpg",
+  "ocr": {
+    "confidence": 0.354,
+    "preprocessing_variant": "enhanced",
+    "deskew_angle": -6.28,
+    "raw_text": "so\nro hts\nSaree\na\nAPY we\nfea ms) wi\nrr\n= ory\nES PM"
+  }
+}

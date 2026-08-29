@@ -1,0 +1,38 @@
+{
+  "store_name": {
+    "value": "i SOLARIS",
+    "confidence": 0.596,
+    "status": "low"
+  },
+  "date": {
+    "value": "2018-01-14",
+    "confidence": 0.736,
+    "status": "medium"
+  },
+  "items": [],
+  "total_amount": {
+    "value": 4.0,
+    "confidence": 0.68,
+    "status": "low"
+  },
+  "reliability": {
+    "low_confidence_fields": [
+      "store_name",
+      "total_amount",
+      "items"
+    ],
+    "requires_manual_review": true
+  },
+  "_debug": {
+    "total_line": "Total gop 4.00",
+    "line_count": 26,
+    "ocr_confidence": 0.616
+  },
+  "source_file": "X51005675095.jpg",
+  "ocr": {
+    "confidence": 0.616,
+    "preprocessing_variant": "gray",
+    "deskew_angle": 0.0,
+    "raw_text": "a\n% tg oer\ni SOLARIS\nutd] ulamas\nSUN VICTORY SON 8D\n(No. 193673-4)\nLevel 62,Block 01,\nSolaris Outanas,\nNo. 1, Jalan Outaras 1,\n. 50480 Kuala Lumpur.\n(GST_ 10 No:000377700352)\nTEL:03-€205 5386\nTax Invoice\nP/S #07 A iNV-No, 02071401 18000488\nV0 444 Ticket. No.026165\nEntry Time 14/01/2018 (Sun) 12:08\nPaid Time 14/01/2018 (Sun) 13:51\nParking Time 1:45\nPaking Fee RateA —-RMA.0D\nAmount [4.118 0.77\nGsT 6.00% 0.297\nTotal gop 4.00\npara 199 faalo0\nChange RMO.00\nInclusive 6% 6ST\nThark You"
+  }
+}

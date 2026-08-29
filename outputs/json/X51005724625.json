@@ -1,0 +1,37 @@
+{
+  "store_name": {
+    "value": "KEDAI PAPAN YEW CHUAN",
+    "confidence": 0.709,
+    "status": "medium"
+  },
+  "date": {
+    "value": null,
+    "confidence": 0.0,
+    "status": "low"
+  },
+  "items": [],
+  "total_amount": {
+    "value": 16.05,
+    "confidence": 0.793,
+    "status": "medium"
+  },
+  "reliability": {
+    "low_confidence_fields": [
+      "date",
+      "items"
+    ],
+    "requires_manual_review": true
+  },
+  "_debug": {
+    "total_line": "Total : 267.50 16.05",
+    "line_count": 39,
+    "ocr_confidence": 0.789
+  },
+  "source_file": "X51005724625.jpg",
+  "ocr": {
+    "confidence": 0.789,
+    "preprocessing_variant": "enhanced",
+    "deskew_angle": 0.0,
+    "raw_text": "R\n1068 Neda\nKEDAI PAPAN YEW CHUAN\n(0005583085-K)\nLOT 276 JALAN BANTING\n43800 DENGKIL, SELANGOR.\nTEL 03-87686092 FAX 03-87686092\nGST ID 000781500416\nTAX INVOICE __\nBill To\n‘SUC! ALAM JAYA TRANSPORT\nNO 1 JALAN AMAN 2\nTAMAN DESA 43800\nDENGKIL SELANGOR\n017-6057770\nBoe No. CS000TO7OZ Date 1270372078\n‘Cashier USER Time: 09:20:00\nSalesperson Ref.\n(GST) (GST)\nttem Qty _SiPrice_S/Price Amount Tax\n101860 60.00 63.60 12720 «SR\nPASIR KASAR (D.\n101871 1 65.00 68.90 6890 SR\nBATU 3/4 (D)\n101756 5 16.50 17.48 8745 SR\n‘SIMEN\nTotal Qty: 8 28365\nTotal Sales (Excluding GST) 267 60\nDiscount 0.00\nTotal GST 16.05\nRounding 0.00\nTotal Sales (Inclusive of GST) : 283.55\nCASH : 300.00\nChange : 16.45\nGST SUMMARY\nTax Code 4 Amt(RM) = Tax (RM)\nSR 6 267.50 16.05\nTotal : 267.50 16.05\nGOODS SOLD ARE NOT RETURNABLE, THANK YOU."
+  }
+}

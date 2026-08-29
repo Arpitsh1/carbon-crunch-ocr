@@ -1,0 +1,38 @@
+{
+  "store_name": {
+    "value": "Segi Cash & ap",
+    "confidence": 0.612,
+    "status": "low"
+  },
+  "date": {
+    "value": null,
+    "confidence": 0.0,
+    "status": "low"
+  },
+  "items": [],
+  "total_amount": {
+    "value": 674.0,
+    "confidence": 0.762,
+    "status": "medium"
+  },
+  "reliability": {
+    "low_confidence_fields": [
+      "store_name",
+      "date",
+      "items"
+    ],
+    "requires_manual_review": true
+  },
+  "_debug": {
+    "total_line": "Total Incl. GST:RH 674.00",
+    "line_count": 40,
+    "ocr_confidence": 0.645
+  },
+  "source_file": "X51005763999.jpg",
+  "ocr": {
+    "confidence": 0.645,
+    "preprocessing_variant": "enhanced",
+    "deskew_angle": 0.0,
+    "raw_text": "Segi Cash & “ap\npt17920 Sek U?, Shah AlaR\nGST Reg No : GOL9S1445696\nInvoice No ¢ 62513\nDate 106 Jan 2018 05:2ipm\nCounter = 02\nMIGHTY MARK DISHWASH 11L\n2x 9.90 19.80 §\nCROWN’S POWER PHD DETERGENT SKG\n1 x 11,50 (Disc: 1.60) 9.90 §\nUDANG XL\n3.18 x 39.90 126.88 Z\nUDANG XL\n3.15 x 39.90 125,69 Z\nWIN CENDOL (GROSS 1.5KG, NET 1KG)\n2x 4,51 9.02\nTKAN BILIS C TIMBANG\n1.36 x 55.00 74.80 Z\nAJINOMOTO 20X1K6\n1 x 210.00 210.00 §\nSEGI/LEMBU EHAS OIL 17K6+~\n1x 67.90 49.90 Z\nABC TEPUNG UBL 10x1k6\n1 x 28.00 28.00 Z\nNo of items: 11\nSubtotal Incl. GST#RH 673.99\nRounding:RH O01\nTotal Incl. GST:RH 674.00\nVISA eanacanexx7L18s 674.00\nChangeskh (0.00\nSavings:RM 1.60\nMissed Point Today: 659\nServed by KALAUATAT A/P AYAvR a4\n‘PAROOEEKKERE OST Summary weal\nGST Code Amount (RK) T3x(RM)\n$ 96.0% 20.63 16.09,\n700.0% 425.27 0.00\nOEE OL\nRef No: 00600566580062513\nGoods Sold Are Not Returnable. 10"
+  }
+}

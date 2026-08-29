@@ -1,0 +1,38 @@
+{
+  "store_name": {
+    "value": "KEDAI PAPAN YEW CHUAN",
+    "confidence": 0.698,
+    "status": "low"
+  },
+  "date": {
+    "value": null,
+    "confidence": 0.0,
+    "status": "low"
+  },
+  "items": [],
+  "total_amount": {
+    "value": 4.8,
+    "confidence": 0.782,
+    "status": "medium"
+  },
+  "reliability": {
+    "low_confidence_fields": [
+      "store_name",
+      "date",
+      "items"
+    ],
+    "requires_manual_review": true
+  },
+  "_debug": {
+    "total_line": "Total. __ 80.00 4.80",
+    "line_count": 35,
+    "ocr_confidence": 0.772
+  },
+  "source_file": "X51005724628.jpg",
+  "ocr": {
+    "confidence": 0.772,
+    "preprocessing_variant": "enhanced",
+    "deskew_angle": 0.0,
+    "raw_text": "‘\nKEDAI PAPAN YEW CHUAN\n(0005583086-K)\nLOT 276 JALAN BANTING\n43800 DENGKIL, SELANGOR\nTEL 03-87686092 FAX 03-87686092\nGST ID 000781500416\nTAX INVOICE —\nBil To\nSUCI ALAM JAYA TRANSPORT\nNO 1 JALAN AMAN 2\nTAMAN DESA 43800\nDENGKIL SELANGOR\n017-6057770\nBoc No, CS000T0679 Date 1070372018\nCashier USER Time: 13:49:00\nSalesperson Ref\n(cst) (st)\n-tem___Qty_s/Price_$/Price_Amount_Tax\n100135 10 8.00 8.48 8480 =6SR\nBES! R 5.5 (CQ)\nTotaly. 10 8480\nTotal Sales (Excluding GST) 80.00\nDiscount 0.00\nTotal GST 4.80\nRounding 0.00\nTotal Sales (Inclusive of GST); 84.80\nCASH: 84.80\nChange : 0.00\nGST SUMMARY _\nTax Code % Amt(RM) = Tax (RM)\nSR 6 80.00 4.80\nTotal. __ 80.00 4.80\n(GOODS SOLD ARE NOT RETURNABLE, THANK YOU.\na"
+  }
+}

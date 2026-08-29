@@ -1,0 +1,37 @@
+{
+  "store_name": {
+    "value": "SDN BHD",
+    "confidence": 0.797,
+    "status": "medium"
+  },
+  "date": {
+    "value": "2018-03-14",
+    "confidence": 0.895,
+    "status": "high"
+  },
+  "items": [],
+  "total_amount": {
+    "value": null,
+    "confidence": 0.0,
+    "status": "low"
+  },
+  "reliability": {
+    "low_confidence_fields": [
+      "total_amount",
+      "items"
+    ],
+    "requires_manual_review": true
+  },
+  "_debug": {
+    "total_line": null,
+    "line_count": 33,
+    "ocr_confidence": 0.86
+  },
+  "source_file": "X51005447840.jpg",
+  "ocr": {
+    "confidence": 0.86,
+    "preprocessing_variant": "gray",
+    "deskew_angle": 0.0,
+    "raw_text": "PASARAYA BORONG PINTAR\nSDN BHD\nBR No. (124525-H)\nNO 19-G819-1819-2 JALAN TASIK UTAMA 4\nMEDAN NIAGA TASIK DAMA!\n016-5498846,\nGST No\n14/03/2018 557.07PM\nTAX INVOICE\nTRN: CROO08964\nCOUNTER 3 CASHIER: 1\n| QTY UOM UNITAmt Exc. Amt Inc. GST\nPrice Tax Tax Code\nWALL'S TOPTEN CHOCOLATE 73ML\n1 WALK 1.60 1.60 160 ZRL\nWALL'S TOPTEN CHOCOLATE 73ML\n1 WALK 160 1.60 160 ZRL\nMAGNUM ALMOND 90ML\n1 WALK 450 4.50 450 ZRL\nCloud 9 plus 22g\n1 WALK 0.50 050 050 ZRL\n“Total Qty: 4.00 820\nTotal Includes GST 0% 8.20\nCustomer's Payment\nCash 20.20\nChange 12.00\nGST Summary Amount (RM) Tax (RM)\nZRL=0% 820 0.00\n*Goods sold are not returnable\nThank you for shopping at PASARAYA\nBORONG PINTAR SDN BHD\n|\n2 “i"
+  }
+}

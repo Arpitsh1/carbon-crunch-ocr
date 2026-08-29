@@ -1,0 +1,39 @@
+{
+  "store_name": {
+    "value": "score",
+    "confidence": 0.367,
+    "status": "low"
+  },
+  "date": {
+    "value": null,
+    "confidence": 0.0,
+    "status": "low"
+  },
+  "items": [],
+  "total_amount": {
+    "value": null,
+    "confidence": 0.0,
+    "status": "low"
+  },
+  "reliability": {
+    "low_confidence_fields": [
+      "store_name",
+      "date",
+      "total_amount",
+      "items"
+    ],
+    "requires_manual_review": true
+  },
+  "_debug": {
+    "total_line": null,
+    "line_count": 12,
+    "ocr_confidence": 0.306
+  },
+  "source_file": "X51005442375.jpg",
+  "ocr": {
+    "confidence": 0.306,
+    "preprocessing_variant": "enhanced",
+    "deskew_angle": 13.76,
+    "raw_text": "-\nscore\ncam\na\nroe\nee\nEee gt\nol\na =\nEE wept\nee\n="
+  }
+}

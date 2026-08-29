@@ -1,0 +1,37 @@
+{
+  "store_name": {
+    "value": "SYARIKAT PERNIAGAAN GIN KEE",
+    "confidence": 0.697,
+    "status": "low"
+  },
+  "date": {
+    "value": "2018-01-03",
+    "confidence": 0.837,
+    "status": "medium"
+  },
+  "items": [],
+  "total_amount": {
+    "value": 4.08,
+    "confidence": 0.781,
+    "status": "medium"
+  },
+  "reliability": {
+    "low_confidence_fields": [
+      "store_name",
+      "items"
+    ],
+    "requires_manual_review": true
+  },
+  "_debug": {
+    "total_line": "Total : 68.00 4.08",
+    "line_count": 34,
+    "ocr_confidence": 0.771
+  },
+  "source_file": "X51005676534.jpg",
+  "ocr": {
+    "confidence": 0.771,
+    "preprocessing_variant": "gray",
+    "deskew_angle": 0.0,
+    "raw_text": "18,01 O1F\nSYARIKAT PERNIAGAAN GIN KEE\n(81109-A)\nNO 290, JALAN AIR PANAS,\nSETAPAK,\n93200, KUALA LUMPUR.\nTEL 0340210276\nGST ID : 000750673920\nSIMPLIFIED TAX INVOICE\nCASH\nDoc No. ©$00012524 Date 03/01/2018\nCashier USER Time: 17.08.00\nSalesperson Ref.\ntem Qty__S/Price_Amount_Tax_\n1612 1 10.60 1060 SR\n104 COTTON GLOVE (DOZEN)\n3032 1 2332-2332 SR\nFACE MASK\n3313 2 19.08 38.16 SR\nCS 200A CUTTING WHEEL\nToa 9B\nTotal Sales (Excluding GST) 6800\nDiscount 0.00\nTotal GST 408\nRounding 000\nTotal Sales (Inclusive of GST) : 72.08\nCASH: 72.08\nChange : 0.00\nGST SUMMARY = ——\nTaxCode = = AmI(RM) Tax (RM)\nSR 6 68.00 4.08\nTotal : 68.00 4.08\nfe L__ Totals, 68.00 4.08] //\nGOODS SOLD ARE NOT RETURNABLE, THANK YOU"
+  }
+}

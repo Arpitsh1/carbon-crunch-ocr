@@ -1,0 +1,37 @@
+{
+  "store_name": {
+    "value": "Mr Daal Solaris",
+    "confidence": 0.727,
+    "status": "medium"
+  },
+  "date": {
+    "value": "2018-01-05",
+    "confidence": 0.87,
+    "status": "high"
+  },
+  "items": [],
+  "total_amount": {
+    "value": null,
+    "confidence": 0.0,
+    "status": "low"
+  },
+  "reliability": {
+    "low_confidence_fields": [
+      "total_amount",
+      "items"
+    ],
+    "requires_manual_review": true
+  },
+  "_debug": {
+    "total_line": null,
+    "line_count": 21,
+    "ocr_confidence": 0.822
+  },
+  "source_file": "X51005719893.jpg",
+  "ocr": {
+    "confidence": 0.822,
+    "preprocessing_variant": "enhanced",
+    "deskew_angle": 0.0,
+    "raw_text": "Mr Daal Solaris\nBRN GST No. 000417619968 President: Kang\nNo.J-G-02, Soho KI, Solaris Mont Kiera, 50\n480 KL\nGST No.\nTEL)O3 6206 5567\n[Sales]2018-01-05 22:55:25 PosNo:86\nDescription qty Price\nFried Rice 3 Pax 1 71.00(S)\n1 Item (Inclusive of GST) 71,00\nRound Amt 0.00\nCash 71.00\nCash Received 101.00\nChange 30.00\nGST 6% 4.02\nGsTSummary Amount (RM) GST(RM)\nS=GST @ 6%: 66.98 4,02\n2=GST @ 0%. ¢ 00 9 on\n| Receipt No: 18010500047\nPerson —: S-Admin\nTable lo: [Hall]-9"
+  }
+}

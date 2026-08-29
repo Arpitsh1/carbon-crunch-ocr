@@ -1,0 +1,40 @@
+{
+  "store_name": {
+    "value": "FY EAGLE ENTERPRISE",
+    "confidence": 0.728,
+    "status": "medium"
+  },
+  "date": {
+    "value": "2017-12-04",
+    "confidence": 0.802,
+    "status": "medium"
+  },
+  "items": [
+    {
+      "name": "(RH) (RN) 2",
+      "price": 7.0,
+      "confidence": 0.758
+    }
+  ],
+  "total_amount": {
+    "value": 7.0,
+    "confidence": 0.746,
+    "status": "medium"
+  },
+  "reliability": {
+    "low_confidence_fields": [],
+    "requires_manual_review": false
+  },
+  "_debug": {
+    "total_line": "TOTAL 7.00",
+    "line_count": 30,
+    "ocr_confidence": 0.716
+  },
+  "source_file": "X51005577192.jpg",
+  "ocr": {
+    "confidence": 0.716,
+    "preprocessing_variant": "enhanced",
+    "deskew_angle": 0.67,
+    "raw_text": "FY EAGLE ENTERPRISE\n002065444-*\nNO. 42, JALAN PBS 14/11,\nTAMAN PERINOUSTRIAN BUKIT SERDANG,\n43300 SERI KEMBANGAN,\nSELANGOR:\nTEL: 03-89433143 FAX: 03-89433143\nGST NOs 001663156224\nja iwoice=SSOS™S~S~S~S\nRECEIPT #: CS00031180 DATE: 04/12/2017\nSALESPERSON : TIME: 15:14:00\nCASHIER = USER\nITEM Qty U/P AMOUNT\n(RH) (RN)\n12089 2 3.50 7.00\nSRsTAPE OPP 48HMXOY CLEAR(B.PY)-ECS\nTOTAL QUANTITY 2\n‘SUB-TOTAL 6.60\nDISC 0.00\n6oT 0.40\nROUNDING 0.00\nTOTAL 7.00\nCASH 7.00\nCHANGE o0.0c\nGST SUMMARY\nCODE AMOUNT z TAX/AKT\nSR 6.40 é 0.40\nTAK TOTAL: (0.0\nGODS SOLD ARE NOT RETURNABLE,\nTHANK YOU."
+  }
+}

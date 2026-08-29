@@ -1,0 +1,42 @@
+{
+  "store_name": {
+    "value": "VIVOPAC MARKETING SDN BHD 1070687-M",
+    "confidence": 0.762,
+    "status": "medium"
+  },
+  "date": {
+    "value": "2017-09-13",
+    "confidence": 0.836,
+    "status": "medium"
+  },
+  "items": [
+    {
+      "name": "gy RM RM CODE Stretch Film (100mmxi20m) LOOROLL* 4.5000 450 SR PP - 16x26 0.04mm PKT * 15.0000 SR",
+      "price": 15.0,
+      "confidence": 0.789
+    }
+  ],
+  "total_amount": {
+    "value": null,
+    "confidence": 0.0,
+    "status": "low"
+  },
+  "reliability": {
+    "low_confidence_fields": [
+      "total_amount"
+    ],
+    "requires_manual_review": true
+  },
+  "_debug": {
+    "total_line": null,
+    "line_count": 32,
+    "ocr_confidence": 0.769
+  },
+  "source_file": "X51005568895.jpg",
+  "ocr": {
+    "confidence": 0.769,
+    "preprocessing_variant": "enhanced",
+    "deskew_angle": 0.0,
+    "raw_text": "VIVOPAC MARKETING SDN BHD (1070687-M)\n14 JALAN MANIS 4 TAMAN SEGAR 56100 KL\nTEL: 03-91334364 FAX: 03-91310522\nwww. vivopac.com\nGST REG: 000565805056\nTAX INVOICE\nDoc#: — cS11567459\nDate: 13/09/2017 01.13:09 PM\nPromoter\nTerminal: Tot Cashier UI\n‘DESCRIPTION PRICE Disc’ AMOUNT TAK”\ngy RM RM CODE\nStretch Film (100mmxi20m)\nLOOROLL* 4.5000 450 SR\nPP - 16x26 0.04mm\n1.00PKT * 15.0000 15.00 SR\nPP - 14x20 0.04mm\n| 200PKT + 15.0000 30.00 SR\nItem Count: 3 Item Qty: 4,00\n~ SubTotal Exclusive GST); 9.50\nGST 6% 297\nRounding Ad} 0.02\nRounded Total (RM): 52.45\nCash Change 0.55\nGST Summary Amount(RM) __Tax(RM)\nSROE% 49.50 297\n‘Terms & Conditions\nGoods sold are not refundable with cash.\nFor exchange of goods sold the following apply:\n1, The original receipt must be presented\n2, Exchange is done within 7 days from date of receipt\nIn good condition and in it's original pakcing"
+  }
+}

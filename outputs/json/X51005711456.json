@@ -1,0 +1,65 @@
+{
+  "store_name": {
+    "value": "MIZU MENTAI SON. BHD. 1248446-V",
+    "confidence": 0.716,
+    "status": "medium"
+  },
+  "date": {
+    "value": "2018-03-31",
+    "confidence": 0.856,
+    "status": "high"
+  },
+  "items": [
+    {
+      "name": "8) Green Tea 2K SR",
+      "price": 2.0,
+      "confidence": 0.808
+    },
+    {
+      "name": "NB Shiro Ramen ix SR",
+      "price": 12.8,
+      "confidence": 0.808
+    },
+    {
+      "name": "RQ Unagi Don 1k SR",
+      "price": 19.8,
+      "confidence": 0.808
+    },
+    {
+      "name": "F8 Tori Karaage SR",
+      "price": 8.8,
+      "confidence": 0.808
+    },
+    {
+      "name": "$801 Sushi Yellow SR",
+      "price": 7.2,
+      "confidence": 0.808
+    },
+    {
+      "name": "$802 Sushi Red SR",
+      "price": 5.6,
+      "confidence": 0.808
+    }
+  ],
+  "total_amount": {
+    "value": 65.55,
+    "confidence": 0.8,
+    "status": "medium"
+  },
+  "reliability": {
+    "low_confidence_fields": [],
+    "requires_manual_review": false
+  },
+  "_debug": {
+    "total_line": "TOTAL: 65.55",
+    "line_count": 40,
+    "ocr_confidence": 0.8
+  },
+  "source_file": "X51005711456.jpg",
+  "ocr": {
+    "confidence": 0.8,
+    "preprocessing_variant": "gray",
+    "deskew_angle": 0.0,
+    "raw_text": "SUSHI MENTAI - MAHKOTA CHERAS\nMIZU MENTAI SON. BHD. (1248446-V)\nNO: 1-182 GROUND FLOOR,\nJLM TEMENGGUNG 13/9,\n43200 CHERAS SELANGOR.\n(GST Reg. No : 001375580160)\nTax Invoice\nTable 9\nOrder#: 114105\nBill#: ¥042~ 513777 Pax(s): 0\nDate : 31-03-2018 18:12:41\nCashier: SOFYA\nDescription Qty U.price Total TAX\n8) Green Tea\n2K 1.00 2.00 SR\nNB Shiro Ramen\nix 12.80 12.80 SR\nRQ Unagi Don\n1k 19.80 19.80 SR\nF8 Tori Karaage\n1x 8.80 8.80 SR\n$801 Sushi Yellow\n4x 1.80 7.20 SR\n$802 Sushi Red\n2x 2.80 5.60 SR\nTotal (Excluding GST): 56.20\nServ. Charge (10%): 5.62\nGST Payable: 3.71\n- Total (Inclusive of GST); 65.53\nRounding Adj: 0.02\nTOTAL: 65.55\nClosed: ;201710016 31-03-2018 18:43:22\n| Server: SOFYA\nVISA 65.55\nGST Sumary Ancunt(Ra) Tox(RA)\nSR (@ 6%) 61.82 371\n|\nThank you!!!\nPlease Come Again!!!\nPowered By WHW.SISPOS.COM.MY"
+  }
+}

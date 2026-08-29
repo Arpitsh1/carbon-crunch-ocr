@@ -1,0 +1,37 @@
+{
+  "store_name": {
+    "value": "KAISON FURNISHING SON BHD",
+    "confidence": 0.72,
+    "status": "medium"
+  },
+  "date": {
+    "value": "2018-01-29",
+    "confidence": 0.793,
+    "status": "medium"
+  },
+  "items": [],
+  "total_amount": {
+    "value": null,
+    "confidence": 0.0,
+    "status": "low"
+  },
+  "reliability": {
+    "low_confidence_fields": [
+      "total_amount",
+      "items"
+    ],
+    "requires_manual_review": true
+  },
+  "_debug": {
+    "total_line": null,
+    "line_count": 30,
+    "ocr_confidence": 0.703
+  },
+  "source_file": "X51005806678.jpg",
+  "ocr": {
+    "confidence": 0.703,
+    "preprocessing_variant": "enhanced",
+    "deskew_angle": 0.0,
+    "raw_text": "KAISON FURNISHING SON BHD.\n4-17 (8), Level 4,\nUP2-01, Helavati Hall,\n355, Jalan Bandar Melawati,\nPusat Bandar Melawat i,\n53100 Kuala Lumpur\nCo. Reg No. (761834-0\nGST Reg No. 001813975040\nTel: 03 - 41019864\n‘Slip 0000MLW-P3000024348\nStaff: 1799 Siti Izza Trans: 1603029175,\nDate: 29-01-18 20:38\nDeseription Anount(R)\nBarcode: 10162079\nFLOWER BUNCH - ROSE\n‘122 pes 6 18.90 2,305.80 SR\nTtem No.: 30001640\nFLOWER BUNCH - CRYST\n240 pcs @ 13.90 3,336.06 SR\nTtem No.: 30001625\nFLOWER BUNCH - 7HO\n130 pes @ 16.90 2,197.00 st\nra\nCASH CHIR) 196.00\n© Change 1.20\nGSTX —ant(RH) —GST(RA). Total(RN)\nSR 6 7,395.09 443.71 7,838.80\n' GOODS SOLD ARE NON-CASH REFUNDABLE,\n| EXCHANGE OF GOOOS WITHIN 14 Days\n| ACCOMPANIED BY ORIGINAL RECEIPT,"
+  }
+}

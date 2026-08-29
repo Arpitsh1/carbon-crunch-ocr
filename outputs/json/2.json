@@ -1,0 +1,39 @@
+{
+  "store_name": {
+    "value": "Walmart",
+    "confidence": 0.677,
+    "status": "low"
+  },
+  "date": {
+    "value": null,
+    "confidence": 0.0,
+    "status": "low"
+  },
+  "items": [],
+  "total_amount": {
+    "value": null,
+    "confidence": 0.0,
+    "status": "low"
+  },
+  "reliability": {
+    "low_confidence_fields": [
+      "store_name",
+      "date",
+      "total_amount",
+      "items"
+    ],
+    "requires_manual_review": true
+  },
+  "_debug": {
+    "total_line": null,
+    "line_count": 33,
+    "ocr_confidence": 0.595
+  },
+  "source_file": "2.jpg",
+  "ocr": {
+    "confidence": 0.595,
+    "preprocessing_variant": "enhanced",
+    "deskew_angle": 0.0,
+    "raw_text": "Give us feedback @ survey.walmart .com -\nThank you! ID. RENCE\n, Walmart >.<. |\n‘949-498-6669 Mor :MICHAEL\nJ 951_AVENIDA PICO.\nA SAN CLEMENTE CA. 92673 2\n7, ‘ST# 02527 OPH 009045 TEM 45 TR 06193\n— GV OATMEAL 007874243408 F 1.76 0.\nOT 2002 TUM 081236803115, 6.74 X\n— M ATHLETICS 019104567781 24.97 X\nDEXAS 15X20 008429710921 12.97 X\n‘SUBTOTAL 46.44\nTX 1 7.750% 3.46 §\n‘TOTAL 49.90\n‘DEBIT TEND 49.90\ne 4 CHANGE DUE 0.00 3\npe. EFT DEBIT PAY FROM PRIMARY Z\nZ 49.90 TOTAL PURCHASE Zp\nUS DEBIT aaxx xexx xxxx 9689 I 0. Ex\nPF 4 029200699128 IFZB\nZ NETWORK ID. 0056 APPR CODE 461500 eee\n_ US DEBIT Ee\n= AID 0000000880040 G7\nAERMINAL SCO 004 AA\n10/18/20 11:90:42 Z\nZ # TEKS SOLD 4)\nE TCH 2400 4776 4305 8847 1471 BZ\nZB Hea YA\nZz Wt. p,\nZZ Introducing Walmart+\nFz. Join today at walmerLcom/plus =\n‘ices You Trust. Every Day.\nAj Pritizaae “tso.a -"
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "store_name": {
+    "value": "TRO 7-W",
+    "confidence": 0.632,
+    "status": "low"
+  },
+  "date": {
+    "value": "2018-12-25",
+    "confidence": 0.772,
+    "status": "medium"
+  },
+  "items": [],
+  "total_amount": {
+    "value": 9.0,
+    "confidence": 0.716,
+    "status": "medium"
+  },
+  "reliability": {
+    "low_confidence_fields": [
+      "store_name",
+      "items"
+    ],
+    "requires_manual_review": true
+  },
+  "_debug": {
+    "total_line": "Total 9.00",
+    "line_count": 29,
+    "ocr_confidence": 0.671
+  },
+  "source_file": "X00016469612.jpg",
+  "ocr": {
+    "confidence": 0.671,
+    "preprocessing_variant": "enhanced",
+    "deskew_angle": 2.05,
+    "raw_text": "tan woon yann\nBOOK TA -K (TAMAN DAYA) SDN BHD\nTRO 7-W\nNO.5= 95,57 & 59, JALAN SAGU 18,\nTAMAN DAYA,\n81100 JOHOR BAHRU,\nJOHOR,\nvan | \"\nGA VEDA\nDocument No TD01167104\nDate 25/12/2018 8:13:39 PM\nCashier MANIS.\nMember\nCASH BILL.\nCODE/DESC PRICE — Disc AmOuUUT\nary RM RM\n955693040116 KF MODELLING CLAY KIDDY Fist\naPC O* 9.00) 0.00 9.00\nTotal 9.00\nRour ding Adjustment 0.00\nRound: d Total (RM); 9.00\nCash \" 00\nCHANGE 00\n200\nGOODS SOLD ARE NOT RETURNAT a\nEXCHANGEABLE\nA o oar o ail\nTHANK YOU\nPLEASE COME AGAIN !"
+  }
+}

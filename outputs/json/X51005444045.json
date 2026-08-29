@@ -1,0 +1,38 @@
+{
+  "store_name": {
+    "value": "TANAN BERKELEY",
+    "confidence": 0.605,
+    "status": "low"
+  },
+  "date": {
+    "value": "2018-03-19",
+    "confidence": 0.78,
+    "status": "medium"
+  },
+  "items": [],
+  "total_amount": {
+    "value": null,
+    "confidence": 0.0,
+    "status": "low"
+  },
+  "reliability": {
+    "low_confidence_fields": [
+      "store_name",
+      "total_amount",
+      "items"
+    ],
+    "requires_manual_review": true
+  },
+  "_debug": {
+    "total_line": null,
+    "line_count": 18,
+    "ocr_confidence": 0.683
+  },
+  "source_file": "X51005444045.jpg",
+  "ocr": {
+    "confidence": 0.683,
+    "preprocessing_variant": "enhanced",
+    "deskew_angle": 0.0,
+    "raw_text": "‘ ——_\n|\n99 SPEED MART S/B (519537-x)\nLOT P.T. 2811, JALAN ANGSA,\nTANAN BERKELEY\n41150 KLANG, SELANGOR\n“ 1245-DESA SRI HARTAKAS\nGST ID. NO s 000181747712\nINVOICE NO s 18341/103/70138\nO92 Q6PH 569547 19-03-18\n103 SUNQUICK OREN 840ML RHLI.40 s\n_ Total Sales (Inclusive GST) RM 11.40\n= CASH RM 11.40\nCHANGE RN «00\n6ST Susmary Amount (RK) Tax(RH)\ns = 6 10.75 «65\nThank You. Please come again |\nKeep the invoice for applicable returns |"
+  }
+}

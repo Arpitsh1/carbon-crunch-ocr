@@ -1,0 +1,39 @@
+{
+  "store_name": {
+    "value": "Atieg",
+    "confidence": 0.363,
+    "status": "low"
+  },
+  "date": {
+    "value": null,
+    "confidence": 0.0,
+    "status": "low"
+  },
+  "items": [],
+  "total_amount": {
+    "value": null,
+    "confidence": 0.0,
+    "status": "low"
+  },
+  "reliability": {
+    "low_confidence_fields": [
+      "store_name",
+      "date",
+      "total_amount",
+      "items"
+    ],
+    "requires_manual_review": true
+  },
+  "_debug": {
+    "total_line": null,
+    "line_count": 12,
+    "ocr_confidence": 0.262
+  },
+  "source_file": "X51005433492.jpg",
+  "ocr": {
+    "confidence": 0.262,
+    "preprocessing_variant": "gray",
+    "deskew_angle": -5.47,
+    "raw_text": "Atieg\nSener ere conan\narta\n=\noS\neases te\nBn Ps\ntoe SEH\n= =\nogee\nSuan”\nniin,"
+  }
+}

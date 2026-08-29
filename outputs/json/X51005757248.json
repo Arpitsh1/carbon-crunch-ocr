@@ -1,0 +1,37 @@
+{
+  "store_name": {
+    "value": "AON CO. H BHO 128926-H",
+    "confidence": 0.625,
+    "status": "low"
+  },
+  "date": {
+    "value": "2018-03-12",
+    "confidence": 0.765,
+    "status": "medium"
+  },
+  "items": [],
+  "total_amount": {
+    "value": 0.01,
+    "confidence": 0.709,
+    "status": "medium"
+  },
+  "reliability": {
+    "low_confidence_fields": [
+      "store_name",
+      "items"
+    ],
+    "requires_manual_review": true
+  },
+  "_debug": {
+    "total_line": "Total 42.47 0.01",
+    "line_count": 36,
+    "ocr_confidence": 0.661
+  },
+  "source_file": "X51005757248.jpg",
+  "ocr": {
+    "confidence": 0.661,
+    "preprocessing_variant": "enhanced",
+    "deskew_angle": 0.0,
+    "raw_text": "918030)\n> AON CO. (H) BHO (128926-H)\nSRO-FLR, AEON TAMAN MALURI SC\nJOH JEAKA, TAMAN MALURT\nCHERAS, 55100 KUALA LUHPUR\nGST 1D : 002017394683\nSHOPPING HOURS\nSUN-THU:1000 HRS = 2200 HRS\nFRI-SAT:1000 HRS - 2300 HRS\n1x (00001888854 0.2088\nPLASTICS BAG\n1x 000000616775 19.942K\nWE H/0 Hak\n1x 000000616775 14,817R\nWo W/O HBF\n{x 090009516775 10,5928\nWO W/O HOF\nSub-total 42.48\nTotal Sales Incl GST 42.48\nRounding Ad) 0.02\nTotal After Ad) Incl GST 42.60\nCASH 50.00\nTtew Count 4 Charge Ant 7.50\nInvoice No: 2018031210060010139\nGST Sumaary Anount Tax\nSR € 6% 0.19 (1\nZR @ 0X 42.28 0.00\nTotal 42.47 0.01\n12/03/2018 13:07 1008 001 0010193\n0304662 HEMADAS A/L 84L00\nAEGON BANDAR PUCHONG\nTel 1-300-80-AEON (2366)\nTHANK YOU FOR YOUR PATRONAGE\nPLEASE COME AGATH\naH iff i it HH\ney"
+  }
+}

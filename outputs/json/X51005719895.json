@@ -1,0 +1,38 @@
+{
+  "store_name": {
+    "value": "A UAMOO6K AMOXICAP SOOMG CAPS",
+    "confidence": 0.537,
+    "status": "low"
+  },
+  "date": {
+    "value": "2018-08-01",
+    "confidence": 0.74,
+    "status": "medium"
+  },
+  "items": [],
+  "total_amount": {
+    "value": null,
+    "confidence": 0.0,
+    "status": "low"
+  },
+  "reliability": {
+    "low_confidence_fields": [
+      "store_name",
+      "total_amount",
+      "items"
+    ],
+    "requires_manual_review": true
+  },
+  "_debug": {
+    "total_line": null,
+    "line_count": 37,
+    "ocr_confidence": 0.621
+  },
+  "source_file": "X51005719895.jpg",
+  "ocr": {
+    "confidence": 0.621,
+    "preprocessing_variant": "gray",
+    "deskew_angle": 0.0,
+    "raw_text": "|\nLANE PHARMACY SIN BHD\n3S JUN BANGAU 1,KEPONG BARU,\n52100 KEPONG,KL\n‘TEL : 62760693 FAX : 62740693\nBRN + 651002-U\nGST No + 001888309248 ;\nTAX INVOICE\nInv No + 18-001641\nDATE =: 1/8/2018 9:42:41 AM\nA)UAMOO6K AMOXICAP SOOMG CAPS\n1.00 X 6.00 6.002\n+2)0984K NOFLUX TAB 90KG 10\n2.00 X 4.51 9.01%\n3)9557892102639 IBUPROFEN 400NG 10\n3.00 X 3.00 9.00 z |\nA)ISS6492002837K FEBRICOL -RX 10\n4.00 X 2.70 10.802 .\nRounding + 0.01\nTa: 34.80\n(6ST =: 0.51)\nJARROD a\nPAYMENT =\nTOTAL PAYMENT = 4.00\nchase : 9.00\n> MASTER 4.80\nseobecnopooedooona obo apoaopn ok\nRate % TOTAL GST\na ot 8.50 0.51\nzh 25.80 0.00\nLEE HEI YEIN\nPrev Ralance : 1455\nPoints Earn + 34 (Complete)\nFARMASI ALPHA.COM\nGOONS SOLD ARE NOT RETURNABLE\nWHATSAPP NO: 0103768122\n4 Total Sales Inclusive GST @ 6% ¥"
+  }
+}

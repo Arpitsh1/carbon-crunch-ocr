@@ -1,0 +1,37 @@
+{
+  "store_name": {
+    "value": "SEN LEE HEONG RESTAURANT",
+    "confidence": 0.713,
+    "status": "medium"
+  },
+  "date": {
+    "value": "2018-01-12",
+    "confidence": 0.811,
+    "status": "medium"
+  },
+  "items": [],
+  "total_amount": {
+    "value": null,
+    "confidence": 0.0,
+    "status": "low"
+  },
+  "reliability": {
+    "low_confidence_fields": [
+      "total_amount",
+      "items"
+    ],
+    "requires_manual_review": true
+  },
+  "_debug": {
+    "total_line": null,
+    "line_count": 27,
+    "ocr_confidence": 0.731
+  },
+  "source_file": "X51005719863.jpg",
+  "ocr": {
+    "confidence": 0.731,
+    "preprocessing_variant": "enhanced",
+    "deskew_angle": 0.0,
+    "raw_text": "-\na.\n: SEN LEE HEONG RESTAURANT\nCO NO. (002083199-T)\nGST ID NO(001115316224\nG-0-1,M,AVENUE NO.1,JLN 1/38A,\nSEGAMDUT BAHAGIA,51200,k .LUMPUL\nTEL :012-2525903/ 03-6258 5987\nCashier :Manager MachNo:000¢\nn at Price Amount\nTable Number: 4\nFood GR 1 ‘ F\nBIG RICE 5\n2 1.5 RM 3,0¢\nP TEA POT SF\n1 RM 3.00\nSubtotal RM 73.00\n| GST TAX AMT: RM 73.00\nBST( 6.0%) Amount RM 4,38\nROUND ADJ RM 0,02\nItem: 4\n| TOTAL R 77 »AD\nCash 77.40,\n12-01-2018 21:5\nTAX Invoice: #11372\nTHANK\nLEASE COME AGAIN"
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "store_name": {
+    "value": "52100 Kuala Lumpur",
+    "confidence": 0.625,
+    "status": "low"
+  },
+  "date": {
+    "value": "2018-01-20",
+    "confidence": 0.828,
+    "status": "medium"
+  },
+  "items": [],
+  "total_amount": {
+    "value": null,
+    "confidence": 0.0,
+    "status": "low"
+  },
+  "reliability": {
+    "low_confidence_fields": [
+      "store_name",
+      "total_amount",
+      "items"
+    ],
+    "requires_manual_review": true
+  },
+  "_debug": {
+    "total_line": null,
+    "line_count": 29,
+    "ocr_confidence": 0.758
+  },
+  "source_file": "X51005675099.jpg",
+  "ocr": {
+    "confidence": 0.758,
+    "preprocessing_variant": "gray",
+    "deskew_angle": 0.0,
+    "raw_text": "21% 0 Ot\n_ Super Terminal Sdn Bhd\n(1150024-H)\nTAX INVOICE\nNo. 18 & 19, Taman City, Jalan Kuching,\n52100 Kuala Lumpur\nTEL: +603-6251 2293\nGST ID No: 000180269056\nPLATE NO.:\ni LED 17/SYGNAL re\n1X 55.00 - 58.30 SR\n2. KZ SIGNAL CONDENSOR (KOZI) 12V :\nSODEL:SC1201 (MT)\n18.00 - 19.08 SR ;\n2. UBE (SEMI) MOTOR OIL\n1X 30.00 31.80 SR\n4. OIL FILTER LC135\n1X 13.00 : 13.78 SK\n5. BULB SIGNAL 12V8 RXZ G18.5\n1X 3,00 3.18 SR\n6. NUMBER PLASTIC\n6X 1.00 : 6.36 SR\nTotal Sales Inclusive GST @6% 132.50\nCASH 132.50\nCHANGE 0.00\nGST Summary Amount(RM) Tax{RM)\nSR @ 6% 125.00 7.50\nINV NO: CS-1801-00883Date : 20/01/2018\nf"
+  }
+}

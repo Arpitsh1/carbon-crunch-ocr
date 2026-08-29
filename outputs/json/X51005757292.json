@@ -1,0 +1,37 @@
+{
+  "store_name": {
+    "value": "MR. O.1. . M SON BHD",
+    "confidence": 0.698,
+    "status": "low"
+  },
+  "date": {
+    "value": "2018-03-08",
+    "confidence": 0.838,
+    "status": "medium"
+  },
+  "items": [],
+  "total_amount": {
+    "value": 6.6,
+    "confidence": 0.845,
+    "status": "medium"
+  },
+  "reliability": {
+    "low_confidence_fields": [
+      "store_name",
+      "items"
+    ],
+    "requires_manual_review": true
+  },
+  "_debug": {
+    "total_line": "Total Incl. GsTesx RM 6.60",
+    "line_count": 24,
+    "ocr_confidence": 0.772
+  },
+  "source_file": "X51005757292.jpg",
+  "ocr": {
+    "confidence": 0.772,
+    "preprocessing_variant": "gray",
+    "deskew_angle": -1.97,
+    "raw_text": "——\n3180304,\nMR. O.1.¥. (M) SON BHD\n(CO.REG :860671-D)\nLOT 1851-A & 1851-B, JALAN KPB 6,\nKAWASAN PERINDUSTRIAN BALAKONG,\n43300 SERT KEMBANGAN, SELANGOR\n(GST ID No 000306020352)\n(TOI PUCHONG)\n-TAX INVOICE-\nPP WATER FILTER CARTRIOGE INDOOR 1S +5\nWA38 - 100\n9690059 2X 3.30 6.60\nItem(s) : 1 Qty(s) ; 2\nTotal Incl. GsTesx RM 6.60\nDASH RM 56.00\nDHANGE RH 42.40\niST 6% included in total RH 0.37\ngenie ae en ey\n8-03-18 12:09 SHO 2486 3 RoODOBCSaD\nIPERATOR TRAINEE CASHIER\nEXCHANGE ARE ALLOWED WITHIN\n7 DAY WITH RECEIPT.\nSTRICTLY NO CASH REFUND,"
+  }
+}

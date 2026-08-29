@@ -1,0 +1,37 @@
+{
+  "store_name": {
+    "value": "BENS INDEPENDENT GROCER SDN. BHD",
+    "confidence": 0.816,
+    "status": "medium"
+  },
+  "date": {
+    "value": "2018-03-09",
+    "confidence": 0.89,
+    "status": "high"
+  },
+  "items": [],
+  "total_amount": {
+    "value": null,
+    "confidence": 0.0,
+    "status": "low"
+  },
+  "reliability": {
+    "low_confidence_fields": [
+      "total_amount",
+      "items"
+    ],
+    "requires_manual_review": true
+  },
+  "_debug": {
+    "total_line": null,
+    "line_count": 28,
+    "ocr_confidence": 0.852
+  },
+  "source_file": "X51005444040.jpg",
+  "ocr": {
+    "confidence": 0.852,
+    "preprocessing_variant": "enhanced",
+    "deskew_angle": 0.18,
+    "raw_text": "BENS INDEPENDENT GROCER SDN. BHD\n(913144-A)\nLot 6, Jalan Batai,\nPlaza Batal, Damansara Heights\n50490, Kuala Lumpur\nT: 03-2093 7358 | F: 03-2093 7359\n(GST REG NO 000243941376)\nTax Invoice | BATO1201803090220 09/03/18\nCashier Jorvilyn 18:08:53\nEvian Mineral Water 6x1 25L\n3068320113784 53:50*2 10700 S\nFresh Cut Honey Jackfruit Peeled 400g\n1430018201 8.90°3 26,70 2\nItem 2 Total with GST @ 6% 133.70\nay 5 Pounding 0.00\nTotai Saving 0.00 Total 133.70\nTender\ncash 140.00\nChange 6.30\nGsT Analysis Goods Tax Amount\n5 = 6% 100.94 6.06\nZ=0% 26.70 0.00\nBIG.COM.MY\nFACEBOOK.COM/THEBIGGROUP\nEXCHANGE & REFUND MAY BE ALLOWED\nWITHIN 3 DAYS WITH ORIGINAL TAX INVOICE\nTHANK YOU, PLEASE COME AGAIN\nN00"
+  }
+}

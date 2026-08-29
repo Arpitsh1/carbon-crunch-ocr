@@ -1,0 +1,36 @@
+{
+  "store_name": {
+    "value": "01 MALL",
+    "confidence": 0.71,
+    "status": "medium"
+  },
+  "date": {
+    "value": "2018-03-11",
+    "confidence": 0.885,
+    "status": "high"
+  },
+  "items": [],
+  "total_amount": {
+    "value": 0.0,
+    "confidence": 0.829,
+    "status": "medium"
+  },
+  "reliability": {
+    "low_confidence_fields": [
+      "items"
+    ],
+    "requires_manual_review": true
+  },
+  "_debug": {
+    "total_line": "Total Savings 0.00",
+    "line_count": 25,
+    "ocr_confidence": 0.845
+  },
+  "source_file": "X51005757243.jpg",
+  "ocr": {
+    "confidence": 0.845,
+    "preprocessing_variant": "enhanced",
+    "deskew_angle": -0.69,
+    "raw_text": "31803030\n(Co. No. 113825-W)\n(GST Reg No. 001492992000)\nNo 8, Jalan 7/1188, Desa Tun Razak\n56000 Kuala ! spur, Malaysi.\n{01 MALL\nTel : 0%-80709188 / 80757830\n11/03/18 16:30 Slip No. : 9060293576\nWANT Trans: 250504\nDescription Amount\nDOCUMENT HOL A4 9101A-Tra\nSpe @ 1.15 Be\nTotal RM Incl. of GST §.75\nCash ~50. 00\nCHANGE 44.25\n{tem Count 5\nGST Summary Amount (RM) Tax (RM)\nT @ 6% 5.42 0. 33\nTotal Savings 0.00\nBE A POPULAR CARD MEMBER\nAND ENJOY SPECIAL DISCOUNTS\nTHANK YOU, PLEASE COME AGAIN.\nWWW. popular, com, my\nBuy Chinese books online\nwww. popularonline. com. ny"
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "store_name": {
+    "value": "52100 KUALA LUMPUR",
+    "confidence": 0.722,
+    "status": "medium"
+  },
+  "date": {
+    "value": "2018-01-05",
+    "confidence": 0.897,
+    "status": "high"
+  },
+  "items": [],
+  "total_amount": {
+    "value": null,
+    "confidence": 0.0,
+    "status": "low"
+  },
+  "reliability": {
+    "low_confidence_fields": [
+      "total_amount",
+      "items"
+    ],
+    "requires_manual_review": true
+  },
+  "_debug": {
+    "total_line": null,
+    "line_count": 23,
+    "ocr_confidence": 0.862
+  },
+  "source_file": "X51005719864.jpg",
+  "ocr": {
+    "confidence": 0.862,
+    "preprocessing_variant": "enhanced",
+    "deskew_angle": 0.0,
+    "raw_text": "FUN N CHEER (MALURI)\nLOT 37636,JALAN 6/37A,\nTAMAN BUKIT MALURI,\n52100 KUALA LUMPUR\nTel : 03-62612536\nTAX INVOICE\n(GST ID No. + 001439154176)\n05/01/2018 Cashier: CS01\n11:44:44 S/P:MAL No:0200419363\nTtem/Desc. Qty Price Aint.\nKAIN BEBOLA(S)SHA BU st—=<C:*«SR\n0412638 2 14.90 29.80\nTotal Qty 2\nTOTAL EXCL.GST 28.11\nADD : GST @ 6% On 1.69\n29.80\nCASH 50.00\nCHANGE 20.20\nGST summary Amount RM Tax RM\nSR= 6% 28.11 1.69\n0.00 0.00\nGOODS SOLD ARE NOT RETURNABLE '\nTHANK YOU ' PLEASE COME AGAIN '"
+  }
+}

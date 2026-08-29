@@ -1,0 +1,37 @@
+{
+  "store_name": {
+    "value": "EVERGREEN LIGHT SDN BHD",
+    "confidence": 0.68,
+    "status": "low"
+  },
+  "date": {
+    "value": "2017-07-10",
+    "confidence": 0.754,
+    "status": "medium"
+  },
+  "items": [],
+  "total_amount": {
+    "value": 56.0,
+    "confidence": 0.761,
+    "status": "medium"
+  },
+  "reliability": {
+    "low_confidence_fields": [
+      "store_name",
+      "items"
+    ],
+    "requires_manual_review": true
+  },
+  "_debug": {
+    "total_line": "Total Incl GST 56.00",
+    "line_count": 27,
+    "ocr_confidence": 0.643
+  },
+  "source_file": "X51005568885.jpg",
+  "ocr": {
+    "confidence": 0.643,
+    "preprocessing_variant": "enhanced",
+    "deskew_angle": 0.0,
+    "raw_text": "EVERGREEN LIGHT SDN BHD\n(827859-0)\nNO).2+4, JALAN PUTER 7/11,\nBANDAR PUTER!,\n47100 PUCHONG, SELANGOR\nTELFAX; 03-£06097 13\n(NG. ID GET: 000269353472 ;\nTAX INVOICE\nNO. 139990\nEDDIE #0101 10/07/2017 18:02\nS.CODE ery UPRICE ANT\n11598 4a 13.21 $2845\nPROBMK 10W LED eTICK\nSUB-TOTAL S284\n‘Total GETIE) 347\n‘SUB-TOTAL $6.01\nROUNDING ADJUET aos\nTOTAL ITEM(S; 1\n| TOTAL QUANTITY . 4\nRM\nTotal Incl GST 56.00\nPay Cash 56.00\nChange 0.00\noer ‘Texoble Amt GET Amt\n. SER(E)-6% $284 347\nTHANK YOU\n: GOODE BOLD ARE NOT REFUNDABLE FOR CAGH."
+  }
+}

@@ -1,0 +1,118 @@
+{
+  "store_name": {
+    "value": "Suite 101",
+    "confidence": 0.665,
+    "status": "low"
+  },
+  "date": {
+    "value": null,
+    "confidence": 0.0,
+    "status": "low"
+  },
+  "items": [
+    {
+      "name": "腺AMBOO CHARCOAL TOOTHBRUSH 1 1.00 1.007 COLGATE TOTAL WATNING TPST 1 1,007",
+      "price": 1.0,
+      "confidence": 0.787
+    },
+    {
+      "name": "COLGATE TOTAL WHTNING TPST 1 1,00T",
+      "price": 1.0,
+      "confidence": 0.787
+    },
+    {
+      "name": "COLGATE TOTAL WATNING TPST 1 T",
+      "price": 1.0,
+      "confidence": 0.787
+    },
+    {
+      "name": "COLGATE TOTAL WHTNING TPST 1 T",
+      "price": 1.0,
+      "confidence": 0.787
+    },
+    {
+      "name": "COLGATE TOTAL WHTNING TPST 1 1.007",
+      "price": 1.0,
+      "confidence": 0.787
+    },
+    {
+      "name": "COLGATE TOTAL WATNING TPST 1 1,007",
+      "price": 1.0,
+      "confidence": 0.787
+    },
+    {
+      "name": "COLGATE TOTAL WHTNING TPST 1 1,007",
+      "price": 1.0,
+      "confidence": 0.787
+    },
+    {
+      "name": "全P STICK ACTIVE DEO 1 1.007",
+      "price": 1.0,
+      "confidence": 0.787
+    },
+    {
+      "name": "全P STICK ACTIVE DEO 1 T",
+      "price": 1.0,
+      "confidence": 0.787
+    },
+    {
+      "name": "全P STICK ACTIVE DEO 1 T",
+      "price": 1.0,
+      "confidence": 0.787
+    },
+    {
+      "name": "全P STICK ACTIVE DEO 1 1.007",
+      "price": 1.0,
+      "confidence": 0.787
+    },
+    {
+      "name": "全P STICK ACTIVE DEO 1 1.007",
+      "price": 1.0,
+      "confidence": 0.787
+    },
+    {
+      "name": "全PEED STCK A/P ULT SPRT 1 1.007",
+      "price": 1.0,
+      "confidence": 0.787
+    },
+    {
+      "name": "全PEED STCK A/P ULT SPRT 1 T",
+      "price": 1.0,
+      "confidence": 0.787
+    },
+    {
+      "name": "全PEED STCK A/P ULT SPRT 1 1.007",
+      "price": 1.0,
+      "confidence": 0.787
+    },
+    {
+      "name": "腺AMBOO CHARCOAL TOOTHBRUSH 1 T",
+      "price": 1.0,
+      "confidence": 0.787
+    }
+  ],
+  "total_amount": {
+    "value": 25.44,
+    "confidence": 0.777,
+    "status": "medium"
+  },
+  "reliability": {
+    "low_confidence_fields": [
+      "store_name",
+      "date"
+    ],
+    "requires_manual_review": true
+  },
+  "_debug": {
+    "total_line": "Total $25.44",
+    "line_count": 43,
+    "ocr_confidence": 0.765
+  },
+  "source_file": "20.png",
+  "ocr": {
+    "confidence": 0.765,
+    "preprocessing_variant": "enhanced",
+    "deskew_angle": 0.0,
+    "raw_text": "Storell 156 (517) 993-0356\n1941 W Grand River Ave.\nSuite 101\n前kemos MI 56252-5601\nDESCRIPTION QTY PRICE TOTAL\n腺AMBOO CHARCOAL TOOTHBRUSH 1 1.00 1.007\nCOLGATE TOTAL WATNING TPST 1.4 1 1.00 1,007\nCOLGATE TOTAL WHTNING TPST 1.4 1 1.00 1,00T\nCOLGATE TOTAL WATNING TPST 1.4 1 1.00 1.00T\nCOLGATE TOTAL WHTNING TPST 1.4 1 1.00 1.00T\nCOLGATE TOTAL WHTNING TPST 1.4 1 1.00 1.007\nCOLGATE TOTAL WATNING TPST 1.4 1 1.00 1,007\nCOLGATE TOTAL WHTNING TPST 1.4 1 1.00 1,007\n全P STICK ACTIVE DEO 1.82 1 1.00 1.007\n全P STICK ACTIVE DEO 1.82 1 1.00 1.00T\n全P STICK ACTIVE DEO 1.82 1 1.00 1.00T\n全P STICK ACTIVE DEO 1.82 1 1.00 1.007\n全P STICK ACTIVE DEO 1.82 1 1.00 1.007\n全PEED STCK A/P ULT SPRT 1.82 1 1.00 1.007\n全PEED STCK A/P ULT SPRT 1.82 1 1.00 1.00T\n全PEED STCK A/P ULT SPRT 1.82 1 1.00 1.007\nBAMBOO CHARCOAL TOOTHBRUSH 1 1.00 1,007\nBAMBOO CHARCOAL TOOTHBRUSH 1 1.00 1.007\nBAMBOO CHARCOAL TOOTHBRUSH 1 1.00 1.007\n腺AMBOO CHARCOAL TOOTHBRUSH 1 1.00 1.00T\n腺AMBOO CHARCOAL TOOTHBRUSH 1 1.00 1.00T\nBAMBOO CHARCOAL TOOTHBRUSH 1 1.00 1.007\nBAMBOO CHARCOAL TOOTHBRUSH 1 1.00 1,007\n全ub Total $24.00\nSALES TAX $1.44\nTotal $25.44\nFIFTHTHIRD DEBIT $25.44\nserseseexees2074 Approved\nPurchase Chip\nAuth/Trace Number: 503800/049059\nChip Card AID: a00000020\nNOW SHOP ON-LINE AT DOLLARTREE.COM\nSe tet rete Inn\n= He vill gladly exchange any unopened iten =\n= with original receipt. We do not offer refunds. *\nseeravesanaceenexseseersneneeataearesnensnanesrnsa east\n7534 00185 04 004 21435062 9/17/22 17:08\nSales Associate:Tomya"
+  }
+}

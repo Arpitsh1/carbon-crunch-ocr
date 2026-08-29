@@ -1,0 +1,36 @@
+{
+  "store_name": {
+    "value": "MR. O.T.Y. M SDN BHD",
+    "confidence": 0.757,
+    "status": "medium"
+  },
+  "date": {
+    "value": "2018-03-24",
+    "confidence": 0.855,
+    "status": "high"
+  },
+  "items": [],
+  "total_amount": {
+    "value": 14.9,
+    "confidence": 0.862,
+    "status": "high"
+  },
+  "reliability": {
+    "low_confidence_fields": [
+      "items"
+    ],
+    "requires_manual_review": true
+  },
+  "_debug": {
+    "total_line": "Total Incl. GST@6x RM 14.90",
+    "line_count": 26,
+    "ocr_confidence": 0.799
+  },
+  "source_file": "X51005757351.jpg",
+  "ocr": {
+    "confidence": 0.799,
+    "preprocessing_variant": "enhanced",
+    "deskew_angle": 0.0,
+    "raw_text": "3180305,\nMR. O.T.Y. (M) SDN BHD\n(CO.REG :860671-D)\nLOT 1851-A & 1851-B, JALAN KPB 6,,\nKAWASAN PERINDUSTRIAN BALAKONG\n43300 SERI KEMBANGAN, SELANGOR\n(GST ID No :000306020352)\n(101 PUCHONG)\n-TAX INVOICE-\nMULTIPURPOSE BROOM 737P W/4FT #8\nWAI6 - 24\n9555221300282 2X 6.50 13.00\nHOSE PUMP C88351# *8\nKE23-33-53 - 12/120\n9074333 1X 1.90 1.90\nItem(s) : 2 Qty(s) : 3\nTotal Incl. GST@6x RM 14.90\nCASH RM 20,00\nCHANGE RH 5.10\nGST @6% included in total RM 0.84\n#-----------------------------_--=-----¢\n24-03-18 18:02 SHOI 2/86 11 RO00112043\nOPERATOR TRAINEE CASHIER\nEXCHANGE ARE ALLOWED WITHIN\n7 DAY WITH RECEIPT.\nSTRICTLY NO CASH REFUND."
+  }
+}

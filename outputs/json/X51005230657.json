@@ -1,0 +1,37 @@
+{
+  "store_name": {
+    "value": "CROSS CHANNEL NE WORK SDN. PHD",
+    "confidence": 0.648,
+    "status": "low"
+  },
+  "date": {
+    "value": "2017-12-31",
+    "confidence": 0.763,
+    "status": "medium"
+  },
+  "items": [],
+  "total_amount": {
+    "value": 7.95,
+    "confidence": 0.707,
+    "status": "medium"
+  },
+  "reliability": {
+    "low_confidence_fields": [
+      "store_name",
+      "items"
+    ],
+    "requires_manual_review": true
+  },
+  "_debug": {
+    "total_line": "Total Amt Incl Rad? 6% 7.95",
+    "line_count": 29,
+    "ocr_confidence": 0.657
+  },
+  "source_file": "X51005230657.jpg",
+  "ocr": {
+    "confidence": 0.657,
+    "preprocessing_variant": "gray",
+    "deskew_angle": 0.0,
+    "raw_text": "(CROSS CHANNEL NE/WORK SDN. PHD.\n47, JALAN MERANTI 1, SEK. 3,\nBANDAR UTAMA BATANG KALI,\n44300 BATANG KALI, SELANGOR, =~\nTel : 03-6057 9688 Fax : 03-6057 9678\nGST ID : 001151500288 -\ngee Tax Invoice No. : BTG-050036\n———@y_ BM Tax\n20MM HERO PVC CONDUIT PIPE 1 1.80 sk\n@17000\n154 PVC CONNE. TOR @ 1.8000 1 191 sk\nR&BCICLPAMMX100PCS = 1371 sh\nCABLE CLIPS @ 35000\n3X3\" 2862A1PVCNUTBOX@ 1 0.53 sh |\nA ai ie Os, ee A\nTotal Amt Incl Rad? 6% 7.95\nRouiding Adjustment :\nTotal Amt Payable 795\nPaid Amount: 1000\nChan 205\nfesseseecee TOL OY “Tender M00\nFGST Summary Amount Tax!\nfaccoetecnsricieceneensssecghftt)y (RM) |\ni Lene Ze) Os\nTHANK YOU\nFor any enquiry, please mail us:\ngowa9688@gnail.com\n31/12/2017 “a\n\" a"
+  }
+}

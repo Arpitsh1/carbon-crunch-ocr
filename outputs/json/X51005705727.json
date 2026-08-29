@@ -1,0 +1,39 @@
+{
+  "store_name": {
+    "value": "KEDAI BUKU NEW ACHEIVERS",
+    "confidence": 0.557,
+    "status": "low"
+  },
+  "date": {
+    "value": "2017-12-26",
+    "confidence": 0.672,
+    "status": "low"
+  },
+  "items": [],
+  "total_amount": {
+    "value": null,
+    "confidence": 0.0,
+    "status": "low"
+  },
+  "reliability": {
+    "low_confidence_fields": [
+      "store_name",
+      "date",
+      "total_amount",
+      "items"
+    ],
+    "requires_manual_review": true
+  },
+  "_debug": {
+    "total_line": null,
+    "line_count": 34,
+    "ocr_confidence": 0.518
+  },
+  "source_file": "X51005705727.jpg",
+  "ocr": {
+    "confidence": 0.518,
+    "preprocessing_variant": "enhanced",
+    "deskew_angle": 0.44,
+    "raw_text": "| KEDAI BUKU NEW ACHEIVERS\n| (CONO, SA0345444-K)\nNO. 128 14, JALAN JINJANG 27/54\nTAMAN ALAM MEGAH, SEKSYEN 27\n| 40(00 SHAH ALAM, SELANGOR D. E.\nTEL: 009-51910643, FAX: €03-51910649\n| GST NO : 001728572864\nFULL TAX INVOICE\nwr\nj a\ni Recelt® CS00ST0148\n0 Salesperson: ate; 26/12/2017\nCashier: USER eee\n; Garleg USERS aaipesies\n(esr) (cesT)\nstem ty _RsP___RSP-_Amount\nD qsssoTenrzsoe 1 400042404240\n5 SSR: CRE ASTAR LAMINATING FILM A4 100575\n—sray tT\n¢\n(Cxctuded GST) Sub Total 40.00\ns Discount: 4.00\n: ToalGst: 218\nRounding : 0.04\n~ Total: 38.15\nCASH: 50.00\nz Change: 11.86\n6 —_———___———————————}\n€ GST SUMMARY |\nTaxCode __% Amount _GST.\nSR 888.00 1B\n———~“‘Tor: 3600 —~=«2B\n‘GOODS SOLD ARE NOT RETURNABLE,\nTHANK YOU."
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "store_name": {
+    "value": "OLDTOWN WHITE COFFEE",
+    "confidence": 0.782,
+    "status": "medium"
+  },
+  "date": {
+    "value": null,
+    "confidence": 0.0,
+    "status": "low"
+  },
+  "items": [],
+  "total_amount": {
+    "value": 30.25,
+    "confidence": 0.807,
+    "status": "medium"
+  },
+  "reliability": {
+    "low_confidence_fields": [
+      "date",
+      "items"
+    ],
+    "requires_manual_review": true
+  },
+  "_debug": {
+    "total_line": "Amount Due 30.25",
+    "line_count": 32,
+    "ocr_confidence": 0.713
+  },
+  "source_file": "X51005337867.jpg",
+  "ocr": {
+    "confidence": 0.713,
+    "preprocessing_variant": "enhanced",
+    "deskew_angle": 1.65,
+    "raw_text": "Sy dee.\nOLDTOWN WHITE COFFEE\nOld Town Kopitiam Sdn Bhd (716269-X)\nSct Raroai\nTel: 03-4148 1876\n‘GST 10:000801587200\n4 COUNTERS: 2008 LIZA\nCheck :37617 Cover:1\n22 War 18 12:44:00 PM\nTable:5 / 1\n== Dine In ——-—-\n1 $T30 13.87 $\n1 BRIO Stm Ginger R s\n1 TF2 (H) Teh Tarik s\n1 HS4 12.07\n1 ‘SNS Curry Mee s\n1 ‘TE? (C) Lemon T s\nSubtotal 25.94\n10% Srv Chg: 2.59\nGST @6x 7\nTotal: 30.24\nRounding’ 0.01\nAmount Due 30.25\nINCLUSIVE 0.00 *\n----3004 STORED 22 Mar 18 02:1. 50 PH---\nTHANK YOU\nPLEASE COME AGAIN\nGST @6% included in total\nGsTSunmary Amount (RM) ‘GST(RM)\n‘SGST GX: 28.53 il\n7-GST @OX: 0.00 0.00\ny :"
+  }
+}

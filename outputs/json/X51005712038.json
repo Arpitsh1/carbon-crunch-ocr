@@ -1,0 +1,36 @@
+{
+  "store_name": {
+    "value": "SWC ENTERPRISE SDN BHD",
+    "confidence": 0.711,
+    "status": "medium"
+  },
+  "date": {
+    "value": "2018-03-26",
+    "confidence": 0.809,
+    "status": "medium"
+  },
+  "items": [],
+  "total_amount": {
+    "value": 30.0,
+    "confidence": 0.753,
+    "status": "medium"
+  },
+  "reliability": {
+    "low_confidence_fields": [
+      "items"
+    ],
+    "requires_manual_review": true
+  },
+  "_debug": {
+    "total_line": "Total 30.00",
+    "line_count": 32,
+    "ocr_confidence": 0.727
+  },
+  "source_file": "X51005712038.jpg",
+  "ocr": {
+    "confidence": 0.727,
+    "preprocessing_variant": "gray",
+    "deskew_angle": 0.0,
+    "raw_text": "f ’\nSWC ENTERPRISE SDN BHD\n(1125830-0)\n5-7, JALAN WAHAGONT 7/1\nSEKSVEN 4, BANDAR UTANA, 44300\nBATANG KALI, SELANGOR\n03-60571377\nGST .. 002017806384\n‘Tax Invoice No : 0518087100026\n(005002 (BATANGKALI-2) 8\n002 26/03/2018 10:36:13\nOPEN CODE~SR ITEM\n0025679 U 3x8.00 24.00 §\n0025679 U 147.00 7.00 $\nPO 3.20 -3.80\nAdthor ize : BATANGKALI-S\nSTAR 12X13 (1180)\n9020323 PKT 1x1.00 1.00 §\nSTAR 15X16 AA (1K120)\n0020324 PKT 1x1.60 1.60 $\nTten 4 SubTotal Inc] @s1 30.00\nOty 6 Spec. Disc 0.00\nSaving 3.80 Rounding 0.00\nTotal 30.00\nCash 50.00\nChange 20.00\n@S) Summary Amount (RM) Tax (RN)\nS(68) 26.30 1.70\nGOODS SOLD ONLY EXCHANGEABLE WITHIN 3 DAYS\nGOODS SOLD ARE NOT REFUNDABLE\nTHANK YOU FOR YOUR KIND SUPPORT\nPLEASE COME AGAIN"
+  }
+}

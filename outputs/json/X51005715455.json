@@ -1,0 +1,38 @@
+{
+  "store_name": {
+    "value": "99 SPEED HAPT S B S19537-X",
+    "confidence": 0.603,
+    "status": "low"
+  },
+  "date": {
+    "value": "2018-03-26",
+    "confidence": 0.719,
+    "status": "medium"
+  },
+  "items": [],
+  "total_amount": {
+    "value": null,
+    "confidence": 0.0,
+    "status": "low"
+  },
+  "reliability": {
+    "low_confidence_fields": [
+      "store_name",
+      "total_amount",
+      "items"
+    ],
+    "requires_manual_review": true
+  },
+  "_debug": {
+    "total_line": null,
+    "line_count": 18,
+    "ocr_confidence": 0.589
+  },
+  "source_file": "X51005715455.jpg",
+  "ocr": {
+    "confidence": 0.589,
+    "preprocessing_variant": "enhanced",
+    "deskew_angle": 0.0,
+    "raw_text": "99 SPEED HAPT S/B (S19537-X)\nLOT PLT. Zeit, JALAN ANESA,\nTAKAN BERYELEY\n44150 KLANG, SELANGOR\n1330 JEN KENANGA\nGST IG, NOs 000181747712 :\nINVOICE NO s 18348/102/T0058 |\nidk ak S672 26-03-18\n‘2144 TLC BLASS CLEANER (PIN RMIO.60 =\n82 % FH 5.30\nTotal Sales (Inclusive 6ST) RH 10.401\nCASH RH = 20.00\nCHANGE RX 9.40\nGET Summary Amount (RH) Tax(RM)\nB= 6h 10.00 +60\nFrank You. Please come soain\nKeeo the invaice for applicable returns\nNoo nsetttsastssnsaassanssasnsess"
+  }
+}

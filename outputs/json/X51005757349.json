@@ -1,0 +1,38 @@
+{
+  "store_name": {
+    "value": "GOLDEN KEY MAKER",
+    "confidence": 0.694,
+    "status": "low"
+  },
+  "date": {
+    "value": null,
+    "confidence": 0.0,
+    "status": "low"
+  },
+  "items": [],
+  "total_amount": {
+    "value": 21.0,
+    "confidence": 0.841,
+    "status": "medium"
+  },
+  "reliability": {
+    "low_confidence_fields": [
+      "store_name",
+      "date",
+      "items"
+    ],
+    "requires_manual_review": true
+  },
+  "_debug": {
+    "total_line": "Net Total : 21.00",
+    "line_count": 24,
+    "ocr_confidence": 0.766
+  },
+  "source_file": "X51005757349.jpg",
+  "ocr": {
+    "confidence": 0.766,
+    "preprocessing_variant": "enhanced",
+    "deskew_angle": 1.73,
+    "raw_text": "21803053\nGOLDEN KEY MAKER\n(000760274-K)\nNo 5, Jalan Kenari 2,\nBandar Puchong Jaya,\n47100 Puchong, Selangor =\nTEL: 03-58919941\nFAX; 03-56919941”\nE-Mail; goldenkeymaker@gnai].com\nWebsite: www.goldenkeymaker .com\n/2 : HOE Inv No ; CS-0014134\n24 Mar-2018 03:44:22 PH\na 1) (eee\nNo.Desc/Code Qty Price Disck Amount\n1 NORMAL KEY\n33100 4 4,00 0.00 16.00\n2 NORMAL KEY LONG\n33101 1 5.00 0.00 §.00\nTotal Qty : 5 Sub-Total : 21.00\nDiscount : 0.00\nNet Total : 21.00\nCash Received : 50.00\nChange : 29.00\nGOODS SOLD ARE NOT RETURNABLE/REFUNDABLE"
+  }
+}

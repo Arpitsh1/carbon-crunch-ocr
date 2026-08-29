@@ -1,0 +1,37 @@
+{
+  "store_name": {
+    "value": "SDN BHD",
+    "confidence": 0.795,
+    "status": "medium"
+  },
+  "date": {
+    "value": "2018-01-30",
+    "confidence": 0.893,
+    "status": "high"
+  },
+  "items": [],
+  "total_amount": {
+    "value": null,
+    "confidence": 0.0,
+    "status": "low"
+  },
+  "reliability": {
+    "low_confidence_fields": [
+      "total_amount",
+      "items"
+    ],
+    "requires_manual_review": true
+  },
+  "_debug": {
+    "total_line": null,
+    "line_count": 25,
+    "ocr_confidence": 0.857
+  },
+  "source_file": "X51005447851.jpg",
+  "ocr": {
+    "confidence": 0.857,
+    "preprocessing_variant": "enhanced",
+    "deskew_angle": 0.0,
+    "raw_text": "PASARAYA BORONG PINTAR\nSDN BHD\nBR No. (124625-H)\nNO 19-G&19-4819-2 JALAN TASIK UTAMA 4\nMEDAN NIAGA TASIK DAMAI\n016-5498845,\nGST No.\n30/01/2018 14 48:23\nTAX INVOICE\nTRN: CROO02815\n© JNTER 3 CASHIER 11\nQT UOM UNITAmt Exc Amt Inc. GST\nPrice Tax Tax Code\nREVIVE 500ML\n1 WALK 170 170 170 ZRL\n“Total Qty 1.00 170\nTotal Includes GST 0% 170\nCustomer's Payment\nCash 100 00\nChange 98 30\nGST Summary Amount (RM) Tax (RM)\nZRL=0% 170 0.00\n*Goods sold are not returnable\nThank you for shopping at PASARAYA\nBORONG PINTAR SDN BHD"
+  }
+}

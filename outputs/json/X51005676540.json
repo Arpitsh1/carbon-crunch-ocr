@@ -1,0 +1,36 @@
+{
+  "store_name": {
+    "value": "3 18 Ol OIF",
+    "confidence": 0.732,
+    "status": "medium"
+  },
+  "date": {
+    "value": "2018-01-11",
+    "confidence": 0.847,
+    "status": "medium"
+  },
+  "items": [],
+  "total_amount": {
+    "value": 6.5,
+    "confidence": 0.791,
+    "status": "medium"
+  },
+  "reliability": {
+    "low_confidence_fields": [
+      "items"
+    ],
+    "requires_manual_review": true
+  },
+  "_debug": {
+    "total_line": "Total 109.70 6.5",
+    "line_count": 33,
+    "ocr_confidence": 0.787
+  },
+  "source_file": "X51005676540.jpg",
+  "ocr": {
+    "confidence": 0.787,
+    "preprocessing_variant": "enhanced",
+    "deskew_angle": 0.0,
+    "raw_text": "3:18 Ol OIF\nSYARIKAT PERNIAGAAN GIN KEE\n(81109-A)\nNO 290, JALAN AIR PANAS,\nSETAPAK,\n83200, KUALA LUMPUR,\nTEL 03-40210276\nGST ID 000750673920\nSIMPLIFIED TAX INVOICE\nCASH -\nDoc No CS00012664 Date’ 11/01/2018\nCashier USER Time: 11.42:00\nSalesperson Ref |\nttem Qty SiPrice_ Amount _Tax\n1627 1 445 445 SR\nWALL SCRAPER 3\"\n2167 2 8088 10176 SR\n4.KG RENDEROC PLUG\n1736 1 10.07 1007 SR\n5\" SCRAPER (ADAMARK)\nTotal Qty 4 T1628\nTotal Sales (Excluding GST) 109.70\nDiscount 0.00\nTotal GST 658\nRounding 0.00\nTotal Sales (Inclusive of GST) : 116.28\nCASH: 116.28\nChange : 0.00\nGST SUMMARY |\nTaxCode 9% Amt(RM) Tax(RM)\nSR 6 109 70 6.58\nTotal 109.70 6.5\nGOODS SOLD ARE NOT RETURNABLE, THANK YOU"
+  }
+}

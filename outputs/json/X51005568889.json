@@ -1,0 +1,42 @@
+{
+  "store_name": {
+    "value": "HON HWA HARDWARE TRADING",
+    "confidence": 0.751,
+    "status": "medium"
+  },
+  "date": {
+    "value": null,
+    "confidence": 0.0,
+    "status": "low"
+  },
+  "items": [
+    {
+      "name": "34° ALUMNIUMROD—“- SR",
+      "price": 19.6,
+      "confidence": 0.779
+    }
+  ],
+  "total_amount": {
+    "value": 19.6,
+    "confidence": 0.769,
+    "status": "medium"
+  },
+  "reliability": {
+    "low_confidence_fields": [
+      "date"
+    ],
+    "requires_manual_review": true
+  },
+  "_debug": {
+    "total_line": "Total 18.49 1 19.60",
+    "line_count": 24,
+    "ocr_confidence": 0.752
+  },
+  "source_file": "X51005568889.jpg",
+  "ocr": {
+    "confidence": 0.752,
+    "preprocessing_variant": "gray",
+    "deskew_angle": 0.0,
+    "raw_text": "HON HWA HARDWARE TRADING\nCompany Reg, No. ; 001055194X\nNO 37, JALAN MANIS 7, TAMAN SEGAR,\n56100 CHERAS, KUALA LUMPUR,\n+603-91 30 2672\nGST Reg : 001125220352\nTAX INVOICE\nCB: 69379 11022017 9:35:48 AM\nMe: C1-0\nCashier : cash3 -\nQty Description Price _Total(RM;\n138 34° ALUMNIUMROD—“6.80-19.60 SR\n——ltem Discount, _____ 9.00\n438 Type: 1 Total 19.60\nDiscount: 0.00\nRounding Adj 0.00\nTotal inclusive GST: 19.60\nCASH 19.60\nGST Summary\nCode % —_NetAmt GST __Total(RM)\nSR__SR 18.49 111 19.60\nTotal 18.49 1 19.60\nThank you | & Please come again !!\nGoods sold are not returnable for relund or exchange I"
+  }
+}

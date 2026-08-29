@@ -1,0 +1,47 @@
+{
+  "store_name": {
+    "value": "Aa PHARMACY",
+    "confidence": 0.751,
+    "status": "medium"
+  },
+  "date": {
+    "value": null,
+    "confidence": 0.0,
+    "status": "low"
+  },
+  "items": [
+    {
+      "name": "i IBUPROFEN FILM COATED TAB 4 Z",
+      "price": 12.0,
+      "confidence": 0.802
+    },
+    {
+      "name": "FEBRICOL - RX 10x10°S 6 §",
+      "price": 20.94,
+      "confidence": 0.802
+    }
+  ],
+  "total_amount": {
+    "value": 46.2,
+    "confidence": 0.793,
+    "status": "medium"
+  },
+  "reliability": {
+    "low_confidence_fields": [
+      "date"
+    ],
+    "requires_manual_review": true
+  },
+  "_debug": {
+    "total_line": "TOTAL 46.20",
+    "line_count": 33,
+    "ocr_confidence": 0.79
+  },
+  "source_file": "X51005719823.jpg",
+  "ocr": {
+    "confidence": 0.79,
+    "preprocessing_variant": "gray",
+    "deskew_angle": 0.0,
+    "raw_text": "SIMPLIFIED TAX INVOICE\nAa PHARMACY\n1188096-0\nGST NO: 001930047488\nNO.47, JALAN 3/35,\nBUKIT SRI BINTANG,\nKEPONG 52100, KUALA LUMPUR\nTEL: 03-6263 8480 FAX: 03-6263 8480\nCASH\nRECEIPT ay csoolzseee bares 29/01/20i0\nSALESPERSON : C2 TIME: 12:09:00\n| CASHIER + C2\nITEM ary U/P AMOUNT\n| 930602 4 3.00 12.00 Z\ni IBUPROFEN FILM COATED TAB\n9556492002837 4 3.00 12.00 Z\nFEBRICOL - RX 10x10°S\n940152 6 3.49 20.94 §\nh NOFLUX TABLET\nTOTAL QUANTITY 14\nSUB-TOTAL 44.94\nDISC 0.00\nGST 1.26\nROUNDING 9.00\nTOTAL 46.20\nMASTER 46-20\nCHANGE 0.00\nGOODS SOLD ARE NOT RETURNABLE,\nTHANK YOU.\nS=STANDARD RATED, ZZERO RATED\nCODE AMOUNT x TAX/AMT\nSR 20.94 6 1.26\n7RL 24.00 0 0.00"
+  }
+}

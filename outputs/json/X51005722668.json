@@ -1,0 +1,36 @@
+{
+  "store_name": {
+    "value": "MY HAPPY PHARMACY PLT",
+    "confidence": 0.75,
+    "status": "medium"
+  },
+  "date": {
+    "value": "2018-02-01",
+    "confidence": 0.823,
+    "status": "medium"
+  },
+  "items": [],
+  "total_amount": {
+    "value": 19.34,
+    "confidence": 0.767,
+    "status": "medium"
+  },
+  "reliability": {
+    "low_confidence_fields": [
+      "items"
+    ],
+    "requires_manual_review": true
+  },
+  "_debug": {
+    "total_line": "Total : 19.34 1",
+    "line_count": 28,
+    "ocr_confidence": 0.749
+  },
+  "source_file": "X51005722668.jpg",
+  "ocr": {
+    "confidence": 0.749,
+    "preprocessing_variant": "enhanced",
+    "deskew_angle": 0.0,
+    "raw_text": "MY HAPPY PHARMACY PLT\n(LLP0007299-LGN)\nNO 12GF JALAN MAMANDA 5\nTAMAN DATO AHMAD RAZALI JALAN AMPANG,\n68000 AMPANG, SELANGOR\nTEL +60342661226\nGST ID 000241512448\nSIMPLIFIED TAX INVOICE\n‘CASH 7\nDoc No $00038813 Date 01/02/2018\nCashier ASIFA Time 160700\nSalesperson — SOOF Ref\n/_ttem Qty S/Price Amount Tax\n‘OTC-000127 1 2060 2050 SR\n| FLANIL ANALGESIC CR 60G\n~~ Total Qty 1 2050 7\n| oval Sales (Excluding GST) 19.34\nDiscount 000\nTotal GST 116\nRounding 0.00\nTotal Sales (Inclusive of GSi) 20.50\nCASH 2100\nChange 0.50\nGST SUMMARY\nTaxCode = % Amt(RM) Tax (RM)\nSR 6 19.34 116\nTotal : 19.34 1\nGOODS SOLD ARE NOT RETURNABLE THANK YOU"
+  }
+}

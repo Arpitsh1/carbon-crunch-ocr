@@ -1,0 +1,37 @@
+{
+  "store_name": {
+    "value": "LIM SENG THO HARDWARE TRADING",
+    "confidence": 0.781,
+    "status": "medium"
+  },
+  "date": {
+    "value": "2018-02-03",
+    "confidence": 0.879,
+    "status": "high"
+  },
+  "items": [],
+  "total_amount": {
+    "value": null,
+    "confidence": 0.0,
+    "status": "low"
+  },
+  "reliability": {
+    "low_confidence_fields": [
+      "total_amount",
+      "items"
+    ],
+    "requires_manual_review": true
+  },
+  "_debug": {
+    "total_line": null,
+    "line_count": 26,
+    "ocr_confidence": 0.835
+  },
+  "source_file": "X51005663301.jpg",
+  "ocr": {
+    "confidence": 0.835,
+    "preprocessing_variant": "enhanced",
+    "deskew_angle": 0.0,
+    "raw_text": "31302 Ol\n~ . .\n| LIM SENG THO HARDWARE TRADING\nNo 7 Simpang Off Batu Village\n| Jalan Ipoh Batu 5, 51200 Kuala Lumpur\nMALAYSIA\nTel& FaxNo 03-6258 7191\n| 03-6258 7191 -\nCompany Reg No (002231061-T\nGST Reg No. 001269075968\nTAX INVOICE\nInvoice No CS 24198\nDate 03/02/2018 15:28\nCashier# LST\nRM Code\nBEG GUNI\n10.00NOS x 076 7.00 SR\nSubtotal 0\nTotal Inc! of GST 00\nPayment —\nChange Due 000\nTotal tems) 10\nGST Summary — Amount(RM Tax(RM\nSR @6% 6.60 ‘\n***** PLEASE COME AGAIN *****\n*GOODS SOLD ARE NOT RETURNABLE"
+  }
+}

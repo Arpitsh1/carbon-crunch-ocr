@@ -1,0 +1,39 @@
+{
+  "store_name": {
+    "value": "LEE WAH FLORIST SDN BHD",
+    "confidence": 0.556,
+    "status": "low"
+  },
+  "date": {
+    "value": null,
+    "confidence": 0.0,
+    "status": "low"
+  },
+  "items": [],
+  "total_amount": {
+    "value": null,
+    "confidence": 0.0,
+    "status": "low"
+  },
+  "reliability": {
+    "low_confidence_fields": [
+      "store_name",
+      "date",
+      "total_amount",
+      "items"
+    ],
+    "requires_manual_review": true
+  },
+  "_debug": {
+    "total_line": null,
+    "line_count": 44,
+    "ocr_confidence": 0.451
+  },
+  "source_file": "X51005806679.jpg",
+  "ocr": {
+    "confidence": 0.451,
+    "preprocessing_variant": "enhanced",
+    "deskew_angle": 0.0,
+    "raw_text": "LEE WAH FLORIST SDN BHD\n(2273)\n128, JALAN TUN HS LE,\n‘50060 KUALA LUMPUR\nTEL 03-20782322 /012-9389460 FAX 03-\nSALES@EEVIAHFLORIST.COM\nGST ID 001011499008\nSS ie _\nDosNe = 80018846 Daw 0202/2018\nCashier: USER Tme 21.41:00\nSalesperson Ret,\n(est) (G8T)\nMom ________Oty,_Sirice_ $PMew Around Tax\n“015 Piao iat ied BR\nPEACOCK YELLOW\n1012 4040) 30418 gk\nSTATICE FULL IMP\n1145 1 5000 e140 ciao se\nLvy concorDo 24\n1037 2 600 625 1272 sR\n‘SwOW WmITE LEAF\n1060 1 30 37 amt sk\nFLORIDA BEAUTY\n+007 4 900 651 3016 sR\nPAIM LEAF L\n160 34s 477 ual R\nPAUM LEAF.\n1008 1 mm ma ats\nROSE INDIA SUPERICR\n2a 4 00 1272 08k\nSUCCULENTL ee\nrealty, 22\nTotal Sales (Excucing GST) 358.00\nDiscount 0.00\nTolGsT 21.18\nRowdng a2\nTotal Sales (Inclusive of GST) : 374.20\ncas : 400.00\nChange : 25.80\nGST sOWMARY\nTexCode % = AML(RM) Tax (RM)\nEF 6 36000 2118\n_— Total; 38300 21.18)\n“GOODS SOLD ARENOT RETURNABLE, THANKYOU"
+  }
+}

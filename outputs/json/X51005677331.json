@@ -1,0 +1,37 @@
+{
+  "store_name": {
+    "value": "SYARIKAT PERNIAGAAN GIN KEE",
+    "confidence": 0.699,
+    "status": "low"
+  },
+  "date": {
+    "value": "2018-02-03",
+    "confidence": 0.839,
+    "status": "medium"
+  },
+  "items": [],
+  "total_amount": {
+    "value": 3.45,
+    "confidence": 0.783,
+    "status": "medium"
+  },
+  "reliability": {
+    "low_confidence_fields": [
+      "store_name",
+      "items"
+    ],
+    "requires_manual_review": true
+  },
+  "_debug": {
+    "total_line": "Total 57.50 3.45",
+    "line_count": 34,
+    "ocr_confidence": 0.774
+  },
+  "source_file": "X51005677331.jpg",
+  "ocr": {
+    "confidence": 0.774,
+    "preprocessing_variant": "enhanced",
+    "deskew_angle": 0.0,
+    "raw_text": "21202016 tet\nSYARIKAT PERNIAGAAN GIN KEE\n(81109-A)\nNO 290, JALAN AIR PANAS,\nSETAPAK,\n53200, KUALA LUMPUR.\nTEL 03-40210276\nGST ID 000760673920\nSIMPLIFIED TAX INVOICE\nCASH\nDoc No. CS00013118 Date: 03/02/2018\nCashier USER Time. 11.49:00\nSalesperson Ref.\ntem Qty SiPrice “Amount Tax\n2786 2 477 954 SR\n12M WIRE ROPE CLIP\n1471 1 477 477 SR\n4\" X KINKI BRD 2 WAY SCREWDRIVER\n1943 2 2332 4664 SR\nHOES SET\n@ Total Qty 5 60.95\nTotal Sales (Excluding GST) 5750\nDiscount 0.00\nTotal GST 3.45\nRounding 0.00\nTotal Sales (Inclusive of GST) : 80.95\nCASH . 60.95\nChange - 0.00\nGST SUMMARY _ ]\nTaxCode % Amt(RM) Tax(RM)\nSR 6 57 50 3.45\nTotal 57.50 3.45\n__ se y\nGOODS SOLD ARE NOT RETURNABLE THANK YOU"
+  }
+}

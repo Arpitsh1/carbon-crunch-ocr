@@ -1,0 +1,39 @@
+{
+  "store_name": {
+    "value": "HOME MASTER HARDWARE &",
+    "confidence": 0.692,
+    "status": "low"
+  },
+  "date": {
+    "value": null,
+    "confidence": 0.0,
+    "status": "low"
+  },
+  "items": [],
+  "total_amount": {
+    "value": null,
+    "confidence": 0.0,
+    "status": "low"
+  },
+  "reliability": {
+    "low_confidence_fields": [
+      "store_name",
+      "date",
+      "total_amount",
+      "items"
+    ],
+    "requires_manual_review": true
+  },
+  "_debug": {
+    "total_line": null,
+    "line_count": 27,
+    "ocr_confidence": 0.66
+  },
+  "source_file": "X51005301659.jpg",
+  "ocr": {
+    "confidence": 0.66,
+    "preprocessing_variant": "gray",
+    "deskew_angle": -1.74,
+    "raw_text": "HOME MASTER HARDWARE &\nELECTRICAL\nNO.113G & 1156, JALAN SETIA GEMEILANG\nUT BANDAR SETIA ALAM,\n40170 BANDAR SETIA ALAM,\nSELANGOR,\nCompany Reg No. :$403711651-P\nGST Reg No. :001637511168\nTAX IROICE\nInvoice No: cs s7a32\n' Date: zert2re017 14:03\nCashler#: CASHIER\nRi Code\n24NINX7Y MONE TAPE\n1.00 x 1990 1590 SR\nSubtotal : 15.90\nTolal Excl of ST ~~ 46,00\"\nTotat Incl, of GST 15.90\nTotal AmtRounded ~~ ~ ~ 48,99\nPayment : 50.00\nChange Due : 34.10\nTotal item(s) : 1\nS Summary —Amiouni(RM) Tax (RM)\nsR @ay 18.00 0.90\nTHANK YOU sees\nARY GOODS RETURN PLEASE 00 WITHIN\n7 GAYS WITH ORIGINAL RECEIRT Ta™"
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "store_name": {
+    "value": "SOON HUAT MACHINERY ENTERPRISE",
+    "confidence": 0.772,
+    "status": "medium"
+  },
+  "date": {
+    "value": "2019-01-11",
+    "confidence": 0.87,
+    "status": "high"
+  },
+  "items": [],
+  "total_amount": {
+    "value": 327.0,
+    "confidence": 0.814,
+    "status": "medium"
+  },
+  "reliability": {
+    "low_confidence_fields": [
+      "items"
+    ],
+    "requires_manual_review": true
+  },
+  "_debug": {
+    "total_line": "Total Sales : 327.00",
+    "line_count": 41,
+    "ocr_confidence": 0.822
+  },
+  "source_file": "X00016469672.jpg",
+  "ocr": {
+    "confidence": 0.822,
+    "preprocessing_variant": "enhanced",
+    "deskew_angle": 0.29,
+    "raw_text": "tan chay yee\nSOON HUAT MACHINERY ENTERPRISE\n(JM0352019-K)\nNO.53 JALAN PUTRA 1,\nTAMAN SRI PUTRA.\n81200 JOHOR BAHRU\nJOHOR\nTEL 07-5547360/016-7993391 FAX 07-5624059\nSOONHUAT2000@HOTMAIL.COM\nGST ID 002116837376\ncas sates\nDoc No. Cs00004040 Date: 11/01/2019\nCashier USER Time: 09:44:00\nSalesperson Ref.\nttem Qty _S/Price__S/Price___ Amount Tax\n1072 1 80.00 80.00 80.00\nREPAIR ENGINE POWER SPRAYER (1UNIT)\nworkmanship & service\n70549 1 160.00 160.00 160.00\nGIANT 606 OVERFLOW ASSY\n1071 1 17.00 17.00 17.00\nENGINE OIL\n70791 1 10.00 10.00 10.00\nGREASE FOR TOOLS 40ML (AKODA)\n70637 1 6.00 600 600\nEY20 PLUG CHAMPION\n1643 1 6.00 8.00 8.00\nSTARTER TALI\n70197 1 10.00 10.00 10.00\nEY20 STARTER HANDLE\n70561 2 18.00 18.00 36.00\nHD40 1L COTIN\nTotal Qty a 327.00\nTotal Sales 327.00\nDiscount 0.00\nTotal 0.00\nRounding . 0,00\nTotal Sales : 327.00\nCASH : = 327.00\nChange : 0.00\nGOODS SOLD ARE NOT RETURNABLE, THANK YOU."
+  }
+}

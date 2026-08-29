@@ -1,0 +1,36 @@
+{
+  "store_name": {
+    "value": "BREWERY TAP",
+    "confidence": 0.711,
+    "status": "medium"
+  },
+  "date": {
+    "value": "2018-03-30",
+    "confidence": 0.826,
+    "status": "medium"
+  },
+  "items": [],
+  "total_amount": {
+    "value": 189.75,
+    "confidence": 0.833,
+    "status": "medium"
+  },
+  "reliability": {
+    "low_confidence_fields": [
+      "items"
+    ],
+    "requires_manual_review": true
+  },
+  "_debug": {
+    "total_line": "Net Total 189.75",
+    "line_count": 32,
+    "ocr_confidence": 0.754
+  },
+  "source_file": "X51005441398.jpg",
+  "ocr": {
+    "confidence": 0.754,
+    "preprocessing_variant": "enhanced",
+    "deskew_angle": 0.48,
+    "raw_text": "BREWERY TAP\nQuner by Castle Blue S/E\n(1035685-T)\nGST No : 002108047360\nAvtivo Plaza,Lot B-F-11, Block B\nNol.Jalan PJU 9/1,D'sara Avevue\nBandar Sri D sara, 52000 KL\nTEL: #603-62629219\n3 GUEST CHELY #\nTable No: D@&\nOrder No 11649\nDate + 30/03/2018 # 8313 PM\nCashier : ORDER LOGIN\nWaiter + Harry,Paing\nPRN ON 3 30/03/2018 11:18 PA\nory ITEM RM\n#44 Dine In 448\n1 Tager 2 Bucket - HH 95.90 SR\n2 Tiger Bucket HH\n1 Chicken wings 22.00 SR\n1 French Fries 12.@0 SR\n1 Tiger Bucket- HH 50.00 SR\n4 SubTotal 179.66\nGST Soh: 10.74\nRounding Ad} o.01\nNet Total 189.75\n#28 30/03/2018 I1sit PM see —\nTax Summary Amount Tax\nSR:GST @6% 179,08 10.74\nTHANK YOU, PLEASE CONE AGAIN\nGoods Sold Are Non Refundable\n&"
+  }
+}

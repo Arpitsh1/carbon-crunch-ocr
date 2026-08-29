@@ -1,0 +1,42 @@
+{
+  "store_name": {
+    "value": "32 PUB & BISTRO own by CNU TRADING",
+    "confidence": 0.778,
+    "status": "medium"
+  },
+  "date": {
+    "value": "2018-03-10",
+    "confidence": 0.851,
+    "status": "high"
+  },
+  "items": [
+    {
+      "name": "HEINEKEN (5 BTL) SR",
+      "price": 190.0,
+      "confidence": 0.803
+    }
+  ],
+  "total_amount": {
+    "value": null,
+    "confidence": 0.0,
+    "status": "low"
+  },
+  "reliability": {
+    "low_confidence_fields": [
+      "total_amount"
+    ],
+    "requires_manual_review": true
+  },
+  "_debug": {
+    "total_line": null,
+    "line_count": 25,
+    "ocr_confidence": 0.792
+  },
+  "source_file": "X51005441408.jpg",
+  "ocr": {
+    "confidence": 0.792,
+    "preprocessing_variant": "enhanced",
+    "deskew_angle": -0.68,
+    "raw_text": "32 PUB & BISTRO own by CNU TRADING\n78G, JALAN SS21/62,\nDAMANSARA UTAMA,\n47400 PETALING JAYA.\n(GST Reg. No : 000416321536)\nTax Invoice\nTable 5\nINV No. 504233 Pax(s): 0\nDate + 10-03-2018 23°03:06\nCashier: CHEN\nDescription Qty U.price Total TAX\nHEINEKEN (5 BTL)\n2x 95.00 190.00 SR\nTotal (Excluding GST) 1H.a5\nGST Payable. 10. 75\nTotal (Inclusive of GST): 60.00\nClosed: 32 11-03-2018 + 00:32:02\nServer: CHEN\nCASH - 200. 00\nCHANGE 10. 00\nGST Summary Amount (RM) Tax (RM)\nSR (@ 6%) 174,25, 10.15,\nkK\nae Thank You 20K\n~ Diwan Broan Anetes"
+  }
+}

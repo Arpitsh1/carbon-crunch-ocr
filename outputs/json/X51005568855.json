@@ -1,0 +1,38 @@
+{
+  "store_name": {
+    "value": "WRC. TAPE REF R624R- 31.99 T",
+    "confidence": 0.567,
+    "status": "low"
+  },
+  "date": {
+    "value": "2017-12-23",
+    "confidence": 0.77,
+    "status": "medium"
+  },
+  "items": [],
+  "total_amount": {
+    "value": null,
+    "confidence": 0.0,
+    "status": "low"
+  },
+  "reliability": {
+    "low_confidence_fields": [
+      "store_name",
+      "total_amount",
+      "items"
+    ],
+    "requires_manual_review": true
+  },
+  "_debug": {
+    "total_line": null,
+    "line_count": 47,
+    "ocr_confidence": 0.667
+  },
+  "source_file": "X51005568855.jpg",
+  "ocr": {
+    "confidence": 0.667,
+    "preprocessing_variant": "enhanced",
+    "deskew_angle": 0.0,
+    "raw_text": "(Co, No. 113825-#)\n(GST Rex No. 001492992000)\nNo 8, Jalan 7/1188, Desa Tun Razak\n56000 Kuala Lumpur, Malaysia\nCHERAS LEISURE WALL\nTel 03-01322435/437\n23/12/17 15:53 Slip No. ? 9050338075\nainas Trans: 309782\nMember Card No? 200200822\nard expiry? 31/08/20\nDescription Anount\nShoe White SW1101#25 4.29 T\nWRC. TAPE REF R624R- 31.99 T\nKIT KAT 2F (PM). 176 135 T\nOxford-Coin Box\nBTS RMIO Voucher Issu\nFC GRIP BPO.5 BLK PK 4.20 T\nWonber Discount 0.42\nFC GRIP BPO. 5 BLU PK 4.20 T\nWenber Discount 0.42\n3M GlueStick Ten 4's 10.58 T\nSTAT-PROMO SPECIAL -3.69,\nPU R/C B/L Ad 450°s 16.99 T\nSTAT-PROMO SPECIAL -2.99\nPLUS stapler set 010E 8.80 T\nSTAT-PROMO SPECIAL 3.89\nFC EXM.ERS 4S 187016 3.90 T\nSTAT-PROMO SPECIAL -0.91\nS4 SUPER SM AKT SPM [BK] 9.90 Z\nRey-BTS Promotion 1.49\nSUCCESS SPM ADD MATHS(BK] 37.00 Z\nRey-BTS Prosotion 27.40\nSUCCESS SPM SCI (BK) 35.702\nRey-BTS Prozotion 1.4\nTotal RW Incl. of GST 140.65\nMastercard -140, 65\nItem Count “4\nGST Summary Amount (RM) Tax (RN)\nTe ox 89.90 4.18\nLeo 86.57 0.00\nTotal Savings -28..35\n‘BE A POPULAR CARD MEMBER\nAND ENJOY SPECIAL DISCOUNTS\nTHANK YOU. PLEASE COME AGAIN,\nWww, popular. con. ay\nBuy Chinese books onl ine\nWwwe. populeron| ine. com. ay"
+  }
+}

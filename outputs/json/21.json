@@ -1,0 +1,38 @@
+{
+  "store_name": {
+    "value": "Dollar Tree Stores Inc",
+    "confidence": 0.715,
+    "status": "medium"
+  },
+  "date": {
+    "value": null,
+    "confidence": 0.0,
+    "status": "low"
+  },
+  "items": [],
+  "total_amount": {
+    "value": null,
+    "confidence": 0.0,
+    "status": "low"
+  },
+  "reliability": {
+    "low_confidence_fields": [
+      "date",
+      "total_amount",
+      "items"
+    ],
+    "requires_manual_review": true
+  },
+  "_debug": {
+    "total_line": null,
+    "line_count": 3,
+    "ocr_confidence": 0.842
+  },
+  "source_file": "21.jpg",
+  "ocr": {
+    "confidence": 0.842,
+    "preprocessing_variant": "gray",
+    "deskew_angle": 0.0,
+    "raw_text": "Gs\nOS\nDollar Tree Stores, Inc"
+  }
+}

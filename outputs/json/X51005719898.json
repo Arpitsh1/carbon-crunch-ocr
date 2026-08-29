@@ -1,0 +1,36 @@
+{
+  "store_name": {
+    "value": "WR. O.1. . KUCHAT SON BHD",
+    "confidence": 0.703,
+    "status": "medium"
+  },
+  "date": {
+    "value": "2018-03-19",
+    "confidence": 0.843,
+    "status": "medium"
+  },
+  "items": [],
+  "total_amount": {
+    "value": 11.9,
+    "confidence": 0.85,
+    "status": "high"
+  },
+  "reliability": {
+    "low_confidence_fields": [
+      "items"
+    ],
+    "requires_manual_review": true
+  },
+  "_debug": {
+    "total_line": "total incl. GST 6% RM 11.90",
+    "line_count": 24,
+    "ocr_confidence": 0.78
+  },
+  "source_file": "X51005719898.jpg",
+  "ocr": {
+    "confidence": 0.78,
+    "preprocessing_variant": "gray",
+    "deskew_angle": 0.0,
+    "raw_text": "—\nWR. O.1.¥.(KUCHAT) SON BHD\n(CO Reg : 750441-H)\nLOT 1851-A & 1851-B, JALAN KPB 6,\nKAWASAN PERINDUSTRIAN BALAKONG,\n43300 SERI KEMBANGAN, SELANGOR\n(GST ID No :000473792512)\n(TESCO MENJALARA KEPONG HQ)\n~ TAX INVOICE -\nCUSHION 45*45CM PLAIN 45\n£209 - 5/60\n9064525 1X 11,90 11,90\nItem(s) : 1 Qty(s) i 1\ntotal incl. GST 6% RM 11.90\nCASH RM 22.00\nCHANGE RM 10.10\nGST Summary Amt(RM) = Tax(RM)\nGST Sa6% 11,23 0.67\neigttare 2 Sa Bs EW ey\n| 19-03-18 13:09 SHO1 B026 13 RO00129969\nOPERATOR THOT - AIDA NOR HAFIDZA\nEXCHANGE ARE ALLOWED WITHIN\n7 DAYS WITH RECEIPT.\nSTRICTLY NO CASH REFUND."
+  }
+}

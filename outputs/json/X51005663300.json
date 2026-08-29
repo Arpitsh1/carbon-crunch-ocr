@@ -1,0 +1,38 @@
+{
+  "store_name": {
+    "value": "LIM SENG THO HARDWARE TRADING",
+    "confidence": 0.687,
+    "status": "low"
+  },
+  "date": {
+    "value": "2018-02-02",
+    "confidence": 0.785,
+    "status": "medium"
+  },
+  "items": [],
+  "total_amount": {
+    "value": null,
+    "confidence": 0.0,
+    "status": "low"
+  },
+  "reliability": {
+    "low_confidence_fields": [
+      "store_name",
+      "total_amount",
+      "items"
+    ],
+    "requires_manual_review": true
+  },
+  "_debug": {
+    "total_line": null,
+    "line_count": 26,
+    "ocr_confidence": 0.691
+  },
+  "source_file": "X51005663300.jpg",
+  "ocr": {
+    "confidence": 0.691,
+    "preprocessing_variant": "enhanced",
+    "deskew_angle": 0.0,
+    "raw_text": "2 \\2 0d 013%\nLIM SENG THO HARDWARE TRADING\nNo 7 Simpdng Off Batu Village\nJalan Ipoh Batu 5. 54200 Kuala Lumpur\nMALAYSIA\nTel & FaxNo 03-6258 7191\n03-6258 7191\nGor yar, RegNo (0022# 21) 1)\nG51 Rey No 00126% 75968\nTAX INVOICE\nnwoIwe cs 28146\nCate 02/02/2018 10:06\nasiier # ist\nRM Code\nBEG GUNI\n10.00 NOS x 070 700 SR\nSubtotal 700\nTotal inci of GST 7.00\nPayment 700\nChange Due 0.00\nTotal Itemis) 10\nGST Summary Amount(RM) —TaxiRM)\nsR @6% 660 oo\ndonnie HANK YOU “eeemnee\n. ***** PLEASE COME AGAIN *****\n*GOODS SOLD ARE NOT RETURNABLE*"
+  }
+}

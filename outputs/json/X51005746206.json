@@ -1,0 +1,48 @@
+{
+  "store_name": {
+    "value": "NW EES ' O'UUSISSSESEES Y_ESC Tn",
+    "confidence": 0.654,
+    "status": "low"
+  },
+  "date": {
+    "value": "2018-03-21",
+    "confidence": 0.787,
+    "status": "medium"
+  },
+  "items": [
+    {
+      "name": "9928 28 IN BASIN 35,00 SA",
+      "price": 35.0,
+      "confidence": 0.745
+    },
+    {
+      "name": "TG WFD32 PP BOWL CIN 70,00 SA",
+      "price": 70.0,
+      "confidence": 0.745
+    }
+  ],
+  "total_amount": {
+    "value": null,
+    "confidence": 0.0,
+    "status": "low"
+  },
+  "reliability": {
+    "low_confidence_fields": [
+      "store_name",
+      "total_amount"
+    ],
+    "requires_manual_review": true
+  },
+  "_debug": {
+    "total_line": null,
+    "line_count": 30,
+    "ocr_confidence": 0.694
+  },
+  "source_file": "X51005746206.jpg",
+  "ocr": {
+    "confidence": 0.694,
+    "preprocessing_variant": "enhanced",
+    "deskew_angle": 0.0,
+    "raw_text": "NW EES '/O'UUSISSSESEES|Y_ESC Tn\nPANA JAYA ENTERPAISE\nNO, 10-G, GROUND FLOOR. JALAN DINAR D.\nU3/D, TAMAN SUBANG PERDANA.\nSEK U3. 40150 SHAH ALAM, SELANGOR\nTEL:03-7847 #376 © FAX:03-7847 2378\n(BST Reg No : GO20B9438454)\nTax Invoice\nINV No. : 39405 Qty(s): 2\nDate = 21-03-2018 10:37:49\nCashier CASHIER?\nDescription Qty Uprice Total TAX\n9928 28 IN BASIN\n1x 35,00 35.00 SA\nTG WFD32 PP BOWL CIN\n1x 70,00 70.00 SA\nTotal (Excluding GST) 99.06\nGST payable (6%) 5.94\nTotal (Inclusive of GST) 105 00\nTOTAL: 105, 00+\nCASH : tos 00\nGST Summary Amount(RM) — Tax( AM) J\nSR (@ 6%) 99.06 5.94\nr\\>\nros\neves Thank You ****\nPlease Come Again\n. Goods Sold Ara ’\nNot Refundabie\nBe a"
+  }
+}

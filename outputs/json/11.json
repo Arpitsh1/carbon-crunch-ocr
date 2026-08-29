@@ -1,0 +1,39 @@
+{
+  "store_name": {
+    "value": "a 5 cnoe Fee mutant 3.698",
+    "confidence": 0.462,
+    "status": "low"
+  },
+  "date": {
+    "value": null,
+    "confidence": 0.0,
+    "status": "low"
+  },
+  "items": [],
+  "total_amount": {
+    "value": null,
+    "confidence": 0.0,
+    "status": "low"
+  },
+  "reliability": {
+    "low_confidence_fields": [
+      "store_name",
+      "date",
+      "total_amount",
+      "items"
+    ],
+    "requires_manual_review": true
+  },
+  "_debug": {
+    "total_line": null,
+    "line_count": 21,
+    "ocr_confidence": 0.506
+  },
+  "source_file": "11.jpg",
+  "ocr": {
+    "confidence": 0.506,
+    "preprocessing_variant": "gray",
+    "deskew_angle": 0.0,
+    "raw_text": "=\nmm\nSHARON RD.\nut]\na 5 cnoe Fee mutant? 3.698\n= Lack BEANS 1.298\nTEM; Frozen Hansces tee 2.999\n{hale Stravberries 2.39.3\n+ OG LF cortace CHEE 3.49.8\n' NAHE HANK FILLETS 8.99 8\nMy ve szore cry ri —2.00-\n‘ California Harvest 2.69 B\n1.08 1b € 1.99 /1b rare = 01\nsur PLUMS BLACK CV 2.15 B\nTTEN = 4040\nAHP SLICED OVEN RO -3.99.B\nMHP SLICED HICKORY 3.99 B\n164 Ib @ 1.99 /ib TARE = 01\nur GALA APPLES 0G 3.26 8\nITEM = 94135\nwane TAX 93 BAL 45.44"
+  }
+}

@@ -1,0 +1,50 @@
+{
+  "store_name": {
+    "value": "RESTORAN WAN SHENG",
+    "confidence": 0.769,
+    "status": "medium"
+  },
+  "date": {
+    "value": "2018-03-19",
+    "confidence": 0.884,
+    "status": "high"
+  },
+  "items": [
+    {
+      "name": "Teh (B) SR",
+      "price": 4.4,
+      "confidence": 0.834
+    },
+    {
+      "name": "Cham (B) 2,20 SR",
+      "price": 2.2,
+      "confidence": 0.834
+    },
+    {
+      "name": "Herbal Tea 1x 1,70 1,70 SR Take Away 0,20 SR",
+      "price": 0.8,
+      "confidence": 0.834
+    }
+  ],
+  "total_amount": {
+    "value": 9.1,
+    "confidence": 0.828,
+    "status": "medium"
+  },
+  "reliability": {
+    "low_confidence_fields": [],
+    "requires_manual_review": false
+  },
+  "_debug": {
+    "total_line": "TOTAL: 9.10",
+    "line_count": 27,
+    "ocr_confidence": 0.843
+  },
+  "source_file": "X51005711403.jpg",
+  "ocr": {
+    "confidence": 0.843,
+    "preprocessing_variant": "enhanced",
+    "deskew_angle": 0.0,
+    "raw_text": "RESTORAN WAN SHENG\n002043319-W\nNo.2, Jalan Temenggung 19/9,\nSeksyen 9, Bandar Mahkota Cheras,\n43200 Cheras, Selangor\nGST REG NO: 001335767520\nTax Invoice\nINV No.: 1052580 Cashier: Thandar\nDate =: 19-03-2018 11:12:15\nDescription Qty U.price Total TAX\nTeh (B)\n2x 2.20 4.40 SR\nCham (B)\n1x 2.20 2,20 SR\nHerbal Tea\n1x 1,70 1,70 SR\nTake Away\n4x 0,20 0.80 SR\nTotal QTY; 8\nTotal (Excluding GST): 8.59\nGST payable (6%); 0.51\nTotal (Inclusive of GST): 9.10\nTOTAL: 9.10\nCASH : 9.10\nGST Summary Amount (RM) Tax(RM)\nSR (@ 6%) 8.59 0.51\n'"
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "store_name": {
+    "value": "LA STATIONERY SDN BHD 640899-P",
+    "confidence": 0.754,
+    "status": "medium"
+  },
+  "date": {
+    "value": "2018-02-09",
+    "confidence": 0.852,
+    "status": "high"
+  },
+  "items": [],
+  "total_amount": {
+    "value": null,
+    "confidence": 0.0,
+    "status": "low"
+  },
+  "reliability": {
+    "low_confidence_fields": [
+      "total_amount",
+      "items"
+    ],
+    "requires_manual_review": true
+  },
+  "_debug": {
+    "total_line": null,
+    "line_count": 36,
+    "ocr_confidence": 0.794
+  },
+  "source_file": "X51005663307.jpg",
+  "ocr": {
+    "confidence": 0.794,
+    "preprocessing_variant": "gray",
+    "deskew_angle": 0.0,
+    "raw_text": "41g 02°}\nTax Invoice\nLA STATIONERY SDN BHD (640899-P)\nNO.8, JALAN 46/26,\nTAMAN SRI RAMPAI,\n| 53300 KUALA LUMPUR\nTel No. 03 - 4023 0088\nGST Reg. : 001542721536\nInvoice No. : TO01-006194\nDate 09/02/2018 09:21:19 AM\nToL\nCa TCKIE\nPRICE Disc AMOUNT TAX\nRM RM CODE\nELPEN RE*ILL PILOT G2 0.5 BLACK\nSPcS * 2.86 0.00 14.30 SR\nLPEN REFILL PILOT G2 0.5 BLUE\nspecs = 2.86 0.00 14.30 SR\nGELPEN REFILL PILOT G2 0.5 RED\n2Pcs = 2.86 0.00 5.72 SR\nGLUE - CLEAR GLUE 1000Mt-——\n18TL * 7.42, 0.00 7.42 SR\nLIQUID PAPER = PAPERMATE NP10 7mi.\n2PcS * 3.71 0.00 7.42 SR\nPERMANENT MARKER SHARPIE FINE BLACK 30051\npcs * 2.33 0.00 2.33 SR\nBALLPEN PILOT FRIXION 0.5 BLACK\n1pcs * 5.30 0.00 5.30 SR\nSub Total(Inclusive GST) 56.80 )\nRounding Adjustment 0.01\nRounded Total (RM): 56.80\nCash 100.00\nCash Change 43.20\nGST Summary Amount(RM). Tax(RM)\nR @ 6% 53.58 wart 4\n\""
+  }
+}

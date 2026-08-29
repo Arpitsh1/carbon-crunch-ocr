@@ -1,0 +1,39 @@
+{
+  "store_name": {
+    "value": "BEYOND BROTHERS HARDWARE",
+    "confidence": 0.491,
+    "status": "low"
+  },
+  "date": {
+    "value": null,
+    "confidence": 0.0,
+    "status": "low"
+  },
+  "items": [],
+  "total_amount": {
+    "value": null,
+    "confidence": 0.0,
+    "status": "low"
+  },
+  "reliability": {
+    "low_confidence_fields": [
+      "store_name",
+      "date",
+      "total_amount",
+      "items"
+    ],
+    "requires_manual_review": true
+  },
+  "_debug": {
+    "total_line": null,
+    "line_count": 51,
+    "ocr_confidence": 0.389
+  },
+  "source_file": "X51005663297.jpg",
+  "ocr": {
+    "confidence": 0.389,
+    "preprocessing_variant": "enhanced",
+    "deskew_angle": 0.0,
+    "raw_text": "31803 o14\nBEYOND BROTHERS HARDWARE\nerase)\nLOT 1.02 JUN 160,\nDIAMOND SQUARE\n(OFF JLN GOMBAK\n£9000 KUALA LUMPUR\nTEL 03-40211233 FAX 03-40723228\nIVAN_KONG12@HOTMAL COM\nGST 10 oorses9a272\n. TAXINVOICE\n| Biro\nPOP UTEK (i) SDN BHD\nSEBELAH PETRONAS\nAMPANG\nNEAR TO KPJ HOSPITAL\n010.2616 261 MRNEO\nDacNe— CBD00RT7AT baler TAOS\nCaster USER Time: 163700\nSalesperser Ret\n(on as\nten oy Stace Since Amvnt Tax\noad 1 8000 foo 100 Se\n“eau cewent va ecorcs\n08 2 000 64601880 sk\nA een KG NEW PRICE)\n1038 +30 ate a8 sk\nPAPUR AS\n4 SAUNG TANGIN GETAA PAR)\n» enaicreion a8\nGenuavy Suoy PLASTER\n1 2584 16m 74 Pe)\n288 1 480 4m am sk\naban scr oxTaMy\nset 1 eo 209210 sk\nwan Rue TeaANG 16\nae + 19000 9607 10800 sk\n9 KERETA OLA WO:OREN)\nais tr er res\n# PaRURAYUT FR\naoe 1am 0m 0 sk\nMaYeave 512 046 6720\n~Yaalany 2 coro\nTotalSaes(xcndrg ST) 588.50\nDecont = 000\nSa Rounding 002\nCASH 58045\nChange 0.00\niesT suMMaRy |\nTaxcole —% © AMLIRMY —TaxRI|\nsR 6 865503308"
+  }
+}

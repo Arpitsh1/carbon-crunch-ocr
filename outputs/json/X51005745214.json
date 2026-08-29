@@ -1,0 +1,38 @@
+{
+  "store_name": {
+    "value": "99 SPEED KART B S19537-X",
+    "confidence": 0.639,
+    "status": "low"
+  },
+  "date": {
+    "value": "2018-02-07",
+    "confidence": 0.779,
+    "status": "medium"
+  },
+  "items": [],
+  "total_amount": {
+    "value": null,
+    "confidence": 0.0,
+    "status": "low"
+  },
+  "reliability": {
+    "low_confidence_fields": [
+      "store_name",
+      "total_amount",
+      "items"
+    ],
+    "requires_manual_review": true
+  },
+  "_debug": {
+    "total_line": null,
+    "line_count": 25,
+    "ocr_confidence": 0.681
+  },
+  "source_file": "X51005745214.jpg",
+  "ocr": {
+    "confidence": 0.681,
+    "preprocessing_variant": "gray",
+    "deskew_angle": 0.0,
+    "raw_text": "ets ete eine\n99 SPEED KART $/B (S19537-X)\nLOT P.T. 2811, JALAN ANGSA,\nTAMAN BERKELEY\n41150 KLANG, SELANGOR\n1132-PJ $56\nGST ID. NO s 000181747712\nINVOICE NO : 18301/102/T0305\nO33 16PH 969337 07-02-18\n2471 888 LYCHEES IN SYRUP S = RM10,14 s\n@3 X RH 3.38\n270 CSR GULA 12#1K6* RH3S.20 z\nTotal Sales (Inclusive GST) RM 45.34\nRounding Adjustment RM 01\nRounding RM 45.35 *\nCREDIT RM 45.35\nCHANGE RH +00\nGST Summary Amount (RK) Tax(RK) 74\n32 bh 9.87 S?\nz= 0 35.20 +00\nAS-26\nThank You, Please come again\nKeep the invoice for applicable returns\n“wa\na OR eee pnneepebeheren.o.4........_"
+  }
+}

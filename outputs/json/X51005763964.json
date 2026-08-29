@@ -1,0 +1,36 @@
+{
+  "store_name": {
+    "value": "YONG CEN ENTERPRISE bude",
+    "confidence": 0.769,
+    "status": "medium"
+  },
+  "date": {
+    "value": "2018-01-06",
+    "confidence": 0.842,
+    "status": "medium"
+  },
+  "items": [],
+  "total_amount": {
+    "value": 65.7,
+    "confidence": 0.786,
+    "status": "medium"
+  },
+  "reliability": {
+    "low_confidence_fields": [
+      "items"
+    ],
+    "requires_manual_review": true
+  },
+  "_debug": {
+    "total_line": "TOTAL 65.70",
+    "line_count": 23,
+    "ocr_confidence": 0.779
+  },
+  "source_file": "X51005763964.jpg",
+  "ocr": {
+    "confidence": 0.779,
+    "preprocessing_variant": "gray",
+    "deskew_angle": 0.0,
+    "raw_text": "YONG CEN ENTERPRISE bude\n9, JALAN SUBANG JASA 3,\n40150 SHAH ALAM, SELANGOR. h\nTEL: 012-9719498 ys poo\nGST NO. 001147981824\nCASH\nRECEIPT # CS00668594 DATE: 06/01/2018\nSALESPERSON: TIME: 10:47:00\nCOUNTER :\nITEM QTY U/P_ AMOUNT\n9555223500000 24 258 61.99\nSR:CHAMPIGNONS MUSHROOMS 425G(2 5833X\nTOTAL QUANTITY 24\nSUB-TOTAL 61.99\nDISC 0.00\nGsT 372\nTAX 0.00 Fla\nROUNDING — -0.01 bs qi\nTOTAL 65.70\nCASH 65.70\nCHANGE 0.00\nGOODS SOLD ARE NOT RETURNABLE,\nTHANK YOU."
+  }
+}

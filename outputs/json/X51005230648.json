@@ -1,0 +1,38 @@
+{
+  "store_name": {
+    "value": "CROSS CHANNEL NETWORK SDN. BHD",
+    "confidence": 0.664,
+    "status": "low"
+  },
+  "date": {
+    "value": "2018-01-29",
+    "confidence": 0.762,
+    "status": "medium"
+  },
+  "items": [],
+  "total_amount": {
+    "value": null,
+    "confidence": 0.0,
+    "status": "low"
+  },
+  "reliability": {
+    "low_confidence_fields": [
+      "store_name",
+      "total_amount",
+      "items"
+    ],
+    "requires_manual_review": true
+  },
+  "_debug": {
+    "total_line": null,
+    "line_count": 23,
+    "ocr_confidence": 0.656
+  },
+  "source_file": "X51005230648.jpg",
+  "ocr": {
+    "confidence": 0.656,
+    "preprocessing_variant": "enhanced",
+    "deskew_angle": 0.0,
+    "raw_text": "- i \"\n‘CROSS CHANNEL NETWORK SDN. BHD. |\n47, JALAN MERANTI 1, SEK. 3,\nBANDAR UTAMA BATANG KALI,\n44300 BATANG KALI, SELANGOR.\nTel : 03-6057 9688 Fax : 03-6057 9678\nGST ID : 001151600288\nText No. : BTG-052332\n=. ae va |\nSCHNEIDER EI5R 13ASWITCH 1 636 sn\nSOCKET OUTLET @ 6.0000\nToul eee: 6.36\nmane, + 001\n‘Total Amt ble: 6.35 |\nPaid Amount : 1999 |\nsecesee TOALQU TONE: 10D. coy |\nf'GST Summary ‘Amount Tax!\n| |\nLl) om : my\npapi Fam os il\nany ln email us:\nTapelboeencon\n29/01/2018 4:40:40 PM"
+  }
+}

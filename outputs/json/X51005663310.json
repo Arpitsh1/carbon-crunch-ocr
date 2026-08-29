@@ -1,0 +1,37 @@
+{
+  "store_name": {
+    "value": "LIM SENG THO HARDWARE RADING",
+    "confidence": 0.704,
+    "status": "medium"
+  },
+  "date": {
+    "value": "2018-02-09",
+    "confidence": 0.802,
+    "status": "medium"
+  },
+  "items": [],
+  "total_amount": {
+    "value": null,
+    "confidence": 0.0,
+    "status": "low"
+  },
+  "reliability": {
+    "low_confidence_fields": [
+      "total_amount",
+      "items"
+    ],
+    "requires_manual_review": true
+  },
+  "_debug": {
+    "total_line": null,
+    "line_count": 27,
+    "ocr_confidence": 0.716
+  },
+  "source_file": "X51005663310.jpg",
+  "ocr": {
+    "confidence": 0.716,
+    "preprocessing_variant": "gray",
+    "deskew_angle": 0.0,
+    "raw_text": "© 31B 020 \\3°\n| LIM SENG THO HARDWARE ‘RADING\nNo 7. Simpang Off Batu Vilage\nJalan Ipoh Batu 5. 51200 Kuala Lunour\nMALAYSIA\nTei a Fax fio 03-6258 7194\n03-6258 7191\nCompany Reg No. (002231061-T)\nGST Reg No. 001269075968\nTAX INVOICE\nNo CS 24388\nDate 09/02/2018 10:05\nCashier # LsT\nRM Code\nBEG GUN\n1206 NOS » 070 846 SR\nSubtotal 840\nTotai inc! of GST 3.40\nPayment 8.40\nChange Due 0.00\nTotal Item(s): 12\nGST Summary — Amount(RM)—Tax(M)\nsR @0% 792 aaa |\ncesses Tau vou eee\n“**\"* PLEASE COME AGAIN *****\n| *COODS SOLD ARE NOT RETURNABLE*\nec tl"
+  }
+}

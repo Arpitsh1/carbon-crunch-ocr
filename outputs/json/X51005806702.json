@@ -1,0 +1,37 @@
+{
+  "store_name": {
+    "value": "SDN. BHD",
+    "confidence": 0.732,
+    "status": "medium"
+  },
+  "date": {
+    "value": "2018-02-06",
+    "confidence": 0.83,
+    "status": "medium"
+  },
+  "items": [],
+  "total_amount": {
+    "value": null,
+    "confidence": 0.0,
+    "status": "low"
+  },
+  "reliability": {
+    "low_confidence_fields": [
+      "total_amount",
+      "items"
+    ],
+    "requires_manual_review": true
+  },
+  "_debug": {
+    "total_line": null,
+    "line_count": 24,
+    "ocr_confidence": 0.759
+  },
+  "source_file": "X51005806702.jpg",
+  "ocr": {
+    "confidence": 0.759,
+    "preprocessing_variant": "gray",
+    "deskew_angle": 0.69,
+    "raw_text": "Cash Sale\nSINNATHAMBY HOLDINGS\nSDN. BHD.\n249336-T\nNO.17, 18 & 41, JALAN BESAR,\n39100 BRINCHANG,\nCAMERON HIGHLANDS,\nPAHANG\nGST Reg.:002120876032\nDocument No, :T03-16/199913\nDate + 06/02/2018 07:11:54 PM\nDESC PRICE Disc AMOUNT TAX\nQi RM. RM CODE,\nROYAL GOLD LUXURIOUS KITCHEN TOWEL\nRYO\nIUNIT= 1350 0.00 13.50 SR\nTotal Quy: 1\nTotal Inclusive GST6% : 1350\nRounding Adjustment: 0s\nRounded Total (RM): 73.5\nCash aon\nGSTSummary Amount(RM) —_Tax(RM)\nSR@ 6% 12.74 0.76\nes “wee Thanks You wv"
+  }
+}

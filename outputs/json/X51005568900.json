@@ -1,0 +1,36 @@
+{
+  "store_name": {
+    "value": "MR. DO... SON BHD",
+    "confidence": 0.736,
+    "status": "medium"
+  },
+  "date": {
+    "value": "2017-12-28",
+    "confidence": 0.852,
+    "status": "high"
+  },
+  "items": [],
+  "total_amount": {
+    "value": 9.9,
+    "confidence": 0.859,
+    "status": "high"
+  },
+  "reliability": {
+    "low_confidence_fields": [
+      "items"
+    ],
+    "requires_manual_review": true
+  },
+  "_debug": {
+    "total_line": "Total Incl. GST#6% RM 9.90",
+    "line_count": 22,
+    "ocr_confidence": 0.793
+  },
+  "source_file": "X51005568900.jpg",
+  "ocr": {
+    "confidence": 0.793,
+    "preprocessing_variant": "enhanced",
+    "deskew_angle": 0.0,
+    "raw_text": "MR. DO... SON BHD\n(CO.REG :704427-T )\nLOT 1851-A & 1851-B, JALAN KPB 6,\nKAWASAN PERINDUSTRIAN BALAKONG,\n43300 SERT KEMBANGAN, SELANGOR\n(GST ID No :001092886528)\n(CHERAS LEISURE MALL)\n-TAX INVOICE-\nPADLOCK ST-P6150 SOMM Bt)\n0202 - 12/48\n6942131561507 1X 9.90 9,90\nItem(s) : 1 Qty(s) : 1\nTotal Incl. GST#6% RM 9.90\nCASH RM 10.00\nCHANGE RM 0.10\n| GST Summary Amt(RM) == Tax(RM)\nGST S@6% 9.34 0.56\n| 28-12-17 18:52 SHO1 2109 = T1_ R000020832\nOPERATOR TRAINEE CASHIER\nEXCHANGE ARE ALLOWED WITHIN\n7 DAYS WITH RECEIPT.\nSTRICTLY NO CASH REFUND."
+  }
+}

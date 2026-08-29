@@ -1,0 +1,37 @@
+{
+  "store_name": {
+    "value": "F&P PHARMACY",
+    "confidence": 0.701,
+    "status": "medium"
+  },
+  "date": {
+    "value": "2018-03-02",
+    "confidence": 0.775,
+    "status": "medium"
+  },
+  "items": [],
+  "total_amount": {
+    "value": null,
+    "confidence": 0.0,
+    "status": "low"
+  },
+  "reliability": {
+    "low_confidence_fields": [
+      "total_amount",
+      "items"
+    ],
+    "requires_manual_review": true
+  },
+  "_debug": {
+    "total_line": null,
+    "line_count": 41,
+    "ocr_confidence": 0.675
+  },
+  "source_file": "X51005365187.jpg",
+  "ocr": {
+    "confidence": 0.675,
+    "preprocessing_variant": "enhanced",
+    "deskew_angle": 0.57,
+    "raw_text": "F&P PHARMACY\n(002309592-P)\nNO.20, GROUND FLOOR\nJALAN BS 10/6 TAMAN BUKIT SERDANG,\nSEKSYEN 10, 43400 SERI KEMBANGAN,\nSELANGOR DARUL EHSAN\nTEL 03-89699823\nGST Reg NO 001880666112\nTAXINVOICE\nDoe No 800110240 Date’ 02/03/2018\nCashier FaP Time 16.46.00\nSalesperson Ref\n(6st) _ (GST)\nMem_____ _Qly _ SiPrice_S/Pnco_ _Amount_Tax_\nossregsioszse 1 =| 58680 00 SR\nHOMECARE GASCOAL SOMG\n1486 1 600 600 600 ZRL\nP.P NAPROXEN 275 MG\ne5s7e3/s000s8 =1 = 430-430 430. ZRL\nYELLOW LOTION 30 ML\ni014 1 358 3.80 $80 SK\nPANADOL SOLUBLE TABLET\n1156 1 6ts 650 650 sR\nPMS GAUZE BANDAGE 5CM Xai\n95506104 1500 530 930 SR\nDETTOL 56 ML\nTotaly = 6 3480\nTotal Sales (Exckuing GST) 30.68\nDiscount 0.00\nTotal GST 122\nRounding 0.00\nTolal Sales (Inclusive of GST): 31.90\nCASH : 50.00\nChange : 18.10\nGST SUMMARY _— |\nTax Code ‘& Amt(RM) — Tax(RM)\nSR 6 20.38 122\nZRL 0 10.30 0.00\na Total 3068 1.22\nGOODS SOLD ARE NOT RETURNABLE & EXCHANGABLE,\nTHANK YOU,"
+  }
+}

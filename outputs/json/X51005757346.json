@@ -1,0 +1,36 @@
+{
+  "store_name": {
+    "value": "MR. O.I.Y. M SDN BHD",
+    "confidence": 0.756,
+    "status": "medium"
+  },
+  "date": {
+    "value": "2018-03-23",
+    "confidence": 0.854,
+    "status": "high"
+  },
+  "items": [],
+  "total_amount": {
+    "value": 26.1,
+    "confidence": 0.861,
+    "status": "high"
+  },
+  "reliability": {
+    "low_confidence_fields": [
+      "items"
+    ],
+    "requires_manual_review": true
+  },
+  "_debug": {
+    "total_line": "Total Incl. GSTe6x RM 26.10",
+    "line_count": 26,
+    "ocr_confidence": 0.797
+  },
+  "source_file": "X51005757346.jpg",
+  "ocr": {
+    "confidence": 0.797,
+    "preprocessing_variant": "enhanced",
+    "deskew_angle": 0.0,
+    "raw_text": "3180305\n. » a.\nMR. O.I.Y. (M) SDN BHD\n(CO.REG :860671-D) *\nLOT 1851-A & 1851-B, JALAN KPB 6,\nKAWASAN PERINDUSTRIAN BALAKONG,\n43300 SERI KEMBANGAN, SELANGOR\n(GST ID No :000306020352)\n(101 PUCHONG)\n-TAX INVOICE-\nDOUBLE EXT BOX 10Y 40/016 CBD4110 +5\nWA21 - 20 ,\n9553114461423 1X 25.90 25,90\nPLASTIC BAGS 7 +8\n99999 1X 0.20 0.20\nItem(s) : 2 Qty(s) : 2\nTotal Incl. GSTe6x RM 26.10\nCASH RM 50.00\nCHANGE, RM 23.90\nGST @6% included in total RM 1.48\n¥----=----=-==--------~--~-----__--_-__¢\n23-03-18 18:09 SHO1 ZJ86 11 ROOO111754\nOPERATOR TRAINEE CASHIER\nEXCHANGE ARE ALLOWED WITHIN\n7 DAY WITH RECEIPT.\nSTRICTLY NO CASH REFUND."
+  }
+}

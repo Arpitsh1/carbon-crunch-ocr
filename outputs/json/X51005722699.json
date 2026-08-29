@@ -1,0 +1,36 @@
+{
+  "store_name": {
+    "value": "AMPANG POINT CENTRE",
+    "confidence": 0.714,
+    "status": "medium"
+  },
+  "date": {
+    "value": "2018-02-11",
+    "confidence": 0.889,
+    "status": "high"
+  },
+  "items": [],
+  "total_amount": {
+    "value": 0.0,
+    "confidence": 0.833,
+    "status": "medium"
+  },
+  "reliability": {
+    "low_confidence_fields": [
+      "items"
+    ],
+    "requires_manual_review": true
+  },
+  "_debug": {
+    "total_line": "Total Savings 0.00",
+    "line_count": 23,
+    "ocr_confidence": 0.851
+  },
+  "source_file": "X51005722699.jpg",
+  "ocr": {
+    "confidence": 0.851,
+    "preprocessing_variant": "enhanced",
+    "deskew_angle": 0.0,
+    "raw_text": "(Co. No. 113825-W)\n(GST Reg No. 001492992000)\nNo 8, Jalan 7/118B, Desa Tun Razah\n56000 Kuala Lumpur, Malaysia\nAMPANG POINT CENTRE\nTel : 03-42601064/66\n11/02/18 19:21 Slip No. ? 6030098553\nMohd Nor Azmi Trans: 79369\nDeseription Amount\nPB D/S Tape 12m 1.90 7\nH/C A4 400'S 9.90\nTotal RM Incl. of GST 11.80\nCash -11.80\nItem Count 2\nGST Summary Amount (RM) Tax (RM)\nT @ 6% 11.13 0.67\nTotal Savings 0.00\nBE A POPULAR CARD MEMBER\nAND ENJOY SPECIAL DISCOUNTS\nTHANK YOL. PLEASE COME AGAIN\nwww. popular, com, my\nBuy Chinese books online\nwww. popularon! ine. com. ny"
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "store_name": {
+    "value": "KOH SENG HARDWARE",
+    "confidence": 0.678,
+    "status": "low"
+  },
+  "date": {
+    "value": "2018-02-01",
+    "confidence": 0.776,
+    "status": "medium"
+  },
+  "items": [],
+  "total_amount": {
+    "value": 5.3,
+    "confidence": 0.72,
+    "status": "medium"
+  },
+  "reliability": {
+    "low_confidence_fields": [
+      "store_name",
+      "items"
+    ],
+    "requires_manual_review": true
+  },
+  "_debug": {
+    "total_line": "TOTAL 5.30",
+    "line_count": 23,
+    "ocr_confidence": 0.676
+  },
+  "source_file": "X51005663309.jpg",
+  "ocr": {
+    "confidence": 0.676,
+    "preprocessing_variant": "enhanced",
+    "deskew_angle": 0.0,
+    "raw_text": "318 OS018\nKOH SENG HARDWARE\n1502665-P\nNO. 939, BATU LIMA,\nJALAN IPOH\n51200 KUALA LUAPUR,\nTEL: 0362504769 FAX: 03-82504769\nST NO: 001117650944\nCASH\nRECEIPT #: CS00094964 DATE: 01/02/2018\nCASHIER : USER\nTTEH ory WP ANOUNT\n3674 10 «0.53 «5.808\nSR:SUGA BAG\nTOTAL QUANTITY 10\npise 0.00\nGST 0.30\nROUNDING 0.00\nTOTAL 5.30\nCASH 20:50\nCHANGE 15.20\n~~ =\ncome AMOUNT = %—TAX/ANT"
+  }
+}

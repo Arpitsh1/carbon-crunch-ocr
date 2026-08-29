@@ -1,0 +1,38 @@
+{
+  "store_name": {
+    "value": "NYONYA COLORS 1 UTAMA",
+    "confidence": 0.696,
+    "status": "low"
+  },
+  "date": {
+    "value": "2018-03-18",
+    "confidence": 0.811,
+    "status": "medium"
+  },
+  "items": [],
+  "total_amount": {
+    "value": null,
+    "confidence": 0.0,
+    "status": "low"
+  },
+  "reliability": {
+    "low_confidence_fields": [
+      "store_name",
+      "total_amount",
+      "items"
+    ],
+    "requires_manual_review": true
+  },
+  "_debug": {
+    "total_line": null,
+    "line_count": 22,
+    "ocr_confidence": 0.731
+  },
+  "source_file": "X51005719899.jpg",
+  "ocr": {
+    "confidence": 0.731,
+    "preprocessing_variant": "enhanced",
+    "deskew_angle": 0.0,
+    "raw_text": "NYONYA COLORS @ 1 UTAMA\nLITTLE CRAVINGS SON BHD (562007-D)\nHO: 7, JIn $821/34, 47400 PJ\nTEL-03 77282288 (GST 1D 001382293604)\nNC #01\nREG CASHIER 18-03-2018 11:23\nTaxInvNo, 1 #000001\nKUIH KETAYAP M2. 70 S\nONDEH ONDEH RHO. 95 S\nYELLOW LAKSA RMIT. 60 S\nYELLOW LAKSA RMIT. 60 S\nYELLOW LékSA RMIT. 60 S\nAIR SEJUK Rh. 65 §\nCENDOL RMS. 30\nCHEE CHEONG FUN (SOS) — RM?..20 S\n8 No\n| SUBTOTAL RM53. 60\nCASH RMI0O. 00\n| CHANGE MAB. 40\nTAXABLE AMOUNT MSO. 57\n| 6% GST RMB. 03\nTHANK YOU 1! PLEASE COME AGAIN."
+  }
+}

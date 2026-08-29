@@ -1,0 +1,47 @@
+{
+  "store_name": {
+    "value": "BISTRO & CAFE",
+    "confidence": 0.72,
+    "status": "medium"
+  },
+  "date": {
+    "value": "2018-03-12",
+    "confidence": 0.818,
+    "status": "medium"
+  },
+  "items": [
+    {
+      "name": "HH GUINESS 12 GLASSES",
+      "price": 160.0,
+      "confidence": 0.773
+    },
+    {
+      "name": "HH TIGER 12 GLASSES",
+      "price": 145.0,
+      "confidence": 0.773
+    }
+  ],
+  "total_amount": {
+    "value": null,
+    "confidence": 0.0,
+    "status": "low"
+  },
+  "reliability": {
+    "low_confidence_fields": [
+      "total_amount"
+    ],
+    "requires_manual_review": true
+  },
+  "_debug": {
+    "total_line": null,
+    "line_count": 22,
+    "ocr_confidence": 0.741
+  },
+  "source_file": "X51005441401.jpg",
+  "ocr": {
+    "confidence": 0.741,
+    "preprocessing_variant": "gray",
+    "deskew_angle": 0.32,
+    "raw_text": "HREE STOOGES\nBISTRO & CAFE\n109, SS21/1A,\nDAMANSARA UTAMA\nGST ID : 001661886464\nABLE : BAR 7\nORDER : 00012916\nBIZDATE: 12/03/2018\nCASHIER: CASHIER\nBILL DT: 12/03/2018 10:25:49 PM RM\nary ITEM AMOUNT\n1 HH GUINESS 12 GLASSES 160.00\n1 HH TIGER 12 GLASSES 145.00\n2 SUB TOTAL 295.00\nSERVICE CHARGE 10% 29.50\nGST 6X 19.47\nROUNDING ADJ ~0.02\nws TOTAL 343.95\nTas © nar Amount «\nSE FRAC. Liane lv 295,00 q\nSR GS: Ax 324.50\nThank A K"
+  }
+}

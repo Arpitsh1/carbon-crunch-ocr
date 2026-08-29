@@ -1,0 +1,52 @@
+{
+  "store_name": {
+    "value": "TKANO HANDEL SON BHD",
+    "confidence": 0.624,
+    "status": "low"
+  },
+  "date": {
+    "value": "2017-12-23",
+    "confidence": 0.764,
+    "status": "medium"
+  },
+  "items": [
+    {
+      "name": "Almond ak SR",
+      "price": 22.5,
+      "confidence": 0.724
+    },
+    {
+      "name": "IKEA Retai SR",
+      "price": 36.0,
+      "confidence": 0.724
+    },
+    {
+      "name": "S5o3t7000 TKFA Drink 1,00 SR ggggcu70! fark Chocolate 70x U pe 4 13,80 SR",
+      "price": 6.9,
+      "confidence": 0.724
+    }
+  ],
+  "total_amount": {
+    "value": 73.3,
+    "confidence": 0.708,
+    "status": "medium"
+  },
+  "reliability": {
+    "low_confidence_fields": [
+      "store_name"
+    ],
+    "requires_manual_review": true
+  },
+  "_debug": {
+    "total_line": "Total Rowides 73.30",
+    "line_count": 28,
+    "ocr_confidence": 0.659
+  },
+  "source_file": "X51005663278.jpg",
+  "ocr": {
+    "confidence": 0.659,
+    "preprocessing_variant": "gray",
+    "deskew_angle": 1.56,
+    "raw_text": "318b 012\nTKANO HANDEL SON BHD\n(1074617K)\nIKEA Cheras\nNo 2A Jalan Cochrane\nTanan Haluri\n55100 KUALA LUMPUR\nGST No.: 000115154944\nnen\nwoe —_23//p\nSlip: 000000011100039S667\nDate: 23/12/17\nTine: 7:13\nTrans: 4113988 Staff: 96651\nDescription ‘Amount. TX\n910347623 Almond ak 22.50 SR.\n939900245 IKEA Retai 36.00 SR\nS5o3t7000 TKFA Drink 1,00 SR\nggggcu70! fark Chocolate 70x U\n2 pe 4 6.90 13,80 SR\nTotal RM Including GST 6x 73.30\nRounding i). 0,00\nTotal Rowides 73.30\nCash. -13.30\nGST SR ba 73.30 4.187\nAt. Excl. GST 69.15\nNo. of Items 5\nThank you. Please cone again."
+  }
+}

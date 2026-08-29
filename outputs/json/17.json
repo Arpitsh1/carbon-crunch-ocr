@@ -1,0 +1,39 @@
+{
+  "store_name": {
+    "value": "PACT AAT MTA",
+    "confidence": 0.437,
+    "status": "low"
+  },
+  "date": {
+    "value": null,
+    "confidence": 0.0,
+    "status": "low"
+  },
+  "items": [],
+  "total_amount": {
+    "value": null,
+    "confidence": 0.0,
+    "status": "low"
+  },
+  "reliability": {
+    "low_confidence_fields": [
+      "store_name",
+      "date",
+      "total_amount",
+      "items"
+    ],
+    "requires_manual_review": true
+  },
+  "_debug": {
+    "total_line": null,
+    "line_count": 2,
+    "ocr_confidence": 0.371
+  },
+  "source_file": "17.jpg",
+  "ocr": {
+    "confidence": 0.371,
+    "preprocessing_variant": "adaptive",
+    "deskew_angle": 0.0,
+    "raw_text": "i\nPACT AAT MTA"
+  }
+}

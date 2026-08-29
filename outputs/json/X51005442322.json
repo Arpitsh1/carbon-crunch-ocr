@@ -1,0 +1,39 @@
+{
+  "store_name": {
+    "value": "uy Se ae",
+    "confidence": 0.367,
+    "status": "low"
+  },
+  "date": {
+    "value": null,
+    "confidence": 0.0,
+    "status": "low"
+  },
+  "items": [],
+  "total_amount": {
+    "value": null,
+    "confidence": 0.0,
+    "status": "low"
+  },
+  "reliability": {
+    "low_confidence_fields": [
+      "store_name",
+      "date",
+      "total_amount",
+      "items"
+    ],
+    "requires_manual_review": true
+  },
+  "_debug": {
+    "total_line": null,
+    "line_count": 21,
+    "ocr_confidence": 0.269
+  },
+  "source_file": "X51005442322.jpg",
+  "ocr": {
+    "confidence": 0.269,
+    "preprocessing_variant": "enhanced",
+    "deskew_angle": -11.72,
+    "raw_text": "uy Se ae\noe era aio\nia\neo\nSee,\n= wate\nrag? Fs py Ss\nTag 7°) :\n4 crs\nShay\ns\nog eas\nEo\nae acy\npt\nPee ae\n‘= EH\nTota) 269,45;\nke oe\n= Si\nfbi tora"
+  }
+}

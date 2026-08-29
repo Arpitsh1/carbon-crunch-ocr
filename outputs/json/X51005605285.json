@@ -1,0 +1,36 @@
+{
+  "store_name": {
+    "value": "AEON CO. M BHD. 126926-H",
+    "confidence": 0.879,
+    "status": "high"
+  },
+  "date": {
+    "value": "2018-03-22",
+    "confidence": 0.897,
+    "status": "high"
+  },
+  "items": [],
+  "total_amount": {
+    "value": 0.33,
+    "confidence": 0.841,
+    "status": "medium"
+  },
+  "reliability": {
+    "low_confidence_fields": [
+      "items"
+    ],
+    "requires_manual_review": true
+  },
+  "_debug": {
+    "total_line": "Total 5.57 0.33",
+    "line_count": 28,
+    "ocr_confidence": 0.863
+  },
+  "source_file": "X51005605285.jpg",
+  "ocr": {
+    "confidence": 0.863,
+    "preprocessing_variant": "enhanced",
+    "deskew_angle": 1.15,
+    "raw_text": "w\nAEON CO. (M) BHD. (126926-H)\n3 FLOOR, AEON TAMAN MALURI SC\nJLN JEJAKA, TAMAN MALURT\nCHERAS, 55100 KUALA LUMPUR\nGST ID : 002017394688\nSHOPPING HOURS\nSUN - THU:1000 HRS - 2200 HRS\nFRI - SAT:1000 HRS - 2300 HRS\nix 000004497295 5.90SR\nWET TISSUE 150S\nSub-total §.90\nTotal Sales Inc] GST 5.90\nTotal After Adj Incl GST 5.90\nCASH 50.00\nTtem Count 1 Change Amt 44.10\nInvoice No: 2018032251310415556\nGST Summary Amount Tax\nSR @ 6% 5.57 0.33\nTotal 5.57 0.33\n22/03/2018 10:18 5131 041 0415556\n0305215 DIANA BINTI JASMAN\nAEON DATSO FESTIVAL MALL\nTEL 1~300-80-AEON(2366)\nTHANK YOU FOR YOUR PATRONAGE\nPLEASE COME AGAIN\nMIU\nUT | NIT"
+  }
+}

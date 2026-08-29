@@ -1,0 +1,38 @@
+{
+  "store_name": {
+    "value": "WANGSA MAJU AEON BIG SHOPPING CENTER",
+    "confidence": 0.758,
+    "status": "medium"
+  },
+  "date": {
+    "value": null,
+    "confidence": 0.0,
+    "status": "low"
+  },
+  "items": [],
+  "total_amount": {
+    "value": null,
+    "confidence": 0.0,
+    "status": "low"
+  },
+  "reliability": {
+    "low_confidence_fields": [
+      "date",
+      "total_amount",
+      "items"
+    ],
+    "requires_manual_review": true
+  },
+  "_debug": {
+    "total_line": null,
+    "line_count": 28,
+    "ocr_confidence": 0.73
+  },
+  "source_file": "X51005806695.jpg",
+  "ocr": {
+    "confidence": 0.73,
+    "preprocessing_variant": "enhanced",
+    "deskew_angle": 1.84,
+    "raw_text": "JUWITA WEDDINGS (3663100)\n'SAYANG YOU STATION SON BHO\nLOT G18 & G40, JLN 8/278\nWANGSA MAJU (AEON BIG SHOPPING CENTER)\n'53300 KUALA LUMPUR\n“Tel: 0341494733 /Fax : 0941434722\n‘est 10 : 000880004544\nTAXINVOICE\nInvoice No.. RCP180228-0101-77106\nReceipt Date : 28-Feb-2018 1637.08\nCashier _- Juvita Weddings\nitem Description ty RM\n4640310083\n4PCS 2 4.10 SR\nMEASUREMENTTAPE\nTAAWH,\n‘Sub Total:\nTOTAL:\nCASH: 410\nBALANCE * 0.00\nINC. GST 6.00% + 023\nGST Summary Amount(RM) Tax (RM)\nsR 3.87 023,\n\"Al Payments mustbe made ont inthe for\n‘of acredit card or ‘cash payable to Juwita\nWeddings Sdn Bhd Exchange ere allowed\n‘within 3 day with receipt, ‘Strictly no cash\nrefund Thank you."
+  }
+}

@@ -1,0 +1,45 @@
+{
+  "store_name": {
+    "value": "Licensee of McDonald s",
+    "confidence": 0.855,
+    "status": "high"
+  },
+  "date": {
+    "value": "2018-03-21",
+    "confidence": 0.901,
+    "status": "high"
+  },
+  "items": [
+    {
+      "name": "1M NcChicken 9.50 1M Coke 1M Fries McChicken",
+      "price": 5.0,
+      "confidence": 0.85
+    },
+    {
+      "name": "SNuggets",
+      "price": 10.9,
+      "confidence": 0.85
+    }
+  ],
+  "total_amount": {
+    "value": 25.4,
+    "confidence": 0.845,
+    "status": "medium"
+  },
+  "reliability": {
+    "low_confidence_fields": [],
+    "requires_manual_review": false
+  },
+  "_debug": {
+    "total_line": "Total Rounded 25.40",
+    "line_count": 28,
+    "ocr_confidence": 0.869
+  },
+  "source_file": "X51005711452.jpg",
+  "ocr": {
+    "confidence": 0.869,
+    "preprocessing_variant": "gray",
+    "deskew_angle": 0.0,
+    "raw_text": "Gerbang Alaf Restaurants Sdn Bhd\n(65351-M)\nLicensee of McDonald’s\nLevel 6, Bangunan TH, Damansara Uptown3\nNo.3, Jalan $S21/39,47400 Petaling Jaya\nSelangor\n(GST ID No: 000504664064)\nMcDonald’s Shell Mahkota Cheras DT (#36\nTel No. 03-9010-9849\nTAX INVOICE\nMFY Side 1\nINV# 003621900066840\nORD #18 -REG #19- 21/03/2018 19:53:23\nQTY ITEM TOTAL\n1M NcChicken 9.50\n1M Coke\n1M Fries\n1 McChicken 5.00\n1 SNuggets 10.90\n1 Sweet and Sour Sauce\n1 Barbecue Sauce\n| TakeOut Total (inc) GST) 25.40\nTotal Rounded 25.40\nCash Tendered 26.00\nChange 0.60\nTOTAL INCLUDES 6% GST 1.44\nThank You and Please Come Again.\n| Guest Relations Center ; 1300-13-1300"
+  }
+}

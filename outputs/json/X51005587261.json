@@ -1,0 +1,36 @@
+{
+  "store_name": {
+    "value": "CHOP YEW LAN",
+    "confidence": 0.713,
+    "status": "medium"
+  },
+  "date": {
+    "value": "2017-03-23",
+    "confidence": 0.829,
+    "status": "medium"
+  },
+  "items": [],
+  "total_amount": {
+    "value": 30.0,
+    "confidence": 0.773,
+    "status": "medium"
+  },
+  "reliability": {
+    "low_confidence_fields": [
+      "items"
+    ],
+    "requires_manual_review": true
+  },
+  "_debug": {
+    "total_line": "Total Gross A RM. 30.00,",
+    "line_count": 29,
+    "ocr_confidence": 0.758
+  },
+  "source_file": "X51005587261.jpg",
+  "ocr": {
+    "confidence": 0.758,
+    "preprocessing_variant": "enhanced",
+    "deskew_angle": -2.89,
+    "raw_text": "CHOP YEW LAN\nCompany No; 000200101-4\nCOT PT 5i91' Per, Klang, Sek, 27\n40000 shah Alam, Selangor\nSite : 1164\nTelephone: 03°51911299\nGST No ; 000840966144\n22 Pre-Author {sat jon Si<<<\nPre auth code 4011490249339\n11.54 litre Pump # 01\nV-Power 97 RM 90.00 4\n2.600 RM 7 litre\nTotal RM. 30.00\nCash RM 30.00\n6.00% gst A RM. 1.70\nTotal Gross A RM. 30.00,\n6018840117325593\nPoints will be awarded for any eligible\nPurchases,\nPay your fuel with Points!\nCashier:\nJamal Uddin\nThis 1s not the final fiscal receipt\nDate Time Num POS CNo Shift\n23/03/17 14:08 17542 01 8994 160\nDiesel @ Petro) RONSS given eliet\nunder Section 56(3) (6) GST Act 2014\nThank You and Please Come Again\na"
+  }
+}

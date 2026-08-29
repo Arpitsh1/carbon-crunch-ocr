@@ -1,0 +1,38 @@
+{
+  "store_name": {
+    "value": "SUPER SEVEN CASH & CARRY SDN 3HD",
+    "confidence": 0.703,
+    "status": "medium"
+  },
+  "date": {
+    "value": null,
+    "confidence": 0.0,
+    "status": "low"
+  },
+  "items": [],
+  "total_amount": {
+    "value": null,
+    "confidence": 0.0,
+    "status": "low"
+  },
+  "reliability": {
+    "low_confidence_fields": [
+      "date",
+      "total_amount",
+      "items"
+    ],
+    "requires_manual_review": true
+  },
+  "_debug": {
+    "total_line": null,
+    "line_count": 43,
+    "ocr_confidence": 0.591
+  },
+  "source_file": "X51005745190.jpg",
+  "ocr": {
+    "confidence": 0.591,
+    "preprocessing_variant": "enhanced",
+    "deskew_angle": 0.0,
+    "raw_text": "De .\nSUPER SEVEN CASH & CARRY SDN 3HD\n(590950-A)\nFASARAYA BORONG SUPER SEVEN\nNO. 1 Jalan Euro 1\nOff Jalan Batu Tiga\nSungai Butoh Seksyen U3 Shah Alan, 40150\ntip://wuw super .com.my Cc\nTEL : 03-78590861\nFAX : O'+-78590864\nast 1\" ; 060639090688\nTAX INVOICE\nCustomer : (77853745)\nSire. ONG GUAT CHYE\nTAX INVOICE NO : 195147 COUNTER :002\nOPLRATUR :{SYUNADAH BT FAIZAL A-CASHIER]\n12-62-2018 11:34:45 AM\n(RM)\nLORY FLTTLET 300UP(3)6K8@63.00\nFua1i000055 #4 252.00 2R\nBERS GIRI-BIRI 10KG 5% ISTIMEWA 653.50\n9656606389802 #1 53.50 2R\nBAVANG BESAR INOIA/CINA GUNT 8.50\nF¥479u00000. #2 17.00 IR\nBAAS CILL 1KG 619.50\nSSFbUHG0003. +t 19.50 2R\nBAAS KART DAGING 1KG 17.20\n95 A065000845 #1 17.20 R\n{ILI 80H 3KG KCK 67.90\n3854106157601 #1 7.90 SR .\nGUANTLTY + 10 Units 267 -19D\nJolal Sales (Incl. GST 66%} RH367.10\nFounding Adjustment RMO.00\nsel Veta RH367.10\nraynent Hethod VISA CARD\nSP Sunnary Sales Amt Tax Ant\n(RM) (RM)\nIR OX} 359.20 0,00\nSk (6k) 7.45 0:45 S\n| FL EASE VERIFY YOUR RECEIPT\nCEEIRE LEAVING THE COUNTER.\n(.GH0S SO. ARE NOT RETURNABLE.\ninst YOU 7"
+  }
+}

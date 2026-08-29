@@ -1,0 +1,39 @@
+{
+  "store_name": {
+    "value": "KHE ELECTRICAL TRADING",
+    "confidence": 0.664,
+    "status": "low"
+  },
+  "date": {
+    "value": null,
+    "confidence": 0.0,
+    "status": "low"
+  },
+  "items": [],
+  "total_amount": {
+    "value": null,
+    "confidence": 0.0,
+    "status": "low"
+  },
+  "reliability": {
+    "low_confidence_fields": [
+      "store_name",
+      "date",
+      "total_amount",
+      "items"
+    ],
+    "requires_manual_review": true
+  },
+  "_debug": {
+    "total_line": null,
+    "line_count": 31,
+    "ocr_confidence": 0.618
+  },
+  "source_file": "X51005715456.jpg",
+  "ocr": {
+    "confidence": 0.618,
+    "preprocessing_variant": "enhanced",
+    "deskew_angle": 0.0,
+    "raw_text": "KHE ELECTRICAL TRADING\n(001465242-V)\n933-G JALAN MAJU 3/1\nTAMAN LEMBAH MAJU\nGHERAS, 56100 KL. |\nTEL : 03-4296.0133 FAX: 03-4296 8869\nKHE33G@HOTMAIL.COM.\nGST ID : 000143474688\ncep ne TAX INVOICE\nBil To :\nCASH\n“Boe No—< CS000s85s ~~ Data: 2270372078\nCashier; USER Timer 10:18:00\nSalesperson : 002 Ref.:\n(GST) eer\ntem, _---aly__SiPrice_S/Price__ Amount __ Tax\n113 2 48.00 50.88 101.76 SR\n105W E27 PLCE TUBE\nfoal Qy 2\nTotal Sales (Excluding GST) : 96.00\nDiscount : 0,00\nTotal GST : 5.76\nRounding : -0.01\nTotal Sales (Inclusive of GST) ; 101.76\nCASH : 101.75\nChange : 0.00\n(GSTSUMMARY —OSS~S\nTax Code % Amt(RM) — Tax(RM)\nSR 6 96,00 6.76\n___._ Total: ___ 96.00 5.78\nGOODS SOLD ARE NOT RETURNABLE, THANK YOU,"
+  }
+}

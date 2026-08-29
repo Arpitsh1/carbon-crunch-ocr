@@ -1,0 +1,50 @@
+{
+  "store_name": {
+    "value": "RESTORAN WAN SHENG",
+    "confidence": 0.718,
+    "status": "medium"
+  },
+  "date": {
+    "value": "2018-03-12",
+    "confidence": 0.858,
+    "status": "high"
+  },
+  "items": [
+    {
+      "name": "Cham (B) SR",
+      "price": 4.4,
+      "confidence": 0.81
+    },
+    {
+      "name": "Roti Steam SR",
+      "price": 2.2,
+      "confidence": 0.81
+    },
+    {
+      "name": "Take Away 2K SR",
+      "price": 0.4,
+      "confidence": 0.81
+    }
+  ],
+  "total_amount": {
+    "value": 7.0,
+    "confidence": 0.802,
+    "status": "medium"
+  },
+  "reliability": {
+    "low_confidence_fields": [],
+    "requires_manual_review": false
+  },
+  "_debug": {
+    "total_line": "TOTAL: 7.00",
+    "line_count": 27,
+    "ocr_confidence": 0.803
+  },
+  "source_file": "X51005711445.jpg",
+  "ocr": {
+    "confidence": 0.803,
+    "preprocessing_variant": "gray",
+    "deskew_angle": 0.0,
+    "raw_text": "i “a\nRESTORAN WAN SHENG\n002043319-W\nNo.2, Jalan Temenggung 19/9,\nSeksyen 9, Bandar Mahkota Cheras,\n43200 Cheras, Selangor\nGST REG NO: 001335787520\nTax Invoice\nINV No.: 1040841 Cashier: Thandar\nDate: 12-03-2018 10:13:04\nDescription Qty U.price Total TAX\nCham (B)\n2x 2.20 4.40 SR\nRoti Steam\n2x 1.10 2.20 SR\nTake Away\n2K 0.20 0.40 SR\nTotal QTY: 6\nTotal (Excluding GST): 6.62\nGST payable (6%): 0.38\nTotal (Inclusive of GST): 7.00\nTOTAL: 7.00\nCASH : 7.00\nGST Susnary Ancunt(RH) Tax(R¥)\nSR (@ 6%) 8.62 0.38\n|\n7 ail"
+  }
+}

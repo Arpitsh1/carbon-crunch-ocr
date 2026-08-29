@@ -1,0 +1,39 @@
+{
+  "store_name": {
+    "value": "remanemaroye name",
+    "confidence": 0.388,
+    "status": "low"
+  },
+  "date": {
+    "value": null,
+    "confidence": 0.0,
+    "status": "low"
+  },
+  "items": [],
+  "total_amount": {
+    "value": null,
+    "confidence": 0.0,
+    "status": "low"
+  },
+  "reliability": {
+    "low_confidence_fields": [
+      "store_name",
+      "date",
+      "total_amount",
+      "items"
+    ],
+    "requires_manual_review": true
+  },
+  "_debug": {
+    "total_line": null,
+    "line_count": 9,
+    "ocr_confidence": 0.338
+  },
+  "source_file": "X51005433541.jpg",
+  "ocr": {
+    "confidence": 0.338,
+    "preprocessing_variant": "adaptive",
+    "deskew_angle": -4.94,
+    "raw_text": "M50\nremanemaroye name\nee\nFeet oe\nin “\n— SES\n=e\n=\nec"
+  }
+}

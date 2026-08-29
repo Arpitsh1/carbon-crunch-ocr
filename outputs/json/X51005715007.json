@@ -1,0 +1,38 @@
+{
+  "store_name": {
+    "value": "KATSON FURNISHING SON BHD",
+    "confidence": 0.697,
+    "status": "low"
+  },
+  "date": {
+    "value": "2018-03-25",
+    "confidence": 0.795,
+    "status": "medium"
+  },
+  "items": [],
+  "total_amount": {
+    "value": null,
+    "confidence": 0.0,
+    "status": "low"
+  },
+  "reliability": {
+    "low_confidence_fields": [
+      "store_name",
+      "total_amount",
+      "items"
+    ],
+    "requires_manual_review": true
+  },
+  "_debug": {
+    "total_line": null,
+    "line_count": 28,
+    "ocr_confidence": 0.706
+  },
+  "source_file": "X51005715007.jpg",
+  "ocr": {
+    "confidence": 0.706,
+    "preprocessing_variant": "enhanced",
+    "deskew_angle": 0.0,
+    "raw_text": "3-1708032\nKATSON FURNISHING SON BHD\nLot No. 13-012, Level 3, ‘\n— = MyTOWN Shopping Centre,\nNo. 6, Jalan Cochrane,\nSeksyen 90\n35100 Kuala Lumpur.\nCo, Reg Ho. (761834-D)\nGST Reg No. 001813975040\nTel: 08 - 92017701\nSlip O00ONTW-P2000086706\nStaff: 1710 Athirah Trans: 1502102697\nDate: 25-03-18 18:34\nDescription * mount (RH)\n> Tex Nose \"30000885\"\nPLASTIC TRAY-GLOSS R pos 8.90 SR\nTten No.: 30001916\nKEYCHAIN = our STA pes 5.90 SR |\nTtem No.: 30001918\nKEVCHAIN ~ KNIT SCAR pes 3.90 SR\nTotal RH 18,70\nASH (HYR) -20.00\nChange 1.30\nGSTX —Amt(RN) = GST(RM) Total (RM)\nsR 6 17.64 1,06 18.70\nGOODS SOLD ARE NON-CASH REFUNDABLE.\nEXCHANGE OF GOODS WITHIN 14 DAYS\nACCOMPANIED BY ORIGINAL RECEIPT."
+  }
+}

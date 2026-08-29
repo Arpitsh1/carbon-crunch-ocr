@@ -1,0 +1,37 @@
+{
+  "store_name": {
+    "value": "SYARIKAT PERNIAGAAN GIN KEE",
+    "confidence": 0.699,
+    "status": "low"
+  },
+  "date": {
+    "value": "2017-12-30",
+    "confidence": 0.839,
+    "status": "medium"
+  },
+  "items": [],
+  "total_amount": {
+    "value": 84.0,
+    "confidence": 0.783,
+    "status": "medium"
+  },
+  "reliability": {
+    "low_confidence_fields": [
+      "store_name",
+      "items"
+    ],
+    "requires_manual_review": true
+  },
+  "_debug": {
+    "total_line": "Total : 84.00 5. os|/",
+    "line_count": 31,
+    "ocr_confidence": 0.773
+  },
+  "source_file": "X51005676535.jpg",
+  "ocr": {
+    "confidence": 0.773,
+    "preprocessing_variant": "gray",
+    "deskew_angle": 0.0,
+    "raw_text": "3\\8& Ol olF\nSYARIKAT PERNIAGAAN GIN KEE\n(81109-A)\nNO 290, JALAN AIR PANAS.\nSETAPAK,\n53200, KUALA LUMPUR,\nTEL ' 03-40210276\nGST ID : 000750673920\nSIMPLIFIED TAX INVOICE\nCASH\nDoc No ©S00012487 = Date: 30/12/2017\nCashier USER Time: 14:52:00\nSalesperson Ret\ntem ly SiPrice__ Amount Tax\n2430 2 1802 36.04 SR\nCEMENT (50KG)\n1699 10 6.30 63.00 SR\nPASIR KASAR (BAG)\nTotaly 428g 04\nTotal Sales (Excluding GST) 84.00\nDiscount 0.00\nTotal GST 5.04\nRounding 0.00\nTotal Sales (Inclusive of GST) : 89.04\nCASH : 89.04\nChange : 0.00\n[GSTSUMMARY =\nTaxCode = % = Amt(RM) Tax (RM)\nSR 6 84.00 5.04\nTotal : 84.00 5. os|/\nGOODS SOLD ARE NOT RETURNABLE, THANK YOU"
+  }
+}

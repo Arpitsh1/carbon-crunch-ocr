@@ -1,0 +1,58 @@
+{
+  "store_name": {
+    "value": "SWEET FOREST CAFE",
+    "confidence": 0.722,
+    "status": "medium"
+  },
+  "date": {
+    "value": null,
+    "confidence": 0.0,
+    "status": "low"
+  },
+  "items": [
+    {
+      "name": "Smoked Duck Spaghetti sR",
+      "price": 12.5,
+      "confidence": 0.775
+    },
+    {
+      "name": "Hot Green Tea SR",
+      "price": 3.06,
+      "confidence": 0.775
+    },
+    {
+      "name": "Coffee(H) SR",
+      "price": 4.96,
+      "confidence": 0.775
+    },
+    {
+      "name": "Rendang Chicken Rice SR",
+      "price": 9.99,
+      "confidence": 0.775
+    }
+  ],
+  "total_amount": {
+    "value": null,
+    "confidence": 0.0,
+    "status": "low"
+  },
+  "reliability": {
+    "low_confidence_fields": [
+      "date",
+      "total_amount"
+    ],
+    "requires_manual_review": true
+  },
+  "_debug": {
+    "total_line": null,
+    "line_count": 30,
+    "ocr_confidence": 0.744
+  },
+  "source_file": "X51005663293.jpg",
+  "ocr": {
+    "confidence": 0.744,
+    "preprocessing_variant": "enhanced",
+    "deskew_angle": -1.39,
+    "raw_text": "210 2012\nSWEET FOREST CAFE\nNO 21, JLN BUNGA KANTAN\nTAMAN P.RAMLEE SETAPAK\n59888) KUALA LUMPUR.\n(GST Reg. No ; 090465809409)\nTax Invoice\nTable 15\nINV No.: 593101 Pax(s): 2\nDate : 14-62-2018 13:62:42\nSashier: SIM '7) way\nDescription Qty Ulprice Total TAX\nSmoked Duck Spaghetti\n1x 12.58 12.50 sR\nHot Green Tea\n1x 3.08 3.06 SR\nCoffee(H)\n1x 4.96 4.96 SR\nRendang Chicken Rice\n1x 9.98 9.99 SR\nTotal GTy: 4\nTotal (Excluding GsT): 28.58\nGST payable (6%): 1.72\nTotal (Trclusive of GST). 36.30\nClosed: 061 14-02-2618 13:50:58\nServer: SIM JTAN WAT\nCHANGE : 19.76\n3030\nOST Sumary Anount(RH) —Tax(RH)\nSR (@ 6%) 28.58 1.72/"
+  }
+}

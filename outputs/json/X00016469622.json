@@ -1,0 +1,37 @@
+{
+  "store_name": {
+    "value": "YONGFATT ENTERPRISE",
+    "confidence": 0.702,
+    "status": "medium"
+  },
+  "date": {
+    "value": "2018-12-26",
+    "confidence": 0.8,
+    "status": "medium"
+  },
+  "items": [],
+  "total_amount": {
+    "value": null,
+    "confidence": 0.0,
+    "status": "low"
+  },
+  "reliability": {
+    "low_confidence_fields": [
+      "total_amount",
+      "items"
+    ],
+    "requires_manual_review": true
+  },
+  "_debug": {
+    "total_line": null,
+    "line_count": 28,
+    "ocr_confidence": 0.714
+  },
+  "source_file": "X00016469622.jpg",
+  "ocr": {
+    "confidence": 0.714,
+    "preprocessing_variant": "enhanced",
+    "deskew_angle": -1.56,
+    "raw_text": "tan woon yann\nYONGFATT ENTERPRISE\n(1M051726)\nNO 122 124 JALAN DEDAP 13,\n81100 JOHOR BAHRU.\nTEL 07-3523868\nGST ID 000849812504\nSIMPLIFIED TAX INVOICE\nCASH\nDoe No ©S00031663 Date 26/12/2018\nCaster USER Time 1231.00\nSak. sperson Ret\nfun Qty SiPrico Amount Tax\n(e318 1 8091 8091 SR\nELEGANT SCH TR BAG 15\nTotalary 4 8091\nTotal Sales (Exchiding GST) 6091\nDiscount 000\nTotal GST 0.00\nRounding 001\nTotal Sgleetoclusive of GST); 80.90\nCASH 100.00\nChange 18.10\nGST SUMMARY\nTaxCode = %@ = AMIARM) Tax (RM)\nsR 0 8091 000!\n| Total 80.91 0.00|\nsQUDS SOL DARE NoT REFUNDAB! E ONLY"
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "store_name": {
+    "value": "99 SPEED KaRT Rt X y",
+    "confidence": 0.55,
+    "status": "low"
+  },
+  "date": {
+    "value": "2018-01-04",
+    "confidence": 0.725,
+    "status": "medium"
+  },
+  "items": [],
+  "total_amount": {
+    "value": 2.59,
+    "confidence": 0.669,
+    "status": "low"
+  },
+  "reliability": {
+    "low_confidence_fields": [
+      "store_name",
+      "total_amount",
+      "items"
+    ],
+    "requires_manual_review": true
+  },
+  "_debug": {
+    "total_line": "Total Sales (Inclusive OST) RH 2.59",
+    "line_count": 20,
+    "ocr_confidence": 0.599
+  },
+  "source_file": "X51005361950.jpg",
+  "ocr": {
+    "confidence": 0.599,
+    "preprocessing_variant": "enhanced",
+    "deskew_angle": -1.36,
+    "raw_text": "|\n‘Zz\n: |\nLatte\n99 SPEED KaRT Rt =X) y |\nLOT P. 2 sel,\n41150 KLANG R ~\"\n1078-130K\n8ST 1D. WO s ooote174771\nINVOICE NO : 19287/102/10049\n10:43AK 08582 4-01-18\n1973 GARBAGE BAG (BLUE) 740 RAY. 25 «\n1974 GARBAGE BAG (GREEN) 74 uy 2g ¢\nTotal Sales (Inclusive OST) RH 2.59\nCASH RH 5.09\nCHANGE RH 2.50\nGST Summary Aigount (RH) Tax(RH)\n5° by 2.36 4\nThank You. Please cove again\nKeep the invoice for applicable return<"
+  }
+}

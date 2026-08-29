@@ -1,0 +1,38 @@
+{
+  "store_name": {
+    "value": "hia _ oe",
+    "confidence": 0.677,
+    "status": "low"
+  },
+  "date": {
+    "value": null,
+    "confidence": 0.0,
+    "status": "low"
+  },
+  "items": [],
+  "total_amount": {
+    "value": 3.9,
+    "confidence": 0.782,
+    "status": "medium"
+  },
+  "reliability": {
+    "low_confidence_fields": [
+      "store_name",
+      "date",
+      "items"
+    ],
+    "requires_manual_review": true
+  },
+  "_debug": {
+    "total_line": "Total : 85.00 3.90",
+    "line_count": 36,
+    "ocr_confidence": 0.772
+  },
+  "source_file": "X51005724552.jpg",
+  "ocr": {
+    "confidence": 0.772,
+    "preprocessing_variant": "enhanced",
+    "deskew_angle": 0.0,
+    "raw_text": "hia, _ oe\nR\n‘ x\nKEDAI PAPAN YEW CHUAN\n(0005583085-K)\nLOT 276 JALAN BANTING\n43800 DENGKIL, SELANGOR.\nTEL 03-87686092 FAX 03-87686092\nGST ID 000781500416\n——_________TAX INVOICE,\nBill To\nSUCI ALAM JAYA TRANSPORT\nNO 1 JALAN AMAN 2\nTAMAN DESA 43800\nDENGKIL SELANGOR\n017-6057770\nDoe No. CSOOOT TONS Date: 21032018\nCashier USER Time: 09:31:00\nSalesperson Ref\n(est) —_(GsT)\ntem Qty _S/Price_S/Price Amount Tax\n401870 1 65.00 68.80 68.90 SR\nPASIR HALUS (D)\n‘otal Giy: J 68.90\nTotal Sales (Excluding GST) 65.00\n| Discount 0.00\nTotal GST 3.90\nRounding 0.00\nTotal Sales (Inclusive of GST) : 68.90\nCASH : 68.90\nA Change : 0.00\nGST SUMMA\nTaxCode = = Amt (RM) Tax (RM)\nsR 6 65.00 3.90\nTotal : 85.00 3.90\n‘GOODS SOLD ARE NOT RETURNABLE, THANK YOU."
+  }
+}

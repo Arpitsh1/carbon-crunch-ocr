@@ -1,0 +1,38 @@
+{
+  "store_name": {
+    "value": "TANAN BERKELEY",
+    "confidence": 0.586,
+    "status": "low"
+  },
+  "date": {
+    "value": "2018-02-03",
+    "confidence": 0.726,
+    "status": "medium"
+  },
+  "items": [],
+  "total_amount": {
+    "value": null,
+    "confidence": 0.0,
+    "status": "low"
+  },
+  "reliability": {
+    "low_confidence_fields": [
+      "store_name",
+      "total_amount",
+      "items"
+    ],
+    "requires_manual_review": true
+  },
+  "_debug": {
+    "total_line": null,
+    "line_count": 15,
+    "ocr_confidence": 0.6
+  },
+  "source_file": "X51005719862.jpg",
+  "ocr": {
+    "confidence": 0.6,
+    "preprocessing_variant": "enhanced",
+    "deskew_angle": 0.0,
+    "raw_text": "99 SPEED HART $/8 (S19537-x)\n‘LOT P.T, 2811, JALAN ANGSA,\nTANAN BERKELEY *\n; 41150 KLANG, SELANGOR\n1934-LANAN RIMBUNAN\nGST Ty NOs 000181747212\nINVOICE NO + 16297/102/T0173\nO2s56PH 566717 03-02-18\n2485 LABOOST ORINKING WATER RAO =\n7094 NEOBUN PLASTER 10PCS RH3.20 s\nTotal Sales (Inclusive GST) RX 3.70\n* CASH RH 10.00\nCHANGE RM 6.30\nGST Summary —Anouns(RH) = Tax(R)\ns2 of a4 2"
+  }
+}

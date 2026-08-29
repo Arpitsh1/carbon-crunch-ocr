@@ -1,0 +1,36 @@
+{
+  "store_name": {
+    "value": "BISTRO & CAFE",
+    "confidence": 0.766,
+    "status": "medium"
+  },
+  "date": {
+    "value": "2018-03-03",
+    "confidence": 0.864,
+    "status": "high"
+  },
+  "items": [],
+  "total_amount": {
+    "value": 114.9,
+    "confidence": 0.871,
+    "status": "high"
+  },
+  "reliability": {
+    "low_confidence_fields": [
+      "items"
+    ],
+    "requires_manual_review": true
+  },
+  "_debug": {
+    "total_line": "NET TOTAL ( 114.9)",
+    "line_count": 24,
+    "ocr_confidence": 0.812
+  },
+  "source_file": "X51005441402.jpg",
+  "ocr": {
+    "confidence": 0.812,
+    "preprocessing_variant": "gray",
+    "deskew_angle": 0.0,
+    "raw_text": "THREE STOOGES\nBISTRO & CAFE\n109, SS21/1A,\nDAMANSARA UTAMA\nGST ID : 001661886464\nTAX INVOICE\nTABLE : G7\nINV NO; POSO1/000 123/93\nINV DATE: 03/03/2018\nCASHIER: CASHIER\nINV DT: 03/03/2018 10:58:51 PM Rit\nQTY ITEM ‘AMOUNT\n1-H GUINESS 12 GLASSES 180.\" | SVC\n1 SUB TOTAL 169.00\nSERVICE CHARGE 10% OD\nGST 6%\nNET TOTAL ( 114.9)\nCASH 00\nCHANGE 3.10\nTax Summary Amount Tax\nSVC SERVICE CHARGE 10 150.00 15.00\nSR GST 6% 165.00 9.90\nThank You. Plz Come Again\nK"
+  }
+}

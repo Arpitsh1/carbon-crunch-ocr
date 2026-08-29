@@ -1,0 +1,38 @@
+{
+  "store_name": {
+    "value": "PANA JAYA ENTERPRISE",
+    "confidence": 0.694,
+    "status": "low"
+  },
+  "date": {
+    "value": "2018-01-25",
+    "confidence": 0.792,
+    "status": "medium"
+  },
+  "items": [],
+  "total_amount": {
+    "value": null,
+    "confidence": 0.0,
+    "status": "low"
+  },
+  "reliability": {
+    "low_confidence_fields": [
+      "store_name",
+      "total_amount",
+      "items"
+    ],
+    "requires_manual_review": true
+  },
+  "_debug": {
+    "total_line": null,
+    "line_count": 29,
+    "ocr_confidence": 0.701
+  },
+  "source_file": "X51005764154.jpg",
+  "ocr": {
+    "confidence": 0.701,
+    "preprocessing_variant": "enhanced",
+    "deskew_angle": 0.0,
+    "raw_text": "OCS\npis pow\nPANA JAYA ENTERPRISE\nNO. 10-G, GROUND FLOOR. JALAN DINAR D.\nU3/D TAMAN SUBANG PERDANA\nSEK U3, 40150 SHAH ALAM. SELANGOH\nTEL:03-7847 2376 FAX 03-7847 2378\n(GST Heg. No GO2069438454)\nTex Invoice\nINV No.: S37422 Qiy(s) 12\nDate : 25-01-2018 18 10-28\nCashier: CASHIERE\nTescription Qty Unprice Total TAX\nCRYSTAL CATERING FOIL | 1SKE 4SOX18\"'\nlx 3500 3500 SA\nEC 7 PP PLATE (SOPCS)\n10 x 625 6250 SA\nEC 9 PP PLATE(SOOPCS)CIN\n1x 168.00 10800 SR\nTotal (Excluding GST) 193 G7\nGST payable (5%) 11.63\nTotal (Inclusive of GST) 205 SO\nCASH 205-52 205 SO\nSST Summary Aount(AlM) — Tax(RM)\nSA (@ 6%) i387 Bf\nsee* Thank You ****\nPlease Come Again\nGoods Sold Are\nNot Refundable"
+  }
+}

@@ -1,0 +1,40 @@
+{
+  "store_name": {
+    "value": "Licensee of McDonald s",
+    "confidence": 0.793,
+    "status": "medium"
+  },
+  "date": {
+    "value": "2018-03-10",
+    "confidence": 0.873,
+    "status": "high"
+  },
+  "items": [
+    {
+      "name": "1M Coke 3.50 McChicken",
+      "price": 5.0,
+      "confidence": 0.824
+    }
+  ],
+  "total_amount": {
+    "value": 8.5,
+    "confidence": 0.817,
+    "status": "medium"
+  },
+  "reliability": {
+    "low_confidence_fields": [],
+    "requires_manual_review": false
+  },
+  "_debug": {
+    "total_line": "Total Rounded 8.50",
+    "line_count": 24,
+    "ocr_confidence": 0.827
+  },
+  "source_file": "X51005711453.jpg",
+  "ocr": {
+    "confidence": 0.827,
+    "preprocessing_variant": "gray",
+    "deskew_angle": 0.0,
+    "raw_text": "Gerbang Alaf Restaurants Sdn Bhd\n(65351-4)\nformerly known as\nGolden Arches Restaurants Sdn Bhd\nLicensee of McDonald’s\nLevel 6, Bangunan TH, Damansara \\ictownd\nNo.3, Jalan $321/39,47400 Petaling Java\nSetangor\n(GST ID No: 000504664064)\nMcDonald’s Shell Mahkota Cheras OT (#36\nTel No. 03-9010-9849\nTAX INVOICE\nFY Side 1\nINV# 002621900059183\nORD #07 -REG #19- 10/03/2018 17:24:07\nQTY ITEM TOTAL\n1M Coke 3.50\n1 McChicken 5.00\nTakeOut Total (incl GST) 8.50\nTotal Rounded 8.50\nCash Tendered 50.00\nChange 41,50\nTOTAL INCLUDES 6% GST 0.48\nThank You and Please Come Again."
+  }
+}

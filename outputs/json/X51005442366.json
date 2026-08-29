@@ -1,0 +1,39 @@
+{
+  "store_name": {
+    "value": "ratte aa",
+    "confidence": 0.436,
+    "status": "low"
+  },
+  "date": {
+    "value": null,
+    "confidence": 0.0,
+    "status": "low"
+  },
+  "items": [],
+  "total_amount": {
+    "value": null,
+    "confidence": 0.0,
+    "status": "low"
+  },
+  "reliability": {
+    "low_confidence_fields": [
+      "store_name",
+      "date",
+      "total_amount",
+      "items"
+    ],
+    "requires_manual_review": true
+  },
+  "_debug": {
+    "total_line": null,
+    "line_count": 13,
+    "ocr_confidence": 0.374
+  },
+  "source_file": "X51005442366.jpg",
+  "ocr": {
+    "confidence": 0.374,
+    "preprocessing_variant": "adaptive",
+    "deskew_angle": -14.22,
+    "raw_text": "ratte aa\nmae,\nCrt 4\n. =\n: =\n2 ob\n=\n\"so Pan\naS ue\n= t=\n——\n“a\n."
+  }
+}

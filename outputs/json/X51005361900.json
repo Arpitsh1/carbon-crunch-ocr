@@ -1,0 +1,39 @@
+{
+  "store_name": {
+    "value": "Sareea",
+    "confidence": 0.463,
+    "status": "low"
+  },
+  "date": {
+    "value": null,
+    "confidence": 0.0,
+    "status": "low"
+  },
+  "items": [],
+  "total_amount": {
+    "value": null,
+    "confidence": 0.0,
+    "status": "low"
+  },
+  "reliability": {
+    "low_confidence_fields": [
+      "store_name",
+      "date",
+      "total_amount",
+      "items"
+    ],
+    "requires_manual_review": true
+  },
+  "_debug": {
+    "total_line": null,
+    "line_count": 3,
+    "ocr_confidence": 0.415
+  },
+  "source_file": "X51005361900.jpg",
+  "ocr": {
+    "confidence": 0.415,
+    "preprocessing_variant": "enhanced",
+    "deskew_angle": 0.0,
+    "raw_text": "© Sareea\na\naxe Ree"
+  }
+}

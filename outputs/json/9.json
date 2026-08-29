@@ -1,0 +1,39 @@
+{
+  "store_name": {
+    "value": "WinCo",
+    "confidence": 0.552,
+    "status": "low"
+  },
+  "date": {
+    "value": null,
+    "confidence": 0.0,
+    "status": "low"
+  },
+  "items": [],
+  "total_amount": {
+    "value": null,
+    "confidence": 0.0,
+    "status": "low"
+  },
+  "reliability": {
+    "low_confidence_fields": [
+      "store_name",
+      "date",
+      "total_amount",
+      "items"
+    ],
+    "requires_manual_review": true
+  },
+  "_debug": {
+    "total_line": null,
+    "line_count": 21,
+    "ocr_confidence": 0.553
+  },
+  "source_file": "9.jpg",
+  "ocr": {
+    "confidence": 0.553,
+    "preprocessing_variant": "gray",
+    "deskew_angle": 0.0,
+    "raw_text": "WinCo\neons\nidiot 7095280203 1\naco WAFFLE” seo0057436 1.96 F\nCanny cans sammoai20 © 1.28 FS\n© OATHEAL ie 2430004101 1:25 FS\nINKS MILD. 74295509660, 5.78 FS\nKEEB.TOMHOUSE \"9010010055 1:98 FS\nTURKEY FRANK 4222061210 88 FS\nRESERS POT SLO 7111719300 98 FS\nOM SPAG SAUCE 2400082969 71 FS\nHINTS MANNICH — 2700044212 1164 FS\n20 62\nPNAPL CHNKY 240000046. 1.96965.\n= 98 FS\n¥ mes i\nWINCO HOMO MILK 7055240600 288 FS\nGas 7003837280 1.37 FS\nSUBTOTAL 121.92\nTOTAL TAK 00\nme 121.92"
+  }
+}

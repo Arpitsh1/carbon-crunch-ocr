@@ -1,0 +1,40 @@
+{
+  "store_name": {
+    "value": "SUNWAY VELOCITY",
+    "confidence": 0.745,
+    "status": "medium"
+  },
+  "date": {
+    "value": "2018-03-29",
+    "confidence": 0.92,
+    "status": "high"
+  },
+  "items": [
+    {
+      "name": "PB SHT/P 11H A4 10'S C/0. 2pe @ T",
+      "price": 7.0,
+      "confidence": 0.867
+    }
+  ],
+  "total_amount": {
+    "value": 0.0,
+    "confidence": 0.864,
+    "status": "high"
+  },
+  "reliability": {
+    "low_confidence_fields": [],
+    "requires_manual_review": false
+  },
+  "_debug": {
+    "total_line": "Total Savings 0.00",
+    "line_count": 26,
+    "ocr_confidence": 0.898
+  },
+  "source_file": "X51005605334.jpg",
+  "ocr": {
+    "confidence": 0.898,
+    "preprocessing_variant": "enhanced",
+    "deskew_angle": 0.0,
+    "raw_text": "oy.\n(Co. No. 113825-W)\n(GST Reg No. 001492992000)\nNo 8, Jalan 7/118B, Desa Tun Razak\n56000 Kuala Lumpur, Malaysia\nSUNWAY VELOCITY\nTel : 03-9201 6281/6920\n29/03/18 13:24 Slip No.+ 0010111111\nWONG HUI LING Trans: 121722\nDescription Amount\nPB SHT/P 11H A4 10'S C/0.\n2pe @ 3.50 7.00 T\nR RING 500'S 2.65 T\nTotal RM Incl. of GST 9.65\nCash -50. 00\nCHANGE 40. 35\nItem Count 3\nGST Summary Amount (RM) Tax (RM)\nT @ 6% 9.10 0,55\nTotal Savings 0.00\nBE A POPULAR CARD MEMBER\nAND ENJOY SPECIAL DISCOUNTS\nTHANK YOU. PLEASE COME AGAIN.\nwww. popular. com. my\nBuy Chinese books online\nwww. popularonline. com. my"
+  }
+}

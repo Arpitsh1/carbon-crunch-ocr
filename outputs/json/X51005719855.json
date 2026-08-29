@@ -1,0 +1,36 @@
+{
+  "store_name": {
+    "value": "ROCKU YAKINIKU",
+    "confidence": 0.748,
+    "status": "medium"
+  },
+  "date": {
+    "value": "2018-02-19",
+    "confidence": 0.863,
+    "status": "high"
+  },
+  "items": [],
+  "total_amount": {
+    "value": 181.55,
+    "confidence": 0.807,
+    "status": "medium"
+  },
+  "reliability": {
+    "low_confidence_fields": [
+      "items"
+    ],
+    "requires_manual_review": true
+  },
+  "_debug": {
+    "total_line": "TOTAL 181.55",
+    "line_count": 29,
+    "ocr_confidence": 0.811
+  },
+  "source_file": "X51005719855.jpg",
+  "ocr": {
+    "confidence": 0.811,
+    "preprocessing_variant": "enhanced",
+    "deskew_angle": 0.0,
+    "raw_text": "ROCKU YAKINIKU\nCPI ROCKU SON. BHD. (1096317-P)\nGST NC.: 000446271488\nLOT F355/356/357 , FIRST FLOOR,\nRAINFOREST ,1 UTAMA SHOPPING CENTRE,\nLEBUH BANDAR UTAMA,\n47800 PETALING JAYA\n19/02/2018 17:43 1001 063975\n(sh: CASHIER — Svr: BISWASH( ip\nTable: A9 Pax: 9\nBILL: 063975 RM\nGREEN TEA\n1 3.00 3.00 T\nGREEN TEA\n1 3.00 3.00 T\nBUFFET DINNER (ADULT)\n3 49,90 149.70 T\n‘SUBTTL 155.70\n10% SVC CHG 15.57\n6% GST 10.28\nTOTAL 181.55\nCASH 201,55\n7 CHANGE 20.00\nGST Summary ‘Amount: Tax:\nT:6% GST 11,27 10.28\nTilero Rated 0.00 0,00\n» Signature:\nThank you. Please come again\nBill Close: 19:08:04"
+  }
+}

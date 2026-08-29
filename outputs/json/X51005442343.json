@@ -1,0 +1,39 @@
+{
+  "store_name": {
+    "value": "ee ee",
+    "confidence": 0.316,
+    "status": "low"
+  },
+  "date": {
+    "value": null,
+    "confidence": 0.0,
+    "status": "low"
+  },
+  "items": [],
+  "total_amount": {
+    "value": null,
+    "confidence": 0.0,
+    "status": "low"
+  },
+  "reliability": {
+    "low_confidence_fields": [
+      "store_name",
+      "date",
+      "total_amount",
+      "items"
+    ],
+    "requires_manual_review": true
+  },
+  "_debug": {
+    "total_line": null,
+    "line_count": 15,
+    "ocr_confidence": 0.281
+  },
+  "source_file": "X51005442343.jpg",
+  "ocr": {
+    "confidence": 0.281,
+    "preprocessing_variant": "adaptive",
+    "deskew_angle": 16.97,
+    "raw_text": "part\nwe\nee\nce\none\nee ee\nee\nae cA\n2s So\nee %\n=:\n~\nah,\nes2\nes ae"
+  }
+}

@@ -1,0 +1,39 @@
+{
+  "store_name": {
+    "value": "SYARIKAT PERNIAGAAN GIN KEE",
+    "confidence": 0.684,
+    "status": "low"
+  },
+  "date": {
+    "value": null,
+    "confidence": 0.0,
+    "status": "low"
+  },
+  "items": [],
+  "total_amount": {
+    "value": null,
+    "confidence": 0.0,
+    "status": "low"
+  },
+  "reliability": {
+    "low_confidence_fields": [
+      "store_name",
+      "date",
+      "total_amount",
+      "items"
+    ],
+    "requires_manual_review": true
+  },
+  "_debug": {
+    "total_line": null,
+    "line_count": 31,
+    "ocr_confidence": 0.751
+  },
+  "source_file": "X51005677334.jpg",
+  "ocr": {
+    "confidence": 0.751,
+    "preprocessing_variant": "gray",
+    "deskew_angle": 0.0,
+    "raw_text": "418072 O16 ., 1\nSYARIKAT PERNIAGAAN GIN KEE\n(81109-A)\nNO 290, JALAN AIR PANAS,\nSETAPAK.\n53200, KUALA LUMPUR\n| TEL : 0340210276\nGST ID : 000750673920\nSIMPLIFIED TAX INVOICE\nDoc No CS00013066 Date. 3101/2018\nCashier USER Time 1133:00\nSalesperson Ref.\nitem _____—Qty_—*siPrice_Amount__Tax\n1701 6 6.36 31.80 SR\n6/8 BATU (BAG)\n2167 1 50.88 50.88 SR\n4.5KG RENDEROC PLUG\nTotaly 6 BB\nTotal Sales (Excluding GST) 78.00\n@ Discount 0.00\nTotal GST 468\nRounding 0.00\nTotal Sales (Inclusive of GST) 82.68\nCASH 82.68\nChange 0.00\nGSTSUMMARY\nTaxCode % = AmL(RM) Tax (RM)\nSR 6 78.00 4.68\n| Total : 78.00 4.68\nGOODS SOLD ARE NOT RETURNABLE. THANK YOU |\n_"
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "store_name": {
+    "value": "PappaRich BMC",
+    "confidence": 0.857,
+    "status": "high"
+  },
+  "date": {
+    "value": null,
+    "confidence": 0.0,
+    "status": "low"
+  },
+  "items": [],
+  "total_amount": {
+    "value": 72.93,
+    "confidence": 0.822,
+    "status": "medium"
+  },
+  "reliability": {
+    "low_confidence_fields": [
+      "date",
+      "items"
+    ],
+    "requires_manual_review": true
+  },
+  "_debug": {
+    "total_line": "Total: 72.93",
+    "line_count": 32,
+    "ocr_confidence": 0.834
+  },
+  "source_file": "X51005711454.jpg",
+  "ocr": {
+    "confidence": 0.834,
+    "preprocessing_variant": "gray",
+    "deskew_angle": 0.0,
+    "raw_text": "PappaRich BMC\nNO.19 & 21\nJALAN TEMENGGUNG 23/9\nBANDAR MAHKOTA CHERAS\n43200 SELANGOR DARUL EHSAN, MALAYSIA\nTAX INVOICE\nGST 10:000164270080\n2 COUNTER 2003 sai ful\nChk 263370 Guest!\n24 Mar 18 09:12:41 PM\nTBL35 / 1\n1 028 MILO DINO(I) E 7.45 §\n2 RO3.N’ LEMAK+fc E @17.83 35.66 $\n1 N22 SPRG NOL+sutcr E 9.34 §\n1 BO2 HALF BL EGG E 4.53 $\n1 DIG CHAM (1) E 5.57 S\n; CASH 73.00\n62.55\nSubtotal 62.55\n10% Srv Chg 6.25\n6% GST 4.13\nTotal: 72.93\nRND ADJ 0.02\nTTL ATF RNO 72.95\nPayment 73.00\n| Change Due 0.05\n----2003 CLOSED 24 Mar 18 09:58:26 PM---\nTHANK YOU! PLEASE COME AGAIN!\nPRICE IS GST INCLUSIVE\nGSTSummary Amount(RM) GST(RM)\nS=GST @6%: 68.82 4.13\n2=GST @0X: 0.00 0.00"
+  }
+}

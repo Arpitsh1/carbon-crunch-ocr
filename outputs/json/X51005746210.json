@@ -1,0 +1,39 @@
+{
+  "store_name": {
+    "value": "Segi Cash & Carry Sdn. Bhd. 317041",
+    "confidence": 0.618,
+    "status": "low"
+  },
+  "date": {
+    "value": null,
+    "confidence": 0.0,
+    "status": "low"
+  },
+  "items": [],
+  "total_amount": {
+    "value": null,
+    "confidence": 0.0,
+    "status": "low"
+  },
+  "reliability": {
+    "low_confidence_fields": [
+      "store_name",
+      "date",
+      "total_amount",
+      "items"
+    ],
+    "requires_manual_review": true
+  },
+  "_debug": {
+    "total_line": null,
+    "line_count": 46,
+    "ocr_confidence": 0.628
+  },
+  "source_file": "X51005746210.jpg",
+  "ocr": {
+    "confidence": 0.628,
+    "preprocessing_variant": "enhanced",
+    "deskew_angle": 0.98,
+    "raw_text": "‘p )\nSegi Cash & Carry Sdn. Bhd. (317041-¥)\nPe17920 Sek UP, Shah Ala\nG5T Reg Ho + 001951645696\nInvoice No: SII\nDate £12 Mar 2018 08:51am\nCounter 09\nKAIFE COOKING OTL SK6\n1 x 25.80 25,802\nLK HOT SIN SAUCE 2400\n1x 7.69 7.698\nSEVEN FRENCH FRIES $/S 2.5K\n1 x 13,50 13.50 §\nTOF SQUID TUBE 1K6+~\n1x 10.90 10,90 Z\nTOF SQUID TUBE 1KB4~\n1 x 10.90 10.902\nTOF SQUID TUBE 1KG+~\n1x 10,90 10,90 Z\nOF SQUID TUBE 1K6+-\n1 x 10.90 10,902\nTOF SQUID TUBE 1K6#-\n1 x 10.90 10.90 2\nTOF SQUID TUBE 1K6+~\n1 x 10,90 10.90 2\nOF SQUID TUBE 1KG+-\n1 x 10.90 10,902\nTOF SQUID TUBE 1KG+~\n1 x 10.90 10.90 Z\nTOF SQUID TUBE 1KG~\n1 x 10.90 10.902\nNo of iteas: 12\nSubtotal Incl. GST:RH 145.09\nRounding:RX 0-0\nTotal Incl. GST:RM 145410\naster noovenvedon0000: 145-10\nChangesRA 0.00\nNissed Point Todays 143\nServed by MIRA SURBAKTI. JS -(O\nsatensnaenssns O57 Suanary s4ststeateatE\n6ST Code fanount(RM) Tax(RH)\n7 @0.0% 123.90 0.00\n§ 86.02 wi aay\ngenneesnasusensnsgeersesnnggesenynieatt\nRef No: 00600736645031911\nGoods Sold fre Hot Returnable. 12"
+  }
+}

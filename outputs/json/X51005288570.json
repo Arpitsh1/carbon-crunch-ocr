@@ -1,0 +1,38 @@
+{
+  "store_name": {
+    "value": "SECURE PARKING",
+    "confidence": 0.724,
+    "status": "medium"
+  },
+  "date": {
+    "value": null,
+    "confidence": 0.0,
+    "status": "low"
+  },
+  "items": [],
+  "total_amount": {
+    "value": null,
+    "confidence": 0.0,
+    "status": "low"
+  },
+  "reliability": {
+    "low_confidence_fields": [
+      "date",
+      "total_amount",
+      "items"
+    ],
+    "requires_manual_review": true
+  },
+  "_debug": {
+    "total_line": null,
+    "line_count": 29,
+    "ocr_confidence": 0.812
+  },
+  "source_file": "X51005288570.jpg",
+  "ocr": {
+    "confidence": 0.812,
+    "preprocessing_variant": "enhanced",
+    "deskew_angle": -3.29,
+    "raw_text": "3180301\nSECURE PARKING\nCORPORATION $/B\nRiverwalk Village\nBatu 3, Jalan Ipoh\n51200 KL.\nGSTNo. 00296652800\nTEL No: 1300881698\nRECEIPT C13\nReceipt Number:\nKO13 1800235097\nENTRY IME:\n23.03.18 14:59\nEXIT TIME:\n23.03.18 15:27\nPARK-DUR. : D:HH: MM\n0:00:28\nKIND Of VAYMENT:\nCASH\nParking Fee RM\n0.94\nAdd GST RM\n0.06\n*AMT RM\n1.00\n*Rate incl. 6% GST\nTHANK YUU FUR YUUR\nVISIT\nEe ~C"
+  }
+}

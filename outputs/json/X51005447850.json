@@ -1,0 +1,37 @@
+{
+  "store_name": {
+    "value": "SDN BHD",
+    "confidence": 0.763,
+    "status": "medium"
+  },
+  "date": {
+    "value": "2018-03-04",
+    "confidence": 0.861,
+    "status": "high"
+  },
+  "items": [],
+  "total_amount": {
+    "value": null,
+    "confidence": 0.0,
+    "status": "low"
+  },
+  "reliability": {
+    "low_confidence_fields": [
+      "total_amount",
+      "items"
+    ],
+    "requires_manual_review": true
+  },
+  "_debug": {
+    "total_line": null,
+    "line_count": 26,
+    "ocr_confidence": 0.808
+  },
+  "source_file": "X51005447850.jpg",
+  "ocr": {
+    "confidence": 0.808,
+    "preprocessing_variant": "enhanced",
+    "deskew_angle": 0.0,
+    "raw_text": "PASARAYA BORONG PINTAR\nSDN BHD\nBR No. (124525-H)\nNO 19-G&19-1819-2 JALAN TASIK UTAMA 4,\nMEDAN NIAGA TASIK DAMA\\\n016-5498846,\n. GST No.\n04/03/2018 15:41'52\nTAX INVOICE\nTRN. CROO07636\nCOUNTER 4 CASHIER 11\nQTYUOM —_UNITAmt Exc. Amt Inc GST\nPrice Tax Tax Code\nPOKKA COFFEE VANILLA MILK COFFEE\n1 WALK 320 320 320 ZRL\n“Total Qty 1.00 320\nTotal Includes GST 0% 3.20\nCustomer's Payment\nCash 5.20\nChange 2.00\nGST Summary Amount (RM) Tax (RM)\nZRL=0% 320 0:00\n*Goods sold are not returnable\nThank you for shopping at PASARAYA\nBORONG PINTAR SDN BHD\n— —— ~~"
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "store_name": {
+    "value": "MR. O.T.Y. M SDN BHD",
+    "confidence": 0.785,
+    "status": "medium"
+  },
+  "date": {
+    "value": "2018-03-25",
+    "confidence": 0.883,
+    "status": "high"
+  },
+  "items": [],
+  "total_amount": {
+    "value": 50.8,
+    "confidence": 0.89,
+    "status": "high"
+  },
+  "reliability": {
+    "low_confidence_fields": [
+      "items"
+    ],
+    "requires_manual_review": true
+  },
+  "_debug": {
+    "total_line": "Total Incl. GST#6x RH 50.80",
+    "line_count": 26,
+    "ocr_confidence": 0.841
+  },
+  "source_file": "X51005757324.jpg",
+  "ocr": {
+    "confidence": 0.841,
+    "preprocessing_variant": "gray",
+    "deskew_angle": 0.0,
+    "raw_text": "31802054\nMR. O.T.Y. (M) SDN BHD ~\n(CO.REG :860671-D)\nLOT 1851-A & 1851-B, JALAN KPB 6,\nKAWASAN PERINDUSTRIAN BALAKONG,\n43300 SERI KEMBANGAN, SELANGOR\n(GST ID No :000306020352)\n(101 PUCHONG)\n-TAX INVOICE-\nTRAC DRY IRON TR-2311R -1200W(SR) N #8\nWAIO - 12\n9555493002853 1 26.90 26.90\nSINGLE BFOSHEET SET 90+188+20CM 48\nJD52-63 - 20\n9034713 1X 23.90 23.90\nItem(s) : 2 Qty(s) : 2\nTotal Incl. GST#6x RH 50.80\nCASH RM 51.00\nCHANGE RM 0.20\nGST @6% included in total RM 2.88\n#--------------------------------------¢\n25-03-18 18:47 SHO1 2/86 11 RO00112415\nOPERATOR TRAINEE CASHIER\nEXCHANGE ARE ALLOWED WITHIN\n7 DAY WITH RECEIPT.\nSTRICTLY NO CASH REFUND."
+  }
+}

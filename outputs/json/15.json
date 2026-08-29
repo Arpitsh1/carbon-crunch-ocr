@@ -1,0 +1,39 @@
+{
+  "store_name": {
+    "value": "en be",
+    "confidence": 0.451,
+    "status": "low"
+  },
+  "date": {
+    "value": null,
+    "confidence": 0.0,
+    "status": "low"
+  },
+  "items": [],
+  "total_amount": {
+    "value": null,
+    "confidence": 0.0,
+    "status": "low"
+  },
+  "reliability": {
+    "low_confidence_fields": [
+      "store_name",
+      "date",
+      "total_amount",
+      "items"
+    ],
+    "requires_manual_review": true
+  },
+  "_debug": {
+    "total_line": null,
+    "line_count": 10,
+    "ocr_confidence": 0.397
+  },
+  "source_file": "15.jpg",
+  "ocr": {
+    "confidence": 0.397,
+    "preprocessing_variant": "adaptive",
+    "deskew_angle": 0.0,
+    "raw_text": "en be\naN \\ “ean \\ SS\n’ te 4\n‘ mart +5, .\nop Meer)\nbased i\" *\np-< ¥ TYEHS SOLD 1 \\ a\n‘ \\ jm tn et | 7\n/ rai \\\n£ Nel _ |"
+  }
+}

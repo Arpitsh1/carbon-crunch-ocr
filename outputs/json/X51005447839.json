@@ -1,0 +1,37 @@
+{
+  "store_name": {
+    "value": "RESTAURANT JIAWE",
+    "confidence": 0.788,
+    "status": "medium"
+  },
+  "date": {
+    "value": "2018-03-09",
+    "confidence": 0.862,
+    "status": "high"
+  },
+  "items": [],
+  "total_amount": {
+    "value": null,
+    "confidence": 0.0,
+    "status": "low"
+  },
+  "reliability": {
+    "low_confidence_fields": [
+      "total_amount",
+      "items"
+    ],
+    "requires_manual_review": true
+  },
+  "_debug": {
+    "total_line": null,
+    "line_count": 30,
+    "ocr_confidence": 0.809
+  },
+  "source_file": "X51005447839.jpg",
+  "ocr": {
+    "confidence": 0.809,
+    "preprocessing_variant": "enhanced",
+    "deskew_angle": 0.0,
+    "raw_text": "RESTAURANT JIAWE!\nULAWE | HOUSE\n002693074-K\n13, JLN TASIK UTAMA 8\nMEDAN NIAGA DAMA! SG BES!\n57000 KL\nINVOICE\nInvoice 9820 Cashier admin\nPOS No:1\nDate 9/3/2018 20 54:50\nTable : 16 ,\n“TEN QTY U/P(RW)DISG(S) Ami (RAL\nB. Bean Bitterground Fish Head (S)\n1 35. 00 0 00\nF Hong Kong Sauteed (S)\n1 16.00 0 00\nSteamed Egg (S)\n1 10. 00 0 00\nChinese Tea\n2 0 60 0.00 120\nCOLD\nRice (B)\n2 150 0 00 3\nSub Total Before Discount RM 65 20\nService Charge RM 0.00\nTota! Sales RM 65 20\nRounding Adjustment RM 0 00\nTOTAL RM 65. 20\nSerr reermrerreeccercercerserceerrseeet\n——"
+  }
+}

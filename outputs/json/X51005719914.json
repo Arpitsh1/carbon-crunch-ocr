@@ -1,0 +1,37 @@
+{
+  "store_name": {
+    "value": "MR. O.1. . KUCHAI SON BHD",
+    "confidence": 0.692,
+    "status": "low"
+  },
+  "date": {
+    "value": "2018-03-16",
+    "confidence": 0.832,
+    "status": "medium"
+  },
+  "items": [],
+  "total_amount": {
+    "value": 53.3,
+    "confidence": 0.839,
+    "status": "medium"
+  },
+  "reliability": {
+    "low_confidence_fields": [
+      "store_name",
+      "items"
+    ],
+    "requires_manual_review": true
+  },
+  "_debug": {
+    "total_line": "Total Incl, GST@6% RM 53.30",
+    "line_count": 47,
+    "ocr_confidence": 0.763
+  },
+  "source_file": "X51005719914.jpg",
+  "ocr": {
+    "confidence": 0.763,
+    "preprocessing_variant": "gray",
+    "deskew_angle": 0.0,
+    "raw_text": "|\n.\nMR. O.1.¥.(KUCHAI) SON BHD\n(CO Reg : 750441-W)\nLOT 1851-A & 1851-B, JALAN KPB 6,\nKAWASAN PERINDUSTRIAN BALAKONG,\n43300 SERT KEMBANGAN, SELANGOR\n(GST ID No :000473792512)\n(TESCO MENJALARA KEPONG, HO)\n~ TAX INVOICE ~\nEPOXY PUTTY+ (2 X SOGM) 49\nWATT ~ 12/144\n9555075106825 1X 8.50 8.50\nCORD TIE 3PCS aS\nAFI2 - 10/1000\n9067170 1X 2.70 2.70\nPAPER CLIP BPCS NO4 48\nMI11/3-21 - 12/480\n9082115 1X 2,50 2.50\nHOOK HY-0021 48\nDC11/2 ~ 20/160\n6946759900212 1X 2.60 2.50\nDOOR GUARD ECOO8 9\nTJ12 - 10/100\n9002148 3X 4.50 13.50\nMULTI FAN BLADE 16’ FB1688 48\nWASO - 30\n9750009 1X 6.30 6.30\nKEY HOLDER (GRID)##VS 48\nO100 - 12/480\n9045734 1X 7,50 7.50\nDOOR GUARD FOOT AW-D48 48\n1033 - 5/200\n9002107 2X 4,90 9.80\nItem(s) : 8 Qty(s) 11\nTotal Incl, GST@6% RM 53.30\nE0C RM 53.30\nseeeeraes4447186 (MASTER)\nCHIEW YON LOY/\nGST Summary Amt(RM) — Tax(RM)\nGST S46% 50.28 3.02\nee ek tks\n16-03-18 13:49 SHO! BO26 12 ROOO178141\nOPERATOR THOT - NOOR FATIN NAJIBAH\nEXCHANGE ARE ALLOWED WITHIN\n7 DAYS WITH RECEIPT.\nSTRICTLY NO CASH REFUND."
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "store_name": {
+    "value": "MR. O.1. . M SDN BHD",
+    "confidence": 0.74,
+    "status": "medium"
+  },
+  "date": {
+    "value": "2018-03-18",
+    "confidence": 0.838,
+    "status": "medium"
+  },
+  "items": [],
+  "total_amount": {
+    "value": null,
+    "confidence": 0.0,
+    "status": "low"
+  },
+  "reliability": {
+    "low_confidence_fields": [
+      "total_amount",
+      "items"
+    ],
+    "requires_manual_review": true
+  },
+  "_debug": {
+    "total_line": null,
+    "line_count": 23,
+    "ocr_confidence": 0.773
+  },
+  "source_file": "X51005757294.jpg",
+  "ocr": {
+    "confidence": 0.773,
+    "preprocessing_variant": "enhanced",
+    "deskew_angle": 0.0,
+    "raw_text": "3180320q2\nMR. O.1.¥. (M) SDN BHD.\n(CO.REG :860671-D)\nLOT 1851-A & 1851-B, JALAN KPB 6,\nKAWASAN PERINDUSTRIAN BALAKONG\n43300 SERI KEMBANGAN, SELANGOR\n(GST ID No :000306020352)\n(101 PUCHONG)\n-TAX INVOICE\nCARBON FIBER CARTRIDGE C10-98810\" 45\n(022-52-62 - 25\n9063785 2% 5.30 10.60\nItem(s) : 1 Qty(s) : 2\nTota] Incl. GST@6x Ru 1.60\nCASH RM 20.00\nCHANGE RM 9.40\nGST @6% included in tota) RM 0.66\nPre eDOCS\n18-03-18 15:12 SHO1 2/86 13 R000060727\nOPERATOR TRAINEE CASHIER\nEXCHANGE ARE ALLOWED WITHIN\n7_OAY WITH RECEIPT.\nSTRICTLY NO CASH REFUND."
+  }
+}

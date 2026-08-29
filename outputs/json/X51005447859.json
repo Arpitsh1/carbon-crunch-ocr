@@ -1,0 +1,37 @@
+{
+  "store_name": {
+    "value": "SDN BHD",
+    "confidence": 0.757,
+    "status": "medium"
+  },
+  "date": {
+    "value": "2018-02-14",
+    "confidence": 0.855,
+    "status": "high"
+  },
+  "items": [],
+  "total_amount": {
+    "value": null,
+    "confidence": 0.0,
+    "status": "low"
+  },
+  "reliability": {
+    "low_confidence_fields": [
+      "total_amount",
+      "items"
+    ],
+    "requires_manual_review": true
+  },
+  "_debug": {
+    "total_line": null,
+    "line_count": 26,
+    "ocr_confidence": 0.798
+  },
+  "source_file": "X51005447859.jpg",
+  "ocr": {
+    "confidence": 0.798,
+    "preprocessing_variant": "enhanced",
+    "deskew_angle": 0.0,
+    "raw_text": "Oj —\nPASARAYA BORONG PINTAR\nSDN BHD\nBR No. (124526-H)\nNO 19-G& 19-1819-2 JALAN TASIK UTAMA 4,\nMEDAN NIAGA TASIK DAMAI\n016-5498845\nGST No\n14/02/2018 5:37 44PM\nTAX INVOICE\nTRN: CROO05140\nCOUNTER 4 CASHIER 2\nQTY UOM —UNITAmt Exc Amt Inc. GST\nPrice Tax Tax Code\n100PLUS LIME 325ML\n1 WALK 145° 145 145 ZRL\n\"Total Qty 100 145\nTotal Includes GST 0% 1.46\nCustomer's Payment\nCash 10.00\nChange 8.55\nGST Summary Amount (RM) Tax (RM)\nZRL=0% 146 000\n*Goods sold are not returnable\nThank you for shopping at PASARAYA\nBORONG PINTAR SDN BHD"
+  }
+}

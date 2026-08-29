@@ -1,0 +1,38 @@
+{
+  "store_name": {
+    "value": "000002 SAIFU M Sdn Bhd",
+    "confidence": 0.636,
+    "status": "low"
+  },
+  "date": {
+    "value": "2018-03-20",
+    "confidence": 0.762,
+    "status": "medium"
+  },
+  "items": [],
+  "total_amount": {
+    "value": null,
+    "confidence": 0.0,
+    "status": "low"
+  },
+  "reliability": {
+    "low_confidence_fields": [
+      "store_name",
+      "total_amount",
+      "items"
+    ],
+    "requires_manual_review": true
+  },
+  "_debug": {
+    "total_line": null,
+    "line_count": 25,
+    "ocr_confidence": 0.655
+  },
+  "source_file": "X51005757304.jpg",
+  "ocr": {
+    "confidence": 0.655,
+    "preprocessing_variant": "enhanced",
+    "deskew_angle": 3.65,
+    "raw_text": "80,044\n#000002 SAIFU (M) Sdn ‘Bhd\nCOMPANY NO(BT4198-X)\nDAISO JAPAN, TOT MALL\nPHONE 0380763806\ngst 1D ; 001389649920\nWELCOME\nTax INVOICE\n20/03/2018 7:07pm RPT NO.18252\nREG:01 CSH:00000008\n4997642045475\nPlastic spoons secs\n5.90 x 3 17.70 SR\n4997642045482\nPlastic forks 8pcs\n5.90 x 3 17.10 SR\nSUB TOTAL (INCL. GST) 38.40\nCASH 50.00\nly\nCHANG 14.00\nsiege at (RH) CSTR\nGST (6.000%)\n93.40 2.00\n“THANK YOU\n“PLEASE COME AGAIN"
+  }
+}

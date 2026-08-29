@@ -1,0 +1,36 @@
+{
+  "store_name": {
+    "value": "DowrWo's PIZZA SEGANBUT",
+    "confidence": 0.701,
+    "status": "medium"
+  },
+  "date": {
+    "value": "2018-03-26",
+    "confidence": 0.782,
+    "status": "medium"
+  },
+  "items": [],
+  "total_amount": {
+    "value": 33.0,
+    "confidence": 0.789,
+    "status": "medium"
+  },
+  "reliability": {
+    "low_confidence_fields": [
+      "items"
+    ],
+    "requires_manual_review": true
+  },
+  "_debug": {
+    "total_line": "Grand total 33.00",
+    "line_count": 41,
+    "ocr_confidence": 0.685
+  },
+  "source_file": "X51005719917.jpg",
+  "ocr": {
+    "confidence": 0.685,
+    "preprocessing_variant": "gray",
+    "deskew_angle": 0.0,
+    "raw_text": ". ‘TAX INVOICE\nDowtno's PriZA\nast REF wo : 001694261248\nDowrWo's PIZZA SEGANBUT\nD-08, M Avenue , Jin 1 / 38a\n| Seganbut Bahagia\n51200 Kuala Lumpur\ncanny out now Pay By: CASH\norder 1985 by— 8224\nOrder Tine : 12:54:37 Date :26/03/18\nane: Ms YING\nPickup Time: 13:09:37\n| Qty Menu Dese Coupon Dise Price\n1 srr (ag) 2 2P2e-R-s 30.30\n1 gemre (cp) 2 2P2C-R-i 30.30\n| 27.60 60.60\nTotal Teens :\nsub-total 60.60\nCoupon Discount 27.60\nGrand total 33.00\nPayment 50.00\nChange Due 17.00\n46% ost Included: 1.87\nSUPPORT OUR SNILE CAMPATGH : )\nDid we smite at you?\nLet us know at\nwor dominos.com.my/anile end\nreceive a 30% off side iten e-coupon\nupon survey submission\nsurvey Code: 8261940195554\nThank you for visiting Domino's.\nPlease Come Again!\n1-300-888-333\nvw dominos .com.my\nWe are compliant to the POPA 2010\nVisit www.dominos.com.my/terms\nto view our Personal Data\nProtection Policy.\nowned by\nDonmal Food Sezvices Sdn Bhd\nco, Ho. 419060-a 1"
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "store_name": {
+    "value": "FUY MII T",
+    "confidence": 0.686,
+    "status": "low"
+  },
+  "date": {
+    "value": "2018-01-26",
+    "confidence": 0.826,
+    "status": "medium"
+  },
+  "items": [],
+  "total_amount": {
+    "value": null,
+    "confidence": 0.0,
+    "status": "low"
+  },
+  "reliability": {
+    "low_confidence_fields": [
+      "store_name",
+      "total_amount",
+      "items"
+    ],
+    "requires_manual_review": true
+  },
+  "_debug": {
+    "total_line": null,
+    "line_count": 28,
+    "ocr_confidence": 0.754
+  },
+  "source_file": "X51005361895.jpg",
+  "ocr": {
+    "confidence": 0.754,
+    "preprocessing_variant": "gray",
+    "deskew_angle": 0.0,
+    "raw_text": "a\nde\nFUY! MII T\nSER Ne 0198992\nBaars:\nTAM) N SAT\nSRE atnyA,\nJALA SELANGO}\n03-3279 1851,\nGST No. oon\n26/01/2018 1:22:56PM\nTAX INVOICE\nTRN: 1CRO576494\nCOUNTER 1 CASHIER: HOCK\nQty UOM ULPrice Amt — Amt Inc Tax Code\n013 SUMMER CUP 48X230ML\n1 KOTAFB.49 8.49 9.00 SR\nGST6%+ 051\n*Total Qty: 1.00 9.00\nTotal Includes GST 6% 9.00\nCustomer's Payment\nCash 50.00\nChange 41.00\nGST Summary Amount Tax\nsR 8.48 081\n*Goads sold are not returnable\nThank you for shopping at FUY! MINI\nMARKET"
+  }
+}

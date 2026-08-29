@@ -1,0 +1,42 @@
+{
+  "store_name": {
+    "value": "SH POWER HARDWARE",
+    "confidence": 0.729,
+    "status": "medium"
+  },
+  "date": {
+    "value": "2017-10-10",
+    "confidence": 0.827,
+    "status": "medium"
+  },
+  "items": [
+    {
+      "name": "MAJESTA HSS. 2 SR*",
+      "price": 8.0,
+      "confidence": 0.781
+    }
+  ],
+  "total_amount": {
+    "value": null,
+    "confidence": 0.0,
+    "status": "low"
+  },
+  "reliability": {
+    "low_confidence_fields": [
+      "total_amount"
+    ],
+    "requires_manual_review": true
+  },
+  "_debug": {
+    "total_line": null,
+    "line_count": 24,
+    "ocr_confidence": 0.755
+  },
+  "source_file": "X51005757286.jpg",
+  "ocr": {
+    "confidence": 0.755,
+    "preprocessing_variant": "gray",
+    "deskew_angle": 0.65,
+    "raw_text": "31802034\n.\n/SH POWER HARDWARE\nTRADING\n002458685-T\n13-1, Jalan PJU 5/10,\nDataran Sunway, Kota Damansara,\n47810, Petaling Jaya, Selangor\nTel:012-373 2096\nTAX INVOICE\nGST Reg No: 000460664832\ninvoice No: 01-145995° as\nDate + 10/10/2017 4:22:12 PM\nDescription Qty Price Amount __\n1 MAJESTA HSS. 2 4.00 8.00 SR*\nJOBBER DRILLS\n3.5MM\nSee ~~ Sub Total: 8.00\n___NET TOTAL: 8.00\nCash Received : 8.00\n_SST Summary Amount(RM)__Tax(RM) __\nSR=6.00% 7.55 0.45\n++4Thank You,\" ***\nPlease Come Again."
+  }
+}

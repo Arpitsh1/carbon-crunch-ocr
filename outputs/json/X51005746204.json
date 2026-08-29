@@ -1,0 +1,38 @@
+{
+  "store_name": {
+    "value": "BEMED SP SDN. BHD",
+    "confidence": 0.729,
+    "status": "medium"
+  },
+  "date": {
+    "value": null,
+    "confidence": 0.0,
+    "status": "low"
+  },
+  "items": [],
+  "total_amount": {
+    "value": null,
+    "confidence": 0.0,
+    "status": "low"
+  },
+  "reliability": {
+    "low_confidence_fields": [
+      "date",
+      "total_amount",
+      "items"
+    ],
+    "requires_manual_review": true
+  },
+  "_debug": {
+    "total_line": null,
+    "line_count": 27,
+    "ocr_confidence": 0.718
+  },
+  "source_file": "X51005746204.jpg",
+  "ocr": {
+    "confidence": 0.718,
+    "preprocessing_variant": "enhanced",
+    "deskew_angle": 0.27,
+    "raw_text": "BEMED (SP) SDN. BHD.\nNo.49, Jala DharG U3G,\n‘Subaig Perdana,\n40150. Shab Atm, Se Bagor DE.\n03-7845 8155\nGST Reg : M1T3H16450\nCASH RECEIPT\nCBM : 236100411023 2tMaN2018 0627244\nCashier : mimie Q\nQy Code&Desc Price Total\nPRISTIN MOPL FISH OIL aR\n1 465920 143.70 143.70\nALPHA LIPID LIFE LINE ala\n1 184810 165.00 165.00\n2 Type: 2\nSubTotal: 308.70\nRounding Adj : o.00\nTotal Inclusive GST: 308.70 %\nMASTER 308.70\nGST Summary: Amount Tax\n(MYR) (MYR) VA\nSRO 88231\nPeeper aerate\nONG GUAT CHYE\nPoints : 1,546 30f-]2\nThank you.\nPlease come again."
+  }
+}

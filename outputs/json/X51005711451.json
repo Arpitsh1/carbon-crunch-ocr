@@ -1,0 +1,42 @@
+{
+  "store_name": {
+    "value": "RESTORAN WAN SHENG",
+    "confidence": 0.669,
+    "status": "low"
+  },
+  "date": {
+    "value": "2018-03-05",
+    "confidence": 0.809,
+    "status": "medium"
+  },
+  "items": [
+    {
+      "name": "Hilo (8) vad SR",
+      "price": 5.6,
+      "confidence": 0.764
+    }
+  ],
+  "total_amount": {
+    "value": 6.0,
+    "confidence": 0.753,
+    "status": "medium"
+  },
+  "reliability": {
+    "low_confidence_fields": [
+      "store_name"
+    ],
+    "requires_manual_review": true
+  },
+  "_debug": {
+    "total_line": "TOTAL: 6.00",
+    "line_count": 23,
+    "ocr_confidence": 0.727
+  },
+  "source_file": "X51005711451.jpg",
+  "ocr": {
+    "confidence": 0.727,
+    "preprocessing_variant": "gray",
+    "deskew_angle": 0.0,
+    "raw_text": "mr & SS\nRESTORAN WAN SHENG\n002043319-4\nNio.2, Jalan Tenerigsung 19/9,\nSeksyen 9, Bandar Mahkota Cheras,\n43200 Cheras, Selangor\nGST REG NO; 001395787520\nneds Invoice\nINV No.: 1030720 Cashier: Nicole\nDate: 05-03-2018 19:02:50\nDescription Qty —-U.price Total TAX\nHilo (8)\nvad 2.80 5.60 SR\nTake Away\n2K 0.20 du SR\nTotal QTY: 4\nTotal (Excluding GST): 5.66\nGST payable (6%); 0.34\nTotal (Inclusive of GST): 6.00\nTOTAL: 6.00\nCASH + 6.00\nGST Summary Anount(RM) Tax(RM)\nSR (@ 6%) 5.66 0.34"
+  }
+}

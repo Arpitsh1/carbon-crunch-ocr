@@ -1,0 +1,36 @@
+{
+  "store_name": {
+    "value": "SUNWAY VELOCITY",
+    "confidence": 0.713,
+    "status": "medium"
+  },
+  "date": {
+    "value": "2018-03-01",
+    "confidence": 0.888,
+    "status": "high"
+  },
+  "items": [],
+  "total_amount": {
+    "value": 3.29,
+    "confidence": 0.832,
+    "status": "medium"
+  },
+  "reliability": {
+    "low_confidence_fields": [
+      "items"
+    ],
+    "requires_manual_review": true
+  },
+  "_debug": {
+    "total_line": "Total Savings -3.29",
+    "line_count": 34,
+    "ocr_confidence": 0.849
+  },
+  "source_file": "X51005447861.jpg",
+  "ocr": {
+    "confidence": 0.849,
+    "preprocessing_variant": "enhanced",
+    "deskew_angle": 0.0,
+    "raw_text": "(Co. No. 113825-W)\n(GST Reg No. 001492992000)\nNo 8, Jalan 7/118B, Desa Tun Razak\n56000 Kuala Lumpur, Malaysia\n| , SUNWAY VELOCITY\nTel : 03-9201 6281/6920\n01/03/18 19:14 Slip No.: 0010104733\nWONG PEI YI Trans: 114793\nMember Card No: 2008011381468\nCard Expiry! 30/09/18\nDeseription Amount\nTOMBOR C/Tape GXSN\n2pe @ 9.89 19.78 T\nSpring Issue 20% Reba\nL11 X-VENTURE UNEXPLA [BK] 12.00 Z\nMember Discount -1.20\nPU EXPANDING FILE-TS 20,90 T\nMember Discount 2.09\nTotal RM Incl. of GST 49. 39\nRounding Adj 0.01\nTotal RM 49.40\nCash 50.00\nCHANGE 0.60\nItem Count 5\nGST Summary Amount (RM) Tax (RM)\nTe 6x 36.41 2.18\nZe 0% 10.80 0.00\nTotal Savings -3.29\nBE A POPULAR CARD MEMBER\nAND ENJOY SPECIAL DISCOUNTS\nTHANK YOU. PLEASE COME AGAIN.\nwwy. popular. com. ay\nBuy Chinese books online\nwww. popularon|ine. com. ay"
+  }
+}

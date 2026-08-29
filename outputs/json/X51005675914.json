@@ -1,0 +1,39 @@
+{
+  "store_name": {
+    "value": "BEYOND BROTHERS HARDWARE",
+    "confidence": 0.653,
+    "status": "low"
+  },
+  "date": {
+    "value": null,
+    "confidence": 0.0,
+    "status": "low"
+  },
+  "items": [],
+  "total_amount": {
+    "value": 64.0,
+    "confidence": 0.695,
+    "status": "low"
+  },
+  "reliability": {
+    "low_confidence_fields": [
+      "store_name",
+      "date",
+      "total_amount",
+      "items"
+    ],
+    "requires_manual_review": true
+  },
+  "_debug": {
+    "total_line": "Total Salas (Exckxiing ¢ ST) 64.00",
+    "line_count": 42,
+    "ocr_confidence": 0.638
+  },
+  "source_file": "X51005675914.jpg",
+  "ocr": {
+    "confidence": 0.638,
+    "preprocessing_variant": "enhanced",
+    "deskew_angle": 0.0,
+    "raw_text": "1\nBEYOND BROTHERS HARDWARE\n(872981-V)\nLOT 7-0-2, JUN 10,\nDIAMOND SQUARE.\nOFF JLN GOMBAK\n93000 KUALA LUMPUR\nTEL. 03-40211283 FAX 03-40223233\nIVAN_KONG12@HOTMAIL COM.\nGST ID 001921974272\nen AXINY OCC een\n‘Doc No. €S00059502 Date 10/17/2017\nCastier USER Time: 16:43:00\nSalesperson Ref,\n(esr) (ast)\nttem___Gly_siPrice_$/Price__Amoun!_Tax_\n1765 1 500 539 530 SR\nPENTENS PUTTY FILLER 5006\ni914 1 200 212 242 SR\nPAPAN CAT\n3201 1 600 048 G48 sR\nTUPAI ROLLER 7\" SET)\n464 1 3700 2922 © an2z sr\nMAXILITE7L 14198\n4630 1 600 64 a4 sR\nARROW TALI TAPE. 7 5M (OFFE\n4485 1 400 424 42 SR\nSCAFPER BIASA 3?\nTotaly. 6 784\nTotal Salas (Exckxiing ¢ ST) 64.00\nDiscount 0.00\nTotal GST 3.84\nRounding 0.07\nTotal Sales (Inclusive of GST) : 67.85\nCASH : 70.00\nChange: 2.18\nGSTSUMMARY\nTax Code Amt(RM) Tax (RM)\nSR € 64.00 384\nan 18 Roan 04,00 ENIS 24)\ni x\n‘GOODS SOLD ARE NO} RETURNABLE, THANK You"
+  }
+}

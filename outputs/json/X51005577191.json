@@ -1,0 +1,40 @@
+{
+  "store_name": {
+    "value": "FY EAGLE ENTERPRISE",
+    "confidence": 0.736,
+    "status": "medium"
+  },
+  "date": {
+    "value": "2017-12-07",
+    "confidence": 0.81,
+    "status": "medium"
+  },
+  "items": [
+    {
+      "name": "(RH) (RH) 1",
+      "price": 10.0,
+      "confidence": 0.766
+    }
+  ],
+  "total_amount": {
+    "value": 10.0,
+    "confidence": 0.754,
+    "status": "medium"
+  },
+  "reliability": {
+    "low_confidence_fields": [],
+    "requires_manual_review": false
+  },
+  "_debug": {
+    "total_line": "TOTAL 10.00",
+    "line_count": 30,
+    "ocr_confidence": 0.729
+  },
+  "source_file": "X51005577191.jpg",
+  "ocr": {
+    "confidence": 0.729,
+    "preprocessing_variant": "enhanced",
+    "deskew_angle": 0.45,
+    "raw_text": "FY EAGLE ENTERPRISE\n0N2065464-*\nWO. 42, JALAN PRS 14/11\nTAMAN PERINAUSTRIAN BUKIT SERDANG,\n43300 SERT KEMBANGAN ,\nSELANGOR\nTEL: 03-09433143 FAX: 03-89433143\nGST NG: 001663154224\nTINIE SS\nRECEIPT #: CSO0031383 DATE: 07/12/2017\n‘SALESPERSON TIME: 16:18:00\nCASHIER : USER\nITEM ary U/P AMOUNT\n(RH) (RH)\n13451 1 10.00 10.00\nSR:SOOML PAINT REMOVER(M.TE)-KTH\nTOTAL QUANTITY 1\n‘SUB-TOTAL 9.43\nDISC 0.00\nGST 0.57\nROUNDING 0.00\nTOTAL 10.00\nCASH 10.00\nCHANGE 0.00\nGST SUMMARY\ncone AMOUNT 4 TAX/ANT\nSR 9.43 6 0.57\nTAK TOTAL: 057\nGOODS SOLD ARE NOT RETURNABLE,\nTHANK YOU."
+  }
+}

@@ -1,0 +1,39 @@
+{
+  "store_name": {
+    "value": "few heck. iW",
+    "confidence": 0.369,
+    "status": "low"
+  },
+  "date": {
+    "value": null,
+    "confidence": 0.0,
+    "status": "low"
+  },
+  "items": [],
+  "total_amount": {
+    "value": null,
+    "confidence": 0.0,
+    "status": "low"
+  },
+  "reliability": {
+    "low_confidence_fields": [
+      "store_name",
+      "date",
+      "total_amount",
+      "items"
+    ],
+    "requires_manual_review": true
+  },
+  "_debug": {
+    "total_line": null,
+    "line_count": 24,
+    "ocr_confidence": 0.271
+  },
+  "source_file": "3.jpg",
+  "ocr": {
+    "confidence": 0.271,
+    "preprocessing_variant": "adaptive",
+    "deskew_angle": 0.0,
+    "raw_text": "‘few heck. iW\ninigemrpaadat\nWatmart 3,6\nfeng. rita ie\ntases ESE ee\noreo Beta soOReE E ERY\nBRES Gar iat\neee Breese Let\nSevemiem pn\nce tet\nBam cece 4\naor Gis |at\naay Ea, 2\not ES oe\nBie, See att\nPiven Steed ERE\nmr eg\nats hy\nsate 1,\nre anf Deas ae 9\nLAE AATCC\nROT\nBae te\nsore"
+  }
+}

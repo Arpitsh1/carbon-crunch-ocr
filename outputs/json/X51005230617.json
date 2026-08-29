@@ -1,0 +1,36 @@
+{
+  "store_name": {
+    "value": "Gerbang Alaf Restaurants Sdn Bhd",
+    "confidence": 0.752,
+    "status": "medium"
+  },
+  "date": {
+    "value": "2018-01-18",
+    "confidence": 0.878,
+    "status": "high"
+  },
+  "items": [],
+  "total_amount": {
+    "value": 26.6,
+    "confidence": 0.822,
+    "status": "medium"
+  },
+  "reliability": {
+    "low_confidence_fields": [
+      "items"
+    ],
+    "requires_manual_review": true
+  },
+  "_debug": {
+    "total_line": "Total Rounded 26.60",
+    "line_count": 35,
+    "ocr_confidence": 0.833
+  },
+  "source_file": "X51005230617.jpg",
+  "ocr": {
+    "confidence": 0.833,
+    "preprocessing_variant": "enhanced",
+    "deskew_angle": 0.0,
+    "raw_text": "wes\n1950 Al\nGerbang Alaf Restaurants Sdn Bhd\n(65351-M)\nformerly known as\nGolden Arches Restaurants Sdn Bid\nLicensee of Mcvonald's\nLevel 6, Bangunan TH, Damansara Uptown3\nNo.3, Jalan $$21/39,47400 Petaling Jaya\nSelangor\n(GST ID No: 000504664064)\nMcDonald's BHP Taman Melawati(#328)\nTel No. 03-4162-2318\nTAX INVOICE\nFY Side 1\nINV# 003281900229170\nORD #50 -REG #19- 18/01/2018 10:27:03\ngry ITEM TOTAL\n“2 ChicMcMuff in 11.00\n1M Porridge 5.60\n1 BM 2HotCakes 10.00\n1 L Coke\nTakeQut Total (incl GST) 26.60\nTotal Rounded 26.60\nCash Tendered 0.00\nChange 40\nTOTAL INCLUDES 6% GST\nWe'd Tove to hear your feeds\nsit www.mcdfeedback .com\nOR\nDownload My McD Feedback fron\nGoogle Play/App Store\nto share your experience\nThank You and Please Come Again.\nCustomer Service Hotline : 03-2726-5600"
+  }
+}

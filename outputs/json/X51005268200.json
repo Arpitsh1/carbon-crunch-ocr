@@ -1,0 +1,39 @@
+{
+  "store_name": {
+    "value": "ENTERPRISE ee",
+    "confidence": 0.569,
+    "status": "low"
+  },
+  "date": {
+    "value": "2017-06-15",
+    "confidence": 0.667,
+    "status": "low"
+  },
+  "items": [],
+  "total_amount": {
+    "value": null,
+    "confidence": 0.0,
+    "status": "low"
+  },
+  "reliability": {
+    "low_confidence_fields": [
+      "store_name",
+      "date",
+      "total_amount",
+      "items"
+    ],
+    "requires_manual_review": true
+  },
+  "_debug": {
+    "total_line": null,
+    "line_count": 32,
+    "ocr_confidence": 0.509
+  },
+  "source_file": "X51005268200.jpg",
+  "ocr": {
+    "confidence": 0.509,
+    "preprocessing_variant": "gray",
+    "deskew_angle": 2.82,
+    "raw_text": "AIK HUAT_HAR! =\nENTERPRISE ee\nBeant SAP\nNO. 17-6, JALAN SEVIA INUAH\n(3), Ula/K, SETA LAK\nSEKSYEN Ui3, 40170 SHAH ALAN,\nTEL: O12 ~ 651493 FAX: Us ~ 33633608\nGST NO: Ou0s9asz8768\nRECEIPT Bs C9PO39S721 Unies 15/06/2017\nSALESPERSON : AHOU2 TIME: 15:28:00\nTek ory U/P ANQUT\ngra (RH)\nzoooigoooog2s 115.00 15.00 $\n20\" 1.6KG X SOOKN BIG SIRETCH FILM 72?\nsoTAL. QUANTITY 1\nSUs-fUTAL (G81) 15.00\nvise 0.00\nROUNDING 0.00\nTOTAL 15-00\nCASH 15-00\nCHANGE G-00\n407 @ 6% INCLUDED IN TOTAL\nSar n car uments)\ncoe MOUNT = _TAX/ANT\neo a a\nta TOTALS 085\ng00DS SOLD ARE ‘NOT KEFUNDABLE,\n\"THANE YOU FOR CHOUSHNG US.\n9 PROVIDE ORIGINAL BULL FOR\nXCHANGE WITHSN 1 EEK FROM ION\nopps MUS BE IH ORTOANAL sTAt 70 BE\nENTITLED ROR BXCHANGS."
+  }
+}

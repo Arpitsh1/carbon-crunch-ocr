@@ -1,0 +1,39 @@
+{
+  "store_name": {
+    "value": "TANAN BERKELEY",
+    "confidence": 0.582,
+    "status": "low"
+  },
+  "date": {
+    "value": null,
+    "confidence": 0.0,
+    "status": "low"
+  },
+  "items": [],
+  "total_amount": {
+    "value": null,
+    "confidence": 0.0,
+    "status": "low"
+  },
+  "reliability": {
+    "low_confidence_fields": [
+      "store_name",
+      "date",
+      "total_amount",
+      "items"
+    ],
+    "requires_manual_review": true
+  },
+  "_debug": {
+    "total_line": null,
+    "line_count": 22,
+    "ocr_confidence": 0.594
+  },
+  "source_file": "X51005268408.jpg",
+  "ocr": {
+    "confidence": 0.594,
+    "preprocessing_variant": "enhanced",
+    "deskew_angle": 0.0,
+    "raw_text": "a SPEED HART $/8 (549537-10\nLOT PLT. 2811, JALAN ANGSA,\nTANAN BERKELEY\n44150 KLANG, SELANGOR\n4413-SETIA ALAH 2\nZ GST 10, NO; o0CLI767712\nINVOICE HO : 10222/202/T0341\n03:29PH 362536 H-tii7\n2973 PEDIASURE COMPLETE S35 RNII7.90 =\n069 HILO 2KG Riss. 90 =\n2709 ZING HEING OAT A WHEAT — RNAI\n2093 DISNEY 05112 WIDE NECK RS. 8F =\n4385 JORNSONS PHS.5 2001 80 -RNB.F\nTotel Sales (Inclusive OST) fh 149.76\nRounding Adjustrent RH «02\nRounding RH 187.80\nCASH RN 200.00\nCHANGE RH 30.20\ngot Suasary —_Pvount (RH) Fax R\n2 2 bh 160.37 9.61\nThank You. Please come again\nKeep the invoice for applicable returns"
+  }
+}

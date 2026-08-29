@@ -1,0 +1,37 @@
+{
+  "store_name": {
+    "value": "Harvey Norman",
+    "confidence": 0.808,
+    "status": "medium"
+  },
+  "date": {
+    "value": null,
+    "confidence": 0.0,
+    "status": "low"
+  },
+  "items": [],
+  "total_amount": {
+    "value": 60.0,
+    "confidence": 0.86,
+    "status": "high"
+  },
+  "reliability": {
+    "low_confidence_fields": [
+      "date",
+      "items"
+    ],
+    "requires_manual_review": true
+  },
+  "_debug": {
+    "total_line": "Total Incl.0f GST 60.00",
+    "line_count": 34,
+    "ocr_confidence": 0.796
+  },
+  "source_file": "X51005763940.jpg",
+  "ocr": {
+    "confidence": 0.796,
+    "preprocessing_variant": "enhanced",
+    "deskew_angle": 0.0,
+    "raw_text": "f\n‘Harvey Norman\nHarvey Norman M'sia Paradign Mall\nElitetrax Marketing Sdn Bhd (616227-D)\nLot 1F-01802, ist Flr,Paradigm Mall,\nNo. 1 Jalan SS 7/26A,\nKelana Jaya,\n47301 Petaling Jaya\nTEL: 1300-88-5200 (HN Customer Service)\nGST REG. NO : 000551006208\n4+ Original +\nYou were served by Salesman: CHI CHERN\n6005283 eee\nCANON CART PG-47BK\n2* 29.00 60.00 S6\nTotal Incl.0f GST 60.00\nUOB Terminal RM 60.00 yr\nCard No Teton #90 14\nAuth Coae + R13299\nGST Inclusive: Amount(RM) — Tax (RM)\nS6 = 6.00 % of 60.00 3.40 a\nDate Time Branch POS Transac\n11.02.18 14:08 2007 2 24406.\nSalesmanID Cashier1D CashierName\n803216 801817 NORSHAF IKA\ni] Use This Code : WELCOME20 To Enjoy |\n| RM 20 Discount Online Now ! |\nShop With Confidence at Harvey Norman.\nKeep Receipt as proof of Purchase.\nVisit www.harveynorman.com.my for\nmore promotions and offers.\nLOA NB\n66000200 7000020024409120180211140759\n) 7"
+  }
+}

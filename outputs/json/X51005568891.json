@@ -1,0 +1,65 @@
+{
+  "store_name": {
+    "value": "HON HWA HARDWARE TRADING",
+    "confidence": 0.738,
+    "status": "medium"
+  },
+  "date": {
+    "value": "2017-02-08",
+    "confidence": 0.811,
+    "status": "medium"
+  },
+  "items": [
+    {
+      "name": "2 f TOWEL ROD 600 1200SR BRACKET(END) 3\" TOWEL ROD 8,00SR",
+      "price": 4.0,
+      "confidence": 0.767
+    },
+    {
+      "name": "BRACKET 3M\"TOWEL ROD SR",
+      "price": 20.0,
+      "confidence": 0.767
+    },
+    {
+      "name": "BRACKET(END) | 4 3/4\"TOWEL ROD 550 22.00SR BRACKET(ROUND) 25MMX10WALLPLUG SR",
+      "price": 3.5,
+      "confidence": 0.767
+    },
+    {
+      "name": "1 SANDFLEX SAW 450 450SR | BLADE 18T SCREW SR",
+      "price": 7.0,
+      "confidence": 0.767
+    },
+    {
+      "name": "9/4\" V BRACKET SR",
+      "price": 7.5,
+      "confidence": 0.767
+    },
+    {
+      "name": "1\" SSTEEL ROD SR",
+      "price": 94.8,
+      "confidence": 0.767
+    }
+  ],
+  "total_amount": {
+    "value": 277.0,
+    "confidence": 0.755,
+    "status": "medium"
+  },
+  "reliability": {
+    "low_confidence_fields": [],
+    "requires_manual_review": false
+  },
+  "_debug": {
+    "total_line": "Total 26132 1568 277.00",
+    "line_count": 38,
+    "ocr_confidence": 0.731
+  },
+  "source_file": "X51005568891.jpg",
+  "ocr": {
+    "confidence": 0.731,
+    "preprocessing_variant": "enhanced",
+    "deskew_angle": 0.0,
+    "raw_text": "HON HWA HARDWARE TRADING\nCompany Reg, No, : 001055194X\nNO 37, JALAN MANIS 7, TAMAN SEGAR,\n56100 CHERAS, KUALA LUMPUR.\n+603-9130 2672\nGST Reg : 001125220352\nTAX INVOICE\nCBH: 09158 08/02/2017 3:43:01 PM\nMie : C1-0\nCashier : cash3 -\nOly Description Price = Tota(RM),\n2 f TOWEL ROD 600 1200SR\nBRACKET(END)\n2 3\" TOWEL ROD 4.00 8,00SR\nBRACKET\n5 3M\"TOWEL ROD 4.00 20.00 SR\nBRACKET(END)\n| 4 3/4\"TOWEL ROD 550 22.00SR\nBRACKET(ROUND)\n1 25MMX10WALLPLUG 3.50 3.50 SR\n1 SANDFLEX SAW 450 450SR\n| BLADE 18T\n1 SCREW 7.00 7.00SR\n5 9/4\" V BRACKET 1.50 7.50 SR\n6 1\" SSTEEL ROD 15.80 94.80SR\nthem Discount 000\n17 34\" ALUMINUM ROD 5.80 98.00 SR\n44 Type: 10 Total 277.90\nDiscount: 0.90\nRoundngAg\nTotal Incisive GST: 277.00\nCASH 277.00\nGST Summary\nCode % —_NotAmt GST __Total(RM)\nSR_SR__-261.32—«*15.68 ~—=«277.00\nTotal 26132 1568 277.00\nThank you ! & Please come again !!\nGoods sold are not returnable for refund or exchange II"
+  }
+}

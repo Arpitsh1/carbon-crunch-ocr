@@ -1,0 +1,39 @@
+{
+  "store_name": {
+    "value": "oe te",
+    "confidence": 0.373,
+    "status": "low"
+  },
+  "date": {
+    "value": null,
+    "confidence": 0.0,
+    "status": "low"
+  },
+  "items": [],
+  "total_amount": {
+    "value": null,
+    "confidence": 0.0,
+    "status": "low"
+  },
+  "reliability": {
+    "low_confidence_fields": [
+      "store_name",
+      "date",
+      "total_amount",
+      "items"
+    ],
+    "requires_manual_review": true
+  },
+  "_debug": {
+    "total_line": null,
+    "line_count": 11,
+    "ocr_confidence": 0.369
+  },
+  "source_file": "X51005442397.jpg",
+  "ocr": {
+    "confidence": 0.369,
+    "preprocessing_variant": "enhanced",
+    "deskew_angle": 21.88,
+    "raw_text": "pent\neee\nwee\n~ oe\noe te\na\n&\n“Bog\nBae Ca\nCe\n="
+  }
+}

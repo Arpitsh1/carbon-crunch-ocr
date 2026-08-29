@@ -1,0 +1,39 @@
+{
+  "store_name": {
+    "value": "overs",
+    "confidence": 0.356,
+    "status": "low"
+  },
+  "date": {
+    "value": null,
+    "confidence": 0.0,
+    "status": "low"
+  },
+  "items": [],
+  "total_amount": {
+    "value": null,
+    "confidence": 0.0,
+    "status": "low"
+  },
+  "reliability": {
+    "low_confidence_fields": [
+      "store_name",
+      "date",
+      "total_amount",
+      "items"
+    ],
+    "requires_manual_review": true
+  },
+  "_debug": {
+    "total_line": null,
+    "line_count": 4,
+    "ocr_confidence": 0.252
+  },
+  "source_file": "X51005433543.jpg",
+  "ocr": {
+    "confidence": 0.252,
+    "preprocessing_variant": "gray",
+    "deskew_angle": 0.6,
+    "raw_text": "overs\nar\n= _\n= a"
+  }
+}

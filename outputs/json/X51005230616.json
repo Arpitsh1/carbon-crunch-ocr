@@ -1,0 +1,40 @@
+{
+  "store_name": {
+    "value": "Licensee of McDonald's",
+    "confidence": 0.808,
+    "status": "medium"
+  },
+  "date": {
+    "value": "2018-01-18",
+    "confidence": 0.889,
+    "status": "high"
+  },
+  "items": [
+    {
+      "name": "2M SpicyDeluxe %.40 \"2 Coke 24 Fries 1M GrilChicBgr 12.50 1M Coke 1H Fries Smal] Cone",
+      "price": 1.0,
+      "confidence": 0.838
+    }
+  ],
+  "total_amount": {
+    "value": 38.9,
+    "confidence": 0.833,
+    "status": "medium"
+  },
+  "reliability": {
+    "low_confidence_fields": [],
+    "requires_manual_review": false
+  },
+  "_debug": {
+    "total_line": "Total Rounded 38.90",
+    "line_count": 37,
+    "ocr_confidence": 0.85
+  },
+  "source_file": "X51005230616.jpg",
+  "ocr": {
+    "confidence": 0.85,
+    "preprocessing_variant": "enhanced",
+    "deskew_angle": 0.0,
+    "raw_text": "——e\nGerbang Alaf Restaurants Sdn Bhd\n(65351-M)\nformerly known as\nGolden Arches Restaurants Sdn Bhd\nLicensee of McDonald's\nLevel 6, Bangunan TH, Damansara Uptown?\nNo.3, Jalan $$21/39,47400 Petaling Jaya\nSelangor\n(GST ID No: 000504664064)\nMcDonald's Petronas Taman Melati OT\nTel No. + 03-4147-3107\nTAX INVOICE\nMFY Side 1\nINV# __141900016842\nORD #90 -REG #19- 18/01/2018 17:09:21\nQTY ITEM TOTAL\n2M SpicyDeluxe %.40\n\"2 Coke\n24 Fries\n1M GrilChicBgr 12.50\n1M Coke\n1H Fries\n1 Smal] Cone 1.00\nTakeQut Total (incl GST) 38.90\nTotal Rounded 38.90\nCash Tendered 50.00\nChange 11.10\nTOTAL INCLUDES 6% GST 2.20\n1 Tove to hear your feedback!\nVisit www.mcdfeedback.com.my\nOR\nDownload My McD Feedback from\nGoogle Play/App Store\nto share your experience\nThank You and Please Cone Again. |\nustomer Service Hotline : 03-2726-5600"
+  }
+}

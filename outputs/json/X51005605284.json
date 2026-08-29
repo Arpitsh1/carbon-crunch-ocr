@@ -1,0 +1,44 @@
+{
+  "store_name": {
+    "value": "ADVANCO Company",
+    "confidence": 0.602,
+    "status": "low"
+  },
+  "date": {
+    "value": null,
+    "confidence": 0.0,
+    "status": "low"
+  },
+  "items": [
+    {
+      "name": "FULL XEROX EVERYDAY aq 70GSM¢ sR 27499 5509",
+      "price": 11.0,
+      "confidence": 0.706
+    }
+  ],
+  "total_amount": {
+    "value": null,
+    "confidence": 0.0,
+    "status": "low"
+  },
+  "reliability": {
+    "low_confidence_fields": [
+      "store_name",
+      "date",
+      "total_amount"
+    ],
+    "requires_manual_review": true
+  },
+  "_debug": {
+    "total_line": null,
+    "line_count": 29,
+    "ocr_confidence": 0.629
+  },
+  "source_file": "X51005605284.jpg",
+  "ocr": {
+    "confidence": 0.629,
+    "preprocessing_variant": "enhanced",
+    "deskew_angle": -6.45,
+    "raw_text": "ADVANCO Company\nCompany Reg, Ne 725186.\nNO 183, Jalan Wangsa Delima 12,\nWangsa Link, Wangsa Maju,\n$3300 Kuala Lumpur\n03.41318975\nSST Reg 001658445824\nTAX INVOICE\nCBH 398313 23032018 3:13:49\nMit: 2-9\nCashier: 2099.\nQty Description Price Total\nFULL XEROX EVERYDAY aq 70GSM¢ sR\n5 27499 11.00 5509\nItem Discount $0.20 1.00\nCANON 36 OR EADO BLACK Fine SR\n1 27736 29.00 29.09\n& Type. > Total 84.00 ~~\nDise $29 —-—— x85 —050—\nRounding agi 900\nTotal Inclusive GST, 83.00\nCASH 85.00\nChange 200\nSST Summary\nca ape ae\nTotal 7830 470 ~“8309-—\nThank you & Please come again,\ne0ds Sold are not retumatye for refund of\neXchange j1"
+  }
+}

@@ -1,0 +1,39 @@
+{
+  "store_name": {
+    "value": "fe 0. H BHD 126926-H",
+    "confidence": 0.523,
+    "status": "low"
+  },
+  "date": {
+    "value": null,
+    "confidence": 0.0,
+    "status": "low"
+  },
+  "items": [],
+  "total_amount": {
+    "value": 5.04,
+    "confidence": 0.635,
+    "status": "low"
+  },
+  "reliability": {
+    "low_confidence_fields": [
+      "store_name",
+      "date",
+      "total_amount",
+      "items"
+    ],
+    "requires_manual_review": true
+  },
+  "_debug": {
+    "total_line": "Total 83.99) 5.04",
+    "line_count": 55,
+    "ocr_confidence": 0.546
+  },
+  "source_file": "X51005757201.jpg",
+  "ocr": {
+    "confidence": 0.546,
+    "preprocessing_variant": "gray",
+    "deskew_angle": 1.5,
+    "raw_text": "1803003\nfe 0. (H) BHD, (126926-H)\nRb FUR, AEGN TAMAN MALURE So\nSIN JEUMA,, TAMAR MALURT\nCHERAS, 55100 KUALA LUMPUR\nST 10 ; 002017394688\nSHIPPING 10URS\nSUNT: 1007 HRS - 2200 HRS\nFRI-SAT: 1000 HRS = 2000 HRS\nVALUED CUSTONER: 1370001392\n1x 090000116827 16.9088\nV-OHOR FRA\n1 00006270385 10.4558\nCE 19312 LONG H\n1x o0ou079407\"4 7.9088\nBL HARUM WASHT\n1 00007340781 7.9088\nBL HARUT WASH\n1 000007840781 7.208\nBL HARUML MASHI\n1 000001297606 4.1088\nLIL BROOM W/?\n1x 900006697655 4,908R\nE-TI/HP WATER 9\n1 000002976758 8.9088\nLUNTCORN 248K\nDISC 10% 86.01 0.89)\nx 000003761016 7.30\nSH CE3S14B NIL\n1x 0000010063 2.5058\n18H HALTED\nO1SL 10% 42.25, 0.25,\n1x 000004146858 18.9058\nCABLE BOK\nIse 418 11.16 “1.4\n1x COMO1E8SE54 0.205R\nPLASTICS BAB\nSub-total £8.91\nJota) Sales Incl G3T 8,97\nRounding Ad) oy\noral Atter Ad} Tne) GST 08.95\nASH 100.00\nTten Count 12 Ohare Ast 11,05\nInvoice No: 2013u22310062100080\n6ST Sunwary saount Tex\nSR # 6 83.93) 5.04\nTotal 83.99) 5.04\n78/02/2018 20:11 To0e 210 2100080\n(0295138 SARYANT\n‘EDN BANOAR PUCHONG\nTEL 1-900-80-AEON (2386)\nTHANK YOU FOR YOUR PATRONAGE\nPLEASE COME AGAIN\nTT\ni ELIE"
+  }
+}

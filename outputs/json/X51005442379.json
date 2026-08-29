@@ -1,0 +1,39 @@
+{
+  "store_name": {
+    "value": "ferns",
+    "confidence": 0.384,
+    "status": "low"
+  },
+  "date": {
+    "value": null,
+    "confidence": 0.0,
+    "status": "low"
+  },
+  "items": [],
+  "total_amount": {
+    "value": null,
+    "confidence": 0.0,
+    "status": "low"
+  },
+  "reliability": {
+    "low_confidence_fields": [
+      "store_name",
+      "date",
+      "total_amount",
+      "items"
+    ],
+    "requires_manual_review": true
+  },
+  "_debug": {
+    "total_line": null,
+    "line_count": 11,
+    "ocr_confidence": 0.295
+  },
+  "source_file": "X51005442379.jpg",
+  "ocr": {
+    "confidence": 0.295,
+    "preprocessing_variant": "enhanced",
+    "deskew_angle": -6.4,
+    "raw_text": "ferns\nere ree\nepee\nSage\narco\nie 7\nSEs\naS\nean\nSc\nae"
+  }
+}

@@ -1,0 +1,39 @@
+{
+  "store_name": {
+    "value": "ADVANCO Company",
+    "confidence": 0.589,
+    "status": "low"
+  },
+  "date": {
+    "value": null,
+    "confidence": 0.0,
+    "status": "low"
+  },
+  "items": [],
+  "total_amount": {
+    "value": 7.0,
+    "confidence": 0.676,
+    "status": "low"
+  },
+  "reliability": {
+    "low_confidence_fields": [
+      "store_name",
+      "date",
+      "total_amount",
+      "items"
+    ],
+    "requires_manual_review": true
+  },
+  "_debug": {
+    "total_line": "Total 660 7.00",
+    "line_count": 29,
+    "ocr_confidence": 0.609
+  },
+  "source_file": "X51005806716.jpg",
+  "ocr": {
+    "confidence": 0.609,
+    "preprocessing_variant": "enhanced",
+    "deskew_angle": -2.6,
+    "raw_text": "ADVANCO Company\nCompany Reg: No, 725186-V\nNO 183, Jalan Wangsa Delima 12,\nWangsa Link, Wangsa Maju,\n53300 Kuala Lumpur\n03-41318972\nGST Reg 001658445824\nTAX INVOICE\n~AX INVOICE\nCB 389729 171042018 4 21.53\nM# M2-0\nCashier can99.\nQty Descripon Fice — Totat\nUNICORN-Z0CM HALE Wey) RULEF SR\n1 A15S61 80 020\nCBE-S217 CBE7* scigsons ‘20MM sR.\n1 A27269 29 620 {\n2 Type 2 Tota =5 709\nTotal Inclusive GST: 7.00\nCASH 50.00\nChange 43.00\nSST Summa\nast summary\n— Code % Net Amt GSt_—+\nSRE Com 40 7.00\nTotal 660 7.00\nThank you & Please come again.\n‘Goods sold are not retumable for refund or\nexchange {1"
+  }
+}

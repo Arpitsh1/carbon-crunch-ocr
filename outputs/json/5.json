@@ -1,0 +1,36 @@
+{
+  "store_name": {
+    "value": "MARKET",
+    "confidence": 0.739,
+    "status": "medium"
+  },
+  "date": {
+    "value": "2021-10-02",
+    "confidence": 0.854,
+    "status": "high"
+  },
+  "items": [],
+  "total_amount": {
+    "value": 28.28,
+    "confidence": 0.798,
+    "status": "medium"
+  },
+  "reliability": {
+    "low_confidence_fields": [
+      "items"
+    ],
+    "requires_manual_review": true
+  },
+  "_debug": {
+    "total_line": "Total $28.28",
+    "line_count": 30,
+    "ocr_confidence": 0.798
+  },
+  "source_file": "5.jpg",
+  "ocr": {
+    "confidence": 0.798,
+    "preprocessing_variant": "gray",
+    "deskew_angle": 0.0,
+    "raw_text": "MARKET\nSunnyvale SVL 408-419-1290\nSunnyvale, CA 94086\nATDED BRIOCHE $6.99\nHEF PLATE MEAL $10 Bie\n2 @ $10.00 ea $20.0\nSubtotal $28.28\nNet Sales $28.28\nTotal $28.28\nSold Itens. 4\nPaid\nRETURNS: We are now accepting returns on\npurchases with the following condi tions\nReturns will only be accepted on purchases\nnade on or after 9/15/2020. All returns\nrequire a receipt. No returns on. items,\npurchased after 90 days. For addi tional\nformation please visit wfm.com/retumns\nEarn 5% Back at hole Foods Market\nwith the Amazon Prime Rewards Visa.\nLearn more at anazon..com/amazonvisa\nHOW WAS YOUR SHOPPING EXPERTENCE?\nGo to: http://www.wfn.con/ feedback\nENTER FOR A CHANCE TO WIN’ A $250 GIFT CARD\n908 6987 02/10/2021 07:10 PM\n| \\ \\\nII\n63011070790806387021020210\nGKTHOW62ZD.\nThanke tome (cil cco Me"
+  }
+}

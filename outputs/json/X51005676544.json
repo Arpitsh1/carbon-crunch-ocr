@@ -1,0 +1,36 @@
+{
+  "store_name": {
+    "value": "SYARIKAT PERNIAGAAN GIN KEE",
+    "confidence": 0.703,
+    "status": "medium"
+  },
+  "date": {
+    "value": "2018-01-02",
+    "confidence": 0.843,
+    "status": "medium"
+  },
+  "items": [],
+  "total_amount": {
+    "value": 0.12,
+    "confidence": 0.787,
+    "status": "medium"
+  },
+  "reliability": {
+    "low_confidence_fields": [
+      "items"
+    ],
+    "requires_manual_review": true
+  },
+  "_debug": {
+    "total_line": "Total : 2.00 0.12",
+    "line_count": 29,
+    "ocr_confidence": 0.779
+  },
+  "source_file": "X51005676544.jpg",
+  "ocr": {
+    "confidence": 0.779,
+    "preprocessing_variant": "gray",
+    "deskew_angle": 0.0,
+    "raw_text": "3 Igo! Olt ;\nSYARIKAT PERNIAGAAN GIN KEE\n(81109-A)\nNO 290, JALAN AIR PANAS. |\nSETAPAK,\n53200, KUALA LUMPUR.\nTEL : 03-40210276\nGST ID : 000750673920\n. SIMPLIFIED TAX INVOICE\n| GASH\n| Doc No. CS00012494 Date. 02/01/2018\nCashier USER Time: 09:29:00\nSalesperson Ret\nttem_______Qty__SiPrice_Amount_Tax_\n1432 1 2.12 212° SR\nGLOVE 1200 (PER PAIR)\n“Teal\nTotal Sales (Excluding GST) 2.00\nDiscount 0.00\nTotal GST 0.12\nRounding 0.00\nTotal Sales (Inclusive of GST) : 242\nCASH : 212\nChange : 0.00\n[GST SUMMARY oO\nTexCode = % —Amt(RM) Tax (RM)\nSR 6 2.00 0.12\nTotal : 2.00 0.12\nGOODS SOLD ARE NOT RETURNABLE, THANK YOU."
+  }
+}

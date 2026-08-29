@@ -1,0 +1,37 @@
+{
+  "store_name": {
+    "value": "99 SPEED MART S B S19537-X",
+    "confidence": 0.853,
+    "status": "high"
+  },
+  "date": {
+    "value": "2018-02-17",
+    "confidence": 0.842,
+    "status": "medium"
+  },
+  "items": [],
+  "total_amount": {
+    "value": null,
+    "confidence": 0.0,
+    "status": "low"
+  },
+  "reliability": {
+    "low_confidence_fields": [
+      "total_amount",
+      "items"
+    ],
+    "requires_manual_review": true
+  },
+  "_debug": {
+    "total_line": null,
+    "line_count": 16,
+    "ocr_confidence": 0.779
+  },
+  "source_file": "X51005719883.jpg",
+  "ocr": {
+    "confidence": 0.779,
+    "preprocessing_variant": "enhanced",
+    "deskew_angle": 0.0,
+    "raw_text": "99 SPEED MART S/B (S19537-X)\nLOT P.T. 2811, JALAN ANGSA,\nTAMAN BERKELEY\n41150 KLANG, SELANGOR\n1362-JLN DEVELOPMENT\nGST ID. NO + 000181747712\nINVOICE NO + 18311/102/T039S\nO7:44PH 566890 17-02-18\n489 TIGER BEER CAN 446x320H —RM108.50 5\nTotal Sales (Inclusive GST) RM 108.50\nCASH RM 150.00\nCHANGE RM 41.50\nGST Summary Amount (RM) Tax(RM)\n$= 6/ 102.36 6.14\nThank You. Please come again\nKeep the invoice tor applicable returns"
+  }
+}

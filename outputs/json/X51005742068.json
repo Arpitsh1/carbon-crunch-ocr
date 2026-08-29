@@ -1,0 +1,37 @@
+{
+  "store_name": {
+    "value": "BHPetro Palekbang",
+    "confidence": 0.767,
+    "status": "medium"
+  },
+  "date": {
+    "value": "2018-03-24",
+    "confidence": 0.91,
+    "status": "high"
+  },
+  "items": [],
+  "total_amount": {
+    "value": null,
+    "confidence": 0.0,
+    "status": "low"
+  },
+  "reliability": {
+    "low_confidence_fields": [
+      "total_amount",
+      "items"
+    ],
+    "requires_manual_review": true
+  },
+  "_debug": {
+    "total_line": null,
+    "line_count": 17,
+    "ocr_confidence": 0.884
+  },
+  "source_file": "X51005742068.jpg",
+  "ocr": {
+    "confidence": 0.884,
+    "preprocessing_variant": "enhanced",
+    "deskew_angle": 0.0,
+    "raw_text": "BHPetro] Palekbang\nLot 1626, Mukim Kampung Laut\nTumpat\n16200 Palekbang, Kelantan\nPREPAY CHIT NUMBER\n29721\nTHIS IS NOT A RECEIPT\n4 Tax Invoice will be issued upon the\ncompletion of the sale transaction\n24-03-2018 22:02:55 Cashier: 465\nTransaction No: 1-8046\nIten U\\Price = Qnty Amount\nPPF P1 1.000 6 6.00\nTOTAL AMOUNT :\nCASH RM 6.00\nThank You. Please Come Again\nCustomer Service 1-300-22-2828"
+  }
+}

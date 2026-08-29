@@ -1,0 +1,36 @@
+{
+  "store_name": {
+    "value": "MR.D.I.Y M SDN BHD",
+    "confidence": 0.767,
+    "status": "medium"
+  },
+  "date": {
+    "value": "2017-09-09",
+    "confidence": 0.84,
+    "status": "medium"
+  },
+  "items": [],
+  "total_amount": {
+    "value": 15.9,
+    "confidence": 0.847,
+    "status": "medium"
+  },
+  "reliability": {
+    "low_confidence_fields": [
+      "items"
+    ],
+    "requires_manual_review": true
+  },
+  "_debug": {
+    "total_line": "TOTAL INCL.GST@6% RM 15.90",
+    "line_count": 35,
+    "ocr_confidence": 0.776
+  },
+  "source_file": "X51005568880.jpg",
+  "ocr": {
+    "confidence": 0.776,
+    "preprocessing_variant": "enhanced",
+    "deskew_angle": 0.0,
+    "raw_text": "MR.D.I.Y(M)SDN BHD\nCo-REG:860671-D\nLOT 1851-A & 1851-B, JALAN KPB 6,\nKAWASAN PERINDUSTRIAN BALAKONG,\n43300 SERI KEMBANGAN, SELANGOR\n(GST ID No :000306020352)\n(ENDAH PARADE)\n-TAX INVOICE-\nTOILET BRUSH 47-2311 #8\nHD03-04-06 - 5/40/160\n9067860 1X 2,70 2.70\nCEMENT KN BLK~2 «8\nKFI2 ~ 12/240\n9071872 1X 1,60 1.60\nHSS TWIST DRILL 5.5* *8\nKH22 - 10/500\n6909906163102 1X 3.30 3.30\nHSS TWIST DRILL 6*1 *5\nKHI2 - 10/500\n6909906163103 1X 3.30 3,30\nCURTAIN STRAPS *8\nCK11-22-31 - 10/400\n8720019 2X 2.60 5,00\nTtem(s) : 5 Qty(s) : 6\nTOTAL INCL.GST@6% RM 15.90\nCASH RM 50.00\nCHANGE RM 34.10\nGST Summary Amt(RM) — Tax(RM)\nGST S@6x 15.00 0.90\n#------------------~-------------------¢\n9-09-17 15:39 SHO1 2/03 13 RO00100808\nERATOR TSGC - KARKI DAMMAR BAHADUR\nEXCHANGE ARE ALLOWED WITHIN\n7 DAY WITH RECEIPT.\nSTRICTLY NO CASH REFUND."
+  }
+}

@@ -1,0 +1,39 @@
+{
+  "store_name": {
+    "value": "LIAN HING STATIONERY SON BHD",
+    "confidence": 0.6,
+    "status": "low"
+  },
+  "date": {
+    "value": null,
+    "confidence": 0.0,
+    "status": "low"
+  },
+  "items": [],
+  "total_amount": {
+    "value": 12.0,
+    "confidence": 0.684,
+    "status": "low"
+  },
+  "reliability": {
+    "low_confidence_fields": [
+      "store_name",
+      "date",
+      "total_amount",
+      "items"
+    ],
+    "requires_manual_review": true
+  },
+  "_debug": {
+    "total_line": "Total Amt Payable 12.00",
+    "line_count": 24,
+    "ocr_confidence": 0.621
+  },
+  "source_file": "X51005453804.jpg",
+  "ocr": {
+    "confidence": 0.621,
+    "preprocessing_variant": "enhanced",
+    "deskew_angle": 2.5,
+    "raw_text": "3180303\nLIAN HING STATIONERY SON BHD\n(162761-M)\nNO.32.& 33, JALAN SR 19, SEKSYEN 8,\n“TAMAN SERDANG RAYA.\n49300 SERI KEMBANGAN. SELANGOR\nDARUL EHSAN\nGST ID 002139201536\n‘Tax Invoice\n7932018 ©S-20243\nOty Tex RM\nfeCastell 187097-75 Tackk 2 SR_ 12.00\n\"75g- White (new) @ 5.6600 7\n“Total Amt Incl. GST @ 6% 20 J\nRounding Adjustment ,\nTotal Amt Payable 12.00\nPaid Amount 20.00\nChange 8.00\nTotal Gty Tender 2\n£ GST Summary Amount Tax!\nlR@A tie (968\nTotal 1132-068\nTHANK YOU\nFor anv enauiry. please contact us"
+  }
+}

@@ -1,0 +1,52 @@
+{
+  "store_name": {
+    "value": "HON HWA HARDWARE TRADING",
+    "confidence": 0.742,
+    "status": "medium"
+  },
+  "date": {
+    "value": null,
+    "confidence": 0.0,
+    "status": "low"
+  },
+  "items": [
+    {
+      "name": "3/4\" ALUMINIUM ROD 540 SR",
+      "price": 6.0,
+      "confidence": 0.771
+    },
+    {
+      "name": "PVC WALLPLUG. SR",
+      "price": 5.0,
+      "confidence": 0.771
+    },
+    {
+      "name": "(S0PCS) Type 2 Total",
+      "price": 10.4,
+      "confidence": 0.771
+    }
+  ],
+  "total_amount": {
+    "value": 10.4,
+    "confidence": 0.76,
+    "status": "medium"
+  },
+  "reliability": {
+    "low_confidence_fields": [
+      "date"
+    ],
+    "requires_manual_review": true
+  },
+  "_debug": {
+    "total_line": "Total oat 069 10.40 ‘",
+    "line_count": 25,
+    "ocr_confidence": 0.738
+  },
+  "source_file": "X51005568881.jpg",
+  "ocr": {
+    "confidence": 0.738,
+    "preprocessing_variant": "enhanced",
+    "deskew_angle": 0.0,
+    "raw_text": "| HON HWA HARDWARE TRADING\nCompany Reg. No. ; 001055194X\nNO 37, JALAN MANIS 7, TAMAN SEGAR,\n56100 CHERAS, KUALA LUMPUR.\n+603-91 30 2672\nGST Reg 001125220352\nTAX INVOICE\nCBH 97870 2109/2017 10:20:37 AM\nMH C2-0\nCashier casht -\nQly Description Price TotaRM)\n0.9 3/4\" ALUMINIUM ROD 6.00 540 SR\n5 PVC WALLPLUG. 1.00 5.00SR\n(S0PCS)\n5.9 Type 2 Total 10.40\n| Discount. 0.00\nRounding Adj 0.00\nTotal Inclusive GST 10.40\nCASH 10.40\nGST Summary\nCode % — Nef Amt GST — TotaRM)\nSR_ SR 981 059 1040\nTotal oat 069 10.40 ‘\nThank you | & Please come again I!\nGoods sold are not returnable for refund or exchange W"
+  }
+}

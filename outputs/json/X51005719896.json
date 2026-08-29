@@ -1,0 +1,37 @@
+{
+  "store_name": {
+    "value": "THE STORE WALAYSIA SDN BHD 199K",
+    "confidence": 0.635,
+    "status": "low"
+  },
+  "date": {
+    "value": "2018-01-14",
+    "confidence": 0.733,
+    "status": "medium"
+  },
+  "items": [],
+  "total_amount": {
+    "value": 5.9,
+    "confidence": 0.74,
+    "status": "medium"
+  },
+  "reliability": {
+    "low_confidence_fields": [
+      "store_name",
+      "items"
+    ],
+    "requires_manual_review": true
+  },
+  "_debug": {
+    "total_line": "TOTAL PAYABLE AMOUNT 5.90",
+    "line_count": 32,
+    "ocr_confidence": 0.61
+  },
+  "source_file": "X51005719896.jpg",
+  "ocr": {
+    "confidence": 0.61,
+    "preprocessing_variant": "enhanced",
+    "deskew_angle": 0.0,
+    "raw_text": "men ee\nTHE STORE (WALAYSIA) SDN BHD (199K)\nWh TSTORE..COM. HY\nLOT S487 JALAN BATU ANBAR\nTAWAN KOK LIAM\n51200 KUALA LUMPUR:\nGST REG. NO : 000564929004\n14-01-2018 (Gun) 14302\nRN 1012-3001-0084\nCASHIER=0009998 Sandip ran\nUNI WORKER'S CARD (1-31) 100°S:\n20000004500% 4 5.10 12.408\nUNT Ae NOTE BOOK 120'S\n2000001592021 18@ LD 3.408\nTONAL TTEX 2\nTOTAL SALES INCLUSIVE 637 5.00\nTOTAL PAYABLE AMOUNT 5.90\nCASH 50.00\n(CHANGE 14.20\nGST SUMMARY AMOUNT(RH) TAKCRHD\n9: GBT 6% 5.82 18\n2: OST 0% 0.00 0.00\n55.82 1.98\n———\nWORDN KAD THE STORE DAN KUMPULKAN\nHATA GANIARAN HART THT\nTERIWA KASTH KERANA HEMBELT PELAH\nDI THE STORE\nWARBLE COATING COOKWARE\n| 26 NOVEMBER 2017 - 4 WARCH 2018\nSTICKERS) = 1\n7 ae OU —"
+  }
+}

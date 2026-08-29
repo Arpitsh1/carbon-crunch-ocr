@@ -1,0 +1,39 @@
+{
+  "store_name": {
+    "value": "ASO ELECTRIcaL TRADING SDN BHD",
+    "confidence": 0.598,
+    "status": "low"
+  },
+  "date": {
+    "value": null,
+    "confidence": 0.0,
+    "status": "low"
+  },
+  "items": [],
+  "total_amount": {
+    "value": 94.6,
+    "confidence": 0.616,
+    "status": "low"
+  },
+  "reliability": {
+    "low_confidence_fields": [
+      "store_name",
+      "date",
+      "total_amount",
+      "items"
+    ],
+    "requires_manual_review": true
+  },
+  "_debug": {
+    "total_line": "Total; 94.6",
+    "line_count": 32,
+    "ocr_confidence": 0.517
+  },
+  "source_file": "X51005705729.jpg",
+  "ocr": {
+    "confidence": 0.517,
+    "preprocessing_variant": "enhanced",
+    "deskew_angle": -3.23,
+    "raw_text": "ASO ELECTRIcaL TRADING SDN BHD\n1000131-K\nNO81G, JALAN sePADY 251,\nSECTION 26, TAMAN INDUSTRIES,\nAXIS 40400 SHAH ALAM, SELANGOR,\nTEL 93-51221701, 51313004 FAX\" 03.51216716\nSSTNO : co06a3s00929\nTAX INVOICE\nBio ¥\nRecapta Coonn 088870 — abate: BHOROT\n‘Salesperson: i\nCashion Uber Time: 11:37:00\n(GT) (st)\nItem Gy Rep ‘Rew Amount\n101867 10. 1.43 151) 16.12\nAx CABLE LUG BoMmaiy 0)\n107645 fee Oe) aay\nSR: CRIMPING TOOL, HS-38, 5.5MM-36my,\nTOT QTY: wh SES\n(Excluded Gsr), ‘Sub Totay 89.26\nDiscount ; 0.00\nTotal GST 5.36\nRounding : 9.92\nTotal; 94.6\nCASH : 100.09\nChange: 6.45 |\nGST SUMMARY |\nTax Code % Amount. est\nSR) Gg 89.26 5.35 i\nTotal agzg— ~~ 6ae\nGoons. ‘SOLD ARE; NOT, RETURNABLE,\nTHANK: You,"
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "store_name": {
+    "value": "PASARAYA BORONG SUPER SEVEN",
+    "confidence": 0.778,
+    "status": "medium"
+  },
+  "date": {
+    "value": "2018-03-21",
+    "confidence": 0.796,
+    "status": "medium"
+  },
+  "items": [],
+  "total_amount": {
+    "value": null,
+    "confidence": 0.0,
+    "status": "low"
+  },
+  "reliability": {
+    "low_confidence_fields": [
+      "total_amount",
+      "items"
+    ],
+    "requires_manual_review": true
+  },
+  "_debug": {
+    "total_line": null,
+    "line_count": 43,
+    "ocr_confidence": 0.707
+  },
+  "source_file": "X51005746207.jpg",
+  "ocr": {
+    "confidence": 0.707,
+    "preprocessing_variant": "enhanced",
+    "deskew_angle": 0.0,
+    "raw_text": "ap SEVEN CASH & CARRY SDN BHO\n(5801504) :\nPASARAYA BORONG SUPER SEVEN\nNO. 1 Jalan Euro 1\nOff Jalan Batu Tiga\nSungai Buloh Seksyen U3 Shah Alan, 40150\nhttp://w. super7 .com.my\nTEL + 0378590861\nFAX : 03-78590864\nGST ID : 000639090688 -\nTAX INVOICE\nCustomer : [77853745]\nMrs. ONG GUAT CHYE\nTAX INVOICE NO : 203225 COUNTER :002\nOPERATOR : [SYED AHMAD FALLAH BI-CUSTOMER SERVICE\nCLERK]\n21-03-2018 11:25:07 AM\n(RH)\nFRUIT (FP) 2.99\n41595 #1 2.99 IR\nNANGKA 1 PINGGAN @2.00\nFw4is000303.—¥1 2,00 2R\nKIMBALL TOMATO PUREE 4300 63.80\n9556191030230 #1 3.80 SR\nKTMBALL TOMATO PUREE 4303 63.80\n9556191030230 #1 3.80 SR\nURO MUSHROOM 4256 @2.80\n9555227500563 #1 2.80 SR\nYOUNG CORN 4256 (MS) @2.90\n+, 9555654400013 #1 2,90 SR\nQUANTITY ; 6 Units\nTotal Sales (Incl. GST ¢6%) RHI8.29\nRounding Adjustment RMO.01\nNet Total (sh RWTB.30 Le\nPayment Nethod '5°'7° —— NasTER CARD\nGST Summary Sales Ant Tax Ant\n(RH) (RH)\nIR (08) 4,99 0.20\nSR (E.) 12.54 0.6/7\nPLEASE VERIFY YOUR RECEIPT ‘\nBEFORE LEAVING THE COUNTER. .\nGOODS SOLD ARE NOT RETURNABLE. C\nTHANK YOU"
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "store_name": {
+    "value": "AEON CG. M BHD 126926-H",
+    "confidence": 0.847,
+    "status": "medium"
+  },
+  "date": {
+    "value": "2018-03-14",
+    "confidence": 0.864,
+    "status": "high"
+  },
+  "items": [],
+  "total_amount": {
+    "value": 0.7,
+    "confidence": 0.808,
+    "status": "medium"
+  },
+  "reliability": {
+    "low_confidence_fields": [
+      "items"
+    ],
+    "requires_manual_review": true
+  },
+  "_debug": {
+    "total_line": "Total 11.55 0.70",
+    "line_count": 24,
+    "ocr_confidence": 0.813
+  },
+  "source_file": "X51005605287.jpg",
+  "ocr": {
+    "confidence": 0.813,
+    "preprocessing_variant": "enhanced",
+    "deskew_angle": 0.0,
+    "raw_text": "ee\nAEON CG. (M) BHD (126926-H)\n} SRD FLR, AEON TAMAN MALURT SC\nLN JEJAKA, TAMAN MALURT\nCHERAS, 55100 KUALA LUMPUR\nGST 1D : 002017394688\nSHOPPING HOURS\nMON-SUN: 1000 HRS - 2200 HRS\nVALUED CUSTOMER: 1130307913\n1x 000005469768 6.655R\nTOPVALU FLOOR C\ntx 600001161575 5.60SR\nCIF REGULAR 50\nSub-total 12.25\nTotal Sales Inc] GST 12.25\nToial After Adj Incl GST 12.25\nCASH 60.00\nTteai Count 2 Change Amt 37.78\nInvoice Ne: 2018031430096060035\nGST Summary Amount Tax\nSR # 6% 11.55 0.70\nTotal 11.55 0.70\n14/03/2018 12:43 3009 006 0060035\n0264846 AMTRUL"
+  }
+}

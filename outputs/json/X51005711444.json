@@ -1,0 +1,45 @@
+{
+  "store_name": {
+    "value": "RESTORAN WAN SHENG",
+    "confidence": 0.75,
+    "status": "medium"
+  },
+  "date": {
+    "value": "2018-09-21",
+    "confidence": 0.865,
+    "status": "high"
+  },
+  "items": [
+    {
+      "name": "| Cham (B) SR",
+      "price": 4.4,
+      "confidence": 0.817
+    },
+    {
+      "name": "Take Away SR",
+      "price": 0.4,
+      "confidence": 0.817
+    }
+  ],
+  "total_amount": {
+    "value": 4.8,
+    "confidence": 0.809,
+    "status": "medium"
+  },
+  "reliability": {
+    "low_confidence_fields": [],
+    "requires_manual_review": false
+  },
+  "_debug": {
+    "total_line": "TOTAL: 4.80",
+    "line_count": 23,
+    "ocr_confidence": 0.815
+  },
+  "source_file": "X51005711444.jpg",
+  "ocr": {
+    "confidence": 0.815,
+    "preprocessing_variant": "gray",
+    "deskew_angle": 0.0,
+    "raw_text": "RESTORAN WAN SHENG\n002043319-W\nNo.2, Jalan Temenggung 19/9,\nSeksyen 9, Bandar Mahkota Cheras,\n43200 Cheras, Selangor\nGST REG NO; 001335787620\nTax Invoice\nINV No.: 1054260 Cashier: Thandar\nDate: 21-09-2018 11:42:20\n“Description Qty —-U.price Total TAX\n| Cham (B)\n2x 2.20 4.40 SR\nTake Away\n2x 0.20 0.40 SR\nTotal QTY: 4\nTotal (Excluding GST): 4,54\nGST payable (6%): 0.26\nTotal (Inclusive of GST): 4.80\nTOTAL: 4.80\nCASH : 4.80\nGST Summary Amount (RA) TaX(R)\nSR (@ 6%) 4,54 0.28\naa"
+  }
+}

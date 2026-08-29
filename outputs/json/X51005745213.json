@@ -1,0 +1,38 @@
+{
+  "store_name": {
+    "value": "HARDWARE SUPPLY",
+    "confidence": 0.624,
+    "status": "low"
+  },
+  "date": {
+    "value": "2018-02-01",
+    "confidence": 0.722,
+    "status": "medium"
+  },
+  "items": [],
+  "total_amount": {
+    "value": null,
+    "confidence": 0.0,
+    "status": "low"
+  },
+  "reliability": {
+    "low_confidence_fields": [
+      "store_name",
+      "total_amount",
+      "items"
+    ],
+    "requires_manual_review": true
+  },
+  "_debug": {
+    "total_line": null,
+    "line_count": 30,
+    "ocr_confidence": 0.594
+  },
+  "source_file": "X51005745213.jpg",
+  "ocr": {
+    "confidence": 0.594,
+    "preprocessing_variant": "enhanced",
+    "deskew_angle": 0.0,
+    "raw_text": ". « . . o . p\nMUN HENG ELECTRICAL &\nHARDWARE SUPPLY\n(ROC: 001980450-U)\nGST ID No: 000372877168\nNo.52, Jalan Bulan US/8T,\nBandar Pinggiran Subang,\nSungai Guloh, 40750 Shati Alam, ‘Sel.\nTel:018-2238377/016-3662080\nFay:03-78456834\nTax Jnvoice\nNo. : C3-51762\nDate : 01/02/2018\nGry RM Tax\nZEWHITE SPRAY 1.00 700 SR\nTotal Ami ine. GST @ eh 7.00\nReunding Adjustment 0.07\nTota’ Arne Povoble : 70g 1\nPaid Amount 7.00\nChanna: 9.00\nTotal Gy Tender : 1\nT | bp.\nGoods sold ere noi retxn| =.\nCaS simmary ~ “Amount” 7 Tek!\n' (FM) (prey |\n\"ateh 7 a es\nTHANK YOU\nForeny enquiry, plense ¢.meil us\n01022018 16:22:05\nEe"
+  }
+}

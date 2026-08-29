@@ -1,0 +1,42 @@
+{
+  "store_name": {
+    "value": "H'MAN GLASS PAPER",
+    "confidence": 0.68,
+    "status": "low"
+  },
+  "date": {
+    "value": "2017-08-20",
+    "confidence": 0.883,
+    "status": "high"
+  },
+  "items": [
+    {
+      "name": "H'MAN GLASS PAPER 4pe @ T",
+      "price": 5.6,
+      "confidence": 0.833
+    }
+  ],
+  "total_amount": {
+    "value": 0.56,
+    "confidence": 0.827,
+    "status": "medium"
+  },
+  "reliability": {
+    "low_confidence_fields": [
+      "store_name"
+    ],
+    "requires_manual_review": true
+  },
+  "_debug": {
+    "total_line": "Total Savings -0.56",
+    "line_count": 34,
+    "ocr_confidence": 0.841
+  },
+  "source_file": "X51005568866.jpg",
+  "ocr": {
+    "confidence": 0.841,
+    "preprocessing_variant": "enhanced",
+    "deskew_angle": 0.0,
+    "raw_text": "(Co. No. 113825=0)\n(GST Reg No. 001492992000)\nNo 8, Jalan 7/118B, Desa Tun Razak\n56000 Kuala Lumpur, Malaysia\nCHERAS LEISURE MALL\nTel + 03-91322435/437\nsesssserensevosvesensesensees\nVega Bookfair @ SPCC 2017\nSunvay Pyranid Convention Centre\n25 AUG - 3 Sept 2017\nsccaseneblihaeesedsevaensens\n20/08/17 12:48 Slip No. : 9020374693\nYen Lee Trans: 304168\nMember Card No: 2002008362249\nCard Expiry: 31/08/20\nDescription Amount\nH'MAN GLASS PAPER\n4pe @ 1.40 5.60 T\nMember Discount -0. 56\nTotal RM Incl. of GST 5.04\nRounding Adj 0.01\nTotal RM 5.05\nCash 10.00\nCHANGE 4.95\nItem Count 4\nGST Summary Amount (RM) = Tax (RM)\nTe 6. 4.75 0.29\nTotal Savings -0.56\nBE A POPULAR CARD MEMBER\nAND ENJOY SPECIAL DISCOUNTS\nTHANK YOL. PLEASE COME AGAIN,\nwww. popular. com, my\nBuy Chinese books online\nwww. popularon]ine. com. my"
+  }
+}

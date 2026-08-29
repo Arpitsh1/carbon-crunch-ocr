@@ -1,0 +1,37 @@
+{
+  "store_name": {
+    "value": "SYARIKAT PERNIAGAAN GIN KEE",
+    "confidence": 0.663,
+    "status": "low"
+  },
+  "date": {
+    "value": "2018-01-15",
+    "confidence": 0.803,
+    "status": "medium"
+  },
+  "items": [],
+  "total_amount": {
+    "value": 0.63,
+    "confidence": 0.747,
+    "status": "medium"
+  },
+  "reliability": {
+    "low_confidence_fields": [
+      "store_name",
+      "items"
+    ],
+    "requires_manual_review": true
+  },
+  "_debug": {
+    "total_line": "Total : 10.50 0.63] -",
+    "line_count": 31,
+    "ocr_confidence": 0.718
+  },
+  "source_file": "X51005676548.jpg",
+  "ocr": {
+    "confidence": 0.718,
+    "preprocessing_variant": "enhanced",
+    "deskew_angle": 0.0,
+    "raw_text": "aie ol ole fe,\nSYARIKAT PERNIAGAAN GIN KEE\n| (81109-A)\nNO 290, JALAN AIR PANAS. |\nSETAPAK,\n53200, KUALA LUMPUR.\nTEL 03-40210276\nGST ID 000750673920\nSIMPLIFIED TAX INVOICE\n‘CASH —\nDoc No 800012751 Date 15/01/2018\nCashier USER Time 14:24:00\nSalesperson Ret\ntem Qty —SiPrice Amount Tax_\n2876 3 1.06 318 SR\nHOES PIN\n1937 1 7.95 795 SR\n4 HOES HANDLE\nee Totaly 4 His\ne Total Sales (Excluding GST) 1060\nDiscount 0.00\nTotal GST 063\nRounding 0.00\nTotal Sales (Inclusive of GST) : 11.13\nCASH: 11.43\nChange : 0.00\nGST SUMMARY oS\nTaxCode = % =Amt(RM) Tax (RM)\nSR 6 10.50 063\nTotal : 10.50 0.63] -\nGOODS SOLD ARE NOT RETURNABLE THANK YOU"
+  }
+}

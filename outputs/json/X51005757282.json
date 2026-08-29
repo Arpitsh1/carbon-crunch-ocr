@@ -1,0 +1,48 @@
+{
+  "store_name": {
+    "value": "TSH POWER HARDWARE",
+    "confidence": 0.687,
+    "status": "low"
+  },
+  "date": {
+    "value": "2017-09-12",
+    "confidence": 0.785,
+    "status": "medium"
+  },
+  "items": [
+    {
+      "name": "308# DRAWER 1 6,00 6.00 SR* -OCK C 2 - HL500 / SAXON GARDEN 1 SR*",
+      "price": 18.0,
+      "confidence": 0.742
+    },
+    {
+      "name": "[AP 1/2 X 3/4 FX- LOCAL SEALWHITE 1 SR*",
+      "price": 0.5,
+      "confidence": 0.742
+    }
+  ],
+  "total_amount": {
+    "value": null,
+    "confidence": 0.0,
+    "status": "low"
+  },
+  "reliability": {
+    "low_confidence_fields": [
+      "store_name",
+      "total_amount"
+    ],
+    "requires_manual_review": true
+  },
+  "_debug": {
+    "total_line": null,
+    "line_count": 31,
+    "ocr_confidence": 0.691
+  },
+  "source_file": "X51005757282.jpg",
+  "ocr": {
+    "confidence": 0.691,
+    "preprocessing_variant": "enhanced",
+    "deskew_angle": 0.5,
+    "raw_text": "31803034 BOM\nfoe\nTSH POWER HARDWARE\nTRADING ©\n002458685-T\n13-1, Jalan PJU 5/10,\nDataran Sunway, Kota Damansara,\n47810, Petaling Jaya, Selangor\nTel:012-373 2096\nTAX INVOICE\nGST Reg No; 000460664632\nokeNo; 01-144966\nK) 12/09/2017 4:42:33 PM\nDescription __Qty ___Price Amount ___\n308# DRAWER 1 6,00 6.00 SR*\n-OCK C 2 - HL500 /\n41502\nSAXON GARDEN 1 18.00 18.00 SR*\n[AP 1/2 X 3/4 FX-\n7105B\nLOCAL SEALWHITE 1 0.50 0.50 SR*\nTAPE\n—— See 9 GET\nseeeeeerererreeveee ROUNG Amit: —_0.00\n__NET TOTAL: 24.50,\nCash Received : 50.00\nChange: 25.50\nSST. Summary._Amount{RM)_Tax(RM) _\nSR=6.00% 23:11 1.39\n*#**Thank You.****\nPlease Come Again."
+  }
+}

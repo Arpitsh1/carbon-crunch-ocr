@@ -1,0 +1,38 @@
+{
+  "store_name": {
+    "value": "GREAT ZONE HOUSEHOLD CENTRE SON BHD",
+    "confidence": 0.636,
+    "status": "low"
+  },
+  "date": {
+    "value": "2018-02-18",
+    "confidence": 0.776,
+    "status": "medium"
+  },
+  "items": [],
+  "total_amount": {
+    "value": null,
+    "confidence": 0.0,
+    "status": "low"
+  },
+  "reliability": {
+    "low_confidence_fields": [
+      "store_name",
+      "total_amount",
+      "items"
+    ],
+    "requires_manual_review": true
+  },
+  "_debug": {
+    "total_line": null,
+    "line_count": 40,
+    "ocr_confidence": 0.678
+  },
+  "source_file": "X51005806692.jpg",
+  "ocr": {
+    "confidence": 0.678,
+    "preprocessing_variant": "enhanced",
+    "deskew_angle": 0.95,
+    "raw_text": "Tax Invoice\nGREAT ZONE HOUSEHOLD CENTRE SON BHD\n(801049-U)\n86000, KLUANG\nGST Reg.: 001833082880\nDocument No. ; KLG0201130227\nDate: 18/02/2018 06:08:59 PM\nDebtor :\nMember :\nTerminal : KLGO201\nCashier : ‘KLG2\nQn RM. RM CODE\nipc = 3.30 0.00 3.30 SR\n1.5\" RUBBER BAND\n12006 * 3.60 0.00 3.60 SR\neyes\n12006 * 2.50 0,00 2.50 SR\n18MMX9OY OPP TAPE\n1pc * 1.60 0.00 1,60 SR\n911 TAPE DISPENSER\ntec * 8.60 0,00 8.60 SR\nPSI-890 PENSONIC DRY IRON WITH SPRAY\nNe 2 ees A) CRENEN\nAP-17 APRON PLAIN CLOTH\nTee MRED OD PAREN\nTALI UKURAN.\nipc * 1,00 0,00 1,00 SR.\nCC-100 100PC CITE CANDLE\nAPC = 22.90 0,00 22.90 SR\nF1502 SCISSOR 08¢ (CH) (TLC)\n6PC * 6.00 0.00 36.00 SR.\n2KG HC KITCHEN SCALE\n1pc * 19.90 0.00 19.90 SR\nGST 6% + 0.79\nService Charge : 0,00\nRounding Adjustment : 0,00\nRounded Total (RM): 367.30\nCredit Card 367.30\n| _ SST Summary ___Amount(RM) Tax(RM)\nSRO 6% 346.51 20.79"
+  }
+}

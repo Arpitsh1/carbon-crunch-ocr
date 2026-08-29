@@ -1,0 +1,37 @@
+{
+  "store_name": {
+    "value": "SDN BHD",
+    "confidence": 0.782,
+    "status": "medium"
+  },
+  "date": {
+    "value": "2018-03-14",
+    "confidence": 0.88,
+    "status": "high"
+  },
+  "items": [],
+  "total_amount": {
+    "value": null,
+    "confidence": 0.0,
+    "status": "low"
+  },
+  "reliability": {
+    "low_confidence_fields": [
+      "total_amount",
+      "items"
+    ],
+    "requires_manual_review": true
+  },
+  "_debug": {
+    "total_line": null,
+    "line_count": 26,
+    "ocr_confidence": 0.838
+  },
+  "source_file": "X51005447842.jpg",
+  "ocr": {
+    "confidence": 0.838,
+    "preprocessing_variant": "enhanced",
+    "deskew_angle": 0.0,
+    "raw_text": "7 — a\nPASARAYA BORONG PINTAR\nSDN BHD\nBR No. (124525-H)\nNO 19-G&19-1819-2 JALAN TASIK UTAMA4,\nMEDAN NIAGA TASIK DAMAI\n016-6498845,\nGST No\n14/03/2018 4:06:34PM\nTAX INVOICE\nTRN: CROOO8955\nCOUNTER 3 CASHIER 1\nQTYUOM —UNITAmt Exc Amt inc. GST\nPrice Tax Tax Code\nGB CR-CORN\n1 WALK 090 090 0.90 ZRL\n“Total Qty 100 0.90\nTotal Includes GST 0% 0.90\nCustomer's Payment\n| Cash 5.00\nChange 410\nGST Summary Amount (RM) Tax (RM)\nZRL=0% 0.90 0.00\n*Goods sold are not returnable\nThank you for shopping at PASARAYA\nBORONG PINTAR SDN BHD"
+  }
+}

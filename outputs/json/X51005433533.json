@@ -1,0 +1,39 @@
+{
+  "store_name": {
+    "value": "mm chimeras om",
+    "confidence": 0.302,
+    "status": "low"
+  },
+  "date": {
+    "value": null,
+    "confidence": 0.0,
+    "status": "low"
+  },
+  "items": [],
+  "total_amount": {
+    "value": null,
+    "confidence": 0.0,
+    "status": "low"
+  },
+  "reliability": {
+    "low_confidence_fields": [
+      "store_name",
+      "date",
+      "total_amount",
+      "items"
+    ],
+    "requires_manual_review": true
+  },
+  "_debug": {
+    "total_line": null,
+    "line_count": 31,
+    "ocr_confidence": 0.207
+  },
+  "source_file": "X51005433533.jpg",
+  "ocr": {
+    "confidence": 0.207,
+    "preprocessing_variant": "enhanced",
+    "deskew_angle": -11.4,
+    "raw_text": "oar\nmm chimeras om\nerie,\nne\nSs\n= .\nz saa\nEiswomat at\nSmee Ss\nSees”\nae\nva V0 en? we\nEth a\nExige, te\nPease\nPoona eee\nBom “e\nReece ss\ncea ae\nFare og A \"a\neo\ntet\nree\nee\nef\n987 stasang mo: OS\ny\n——*\nat Say\nre: 9e, z\nStress"
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "store_name": {
+    "value": "SYARIKAT PERNIAGAAN GIN KEE",
+    "confidence": 0.671,
+    "status": "low"
+  },
+  "date": {
+    "value": "2018-02-12",
+    "confidence": 0.811,
+    "status": "medium"
+  },
+  "items": [],
+  "total_amount": {
+    "value": 0.3,
+    "confidence": 0.755,
+    "status": "medium"
+  },
+  "reliability": {
+    "low_confidence_fields": [
+      "store_name",
+      "items"
+    ],
+    "requires_manual_review": true
+  },
+  "_debug": {
+    "total_line": "Total : 5.00 0.30",
+    "line_count": 30,
+    "ocr_confidence": 0.731
+  },
+  "source_file": "X51005677328.jpg",
+  "ocr": {
+    "confidence": 0.731,
+    "preprocessing_variant": "gray",
+    "deskew_angle": 0.0,
+    "raw_text": "2 190901C. , 7\nSYARIKAT PERNIAGAAN GIN KEE\n| (81109-A) |\nNO 290, JALAN AIR PANAS.\nSETAPAK,\n$3200, KUALA LUMPUR.\nTEL 03-40210276\nGST ID | 000750673920\nSIMPLIFIED TAX INVOICE\nCASH OO —\nDoc No $00013254 Date: 12/02/2018\nCashei USER Time. 152900\nSalesperson Ref.\ntem Gty—“S/Price__ Amount_Tax\n1921 1 6.30 630 SR\nNAIL (PER/PACK) - RMS.\n—Totalty TB\nTotal Sales (Excluding GST) 5.00\nDiscount 0.00\nTotal GST 0.30\nRounding 0.00\nTotal Sales (Inclusive of GST): 30\nCASH 5.30\nChange : 0.00\n(GSTSUMMARY —— i—itststs—S |\nTaxCode = % © AML(RM) Tax(RM)|\nsR 6 5.00 0.30\nTotal : 5.00 0.30\nGOODS SOLD ARE NOT RETURNABLE, THANK YOU\nep aa re"
+  }
+}

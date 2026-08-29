@@ -1,0 +1,37 @@
+{
+  "store_name": {
+    "value": "Duara Knap gy Sn",
+    "confidence": 0.642,
+    "status": "low"
+  },
+  "date": {
+    "value": "2018-05-04",
+    "confidence": 0.785,
+    "status": "medium"
+  },
+  "items": [],
+  "total_amount": {
+    "value": 12.0,
+    "confidence": 0.729,
+    "status": "medium"
+  },
+  "reliability": {
+    "low_confidence_fields": [
+      "store_name",
+      "items"
+    ],
+    "requires_manual_review": true
+  },
+  "_debug": {
+    "total_line": "TOTAL <G8T INCL) 12.00",
+    "line_count": 30,
+    "ocr_confidence": 0.691
+  },
+  "source_file": "X51005719912.jpg",
+  "ocr": {
+    "confidence": 0.691,
+    "preprocessing_variant": "enhanced",
+    "deskew_angle": 0.0,
+    "raw_text": "Duara Knap gy” Sn\n-19 Level 6\nBren Mall\nTel:03-62584088\nCompany Rea #1101083-T\nGST Rea 1000899874816\nRY\n121095079 GDN NC H/W ENC ROM = 5,90\n121096079 GDN MC H/W ENC ROX = 6,90 8\n121095081 GDN MC H/w N/DREAH = 5.90 8\n121095081 GDN MC H/W N/DREAH = 5.90 §\nPS KDP G Hi 4@12 11.60-\n‘SUBTOTAL 12.00\nTOTAL <G8T INCL) 12.00\nAGH 12.00\nYOUR SAVINGS FOR TODAY 11.60\n687 - Rate ——GST Excl — GST Aut\n§ 4 1.2 0.68\nThank You For Shopping\nAt Guardian\nALL Amounts Are in RM\nGoods sold are non-refundable.\n| Dispensed medicines sold are\nnot returnable.\nAL exchanges and returns including\nGuardian brand products must be made\nwithin days with orisinal receipts and\n| Product in original condition,\nSt20 Ctrd 1029658 Taxiny:41336\n16:14 = 04/05/18"
+  }
+}

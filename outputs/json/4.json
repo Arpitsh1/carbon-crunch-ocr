@@ -1,0 +1,39 @@
+{
+  "store_name": {
+    "value": "i Walmart 28",
+    "confidence": 0.559,
+    "status": "low"
+  },
+  "date": {
+    "value": "2018-08-12",
+    "confidence": 0.604,
+    "status": "low"
+  },
+  "items": [],
+  "total_amount": {
+    "value": null,
+    "confidence": 0.0,
+    "status": "low"
+  },
+  "reliability": {
+    "low_confidence_fields": [
+      "store_name",
+      "date",
+      "total_amount",
+      "items"
+    ],
+    "requires_manual_review": true
+  },
+  "_debug": {
+    "total_line": null,
+    "line_count": 23,
+    "ocr_confidence": 0.413
+  },
+  "source_file": "4.jpg",
+  "ocr": {
+    "confidence": 0.413,
+    "preprocessing_variant": "enhanced",
+    "deskew_angle": 0.0,
+    "raw_text": "94, 1\nted sl.\ni Walmart 28.\nPere Save money. Live better.\n14/4) boner acres ns By\nFAA 513 01965 cet bz0st Tt S0° Fhe o614s,\ndy SMO Fant cetetparag® Sr\nAy THK 1 ig o8\nwy :\nuh a ae |\n:\n;\ni) FT pear PRIMARY\nPhy : 3\nPEF] HeTun 1 Obed Roe cone oar\nif 12/08/18 12:39:24\nfy # ITEMS SOLD 1\nty Toe 3261 4114 0323 3051 6498\nwii iin\n* 7 week.\ni Oren Gn eae aa\nE, — Sevinse Catcher! Scan vith Ualnart arp\noo"
+  }
+}

@@ -1,0 +1,39 @@
+{
+  "store_name": {
+    "value": "sero te",
+    "confidence": 0.354,
+    "status": "low"
+  },
+  "date": {
+    "value": null,
+    "confidence": 0.0,
+    "status": "low"
+  },
+  "items": [],
+  "total_amount": {
+    "value": null,
+    "confidence": 0.0,
+    "status": "low"
+  },
+  "reliability": {
+    "low_confidence_fields": [
+      "store_name",
+      "date",
+      "total_amount",
+      "items"
+    ],
+    "requires_manual_review": true
+  },
+  "_debug": {
+    "total_line": null,
+    "line_count": 19,
+    "ocr_confidence": 0.286
+  },
+  "source_file": "X51005442344.jpg",
+  "ocr": {
+    "confidence": 0.286,
+    "preprocessing_variant": "adaptive",
+    "deskew_angle": 8.06,
+    "raw_text": "wot\nsero te\nEe\npode\na\nee\ntae\n<a nee ee\n— oC\nSoe\neee -\natt, “\n‘ton\non\nmm SS\nponent\n=\nels\nomen ee"
+  }
+}

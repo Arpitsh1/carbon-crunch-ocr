@@ -1,0 +1,57 @@
+{
+  "store_name": {
+    "value": "SUSHI MENTAI - PANDAN INDAH",
+    "confidence": 0.844,
+    "status": "medium"
+  },
+  "date": {
+    "value": "2018-04-09",
+    "confidence": 0.861,
+    "status": "high"
+  },
+  "items": [
+    {
+      "name": "Tori Teriyaki Don SR",
+      "price": 12.8,
+      "confidence": 0.813
+    },
+    {
+      "name": "Tako Ball ",
+      "price": 0.0,
+      "confidence": 0.813
+    },
+    {
+      "name": "‘Sushi 1,80 SR",
+      "price": 7.2,
+      "confidence": 0.813
+    },
+    {
+      "name": "Sushi 2.80 SR",
+      "price": 5.6,
+      "confidence": 0.813
+    }
+  ],
+  "total_amount": {
+    "value": null,
+    "confidence": 0.0,
+    "status": "low"
+  },
+  "reliability": {
+    "low_confidence_fields": [
+      "total_amount"
+    ],
+    "requires_manual_review": true
+  },
+  "_debug": {
+    "total_line": null,
+    "line_count": 36,
+    "ocr_confidence": 0.808
+  },
+  "source_file": "X51005745296.jpg",
+  "ocr": {
+    "confidence": 0.808,
+    "preprocessing_variant": "gray",
+    "deskew_angle": 0.0,
+    "raw_text": "———— _\n‘SUSHI MENTAI - PANDAN INDAH\n. KMF FOODICIOUS SDN BHD (1132106-H)\nNO. 9-G, JALAN PERUBATAN 2,\nPANDAN INDAH, 55100 KUALA LUMPUR.\nTel ; +803 2856 0385\nGST Reg. No : 000897208320\nTax Invoice\nTable 113\nOrder#: 275705\nBills: VO15- 673381 Pax(s): 0\n“Date: 09-04-2018 19:22:25\nCashier: Cashier\nDescription Qty U.price Total TAX\nTori Teriyaki Don\n1x 12.80 12.80 SR\nTako Ball\n1x 0.00 0.00\n‘Sushi 1,80\n4x 1.80 7.20 SR\nSushi 2.80\n2x 2.80 5.60 SR\nGreen Tea\nIx 1.00 1,00 SR\nTotal (Excluding GST): 26.60\nServ. Charge (10%) 2.66\nGST Payable: 1.76\nTotal (Inclusive of GST); 31,02\nRounding Adj: 0.02\nClosed: 0 09-04-2018 20:01:23\nServer: Cashier\nCASH : 31.00\nGST Summary Amount (RM) Tax(RM)\nSR (@ 6) 23.26 1.76\nThank You! !!\nPlease Cone Again! !!"
+  }
+}

@@ -1,0 +1,42 @@
+{
+  "store_name": {
+    "value": "Golden Scoop Sdn Bhd 169609-A",
+    "confidence": 0.705,
+    "status": "medium"
+  },
+  "date": {
+    "value": "2018-02-18",
+    "confidence": 0.866,
+    "status": "high"
+  },
+  "items": [
+    {
+      "name": "Double Rg. Cup 1 SR",
+      "price": 20.0,
+      "confidence": 0.817
+    }
+  ],
+  "total_amount": {
+    "value": null,
+    "confidence": 0.0,
+    "status": "low"
+  },
+  "reliability": {
+    "low_confidence_fields": [
+      "total_amount"
+    ],
+    "requires_manual_review": true
+  },
+  "_debug": {
+    "total_line": null,
+    "line_count": 29,
+    "ocr_confidence": 0.815
+  },
+  "source_file": "X51005719856.jpg",
+  "ocr": {
+    "confidence": 0.815,
+    "preprocessing_variant": "enhanced",
+    "deskew_angle": 0.0,
+    "raw_text": "_> ie a\npaskin 3 robbins\nDesa Park City\n. Golden Scoop Sdn Bhd (169609-A)\nA-16-1 Tower A, Northpoint Office, Mid Valley\nGity No1 Medan Syed Putra Utara Kuala\nLumpur\n| Malaysia\nGST ID: 001513148416\nOutlet Tel: (603) 6280 7131\nTax Invoice\nInvoice No DPC11 53409-007-0006\nPOS No DPC11\nCashier DPC1PT1\nDate & time + 18/02/2018 12:04.58 |\nDescription Qty U.Price Total(RM)\nDouble Rg. Cup 1 20.00 20.00SR\nColour Rice 1 1.50 1,506R\n| Sub Total 21.50\nRounding adj. 0\nTotal (Incl.GST) 24.50\nCash (MYR) 22,00\nCash Change 0.50\nGST\nSummary Tax Rate Sale (RM) Tax (Rim)\nSR 6.0% 20.28 1.22\nThank you! Please come again!\nwww. baskinrobbins .com my\ning"
+  }
+}

@@ -1,0 +1,42 @@
+{
+  "store_name": {
+    "value": "TED HEN STATIONERY & BOOKS",
+    "confidence": 0.656,
+    "status": "low"
+  },
+  "date": {
+    "value": "2018-01-29",
+    "confidence": 0.796,
+    "status": "medium"
+  },
+  "items": [
+    {
+      "name": "TM ore ue sow MER 2 %",
+      "price": 1.0,
+      "confidence": 0.753
+    }
+  ],
+  "total_amount": {
+    "value": 0.06,
+    "confidence": 0.74,
+    "status": "medium"
+  },
+  "reliability": {
+    "low_confidence_fields": [
+      "store_name"
+    ],
+    "requires_manual_review": true
+  },
+  "_debug": {
+    "total_line": "TOTAL: 1.00 0.06",
+    "line_count": 32,
+    "ocr_confidence": 0.708
+  },
+  "source_file": "X51005361912.jpg",
+  "ocr": {
+    "confidence": 0.708,
+    "preprocessing_variant": "enhanced",
+    "deskew_angle": -1.04,
+    "raw_text": ".\nTED HEN STATIONERY & BOOKS\nTATIONE\nGST Ne}; conser gase\nCASH\n\\-\nReceipt No.: ©S1801/27224 Date: 29/01/2018\nfevtines cstanzrn \\pee,Zovz%8\n7 4 AMOUNT\nITEM QTY UP DISc% (RM)\nTM ore ue sow MER\n1 2 0.50 0.00 1.00%\n~ CARBON PAPER\noi)\nania\nTotal Qty. 2 1.00\nSUB-TOTAL (EX) : 1.00\nTOTAL TAX i 0.06\nROUNDING 0.01\nTOTAL 1.05\nCASH 1.05\nCHANGE 0.00\n» * AMOUNT TAX\nTAX CODE % (RM) (RM)\na |\nSR 6.00 1.00 0.06\n—\nTOTAL: 1.00 0.06\nNote: (\") indicated The Item Sold Has Been Related\nTo GST (Goods & Services Tax).\nGOODS SOLD ARE NOT RETURNABLE,\nTHANK YOU."
+  }
+}

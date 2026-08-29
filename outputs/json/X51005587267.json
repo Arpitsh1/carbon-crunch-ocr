@@ -1,0 +1,38 @@
+{
+  "store_name": {
+    "value": "TRI SHAAS SON BHO 728515-H",
+    "confidence": 0.622,
+    "status": "low"
+  },
+  "date": {
+    "value": "2017-02-04",
+    "confidence": 0.738,
+    "status": "medium"
+  },
+  "items": [],
+  "total_amount": {
+    "value": 85.1,
+    "confidence": 0.682,
+    "status": "low"
+  },
+  "reliability": {
+    "low_confidence_fields": [
+      "store_name",
+      "total_amount",
+      "items"
+    ],
+    "requires_manual_review": true
+  },
+  "_debug": {
+    "total_line": "Total heecs 85.10",
+    "line_count": 43,
+    "ocr_confidence": 0.618
+  },
+  "source_file": "X51005587267.jpg",
+  "ocr": {
+    "confidence": 0.618,
+    "preprocessing_variant": "enhanced",
+    "deskew_angle": 1.64,
+    "raw_text": "TRI SHAAS SON BHO (728515-H)\nHYDIN’ HART SRI. HUDA\n4-20, Jalan Ria 25/62 Taran Sri Muda\nSeksyen 25, 40400 Shah Alam Selangor\nTel : 03-51217970. Fax : 03-51218059\nGST 10; 000429166592\nRECEIPT\nTerminal: 195 = 350605011\nirans # ; 261172\nbate: 4/02/2017 03:30:27PH\nSashier : CHI07681\nNSH ~ WERNIE\nHYOLIP BINDER CLIP 125 25HH 128 EAS\n2goi06oetindS 12.00 2.00\nHYOLIP BINDER CLIP ISM 128 CSS\nZoi0506N213 212.00 24.00\nHYCLIP BINDER CLIP 1SMK 12S FAS\n239)106061 1206 10 * 1,00 10.00\nPARTNER E/LOPE 4.51NK9.5IN W4292 EAS\nsessozaa04ess 22.20 4.0\nGHALITY LETTER TRAY 1T-7196-HIX EA S\nspos052401195 «3 * «14.90 44.70\nTtea Count am 18\nTotal heecs 85.10\nRouding Adjustent 28s Re ) 0.00\nYotal after Rounding B3S77 85.10\nssh — 100.10\nCHANGE 15.00\nSST Rate Amt Exci GST(RH) Taxi RH)\nS= 6 80.27 4,63\nt= Os 0.00 0.00\nYour Total Savings 6.00 +\nPoints Hissed: 85\nJoin ‘i a PRAT today!\nELA A\nPrint Date: 4/02/2017 03:30:200H\nHote: Any, request for production of full\ntax invoice must be aade within 3 wonths\nFron the date of purchase. If the request\n4s not made within the prescribed\ntine frane,MYDIN may based on its absolute\ndiscretion reject the request.\nThank You and Please Coue Again"
+  }
+}

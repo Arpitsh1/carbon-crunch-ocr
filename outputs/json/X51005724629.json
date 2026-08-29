@@ -1,0 +1,44 @@
+{
+  "store_name": {
+    "value": "ule oR",
+    "confidence": 0.659,
+    "status": "low"
+  },
+  "date": {
+    "value": null,
+    "confidence": 0.0,
+    "status": "low"
+  },
+  "items": [
+    {
+      "name": "3 5830 SR",
+      "price": 174.0,
+      "confidence": 0.758
+    }
+  ],
+  "total_amount": {
+    "value": null,
+    "confidence": 0.0,
+    "status": "low"
+  },
+  "reliability": {
+    "low_confidence_fields": [
+      "store_name",
+      "date",
+      "total_amount"
+    ],
+    "requires_manual_review": true
+  },
+  "_debug": {
+    "total_line": null,
+    "line_count": 36,
+    "ocr_confidence": 0.717
+  },
+  "source_file": "X51005724629.jpg",
+  "ocr": {
+    "confidence": 0.717,
+    "preprocessing_variant": "enhanced",
+    "deskew_angle": 0.0,
+    "raw_text": "(ule oR\n, MBB 964100\nLf\nKEDAI PAPAN YEW CHUAN\n(0005583085-k)\nLOT 276 JALAN BANTING\n43800 DENGKIL, SELANGOR\nTEL 03-87686092 FAX 03-87686092\n| GST ID 000781500416\n— OICE —\nBil To\n| ‘SUCI ALAM JAYA TRANSPORT\nNO 4 JALAN AMAN 2\nTAMAN DESA 43800\nDENGKIL SELANGOR\n017-6057770\nDoc No. CSOONTONST Date: 1770372018\nCashier USER Time; 16:02:00\nSalesperson Ref\n(cst) (sr)\nItem Qty SiPrice__S/Price Amount Tax\n100088 3 55.00 5830 174.00 SR\nB.R.CAI0 1 7X4M\nToray 3 9\nTotal Sales (Excluding GST) 165.00\nDiscount 0.00\nTotal GST 9.90\nRounding 0.00\nTotal Sales (Inclusive of GST) : 174.90\nCASH : — 200.00\nChange: 25.10\n1ST SUMMARY\nTax Code % = Amt(RM) = Tax (RM)\nSR 6 165.00 9.90\n. - Total : 165.00 9.90\n(GOODS SOLD ARE NOT RETURNABLE, THANK YOU."
+  }
+}

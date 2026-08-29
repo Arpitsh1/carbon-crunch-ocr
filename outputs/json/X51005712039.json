@@ -1,0 +1,36 @@
+{
+  "store_name": {
+    "value": "L TWO FLORIST & HANDICRAFT",
+    "confidence": 0.745,
+    "status": "medium"
+  },
+  "date": {
+    "value": "2018-03-21",
+    "confidence": 0.86,
+    "status": "high"
+  },
+  "items": [],
+  "total_amount": {
+    "value": 9.0,
+    "confidence": 0.804,
+    "status": "medium"
+  },
+  "reliability": {
+    "low_confidence_fields": [
+      "items"
+    ],
+    "requires_manual_review": true
+  },
+  "_debug": {
+    "total_line": "TOTAL 9.00",
+    "line_count": 26,
+    "ocr_confidence": 0.806
+  },
+  "source_file": "X51005712039.jpg",
+  "ocr": {
+    "confidence": 0.806,
+    "preprocessing_variant": "enhanced",
+    "deskew_angle": 0.0,
+    "raw_text": "L TWO FLORIST & HANDICRAFT ~\n002062543-P\nNO. 49, JALAN MAHAGONI 7/2\nSEKSYEN 4 BANDAR UTAMA,\n44300 BATANG KALI, SELANGOR F\nTEL : 012-3216447\nCASH\nRECEIPT # CS00007203 DATE: 21/03/2018\nSALESPERSON: 001 TIME: 11:01:00\nCASHIER) USER\nEEE\narty UIP___ AMOUN\n| NES555 2 1.00 2.00\n11/2\" SAFETY PIN —\n$B/01-3 1 7.00, 7.00\nSATIN BIAS TAPE 12MMX3Y\nTOTAL QTY 3 TZ (Bor\nSUB-TOTAL 9.00\n: Disc 0.00\nTAX 0.00\nROUNDING 0.00\nTOTAL 9.00\nCASH 20.00\nCHANGE 11.00\nBARANG YANG DIJUAL TIDAK BOLEH\nDITUKAR,"
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "store_name": {
+    "value": "ADVANCO COMPANY",
+    "confidence": 0.696,
+    "status": "low"
+  },
+  "date": {
+    "value": null,
+    "confidence": 0.0,
+    "status": "low"
+  },
+  "items": [],
+  "total_amount": {
+    "value": 29.0,
+    "confidence": 0.756,
+    "status": "medium"
+  },
+  "reliability": {
+    "low_confidence_fields": [
+      "store_name",
+      "date",
+      "items"
+    ],
+    "requires_manual_review": true
+  },
+  "_debug": {
+    "total_line": "Total 27.36 1.64 29.00",
+    "line_count": 26,
+    "ocr_confidence": 0.732
+  },
+  "source_file": "X51005806685.jpg",
+  "ocr": {
+    "confidence": 0.732,
+    "preprocessing_variant": "gray",
+    "deskew_angle": 0.42,
+    "raw_text": "ADVANCO COMPANY\nCompany Reg, No. : 725186-V\nNO 183, Jalan Wangsa Delima 12\nWangsa Link, Wangsa Maju,\n53300 Kuala Lumpur\n03-41318972\nGST Reg: 001658445824\nTAX INVOICE\nCBH: 389772 171012018 8.0853\nM#: M1-0\nCashier: c1000-\n_Qty Descripton Price Total\nCANON PG-47BK E400 BLACK FINE ( SR\n1 27736 2900 2900\nType. 1 Total 29.00\n“Rounding Adj Save ae\nTotal Inclusive GST: 29.00\nCASH\nChange 21.00\nGST Summary\nCone) 1 RINet Ants SR CSTESS Total ES\nSR 6% 2736-164 2900\nTotal 27.36 1.64 29.00\nThank you & Please come again.\nGoods soid are not retumable for refund or\n‘exchange |!"
+  }
+}

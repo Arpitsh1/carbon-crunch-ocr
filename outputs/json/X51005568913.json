@@ -1,0 +1,43 @@
+{
+  "store_name": {
+    "value": "TKANO HANDEL SON BHD",
+    "confidence": 0.668,
+    "status": "low"
+  },
+  "date": {
+    "value": "2017-07-27",
+    "confidence": 0.808,
+    "status": "medium"
+  },
+  "items": [
+    {
+      "name": "50346186, BOSTRAK WRD GOXSOKIG pe @ SRS",
+      "price": 538.0,
+      "confidence": 0.764
+    }
+  ],
+  "total_amount": {
+    "value": null,
+    "confidence": 0.0,
+    "status": "low"
+  },
+  "reliability": {
+    "low_confidence_fields": [
+      "store_name",
+      "total_amount"
+    ],
+    "requires_manual_review": true
+  },
+  "_debug": {
+    "total_line": null,
+    "line_count": 24,
+    "ocr_confidence": 0.727
+  },
+  "source_file": "X51005568913.jpg",
+  "ocr": {
+    "confidence": 0.727,
+    "preprocessing_variant": "enhanced",
+    "deskew_angle": 0.0,
+    "raw_text": "—\nTKANO HANDEL SON BHD\n(1074617K)\nIKEA Cheras\nNo 2A Jalan Cochrane\nTaman Maluri\n55100 KUALA LUMPUR\nGST No.: 000115154944\nSlip: 0000000011000136498.\nDate: 27/07/17\nTimes 1:12\nTrans: 311136194 Staff: 95837\nDescription ‘Amount TX\n50346186, BOSTRAK WRD GOXSOKIG\n2 pe @ 269.00 538.00 SRS\nTotal RA Including GST 6% 638.00\nRounding Adj. 0,00\nTotal Rounded 538,00\nVisa 638.00\nGST SR 6% = 838.00 30.45\nAmt. Excl, GST 507,65\nNo. of Ttens —_—\nI AN\nMiNDtOn eee seca"
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "store_name": {
+    "value": "SIN LIANHAP SDN BHD",
+    "confidence": 0.703,
+    "status": "medium"
+  },
+  "date": {
+    "value": null,
+    "confidence": 0.0,
+    "status": "low"
+  },
+  "items": [],
+  "total_amount": {
+    "value": null,
+    "confidence": 0.0,
+    "status": "low"
+  },
+  "reliability": {
+    "low_confidence_fields": [
+      "date",
+      "total_amount",
+      "items"
+    ],
+    "requires_manual_review": true
+  },
+  "_debug": {
+    "total_line": null,
+    "line_count": 32,
+    "ocr_confidence": 0.677
+  },
+  "source_file": "X51005230621.jpg",
+  "ocr": {
+    "confidence": 0.677,
+    "preprocessing_variant": "gray",
+    "deskew_angle": 0.0,
+    "raw_text": "‘SIN LIANHAP SDN BHD\nLOT 13, JALAN\n‘SIN LIANHAP SDN BHD\nLOT 13, JALAN IPOH,\nKG BATU 30 , ULU YAM LAMA\n44300 BTG KALI, SELANGOR.\n‘TE: 0260752221 INTINGLINE) FAX 02-60752572\n(Company Reg No: 284922-0 )\n(GST Reg No: 001610833220)\nTAX INVOICE\n‘cast CUSTOMER\nInvoice No.: 9003939\nDate: os/o22018\nCashier#:\n‘Ri Code\nPPD 4M DENLIME\n1.887 SR\n1.000PC x 2.00\n60234 GARDEN\n5.000 sk\n1000RC x 530\n‘Subtotal 7.30\nTota Sales Eraiasing GST: 6.69\nTotal Sales inclusive of GST: 730\ntounding Adjustment 0.00\nPayment 7.30\nChange Due 0.00\nTowa item(s): 2\nGST Summary Amoint Tar\nSR @6 6,59 oat\nmene® THANK YOU\nw= PLEASE COME AGAIN"
+  }
+}

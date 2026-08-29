@@ -1,0 +1,36 @@
+{
+  "store_name": {
+    "value": "POPULAR BOOK",
+    "confidence": 0.791,
+    "status": "medium"
+  },
+  "date": {
+    "value": "2018-02-06",
+    "confidence": 0.78,
+    "status": "medium"
+  },
+  "items": [],
+  "total_amount": {
+    "value": 14.65,
+    "confidence": 0.724,
+    "status": "medium"
+  },
+  "reliability": {
+    "low_confidence_fields": [
+      "items"
+    ],
+    "requires_manual_review": true
+  },
+  "_debug": {
+    "total_line": "Total RN 14.65",
+    "line_count": 28,
+    "ocr_confidence": 0.683
+  },
+  "source_file": "X51005715451.jpg",
+  "ocr": {
+    "confidence": 0.683,
+    "preprocessing_variant": "enhanced",
+    "deskew_angle": 0.0,
+    "raw_text": "{\nPOPULAR BOOK\n(Co. Now 113828 -w>\n(UST Rey No. uOl492992000)\nAo 8, Jalan 7/1188, Hesa Tun Ravzih\n56000 Kuala Lugpur. Nalaysia\nKSL CITY\nTol + O17-7765076 / 7785987\n06/02/18 18:47 Slip No.? 0010201725\nCheah Pei Ni Trans: 246761\nDeser iption Amuunt\nCORR. PRN ZL1-¥ 7.65 T\nPREY RING FILE W/¢L1 6.99 T\nTotal RM Incl. of GST ~~ 14.64\nRounding Adj 0.01\nTotal RN 14.65\nCash ~50. 00\nCHANGE 35.35\nitem Count 2\nGST Summary Amount (RM) Tax (RMD\nTo bs 13.81 0.83\n“Pola Savings———- —______0. 00\nBE A POPULAR CARD MEMBER\nAND ENJOY SPECIAL DISCOUNTS\nTHANK YOU. PLEASE COME AGAIN.\nwww. popular com. ay .\nBuy Chinese books online\nwav. popularon] ine. com, my"
+  }
+}

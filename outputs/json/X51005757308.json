@@ -1,0 +1,36 @@
+{
+  "store_name": {
+    "value": "MR. D.I.Y. M SDN BHD",
+    "confidence": 0.728,
+    "status": "medium"
+  },
+  "date": {
+    "value": "2018-03-21",
+    "confidence": 0.861,
+    "status": "high"
+  },
+  "items": [],
+  "total_amount": {
+    "value": 21.5,
+    "confidence": 0.868,
+    "status": "high"
+  },
+  "reliability": {
+    "low_confidence_fields": [
+      "items"
+    ],
+    "requires_manual_review": true
+  },
+  "_debug": {
+    "total_line": "Total Incl. GST@6x RM 21.50",
+    "line_count": 39,
+    "ocr_confidence": 0.808
+  },
+  "source_file": "X51005757308.jpg",
+  "ocr": {
+    "confidence": 0.808,
+    "preprocessing_variant": "enhanced",
+    "deskew_angle": 0.0,
+    "raw_text": "= Oi\n31803 045—\ncg\nMR. D.I.Y. (M) SDN BHD\n(CO.REG :860671-D)\nLOT 1851-A & 1851-B, JALAN KPB 6,\nKAWASAN PERINDUSTRIAN BALAKONG,\n43300 SERI KEMBANGAN, SELANGOR\n(GST ID No :000306020352)\n(IOI PUCHONG)\n-TAX INVOICE~\nCLOTH TAPE 46HM#5M (RED) +5\nRC22-32 - 36\n9084134 1X 1.90 1.90\nBOPP TAPE 48MM#100M CLEAR FS\nGB12-21-22 - 36\n6935818350846 1X 3.90 3,90\nCLOTH TAPE 46MM*5M (GREEN) 45\nH003 - 36\n9084135 1X 1.90 1.90\nDBL SIDE CLEAR ACRYLIC TAPE VSTI06C +8\nWA10 - 8/64\n9554100363103 1X 11.90 11.90\n£/S TAPE 1.8*15M *S\nMC42 - 88\n9080456. 1X 1.70 1.70\nPLASTIC BAGS #5\n99999 1X 0.20 0.20\nItem(s) : 6 Qty(s) : 6.\nTotal Incl. GST@6x RM 21.50\nCASH RM 50.00\nCHANGE RM 28.50\nGST @6% included in total RM 1.22\n4----~~----------~----~~--------~------%\n21-03-18 12:27 SHO1 2/86 12 R000110882\nOPERATOR TRAINEE CASHIER\nEXCHANGE ARE ALLOWED WITHIN\n7 DAY WITH RECEIPT.\nSTRICTLY NO CASH REFUND."
+  }
+}

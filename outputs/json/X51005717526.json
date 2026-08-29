@@ -1,0 +1,45 @@
+{
+  "store_name": {
+    "value": "Licensee of McDonald's",
+    "confidence": 0.788,
+    "status": "medium"
+  },
+  "date": {
+    "value": "2018-03-02",
+    "confidence": 0.869,
+    "status": "high"
+  },
+  "items": [
+    {
+      "name": "L McChicken",
+      "price": 11.1,
+      "confidence": 0.82
+    },
+    {
+      "name": "1 L Coke 1L Fries GNuggets",
+      "price": 7.5,
+      "confidence": 0.82
+    }
+  ],
+  "total_amount": {
+    "value": 28.5,
+    "confidence": 0.813,
+    "status": "medium"
+  },
+  "reliability": {
+    "low_confidence_fields": [],
+    "requires_manual_review": false
+  },
+  "_debug": {
+    "total_line": "Total Rounded 28.50",
+    "line_count": 29,
+    "ocr_confidence": 0.82
+  },
+  "source_file": "X51005717526.jpg",
+  "ocr": {
+    "confidence": 0.82,
+    "preprocessing_variant": "gray",
+    "deskew_angle": 0.0,
+    "raw_text": "g Alaf Restaurants Sdn Bhd |\n(65351-M)\nformerly known as\nolden Arches Restaurants Sdn Bhd\nLicensee of McDonald's\n‘evel 6, Bangunan TH, Damansara Uptown3\nNo.3, Jalan $$21/39,47400 Petaling Jaya\nSelangor\n(GST ID No: 000504664064)\nfeDonald's Rawang DT(#188)\nTel No. 03-6092-1968\nTAX INVOICE\nMFY Side 1\n+ INVa 004881904569068\nORD #15 -REG #19- 02/03/2018 12:59:16\nQTY ITEM TOTAL\n1 L McChicken 11.10\n1 L Coke\n1L Fries\n1 GNuggets 7.50\n1 Barbecue Sauce\ni AyamGoreng( 1A) s90 4\nTakeOut Total (incl GST) 28.50\nTotal Rounded 28.50\nCash Tendered 50.00\nCh. 21.50 -\nTOTAL INCLUDES 6% GST 1.61\n‘hack You and Please Come Again.\n|"
+  }
+}

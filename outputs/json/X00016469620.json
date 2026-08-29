@@ -1,0 +1,36 @@
+{
+  "store_name": {
+    "value": "MR DIY TESCO TERBAU",
+    "confidence": 0.782,
+    "status": "medium"
+  },
+  "date": {
+    "value": "2019-01-12",
+    "confidence": 0.863,
+    "status": "high"
+  },
+  "items": [],
+  "total_amount": {
+    "value": 33.9,
+    "confidence": 0.807,
+    "status": "medium"
+  },
+  "reliability": {
+    "low_confidence_fields": [
+      "items"
+    ],
+    "requires_manual_review": true
+  },
+  "_debug": {
+    "total_line": "TOTAL ROUNDED RM 33.90",
+    "line_count": 32,
+    "ocr_confidence": 0.811
+  },
+  "source_file": "X00016469620.jpg",
+  "ocr": {
+    "confidence": 0.811,
+    "preprocessing_variant": "gray",
+    "deskew_angle": -2.12,
+    "raw_text": "tan woon yann\nMR OO.I.Y. (JOHOR) SDN BHD\n(CO.REG :933109-x)\nLOT 1851-A & 1851-B, JALAN KPB 6,\nKAWASAN PERINDUSTRIAN BALAKONG,\n43300 SERI KEMBANGAN, SELANGOR\n(MR DIY TESCO TERBAU)\n~INVOICE~\nCHOPPING BOARD 95.5x25.5CM 803Me\nEZ10HD05 - 24\n8970669 1X 19.00 19.00\nAIR PRESSURE SPRAYER SX~575-1 1.5L\nHCO3-7 - 15\n9066468 1X 8.02 8.02\nWAXCO WINDSHILED CLEANER 120HL\nWAI4-3A - 48\n9557031100236 1X 3.02 3.02\nBOPP TAPE 48MM#100N CLEAR\nFZ-04 - 36\n6935818350846 1X 3.88 3.88\nItem(s) : 4 Qty(s) : 4\nTOTAL RM 33,92\nROUNDING ADJUSTME ~RM 0.02\nTOTAL ROUNDED RM 33.90\nCASH RM 50.00\nCHANGE RM 16.10\n12-01-19 21:13 SHOT ZKO3_ 14 R000027830\nOPERATOR TRAINEE CASHIER\nEXCHANGE ARE ALLOWED WITHIN\n7 DAYS WITH RECEIPT.\nSTRICTLY NO CASH REFUND.\n="
+  }
+}

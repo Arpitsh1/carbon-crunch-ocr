@@ -1,0 +1,40 @@
+{
+  "store_name": {
+    "value": "Licensee of McDonald's",
+    "confidence": 0.826,
+    "status": "medium"
+  },
+  "date": {
+    "value": "2018-03-11",
+    "confidence": 0.906,
+    "status": "high"
+  },
+  "items": [
+    {
+      "name": "ChocTop",
+      "price": 4.0,
+      "confidence": 0.854
+    }
+  ],
+  "total_amount": {
+    "value": 8.5,
+    "confidence": 0.85,
+    "status": "high"
+  },
+  "reliability": {
+    "low_confidence_fields": [],
+    "requires_manual_review": false
+  },
+  "_debug": {
+    "total_line": "Total Rounded 8.50",
+    "line_count": 23,
+    "ocr_confidence": 0.877
+  },
+  "source_file": "X51005719903.jpg",
+  "ocr": {
+    "confidence": 0.877,
+    "preprocessing_variant": "enhanced",
+    "deskew_angle": 0.0,
+    "raw_text": "Gerbang Alaf Restaurants Sdn Bhd\n(65351-M)\nformerly known as\nGolden Arches Restaurants Sdn Bhd\nLicensee of McDonald's\nLevel 6, Bangunan TH, Damansara Uptown3\nNo.3, Jalan $S21/39,47409 Petaling Jaya\nSelangor\n(GST ID No: 000504664064)\nMcDonald's MRR2 Kepong DT(#251)\nTel No. 03-625y-6498\nTAX INVOICE\nINV# 002511900167877\n| ORD #41 -REG #19- 11/03/2018 14:31\nQTY ITEM TAL\n2 ChocTop 4.00\n1 McFlurryOreos 4 0\nTakeOut Total (incl GST) 8.50\nTotal Rounded 8.50\nCash Tendered 10.00\nChange 1,50\nTOTAL INCLUDES 6% GST 0.48\nThank You and Please Come Again."
+  }
+}

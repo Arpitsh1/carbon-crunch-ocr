@@ -1,0 +1,63 @@
+{
+  "store_name": {
+    "value": "PUTERT 2 4",
+    "confidence": 0.588,
+    "status": "low"
+  },
+  "date": {
+    "value": "2017-02-02",
+    "confidence": 0.763,
+    "status": "medium"
+  },
+  "items": [
+    {
+      "name": "Ty bes BRAISED sto “3000 PORK LEG SMALL wunin 32 PHRANAKON 1",
+      "price": 28.0,
+      "confidence": 0.722
+    },
+    {
+      "name": "SALTEDEGG. STGARLICFRIED 1 \"",
+      "price": 13.0,
+      "confidence": 0.722
+    },
+    {
+      "name": "KAILAN tote @4THAISTYLE 1 16,00",
+      "price": 15.0,
+      "confidence": 0.722
+    },
+    {
+      "name": "RERABUTOFU 5 190 PLAINRICE 4 180 720 113COCONUT 1 650",
+      "price": 6.5,
+      "confidence": 0.722
+    },
+    {
+      "name": "THAI WMEDISTILLED % 060",
+      "price": 0.6,
+      "confidence": 0.722
+    }
+  ],
+  "total_amount": {
+    "value": null,
+    "confidence": 0.0,
+    "status": "low"
+  },
+  "reliability": {
+    "low_confidence_fields": [
+      "store_name",
+      "total_amount"
+    ],
+    "requires_manual_review": true
+  },
+  "_debug": {
+    "total_line": null,
+    "line_count": 35,
+    "ocr_confidence": 0.657
+  },
+  "source_file": "X51005568829.jpg",
+  "ocr": {
+    "confidence": 0.657,
+    "preprocessing_variant": "enhanced",
+    "deskew_angle": 0.0,
+    "raw_text": ":\nby\n” THAL\nPUTERT 2/4\nBANDAR PUTERI\n47100 PUCHONG, SELANGOR\n03-8051 9514. .\nWo 01-36870~ Table\nDate: 02/02/2017 7:31:08PM AS\nCashier : 123\nPax =: 4 ;\nDescription Price ‘Amount\nTy bes BRAISED sto “3000\nPORK LEG SMALL\nwunin\n2 32 PHRANAKON 1 28.00 28.00\nSALTEDEGG.\n3 STGARLICFRIED 1 13.00 13.00\"\nKAILAN tote\n4 @4THAISTYLE 1 16,00 15.00\nRERABUTOFU\n5 190 PLAINRICE 4 180 720\n6 113COCONUT 1 6.50 650\nTHAI\n7 WMEDISTILLED % 0.60 060\nWATER\n6 1068COLD 1 250 250\nPANDAN GINGER\nTEA\n‘oo ~ Total ST\nGrand Total ae\nCash Receved 100.00.\n‘Change 7.20\nAVERAGE /PAX(S) 23.20\nThank You. Please Come Again."
+  }
+}

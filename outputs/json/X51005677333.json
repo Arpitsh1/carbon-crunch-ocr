@@ -1,0 +1,40 @@
+{
+  "store_name": {
+    "value": "SYARIKAT PERNIAGAAN GIN KEE",
+    "confidence": 0.704,
+    "status": "medium"
+  },
+  "date": {
+    "value": "2018-01-31",
+    "confidence": 0.844,
+    "status": "medium"
+  },
+  "items": [
+    {
+      "name": "2 5936 SR",
+      "price": 29.68,
+      "confidence": 0.797
+    }
+  ],
+  "total_amount": {
+    "value": 5.76,
+    "confidence": 0.788,
+    "status": "medium"
+  },
+  "reliability": {
+    "low_confidence_fields": [],
+    "requires_manual_review": false
+  },
+  "_debug": {
+    "total_line": "Total : 96.00 5.76",
+    "line_count": 33,
+    "ocr_confidence": 0.782
+  },
+  "source_file": "X51005677333.jpg",
+  "ocr": {
+    "confidence": 0.782,
+    "preprocessing_variant": "enhanced",
+    "deskew_angle": 0.0,
+    "raw_text": "ZrpOsolG . .\nSYARIKAT PERNIAGAAN GIN KEE\n(81109-A)\nNO 290, JALAN AIR PANAS\nSETAPAK,\n53200, KUALA LUMPUR.\nTEL 03-40210276\nGST ID 000750673920\nSIMPLIFIED TAX INVOICE\nCASH s—<“SOSSTC“(C‘<‘<C;C;CS\nDoc No CS00013065 Date. 31/01/2018\nCashier USER Time: 10.41.00\nSalesperson Ref.\nitem SiPrice Amount Tax\n3122 2 29.68 5936 SR\n({W33) 105MM/4' CUTTING DISC.\n3383 10-318 3180 SR\n| 4\" MAGIC SAND PAPER:\n1612 1 1060 1060 SR\n104 COTTON GLOVE (DOZEN)\n@ ‘otal Oty 1S ve\nTotal Sales (Excluding GST) 96.00\nDiscount 0.00\nTotal GST 576\nRounding 0.00\nTotal Sales (Inclusive of GST) 101.76\nCASH 101.76\nChange 0.00\nGST SUMMARY a\nTaxCode % = Amt(RM) Tax (RM)\nSR 6 96.00 5.76\nTotal : 96.00 5.76\nGOODS SOLD ARE NOT RETURNABLE THANK YOU."
+  }
+}

@@ -1,0 +1,39 @@
+{
+  "store_name": {
+    "value": "Bet oh",
+    "confidence": 0.37,
+    "status": "low"
+  },
+  "date": {
+    "value": null,
+    "confidence": 0.0,
+    "status": "low"
+  },
+  "items": [],
+  "total_amount": {
+    "value": null,
+    "confidence": 0.0,
+    "status": "low"
+  },
+  "reliability": {
+    "low_confidence_fields": [
+      "store_name",
+      "date",
+      "total_amount",
+      "items"
+    ],
+    "requires_manual_review": true
+  },
+  "_debug": {
+    "total_line": null,
+    "line_count": 16,
+    "ocr_confidence": 0.31
+  },
+  "source_file": "X51005433556.jpg",
+  "ocr": {
+    "confidence": 0.31,
+    "preprocessing_variant": "enhanced",
+    "deskew_angle": -4.72,
+    "raw_text": "A064\nBet oh\nion\naes,\n+ TAX INVOICE +\nSi Be oan\nit mane\ngee oe\n) 20 ew\nMa tom\na ee\nTMM 48.39\nmem -\nan a\nfou fe twa\namar"
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "store_name": {
+    "value": "SUNFISH",
+    "confidence": 0.718,
+    "status": "medium"
+  },
+  "date": {
+    "value": null,
+    "confidence": 0.0,
+    "status": "low"
+  },
+  "items": [],
+  "total_amount": {
+    "value": null,
+    "confidence": 0.0,
+    "status": "low"
+  },
+  "reliability": {
+    "low_confidence_fields": [
+      "date",
+      "total_amount",
+      "items"
+    ],
+    "requires_manual_review": true
+  },
+  "_debug": {
+    "total_line": null,
+    "line_count": 18,
+    "ocr_confidence": 0.765
+  },
+  "source_file": "X51005719886.jpg",
+  "ocr": {
+    "confidence": 0.765,
+    "preprocessing_variant": "enhanced",
+    "deskew_angle": 0.0,
+    "raw_text": "SUNFISH\n<484297-M>\n22 LRG PERUSAHAAN 4\nKIMPAL INDS.PARK B.CAVES\nTEL : 03-61855688\nNO 10258\nSALTED F.RICE 8.50\n@FRIED EGG 1.80\nNAST LEMAK DRUMS) «0» 9.60\nSOYA CINCAU 4.30\nLARGE / ICE TEA 4.30\nRM CASH (00.006\nCHANGE 71.30\nINC 68 GST 1.62\nTAX INVOICE\n#001-001-0934-0001 mee 13:30-R\nGST : 002008047616\n| THANK YOU"
+  }
+}

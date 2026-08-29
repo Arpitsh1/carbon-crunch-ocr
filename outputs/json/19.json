@@ -1,0 +1,39 @@
+{
+  "store_name": {
+    "value": "Walmart 3'",
+    "confidence": 0.456,
+    "status": "low"
+  },
+  "date": {
+    "value": null,
+    "confidence": 0.0,
+    "status": "low"
+  },
+  "items": [],
+  "total_amount": {
+    "value": null,
+    "confidence": 0.0,
+    "status": "low"
+  },
+  "reliability": {
+    "low_confidence_fields": [
+      "store_name",
+      "date",
+      "total_amount",
+      "items"
+    ],
+    "requires_manual_review": true
+  },
+  "_debug": {
+    "total_line": null,
+    "line_count": 20,
+    "ocr_confidence": 0.309
+  },
+  "source_file": "19.jpg",
+  "ocr": {
+    "confidence": 0.309,
+    "preprocessing_variant": "enhanced",
+    "deskew_angle": 0.0,
+    "raw_text": "- .\nJ\nap te ¥\nTa SF on\nWalmart 3'¢ ~~\nS19 ose 44 09026 145 coeny ~\nHien Oui tasecme, = gx\nSee, ot\nSMe te\n25h 0 eT oy\noi ee\nsurne gas BES\nsee-cro raceme oh\naoa 1 ~ =\nBog Bal Tran hah Era at ~\nSe Sat te S\nFlos aunt :\niii 175 il\nSoe Teer 3\n~"
+  }
+}

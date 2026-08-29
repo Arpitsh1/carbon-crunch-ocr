@@ -1,0 +1,38 @@
+{
+  "store_name": {
+    "value": "osc MARKETING SDN BHD",
+    "confidence": 0.603,
+    "status": "low"
+  },
+  "date": {
+    "value": "2029-01-02",
+    "confidence": 0.701,
+    "status": "medium"
+  },
+  "items": [],
+  "total_amount": {
+    "value": 170.0,
+    "confidence": 0.645,
+    "status": "low"
+  },
+  "reliability": {
+    "low_confidence_fields": [
+      "store_name",
+      "total_amount",
+      "items"
+    ],
+    "requires_manual_review": true
+  },
+  "_debug": {
+    "total_line": "TOTAL: 170.00",
+    "line_count": 23,
+    "ocr_confidence": 0.561
+  },
+  "source_file": "X00016469671.jpg",
+  "ocr": {
+    "confidence": 0.561,
+    "preprocessing_variant": "enhanced",
+    "deskew_angle": 7.64,
+    "raw_text": "tan chay yee\nosc MARKETING SDN BHD\nROC NO: 538358-H\nnoz&4 JALAN BAYU 4,\n‘BANDAR: SERI ALAM,\n1750 MaAsAL, JOHOR\n‘Tel:07-368 2218 Fax:07-388 8218\nEmail: ng@oiearour-com\ncash Bill\npate 02/01/2029 2714 eM\nCashier y RHYS TAN\nSales Persor + FATIN\n_bescnpher.. yy... PU Amount...\n‘oq00001 1 770.00 170.00\nKANGS SAFETY. poo4\nSHOES KWO 805\n“Total Amount 110.00\nTOTAL: 170.00\nVISA CARD. 170.00\ngonxnn0 0000318\napproval Code: 123 I er W0\nGoods ‘sold Ae ‘Not Returnable & Refundable\nSe eran. (OU- Please Come ‘again."
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "store_name": {
+    "value": "STAR GROCER SDN BHD 1171881-W",
+    "confidence": 0.775,
+    "status": "medium"
+  },
+  "date": {
+    "value": "2018-03-25",
+    "confidence": 0.848,
+    "status": "medium"
+  },
+  "items": [],
+  "total_amount": {
+    "value": 66.15,
+    "confidence": 0.792,
+    "status": "medium"
+  },
+  "reliability": {
+    "low_confidence_fields": [
+      "items"
+    ],
+    "requires_manual_review": true
+  },
+  "_debug": {
+    "total_line": "Total Saving 0.00 Total 66.15",
+    "line_count": 31,
+    "ocr_confidence": 0.788
+  },
+  "source_file": "X51005444046.jpg",
+  "ocr": {
+    "confidence": 0.788,
+    "preprocessing_variant": "enhanced",
+    "deskew_angle": 0.0,
+    "raw_text": "STAR GROCER SDN BHD (1171881-W)\nNo 4, Desa Pandan, Off kampong Pandan,\n55100 Kuala Lumpur\n(GST REG NO 000915943424)\nTax Invoices\nTax Invoice —DSPOS201803250022 25/03/18\nCashier Raja Nur 1343 11\nCARROT S/M SOOGM CH (PKT)\n1800001501 1598 12722\nJAMBU BATU (GUAVA SEEDLESS/ MUTIARA) KG\n200033100148002149 6.92°0.214 148 Z\nMANGO HONEY (SUSU) (KG)\n200010800259005280 49170528 259 7\nPINEAPPLE LOCAL 1S\n1810064501 860*2 17202\nTIMUN JEPUN (JAPANESE CUCUMBER) KG\n200017100108008367 1.290.837 «108 2\nUS GREEN APPLE (175) 10S\n1810078202 750*1 7502\nVALENCIA SA (105) 8S\n1810061602 590*4 23.60 Z\nItem 7 Total with GST @ 6% 66.17\nQty “18 Rounding -0.02\nTotal Saving 0.00 Total 66.15\nTender\nCash 67.00\nChange 08s\nGST Analysis Goods. Tax Amount\nS = 6% 0.00 0.00\nZ= 0% 66.17 0.00\nConsider PTS 66"
+  }
+}

@@ -1,0 +1,39 @@
+{
+  "store_name": {
+    "value": "seems",
+    "confidence": 0.308,
+    "status": "low"
+  },
+  "date": {
+    "value": null,
+    "confidence": 0.0,
+    "status": "low"
+  },
+  "items": [],
+  "total_amount": {
+    "value": null,
+    "confidence": 0.0,
+    "status": "low"
+  },
+  "reliability": {
+    "low_confidence_fields": [
+      "store_name",
+      "date",
+      "total_amount",
+      "items"
+    ],
+    "requires_manual_review": true
+  },
+  "_debug": {
+    "total_line": null,
+    "line_count": 18,
+    "ocr_confidence": 0.269
+  },
+  "source_file": "X51005442346.jpg",
+  "ocr": {
+    "confidence": 0.269,
+    "preprocessing_variant": "adaptive",
+    "deskew_angle": -6.45,
+    "raw_text": "Bre\neke\n2 ae\nSao\nseems\npe eee\n=\n== Sees\neS\npores\nsone\nSEs\nheadantiee\nSena\nee\nmeres,\n—\n="
+  }
+}

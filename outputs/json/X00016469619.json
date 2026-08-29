@@ -1,0 +1,37 @@
+{
+  "store_name": {
+    "value": "INDAH GIFT & HOME BECO",
+    "confidence": 0.675,
+    "status": "low"
+  },
+  "date": {
+    "value": "2018-10-19",
+    "confidence": 0.815,
+    "status": "medium"
+  },
+  "items": [],
+  "total_amount": {
+    "value": 60.31,
+    "confidence": 0.759,
+    "status": "medium"
+  },
+  "reliability": {
+    "low_confidence_fields": [
+      "store_name",
+      "items"
+    ],
+    "requires_manual_review": true
+  },
+  "_debug": {
+    "total_line": "TOTAL ANTssceceeeesreeee RM 60.31",
+    "line_count": 26,
+    "ocr_confidence": 0.737
+  },
+  "source_file": "X00016469619.jpg",
+  "ocr": {
+    "confidence": 0.737,
+    "preprocessing_variant": "enhanced",
+    "deskew_angle": 0.28,
+    "raw_text": "tan woon yann\nINDAH GIFT & HOME BECO\n27, JALAN DEDAP 13,\nTAHAN JOHOR JAYA,\n81100 JOHOR BAHRU, JOHOR.\nTel:07-3507405 Fax:07-3558140\nRECEIPT\n19/10/2018 20:49:59 #01\nCashiers CN Location/SP: 05 /0531\nMBs W026588\nRoom No: OL 950100035279\nDesc/Itea Gty Price Ant/RH)\nST-PRIVILEGE CARD/GD INDAH\n89888 1 10.00 10.00\nGF-TABLE LAMP/STITCH <i>\n62483 1 55.90 955.90\n@DISC 10.00% 5.59\n#Total Qty 2 ewe\nTOTAL ANTssceceeeesreeee RM 60.31\nROUNDING ADJ...++++s0008 0.01\nRH 60.30 J\nCASH. se eeseeeeeeeeeeenee RH 70.30\nCHANGE ss eeeeseeeeseeewee RV 10.00\nThank You ' Please Come Again '\nGoods Sold Are Not Returnable\nDealing In Wholesale And Retail"
+  }
+}

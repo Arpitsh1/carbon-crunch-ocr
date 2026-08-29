@@ -1,0 +1,55 @@
+{
+  "store_name": {
+    "value": "UROKO JAPANESE CUISINE SDN BHD",
+    "confidence": 0.748,
+    "status": "medium"
+  },
+  "date": {
+    "value": "2018-03-20",
+    "confidence": 0.846,
+    "status": "medium"
+  },
+  "items": [
+    {
+      "name": "KO NABE INANIWA SR",
+      "price": 24.0,
+      "confidence": 0.799
+    },
+    {
+      "name": "UDON @ 24.00 GREEN TEA @ SR",
+      "price": 1.0,
+      "confidence": 0.799
+    },
+    {
+      "name": "GYOZA Spes @ SR",
+      "price": 15.0,
+      "confidence": 0.799
+    },
+    {
+      "name": "GARLIC CHAHAN@ = [T SR",
+      "price": 6.0,
+      "confidence": 0.799
+    }
+  ],
+  "total_amount": {
+    "value": 53.0,
+    "confidence": 0.853,
+    "status": "high"
+  },
+  "reliability": {
+    "low_confidence_fields": [],
+    "requires_manual_review": false
+  },
+  "_debug": {
+    "total_line": "Net Total . 53.00",
+    "line_count": 27,
+    "ocr_confidence": 0.785
+  },
+  "source_file": "X51005337877.jpg",
+  "ocr": {
+    "confidence": 0.785,
+    "preprocessing_variant": "enhanced",
+    "deskew_angle": 0.0,
+    "raw_text": "MPR aR ho rd:\nUROKO JAPANESE CUISINE SDN BHD\n22A-1, JALAN 17/54,\nSECTION 17,\n46400 PETALING JAYA,\nSELANGOR.\n03-7932 1023/0191\nGST Reg No; 001126838272\nBill No : O1H-25029\nDate + 20/03/2018 6:41:02 PM\nCashier + RESAN\nTableNo S09\nQty Description Amount _\n1 KO NABE INANIWA 24.00 SR\nUDON @ 24.00\n1 GREEN TEA @ 1.00 1.00 SR\n1 GYOZA Spes @ 15.00 15.00 SR\n1 GARLIC CHAHAN@ = [T 6.00 SR\n&\n4 Total 7 ~~ 46,00\nDiscount (.00)\nservice Chg 10.00% : 4.00\nGST: 3.00\nGrand Total 53.00\nNet Total . 53.00\nGST Summary % — Amoun(RM Tax(RM) ™\nSR 600 6000 3.00"
+  }
+}

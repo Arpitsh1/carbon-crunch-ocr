@@ -1,0 +1,40 @@
+{
+  "store_name": {
+    "value": "SAINT HEART PASTRY",
+    "confidence": 0.729,
+    "status": "medium"
+  },
+  "date": {
+    "value": "2018-09-26",
+    "confidence": 0.845,
+    "status": "medium"
+  },
+  "items": [
+    {
+      "name": "JUMBO SAUSAGE CHEESE 1 3.10 310) SR JUMBO SAUSAGE CHEESE 1 3.10 340 SR | GARLIC CHEESE 1 SR",
+      "price": 2.0,
+      "confidence": 0.798
+    }
+  ],
+  "total_amount": {
+    "value": 0.48,
+    "confidence": 0.789,
+    "status": "medium"
+  },
+  "reliability": {
+    "low_confidence_fields": [],
+    "requires_manual_review": false
+  },
+  "_debug": {
+    "total_line": "Total: 7.74 0.48",
+    "line_count": 32,
+    "ocr_confidence": 0.783
+  },
+  "source_file": "X51005719905.jpg",
+  "ocr": {
+    "confidence": 0.783,
+    "preprocessing_variant": "enhanced",
+    "deskew_angle": 0.0,
+    "raw_text": "SAINT HEART PASTRY\n(001980264-H)\n20,JLN Su 17,\nTMN SELAYANG JAYA,\n68100 BATU CAVES,\nSELANGOR\nTEL: 03-61372830\nGST ID 001661329408\nSIMPLIFIED TAX INVOICE\nCASH\nReceipt# CS00254837 Table 45\nStat AISHAH Date; 26/09/2018\nCashier: AISHAH Time: 10:56:00\na\nDescription Qty (rw) cr) Tax\nJUMBO SAUSAGE CHEESE 1 3.10 310) SR\nJUMBO SAUSAGE CHEESE 1 3.10 340 SR\n| GARLIC CHEESE 1 2.00 2.00 SR\nTotal Sales (Excluding GST) 714\nDiscount » 0.00\nService Charge . 0.00\nTotal GST 0.46\nRounding 0.00\nTotal Sales (Inclusive of GST) 8.20\nCASH 8.20\nCHANGE 0.00\nGST SUMMARY\nTaxCode % Amt(RM) Tax (RM)\nsR 6 774 0.46\nTotal: 7.74 0.48\nGOODS SOLD ARE NOT RETURNABLE, THANK YOU.\nRE-PRINT"
+  }
+}

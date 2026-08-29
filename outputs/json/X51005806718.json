@@ -1,0 +1,38 @@
+{
+  "store_name": {
+    "value": "HUGO TRADING SDN BHD _Tota",
+    "confidence": 0.64,
+    "status": "low"
+  },
+  "date": {
+    "value": "2018-01-13",
+    "confidence": 0.755,
+    "status": "medium"
+  },
+  "items": [],
+  "total_amount": {
+    "value": null,
+    "confidence": 0.0,
+    "status": "low"
+  },
+  "reliability": {
+    "low_confidence_fields": [
+      "store_name",
+      "total_amount",
+      "items"
+    ],
+    "requires_manual_review": true
+  },
+  "_debug": {
+    "total_line": null,
+    "line_count": 35,
+    "ocr_confidence": 0.645
+  },
+  "source_file": "X51005806718.jpg",
+  "ocr": {
+    "confidence": 0.645,
+    "preprocessing_variant": "gray",
+    "deskew_angle": 0.0,
+    "raw_text": "€\nHUGO TRADING SDN BHD _Tota\nBR No. 1160956-H\nLOT 889, KOMPLEKS PASAR BORONG DARE\nSELANGOR,\n43300 SERI KEMBANGAN, SEL\n03-89442249,\nGST No. 001552822272\nLSS TAX INVOICE\n13/01/2018 11. 44:30PM\n| TRN: C2050063\nCounter 2 CASHIER 2\nQTY UOM —_UNITAmt Exc, Amt Inc GSTC\n| Price Tax —-‘Taxode\n| HD32 x40 Akg\n2 PKT 1038 2075 2200 SR\nee Oo 1.25\n| ESSER BAG 36x48 1X15\nx 887 17.74 1880 SR\nSST @8% + 1.06\nj\nTot\noe Oy: 400 40.80\nt cig tte GST 6% 40.60\noe umets Payment\n, Cash,\nChange 51.00\noy 10.20 |\nT Summary\n| Ray Amount(RM) Tax (RM)\n’ : 38.49 231\nGi\n; Thank yee ot! a2 not returnable\n\\ Tra a Shopping at HU’ /\n‘ ‘ ING SDN BHD. /"
+  }
+}

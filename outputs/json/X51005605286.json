@@ -1,0 +1,36 @@
+{
+  "store_name": {
+    "value": "AEON CO. M BHD 126926-H",
+    "confidence": 0.844,
+    "status": "medium"
+  },
+  "date": {
+    "value": "2018-02-09",
+    "confidence": 0.861,
+    "status": "high"
+  },
+  "items": [],
+  "total_amount": {
+    "value": 0.33,
+    "confidence": 0.805,
+    "status": "medium"
+  },
+  "reliability": {
+    "low_confidence_fields": [
+      "items"
+    ],
+    "requires_manual_review": true
+  },
+  "_debug": {
+    "total_line": "Total 6.57 0.33",
+    "line_count": 26,
+    "ocr_confidence": 0.808
+  },
+  "source_file": "X51005605286.jpg",
+  "ocr": {
+    "confidence": 0.808,
+    "preprocessing_variant": "enhanced",
+    "deskew_angle": 1.18,
+    "raw_text": "o€\nAEON CO. (M) BHD (126926-H)\nSRO FLR, AEON TAMAN MALURI SC\nLN JEJAKA, TAMAN MALURT\nCHERAS, 55100 KUALA LUMPUR\nGST ID ; 002017394688\nSHOPPING HOURS\nMON-SUN; 1000 HRS - 2200 HRS\n4) 000008190901 5.905R\n“~~ STERILE FILTRAT\nSub-total 5.90\nTotal Sales Incl GST 5.90\nTotal After Adj Incl GST 5.90\nCASH 10.00\nItem Count 1 Change Ant 4.10\nTnvoice No: 2018020951320023885\nGST Summary Amount Tax\nSR © 6% 5.57 0.33\nTotal 6.57 0.33\n09/02/2018 12:53 §192 002 0023885\n0301371 NORSHAH BINTI AHAMED SHA\nDAISO SUNHAY VELOCITY\nTEL 1-300-80-AEON (2366)\nTHANK YOU FOR YOUR PATRONAGE\nPLEASE COME AGAIN\nBoon Pay Alresde"
+  }
+}

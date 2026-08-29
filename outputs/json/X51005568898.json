@@ -1,0 +1,37 @@
+{
+  "store_name": {
+    "value": "OPAC MARKETING SDN BHD 1070687-M",
+    "confidence": 0.732,
+    "status": "medium"
+  },
+  "date": {
+    "value": "2017-05-30",
+    "confidence": 0.806,
+    "status": "medium"
+  },
+  "items": [],
+  "total_amount": {
+    "value": null,
+    "confidence": 0.0,
+    "status": "low"
+  },
+  "reliability": {
+    "low_confidence_fields": [
+      "total_amount",
+      "items"
+    ],
+    "requires_manual_review": true
+  },
+  "_debug": {
+    "total_line": null,
+    "line_count": 35,
+    "ocr_confidence": 0.722
+  },
+  "source_file": "X51005568898.jpg",
+  "ocr": {
+    "confidence": 0.722,
+    "preprocessing_variant": "gray",
+    "deskew_angle": 0.0,
+    "raw_text": "OPAC MARKETING SDN BHD (1070687-M)\nJALAN MANIS 4 TAMAN SEGAR $6100 KL\nL: 03-91334364 FAX: 03-91310522\n.vivopac.com\n$T REG: 000565805056\nINVOICE\nbe#: 0521539777\nDate 30/05/2017 10:18:02 AM\nmoter :\nminal: TO2 Cashier : ME\nESCRIPTION PRICE Disc AMOUNTTAX\nay RM RM CODE\nee\n100PKT = — 0.7500 075 sR\nX 33 (8SHT) Red\n1.00 PKT * 8.0000 8.00 SR\nX 28 (75HT) Red\n1.00PKT = 6,000 6.00 SR\n¢ Label (PLAIN)\nBH) 200 R01 = 1.5000 200. sk\n1 m Count: 4 Ttem Qty: 5.00\n} SubTotal Excuse GST): 775\nGST 6% : 1.07\nRounding Ad). : 0.02\nounded Total (RM): 18.80\nCash ie: 20.00\nCash Change 1.20\nSummary Amount(RM) __Tax(RM)\n6% 17.75 1.07\nTerms & Condtions\n[Goods sold are not refundable with cash,\nFor exchange of goods sold the following apply:\n1, The original receipt must be presented\n2. Exchange 's dane within 7 days from date of receipt\n2. In good condition and in it’ eriginal pakeing"
+  }
+}

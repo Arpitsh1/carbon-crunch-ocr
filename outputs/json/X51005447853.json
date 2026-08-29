@@ -1,0 +1,39 @@
+{
+  "store_name": {
+    "value": "TANAN BERKELEY",
+    "confidence": 0.598,
+    "status": "low"
+  },
+  "date": {
+    "value": null,
+    "confidence": 0.0,
+    "status": "low"
+  },
+  "items": [],
+  "total_amount": {
+    "value": null,
+    "confidence": 0.0,
+    "status": "low"
+  },
+  "reliability": {
+    "low_confidence_fields": [
+      "store_name",
+      "date",
+      "total_amount",
+      "items"
+    ],
+    "requires_manual_review": true
+  },
+  "_debug": {
+    "total_line": null,
+    "line_count": 19,
+    "ocr_confidence": 0.618
+  },
+  "source_file": "X51005447853.jpg",
+  "ocr": {
+    "confidence": 0.618,
+    "preprocessing_variant": "enhanced",
+    "deskew_angle": 0.0,
+    "raw_text": "99 SPEED MART 5/B (519537: X)\nLOT P.T. 2811, JALAN ARGSA,\nTANAN BERKELEY\n42150 KLANG, SCLANGOR\n1217 TRILLIUM 56 BEST\nGST 1D. NO s 000101747712\nINVOICE NO; 18299/102/70230\nOL 34H ‘568017 05 02-18\n250% YORCCHUN LOKAH HNORN S — RN62.50 2\n@5 X RM 12.50\n2508 YONSCHUN LOKAK HNDRN # — RN79.00 2\n@5 X RH 15.80\nTotal Sales (Inclusive GST) RK 141.50\nCASH RH 150.00\nCHANGE RH 8,50\nBST Sumwary = Awount(RM) = Tax<RH)\nze 141,50 00\n| Thanks Yous Please come again\nKeep the invoice for applicable returns"
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "store_name": {
+    "value": "99 SPEED MART S B S19537-X",
+    "confidence": 0.788,
+    "status": "medium"
+  },
+  "date": {
+    "value": "2018-03-31",
+    "confidence": 0.777,
+    "status": "medium"
+  },
+  "items": [],
+  "total_amount": {
+    "value": null,
+    "confidence": 0.0,
+    "status": "low"
+  },
+  "reliability": {
+    "low_confidence_fields": [
+      "total_amount",
+      "items"
+    ],
+    "requires_manual_review": true
+  },
+  "_debug": {
+    "total_line": null,
+    "line_count": 21,
+    "ocr_confidence": 0.679
+  },
+  "source_file": "X51005745298.jpg",
+  "ocr": {
+    "confidence": 0.679,
+    "preprocessing_variant": "gray",
+    "deskew_angle": 0.0,
+    "raw_text": "VOC ee eee. aes |\n99 SPEED MART S/B (S19537-X)\nLOT P.T. 2811, JALAN ANGSA,\nTAMAN BERKELEY\n41150 KLANG, SELANGOR\nABLT-TRILLIUM $6 BEST\nOST ID, NO s 000181747712\nINVOICE NO : 18353/102/T0311\n04: 06PH 570842 31-03-18 -\n503 100 PLUS CAN 32SML (ICE RML.49 s\n501 ALTA CAN 320ML (ICE) RA2.50 s\nTotal Sales (Inclusive GST) RN 3.99\nRounarny Hdjustment RM 01\nRounding RA 4,00\nCASH RM = 10.00\nCHANGE RM = 6,00\nGST Summary Amount (RM) Tax(RM)\n$= bf 37 22\n- Thank You. Please come again\n\\Keep the invoice for applicable returns\nmA poner"
+  }
+}

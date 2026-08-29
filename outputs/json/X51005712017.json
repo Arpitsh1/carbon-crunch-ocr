@@ -1,0 +1,40 @@
+{
+  "store_name": {
+    "value": "Licensee of McDonald's",
+    "confidence": 0.814,
+    "status": "medium"
+  },
+  "date": {
+    "value": "2018-03-18",
+    "confidence": 0.894,
+    "status": "high"
+  },
+  "items": [
+    {
+      "name": "L McChicken",
+      "price": 11.1,
+      "confidence": 0.843
+    }
+  ],
+  "total_amount": {
+    "value": 13.1,
+    "confidence": 0.838,
+    "status": "medium"
+  },
+  "reliability": {
+    "low_confidence_fields": [],
+    "requires_manual_review": false
+  },
+  "_debug": {
+    "total_line": "Total Rounded 13.10",
+    "line_count": 27,
+    "ocr_confidence": 0.859
+  },
+  "source_file": "X51005712017.jpg",
+  "ocr": {
+    "confidence": 0.859,
+    "preprocessing_variant": "enhanced",
+    "deskew_angle": 0.0,
+    "raw_text": "1\nGerbang Alaf Restaurants Sdn Bhd\n(65351-M)\nLicensee of, McDonald's\nLevel’6, Bangunan TH, Damansara Uptown3\nNo.3, Jalan $$21/39,47400 Petaling Jaya\n. Selangor\n(GST ID No: 000504664064)\nMcDonald's Rawang DT(#188)\nTel No. 03-6092-1968\nv TAX INVOICE\nMFY Side 1\nINV# 001881904580783\nORD #70 -REG #19- 18/03/2018 23:02:16\nQTY ITEM TOTAL\n1 L McChicken 11.10\n“1 L Coke\n1L Fries\n~ 2 Small Cone 2.00\nTakeOut Total (incl GST) 13.10\nTotal Rounded 13.10\nCash Tendered 20.00\nChange 6.90\nTOTAL INCLUDES 6% GST 0.74\nink You and Please Come Again.\nGuest Relations Center : 1300-13-1300\nele"
+  }
+}

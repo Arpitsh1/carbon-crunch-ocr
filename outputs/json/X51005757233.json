@@ -1,0 +1,37 @@
+{
+  "store_name": {
+    "value": "Guardian Health And Beaty 8d find",
+    "confidence": 0.706,
+    "status": "medium"
+  },
+  "date": {
+    "value": "2018-03-09",
+    "confidence": 0.752,
+    "status": "medium"
+  },
+  "items": [],
+  "total_amount": {
+    "value": 9.95,
+    "confidence": 0.696,
+    "status": "low"
+  },
+  "reliability": {
+    "low_confidence_fields": [
+      "total_amount",
+      "items"
+    ],
+    "requires_manual_review": true
+  },
+  "_debug": {
+    "total_line": "TOTAL (6ST TEL) 9.95",
+    "line_count": 28,
+    "ocr_confidence": 0.64
+  },
+  "source_file": "X51005757233.jpg",
+  "ocr": {
+    "confidence": 0.64,
+    "preprocessing_variant": "enhanced",
+    "deskew_angle": 0.0,
+    "raw_text": "4(8040/6\nGuardian Health And Beaty 8d find\nTOT Mal\n1 1 flrs 10h Hall\nLi Ta\nTel 203-5882 9000\nCompany Keo 81101083-T\nGST Res HODOH9N7AHIE\nRH\nJ2LO4US75 GOH UR PLS 100420 9.95\nSUBTOTAL 9.55\nTOTAL (6ST TEL) 9.95\nCASH 10.00\nCHANGE DUE 0.05\n681 - Rate -—G8T Excl — 6ST Ast\n§ 6h 9.39 0.56\nThank You For Shorping\nfit Guardian\nALL Ainouits Are in RH\nboods sold are non-refundable.\nDispensed medicines sold are\nhot returnable.\nALL exchanges and returns including\nbuardian brand products must be made\nwithin days with original receipts and\nWwodict in original condition.\nStBOK6 Chr? 124986 Taxiny:60089\n1837 09/03/18"
+  }
+}

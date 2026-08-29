@@ -1,0 +1,38 @@
+{
+  "store_name": {
+    "value": "EVERGREEN LIGHT SDN BHD",
+    "confidence": 0.667,
+    "status": "low"
+  },
+  "date": {
+    "value": null,
+    "confidence": 0.0,
+    "status": "low"
+  },
+  "items": [],
+  "total_amount": {
+    "value": 26.0,
+    "confidence": 0.748,
+    "status": "medium"
+  },
+  "reliability": {
+    "low_confidence_fields": [
+      "store_name",
+      "date",
+      "items"
+    ],
+    "requires_manual_review": true
+  },
+  "_debug": {
+    "total_line": "Total Incl GST 26.00",
+    "line_count": 27,
+    "ocr_confidence": 0.622
+  },
+  "source_file": "X51005568892.jpg",
+  "ocr": {
+    "confidence": 0.622,
+    "preprocessing_variant": "enhanced",
+    "deskew_angle": 0.0,
+    "raw_text": "EVERGREEN LIGHT SDN BHD\n(827859-U)\nNO.7+1 JALAN PUTER! 7/11,\nBANDAR PUTERI,\n47100 PUCHONG, BELANGOR:\nTELFAX: 0380609719\n(NO. 1D GET: 000389352472 )\nTAX INVOICE\nNO. 142507\nEDOIE #0101 1808/2017 1721\nCODE ary ‘UIPRICE ANT\n11598 2 12.26 24525\nPROGMK 10W LED TICK\n‘SUB-TOTAL ms\n‘Tote GETIE) 1a?\n‘SUB-TOTAL 25.99\nROUNDING ADJUET 0.01\nTOTAL ITEMS) 1\nTOTAL QUANTITY © 2\nRM\nTotal Incl GST 26.00\nPay Cash 26.00\nChange 0.00\noer ‘Texeble Amt GET Amt\nSORIE)- 6% 2452 1A7\n“THANK YOU\n(GOODE BOLD ARE NOT REFUNDABLE FOR CAEH"
+  }
+}

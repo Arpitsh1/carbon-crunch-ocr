@@ -1,0 +1,37 @@
+{
+  "store_name": {
+    "value": "SYARIKAT PERNIAGAAN GIN KEE",
+    "confidence": 0.68,
+    "status": "low"
+  },
+  "date": {
+    "value": "2018-01-03",
+    "confidence": 0.82,
+    "status": "medium"
+  },
+  "items": [],
+  "total_amount": {
+    "value": 5.34,
+    "confidence": 0.764,
+    "status": "medium"
+  },
+  "reliability": {
+    "low_confidence_fields": [
+      "store_name",
+      "items"
+    ],
+    "requires_manual_review": true
+  },
+  "_debug": {
+    "total_line": "Total : 89.00 5.34] /",
+    "line_count": 30,
+    "ocr_confidence": 0.745
+  },
+  "source_file": "X51005676537.jpg",
+  "ocr": {
+    "confidence": 0.745,
+    "preprocessing_variant": "gray",
+    "deskew_angle": 0.0,
+    "raw_text": "3 1R.0) 04% s ? .\nSYARIKAT PERNIAGAAN GIN KEE\n(81109-A)\nNO 290, JALAN AIR PANAS,\nSETAPAK,\n53200, KUALA LUMPUR,\nTEL: 03-40210276 ;\nGST ID 000750673920\nSIMPLIFIED TAX INVOICE\nDoc No €S00012518 Date: 03/01/2018\nCashier USER Time’ 13:04:00\n| Salesperson Ret,\n} Item ___Aty__S/Price__Amount_Tax_\n| 1638 1 9010 9010 SR\nSLT PIG TRFF HIGH GLOSS PAINT\n| 1611 1 424 4.4 SR\nTHINNER BOTTLE\n~~ Total Qty 2 ~ 94340\ntal Sales (Excluding GST) 8900,\nDiscount 000\nTotal GST 5.34\nRounding 0.00\nTotal Sales (Inclusive of GST); 94.34\nCASH : 94.34\nChange 0.00\nGST SUMMARY rs\nTax Code % = Amt(RM) Tax (RM)\nSR 6 89.00 5.34\nTotal : 89.00 5.34] /\nGOODS SOLD ARE NOT RETURNABLE. THANK YOU."
+  }
+}

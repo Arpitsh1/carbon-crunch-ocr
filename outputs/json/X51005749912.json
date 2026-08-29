@@ -1,0 +1,36 @@
+{
+  "store_name": {
+    "value": "MR. D.I. . M SDN BHD",
+    "confidence": 0.714,
+    "status": "medium"
+  },
+  "date": {
+    "value": "2018-03-28",
+    "confidence": 0.812,
+    "status": "medium"
+  },
+  "items": [],
+  "total_amount": {
+    "value": 38.8,
+    "confidence": 0.819,
+    "status": "medium"
+  },
+  "reliability": {
+    "low_confidence_fields": [
+      "items"
+    ],
+    "requires_manual_review": true
+  },
+  "_debug": {
+    "total_line": "TOTAL INCL. GST@6% RM 38.80",
+    "line_count": 29,
+    "ocr_confidence": 0.732
+  },
+  "source_file": "X51005749912.jpg",
+  "ocr": {
+    "confidence": 0.732,
+    "preprocessing_variant": "enhanced",
+    "deskew_angle": 0.0,
+    "raw_text": "| oy\na\nMR. D.I.¥. (M) SDN BHD\nCo-REG:860671-D\nLOT 1851-A & 1851-B, JALAN KPB 6,\nKAWASAN PERINDUSTRIAN BALAKONG,\n43300 SERI KEMBANGAN, SELANGOR\n) (GST ID No :000306020352)\n(TESCO EXTRA ARA DAMANSARA)\nTAX INVOICE-\nCOPPER BASIN PILLAR TAP B *S\nJAO1-04 - 2/60\n9072363 1X 29.90 29.90\nPADLOCK ST-P6140 40MM we #8\nLE51/2 ~ 12/48 p—\n6942131561408 1X 8.9% 8.90\nItem(s) : 2 Qty(s) 22\nTOTAL INCL. GST@6% RM 38.80\nCASH RM 50.00\nCHANGE RM 11.20\nGST sumary DO Amt(RM) = Tax(RM)\nGST S@6% 36.60 2.20\n$------------------ ne == een\n28-03-18 18:05 SHO1 2u42 2 000246962\n\"OPERATOR TRAINEE CASHIER\nEXCHANGE ARE ALLOWED WITHIN ” (\n7 DAY WITH RECEIPT.\nSTRICTLY NO CASH REFUND.\n—_— —— tits"
+  }
+}

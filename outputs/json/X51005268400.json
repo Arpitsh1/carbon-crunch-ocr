@@ -1,0 +1,39 @@
+{
+  "store_name": {
+    "value": "SHAN ALAM",
+    "confidence": 0.547,
+    "status": "low"
+  },
+  "date": {
+    "value": "2017-12-28",
+    "confidence": 0.687,
+    "status": "low"
+  },
+  "items": [],
+  "total_amount": {
+    "value": 1.0,
+    "confidence": 0.631,
+    "status": "low"
+  },
+  "reliability": {
+    "low_confidence_fields": [
+      "store_name",
+      "date",
+      "total_amount",
+      "items"
+    ],
+    "requires_manual_review": true
+  },
+  "_debug": {
+    "total_line": "Total Ttess = 1.00 99",
+    "line_count": 27,
+    "ocr_confidence": 0.54
+  },
+  "source_file": "X51005268400.jpg",
+  "ocr": {
+    "confidence": 0.54,
+    "preprocessing_variant": "enhanced",
+    "deskew_angle": 0.6,
+    "raw_text": "NO.2-1-1 JALAN <FITA PRIMA Q\nU 13/0 SETIn ALAM 40170\n‘SHAN ALAM\nSELANGOR\nsevecaranerratsaan contececeeesseeana\nTAX INVOICE\nseen:\nTERMINAL : Cl\nCASHIER : HASSAN\nBILL NO : C1-0170778\nDATE + 12/28/2017 10:17:32 PH\nTOKEN : CTI\nTABLE : CT\nPre ct ty U.Price GST Total\nHakaay Teen\n1 15.00 9 15.00 zR\nTotal Ttess = 1.00 99\nfotal Oty = 1.00\nOlscount RH ao\nTotal Excl.6% GS| Rh ene\n6ST 8 et Vs09\nTotal Incl.6% GST RH me\nRounding RH cigs\nCHANGE il aa\nThank You. Come Agaiy a\n4 2017-12-28 22:74\ny ,"
+  }
+}

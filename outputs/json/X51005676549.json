@@ -1,0 +1,43 @@
+{
+  "store_name": {
+    "value": "SYARIKAT PERNIAGAAN GIN KEE",
+    "confidence": 0.623,
+    "status": "low"
+  },
+  "date": {
+    "value": "2018-01-02",
+    "confidence": 0.798,
+    "status": "medium"
+  },
+  "items": [
+    {
+      "name": "1 SR",
+      "price": 7.95,
+      "confidence": 0.754
+    }
+  ],
+  "total_amount": {
+    "value": null,
+    "confidence": 0.0,
+    "status": "low"
+  },
+  "reliability": {
+    "low_confidence_fields": [
+      "store_name",
+      "total_amount"
+    ],
+    "requires_manual_review": true
+  },
+  "_debug": {
+    "total_line": null,
+    "line_count": 34,
+    "ocr_confidence": 0.71
+  },
+  "source_file": "X51005676549.jpg",
+  "ocr": {
+    "confidence": 0.71,
+    "preprocessing_variant": "enhanced",
+    "deskew_angle": 0.0,
+    "raw_text": "= —_—\n2 1861014 aia\nse .\n, t\nSYARIKAT PERNIAGAAN GIN KEE\n(81109-A)\n10 290, JALAN AIR PANAS\nSETAPAK.\n53200, KUALA LUMPUR\nTEL 03-40210276\nGST ID 000750673920\nSIMPLIFIED TAX INVOICE\nCASt EE\nDoc No €$00012504 Date’ 02/01/2018\nCastes USER Time 14.49:00\nSalesperson Ref.\nItem Qty _SiPrice Amount Tax\n1762 1 7.96 7.95 SR\n17MM COMB -SPANNER\n1044 2 1690 3180 SR\n6 X 35H CORRUGATED ROOFING SHEET\n‘Totaly 3 3075\nTotal Sales (Excluding GST) 37.60\nDiscount 0.00\nTotal GST 226\nRounding 0.00\nTotal Sales (Inclusive of GST) : 38.75\nCASH: 38.75\nChange: 0.00\nGSTSUMMARY oO\nTax Code % = Amt(RM) —Tax(RM)\nSR 6 37 50 225\n| Total : 37.50 2.25|/\n| GOODS SOLD ARE Nt” RETURNABLE THANK YOU"
+  }
+}

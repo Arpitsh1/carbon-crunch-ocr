@@ -1,0 +1,40 @@
+{
+  "store_name": {
+    "value": "W KHOO HARDWARE SDN BHD",
+    "confidence": 0.712,
+    "status": "medium"
+  },
+  "date": {
+    "value": "2018-03-01",
+    "confidence": 0.81,
+    "status": "medium"
+  },
+  "items": [
+    {
+      "name": "‘AIR ADAPTOR @ 1 sr",
+      "price": 20.0,
+      "confidence": 0.765
+    }
+  ],
+  "total_amount": {
+    "value": 734.2,
+    "confidence": 0.817,
+    "status": "medium"
+  },
+  "reliability": {
+    "low_confidence_fields": [],
+    "requires_manual_review": false
+  },
+  "_debug": {
+    "total_line": "Net Total Rounded (MYR) : 734.20\"",
+    "line_count": 25,
+    "ocr_confidence": 0.729
+  },
+  "source_file": "X51005365179.jpg",
+  "ocr": {
+    "confidence": 0.729,
+    "preprocessing_variant": "enhanced",
+    "deskew_angle": 2.07,
+    "raw_text": "(481500-M)\nW KHOO HARDWARE SDN BHD\n'NO.5O , JALAN PBS 14/11,\nKAWASAN PERINDUSTRIAN BUKIT SERDANG,\nTel : 03-89410243 Fax : 03-89410243\nGST Reg No. : 000549584896\nTax Invoice\nInvoice No. : CR 1803/0064\nDate $ O1-03-18 5:23:26 PM\nCashier No. : Khoo\nCounter No. :¢l\nPrinted Date: 01-03-18 5:23:30 PM\nItem Name... Qty.,..Unit Price... AMUN.\n‘AIR ADAPTOR @ 1\n5 4.00 20.00 sr\nStem Total GVRP 2000\nGST @ 6% : 1.20\nNet Total (MYR) 5724.20\nRounding Adj. = 0.00\nNet Total Rounded (MYR) : 734.20\"\ncash : 21.20\nchange : 0.00\nGer Siena em mount VR). 3ST NR\nSR@O% 1 20.00 1.20\n“Thank You. Please Come Again !"
+  }
+}

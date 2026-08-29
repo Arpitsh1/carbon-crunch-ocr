@@ -1,0 +1,36 @@
+{
+  "store_name": {
+    "value": "BiB 01 OF",
+    "confidence": 0.706,
+    "status": "medium"
+  },
+  "date": {
+    "value": "2018-01-11",
+    "confidence": 0.822,
+    "status": "medium"
+  },
+  "items": [],
+  "total_amount": {
+    "value": 20.0,
+    "confidence": 0.766,
+    "status": "medium"
+  },
+  "reliability": {
+    "low_confidence_fields": [
+      "items"
+    ],
+    "requires_manual_review": true
+  },
+  "_debug": {
+    "total_line": "Total . 20.00 1.20.",
+    "line_count": 29,
+    "ocr_confidence": 0.747
+  },
+  "source_file": "X51005676546.jpg",
+  "ocr": {
+    "confidence": 0.747,
+    "preprocessing_variant": "enhanced",
+    "deskew_angle": 0.0,
+    "raw_text": "BiB 01 OF .\n| SYARIKAT PERNIAGAAN GIN KEE\n(81109-A)\nNO 290, JALAN AIR PANAS.\nSETAPAK,\n63200, KUALA LUMPUR.\nTEL 03-40210276\nGST ID 000750673920\nSIMPLIFIED TAX INVOICE\nCASH\nDoc No CS00012659 Date 11/01/2018\nCashier USER Time: 1051:00\nSalesperson Ref.\ntem Qty SiPrice Amount Tax\n1612 2 10.60 2120 SR\n104 COTTON GLOVE (DOZEN)\n| TotalGty 2 27.20\nTotal Sales (Excluding GST) 20.00\nDiscount 0.00\nTotal GST 1.20\nRounding 0.00\nTotal Sales (Inclusive of GST) : 21.20\nCASH 21.20\nChange 0.00\nGST SUMMARY\nTaxCode % Amt(RM) Tax (RM)\nSR 6 20.00 120\nTotal . 20.00 1.20.\nGOODS SOLD ARE NOT RETURNABLE THANK YOU."
+  }
+}

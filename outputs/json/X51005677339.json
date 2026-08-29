@@ -1,0 +1,37 @@
+{
+  "store_name": {
+    "value": "BEYOND BROTHERS HARDWARE",
+    "confidence": 0.671,
+    "status": "low"
+  },
+  "date": {
+    "value": "2018-02-06",
+    "confidence": 0.769,
+    "status": "medium"
+  },
+  "items": [],
+  "total_amount": {
+    "value": 60.0,
+    "confidence": 0.713,
+    "status": "medium"
+  },
+  "reliability": {
+    "low_confidence_fields": [
+      "store_name",
+      "items"
+    ],
+    "requires_manual_review": true
+  },
+  "_debug": {
+    "total_line": "Total 60.00 seo)",
+    "line_count": 30,
+    "ocr_confidence": 0.666
+  },
+  "source_file": "X51005677339.jpg",
+  "ocr": {
+    "confidence": 0.666,
+    "preprocessing_variant": "gray",
+    "deskew_angle": 0.0,
+    "raw_text": "Z1e020/b +! ’\nBEYOND BROTHERS HARDWARE\n(872981-V)\n.OT 1-0-2, JLN 1/59,\nDIAMOND SQUARE\nOFF JLN GOMBAK\n53000 KUALA LUMPUR\nTEL. 03-40211233 FAX: 03-40223233\nIVAN_KONG12@HOTMAIL COM\nGST ID 001921\nTAX INVOICE\nDoe No 800065374 Date 06/02/2018\nCastuer USER Time. 11.14.00\nSalesperson Ref,\n(est) (GST)\ntem Cty SPrice S/Price Amount Tax\n8 GAL WHITE CONTAINER\nTeal Qy BE BL\nTotal Seles (Ex. g GST) 60.00\n| e Discount 00\nTotal GST 2.60\nRounding 0.00\nTotal Salas (Inclusive of GST) 62.60\nCASH : 63.60\nChange 0.00\n{GST SUMMARY i\n‘Tax Code ‘h Amt{RM) Tax (RN)\nSR 6 €0 3 360!\nTotal 60.00 seo)\n| GOODS SOLD ARE WOT RETURNABLE TH |"
+  }
+}

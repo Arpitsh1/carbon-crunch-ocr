@@ -1,0 +1,36 @@
+{
+  "store_name": {
+    "value": "TESCO EXTRA KAJANG",
+    "confidence": 0.783,
+    "status": "medium"
+  },
+  "date": {
+    "value": "2017-03-08",
+    "confidence": 0.864,
+    "status": "high"
+  },
+  "items": [],
+  "total_amount": {
+    "value": 37.8,
+    "confidence": 0.871,
+    "status": "high"
+  },
+  "reliability": {
+    "low_confidence_fields": [
+      "items"
+    ],
+    "requires_manual_review": true
+  },
+  "_debug": {
+    "total_line": "TOTAL INCL.GST@6% RM 37.80",
+    "line_count": 34,
+    "ocr_confidence": 0.812
+  },
+  "source_file": "X51005568911.jpg",
+  "ocr": {
+    "confidence": 0.812,
+    "preprocessing_variant": "enhanced",
+    "deskew_angle": 0.0,
+    "raw_text": "|\nWR. D.I.¥. (KUCHAI) SDN BHD\nCO-REG:750441-W\nLOT 1851-A & 1851-B, JALAN KPB 6,\nKAWASAN PERINDUSTRIAN BALAKONG\n43300 SERI KEMBANGAN, SELANGOR\n(GST ID No :000473792512)\n(TESCO EXTRA KAJANG)\n-TAX INVOICE-\nBOOSTER CABLE XH-500A 48\nCE72 - 10\n9001620 1X 29.90 29.90\nMOTH BALLS 150G *8\n€C21-41-71 - 10/100\n9063977 1X 2,10 2,10\nDIY GOLD TWIST DRILL 3MM *S\nLB22 - 20/1500\n9071245 1X 2,50 2,50\nHSS TWIST DRILL 6*160MM *8\nLG32-42 - 10/400\n6909906163107 1X 3.30 3.30\nItem(s) : 4 Qty(s) : 4\nTOTAL INCL.GST@6% RM 37.80\nCASH RM 40.00\nCHANGE RM 2,20\nGST Summary Amt(RH) — Tax(RM)\nGST S@6x 35.66 2.14\no--2-n2-------------------------------*\n08-03-17 13:42 SHO1 BO28 12 R000017473\nOPERATOR TRAINEE\nEXCHANGE ARE ALLOWED WITHIN\n7 DAY WITH RECEIPT.\nSTRICTLY NO CASH REFUND.\n-_ he"
+  }
+}

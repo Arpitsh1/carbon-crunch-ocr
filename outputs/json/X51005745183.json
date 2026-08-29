@@ -1,0 +1,38 @@
+{
+  "store_name": {
+    "value": "BILLION SIX ENTERPRISE",
+    "confidence": 0.681,
+    "status": "low"
+  },
+  "date": {
+    "value": "2018-02-22",
+    "confidence": 0.779,
+    "status": "medium"
+  },
+  "items": [],
+  "total_amount": {
+    "value": null,
+    "confidence": 0.0,
+    "status": "low"
+  },
+  "reliability": {
+    "low_confidence_fields": [
+      "store_name",
+      "total_amount",
+      "items"
+    ],
+    "requires_manual_review": true
+  },
+  "_debug": {
+    "total_line": null,
+    "line_count": 23,
+    "ocr_confidence": 0.682
+  },
+  "source_file": "X51005745183.jpg",
+  "ocr": {
+    "confidence": 0.682,
+    "preprocessing_variant": "enhanced",
+    "deskew_angle": 0.0,
+    "raw_text": "Fo. . |\n, Pp\nBILLION SIX ENTERPRISE\nNO 3, JALAN TAMAN JASA 2; -\nSECTION U6, 40150 SHAH ALAM.\nTel ; 603-58856749\nGST Reg No: 000944312320\neee S L.-T\nInvoice No C--17689i\nDate + 22/02/2018 7:41:46 AM\nCashier: 123\na... Description Qty Price Amount\n| IC)\nTG7 7\" HIPS PLATE (60PCS) JP\nDa ah oncose 0.00\nTotdSalés Inclusive GST @8.00%: ee ft\nMaster Card 63.60\n5148826201779121\nAST Summary % Amount(RM) — Tax(RM)\nSt 6.00 6, hy 60.18 3.61 ra\nBarana yang sudah di bell, wang tidak dapat di\nkembalikan. Pertukaran barang hanya boleh\ndibuat dalam 3 hari sahaja dengan rest."
+  }
+}

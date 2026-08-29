@@ -1,0 +1,37 @@
+{
+  "store_name": {
+    "value": "RESTAURANT SDN BHD",
+    "confidence": 0.761,
+    "status": "medium"
+  },
+  "date": {
+    "value": "2018-01-06",
+    "confidence": 0.859,
+    "status": "high"
+  },
+  "items": [],
+  "total_amount": {
+    "value": null,
+    "confidence": 0.0,
+    "status": "low"
+  },
+  "reliability": {
+    "low_confidence_fields": [
+      "total_amount",
+      "items"
+    ],
+    "requires_manual_review": true
+  },
+  "_debug": {
+    "total_line": null,
+    "line_count": 35,
+    "ocr_confidence": 0.804
+  },
+  "source_file": "X51005447848.jpg",
+  "ocr": {
+    "confidence": 0.804,
+    "preprocessing_variant": "enhanced",
+    "deskew_angle": 0.0,
+    "raw_text": "LIAN CHI PU TIAN VEGETARIAN\n| RESTAURANT SDN BHD\n«1095514-X)\n(GST ID No 001147416576)\n54, JALAN SS23/11\nTAMAN SEA,4740U\n| PETALING JAYA SELANGOR\nTel 03-7805 7889, 016-3020 669\nTable :8\nCashier\nDate 06/01/18 121726PM\ntem Qty Price Amount\ntS) @15.90\nCURRY MIXED VEGE\n515 1 16 35 16 8 R\n(s) @1390\n517 1 1473 1473 SR\n(12 PCS) @1200\n\"XINGHUA’ SPRING ROLL\n410 1 1272 1272 SR\n(POT) @300\nTIGUAN YIN TEA\n822 1 318 318 SR\n(B) @150\nPLAIN RICE\n922 2 159 318 SR\nGross Amt 47 80\n‘Svr Tax 28\nGST (6%) 2.86\nNet Amt : 53.55\nGST Summary Amount(RM) TaxtRM)\n@R 287 0.00\nSR @ 6% 47.80 286\nTHANK YOU\nPLEASE COME AGAIN"
+  }
+}

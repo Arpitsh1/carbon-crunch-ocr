@@ -1,0 +1,37 @@
+{
+  "store_name": {
+    "value": "O'Rosh Servport",
+    "confidence": 0.615,
+    "status": "low"
+  },
+  "date": {
+    "value": "2018-01-18",
+    "confidence": 0.818,
+    "status": "medium"
+  },
+  "items": [],
+  "total_amount": {
+    "value": 41.95,
+    "confidence": 0.762,
+    "status": "medium"
+  },
+  "reliability": {
+    "low_confidence_fields": [
+      "store_name",
+      "items"
+    ],
+    "requires_manual_review": true
+  },
+  "_debug": {
+    "total_line": "TOTAL SALES RH 41.95",
+    "line_count": 30,
+    "ocr_confidence": 0.742
+  },
+  "source_file": "X51005741944.jpg",
+  "ocr": {
+    "confidence": 0.742,
+    "preprocessing_variant": "enhanced",
+    "deskew_angle": 0.36,
+    "raw_text": "' TAX INVOICE\n. BHPetro] Subang Airport\nJalan Lapangan Terbang Subang\n. 47200 Subang\nSelangor cee\nO'Rosh Servport\nCO. REG. NO: 000948487-V\nGST REG. NO: 000768122880\n18-01-2018 15:44:46 Cashier: 688\ninvoice No: 1-916166\nItem U\\Price — Gnty Amount\ninfiniti 97 £443 2.570 16,32 41.95 S\nTOTAL SALES RH 41.95\nTOTAL AMOUNT PAYABLE\nRM 41.95%\nEDC MASTER RM 41.95\nGST SUMMARY Amount RM Tax RM\n8: Standard 6% 39.58 2.37%\nECARD\nWONG TAI CHIN\nCard Number 789713901 1585960\nMerchant Number 00000°926138429\nReference Nunber 199256579655\nAWARD Balance 412\nEarned 4)\nNew Balance 453\nEPOINTS Expiry 24 31/10/2020\n136 30/11/2020\nThank You For Shopping At SiPetromart\nCustomer Service 1-360-22-2628"
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "store_name": {
+    "value": "Cttogo Enterprise",
+    "confidence": 0.664,
+    "status": "low"
+  },
+  "date": {
+    "value": "2018-01-21",
+    "confidence": 0.825,
+    "status": "medium"
+  },
+  "items": [],
+  "total_amount": {
+    "value": null,
+    "confidence": 0.0,
+    "status": "low"
+  },
+  "reliability": {
+    "low_confidence_fields": [
+      "store_name",
+      "total_amount",
+      "items"
+    ],
+    "requires_manual_review": true
+  },
+  "_debug": {
+    "total_line": null,
+    "line_count": 32,
+    "ocr_confidence": 0.753
+  },
+  "source_file": "X51005719873.jpg",
+  "ocr": {
+    "confidence": 0.753,
+    "preprocessing_variant": "enhanced",
+    "deskew_angle": 0.0,
+    "raw_text": "a .\nYour order number is\ntealive\nC7281 -Tealve Shel Kepong\nCttogo Enterprise\n002570632-x\nGST ID:001018802176\nSHELL STATION PT15944, Mukim\nBatu,\nJin Besar Kepong\nTAX INVOICE\nCounter 7290 Take Away\nBill No 394024495, COMPLETED\nDate: 21/01/2018 15.46.09\nSales Remarks.\ntem Name Qty PricedRM)\nHazeinut Goco -L 1 750 SR\nPearl 1 110\n-_- SubTotal RM8.60\nRounding RMO.00\nTotal Sales nelST @ 0% RIVIB.GO\ncash 800\nTendered: 9.00\n‘Change 0.40\n‘Code “Amount: Tax\nSR @O% 812 Oe\nYou have just missed out 8 points\nSign up for a Tealive UniTea Card\ntoday to enjoy exclusive member\npromotions and collect BPoints to\ntedeem on future purchases\nThank You Please Come Again"
+  }
+}

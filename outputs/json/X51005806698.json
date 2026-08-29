@@ -1,0 +1,43 @@
+{
+  "store_name": {
+    "value": "co ANS Rig 725188-V",
+    "confidence": 0.647,
+    "status": "low"
+  },
+  "date": {
+    "value": "2018-02-28",
+    "confidence": 0.815,
+    "status": "medium"
+  },
+  "items": [
+    {
+      "name": "UNICORN GLUE STICKUSG-21G 2S SR 27755",
+      "price": 11.6,
+      "confidence": 0.77
+    }
+  ],
+  "total_amount": {
+    "value": null,
+    "confidence": 0.0,
+    "status": "low"
+  },
+  "reliability": {
+    "low_confidence_fields": [
+      "store_name",
+      "total_amount"
+    ],
+    "requires_manual_review": true
+  },
+  "_debug": {
+    "total_line": null,
+    "line_count": 28,
+    "ocr_confidence": 0.736
+  },
+  "source_file": "X51005806698.jpg",
+  "ocr": {
+    "confidence": 0.736,
+    "preprocessing_variant": "gray",
+    "deskew_angle": 0.0,
+    "raw_text": "NY\nco ANS Rig 725188-V\nNO 183, Jalan Wangsa Delima W,\nWangsa Link, Wangsa Maju,\n53300 Kuala Lumpur\n03-41318972\nGST Reg : 001658445824\nTAX INVOICE\nCBH: 395164 28/02/2018 6:02:26\nM#: M1-0\nCastier: ¢1000-\nQty Description Price Total ‘\nUNICORN GLUE STICKUSG-21G 2S SR\n2 27755 5.80 11.60\nItem Discount 10% = -1.-16,\n2 Type: 1 Total 11.600\n~ Rounding Adj ae el,\nTotal Inclusive GST: Fioas »\nCASH 00\nChange 9.55\nGST Summary\nCode % _NetAmt GST Total\nSR 6% 9.85 059 10.44\nTotal 985 059 «1044 ~~\nNAS GREAT IDEA\nThank you & Please come again.\nGoods sold are not returnable for refund or\nexchange !!"
+  }
+}

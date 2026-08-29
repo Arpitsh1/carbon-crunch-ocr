@@ -1,0 +1,42 @@
+{
+  "store_name": {
+    "value": "0JC MARKETING SDN BHD",
+    "confidence": 0.735,
+    "status": "medium"
+  },
+  "date": {
+    "value": "2019-01-15",
+    "confidence": 0.833,
+    "status": "medium"
+  },
+  "items": [
+    {
+      "name": "1 SR",
+      "price": 193.0,
+      "confidence": 0.787
+    }
+  ],
+  "total_amount": {
+    "value": null,
+    "confidence": 0.0,
+    "status": "low"
+  },
+  "reliability": {
+    "low_confidence_fields": [
+      "total_amount"
+    ],
+    "requires_manual_review": true
+  },
+  "_debug": {
+    "total_line": null,
+    "line_count": 27,
+    "ocr_confidence": 0.765
+  },
+  "source_file": "X00016469670.jpg",
+  "ocr": {
+    "confidence": 0.765,
+    "preprocessing_variant": "gray",
+    "deskew_angle": 1.72,
+    "raw_text": "tan chay yee\na#« Copy ***\n0JC MARKETING SDN BHD\nROC NO: 538358-H\nNO 2 & 4, JALAN BAYU 4,\nBANDAR SERI ALAM,\n81750 MASAI, JOHOR\nTel:07-388 2218 Fax:07-388 8218\nEmail: ng@ojegroup.com\nTAX INVOICE\nDate 15/01/2019 11:05:16 AM\nCashier NG CHUAN MIN\nSales Persor : FATIN\nBill To : THE PEAK QUARRY WORKS\nAddress te\nDescription... QU... Price Amount...\n000000111 1 193.00 193.00 SR\nKINGS SAFETY SHOES KWD 805\n~giyeT aia Baciade GST\nTotal GST @6%: 0.00\n‘Total Inclusive GST: 193.00\ncoercion Round Amt 0,00.\nTOTAL: 193,00\n9900000000004 318\nApproval Code:000 U 6)\nGoods Sold Arc Not Returnable & Refundable\n++*+Thank You. Please Come Again.****"
+  }
+}

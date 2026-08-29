@@ -1,0 +1,39 @@
+{
+  "store_name": {
+    "value": "0 CTADSHD",
+    "confidence": 0.581,
+    "status": "low"
+  },
+  "date": {
+    "value": null,
+    "confidence": 0.0,
+    "status": "low"
+  },
+  "items": [],
+  "total_amount": {
+    "value": 159.0,
+    "confidence": 0.641,
+    "status": "low"
+  },
+  "reliability": {
+    "low_confidence_fields": [
+      "store_name",
+      "date",
+      "total_amount",
+      "items"
+    ],
+    "requires_manual_review": true
+  },
+  "_debug": {
+    "total_line": "Total ‘Amt Payable 159.00 A",
+    "line_count": 28,
+    "ocr_confidence": 0.555
+  },
+  "source_file": "X51005453802.jpg",
+  "ocr": {
+    "confidence": 0.555,
+    "preprocessing_variant": "enhanced",
+    "deskew_angle": 5.63,
+    "raw_text": "0 CTADSHD\n: aids\nAN HING STATIONERY SON BHO\n(162761)\nNO.32833. JALAN SR 19. SEKSYENS,\nTAMAN, ‘SERDANG RAYA\n43300 SER! KEMBANGAN. ‘SELANGOR\nDARULEHSAN\nGSTID 002130201536\nTax invoice\n39,032018 _—- “No, CS-20322\nOry Tx RM\nDurafite H399 (110 » 96000) 200 SR 11660 /\nName Badge (HH) @ 0 5500\n909 Metal Name Badge Clip: 2 oR 42 0 /\n1700's @ 20 0000\n-Fotal Amt incl. GST @ 6% 158.00\nRounding Adjustment\nTotal ‘Amt Payable 159.00 A\nPaid Amount 200.00\n‘Change 41.00\nTota Qty Tender 202\n{gst Summary Amount Tx!\nme .! Linlht\ni SR.@A 180,00. 9.00}\n‘Total 150.00 3. 00 t\nTHANK YOU\nor anv anouiny clans contact"
+  }
+}

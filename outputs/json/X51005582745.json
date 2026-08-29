@@ -1,0 +1,38 @@
+{
+  "store_name": {
+    "value": "MODERN DEPOT SDN BHD",
+    "confidence": 0.662,
+    "status": "low"
+  },
+  "date": {
+    "value": "2016-12-04",
+    "confidence": 0.736,
+    "status": "medium"
+  },
+  "items": [],
+  "total_amount": {
+    "value": 8.49,
+    "confidence": 0.68,
+    "status": "low"
+  },
+  "reliability": {
+    "low_confidence_fields": [
+      "store_name",
+      "total_amount",
+      "items"
+    ],
+    "requires_manual_review": true
+  },
+  "_debug": {
+    "total_line": "TOTAL OST = 8.49",
+    "line_count": 29,
+    "ocr_confidence": 0.615
+  },
+  "source_file": "X51005582745.jpg",
+  "ocr": {
+    "confidence": 0.615,
+    "preprocessing_variant": "gray",
+    "deskew_angle": 0.0,
+    "raw_text": "MODERN DEPOT SDN BHD\n950345-T\nNO.19, PT1G695, JALAN JANBU HELAKA 2,\nTINJANG ‘SELATAN, KEPONG.\nTEL: +6U13-4242 8074 FAX: +603-4242 8176\nGST NOs 002098102272\nRECEIPT Wz CS0O090733 DATE: 04/12/2016\nSALESPERSON TIME: 09:58:00\nCASHIER : THYE\nITEN QTY —U/P_— AMOUNT\nCLSTELG70 1141.51 141,51\n/— SRESTEL670 HEATGUN 2000H \"STANLEY\"\nB/N 031274\n| TOTAL QUANTITY 1 |\nSUB-TOTAL 141.51\nise 0.00\nTOTAL OST = 8.49\nTAX 0.00\nROUNDING 0.00\nroTAL 150.00\nCASH 150.00\nCHANGE ol00\nGST SUMMARY ?\ncone AMOUNT = % —TAX/ANT |\nSk i516 8.49\nGOONS SOLD ARE NOT RETURNABLE,\nTHANK YOU.\n4 G97 @ 6X INCLUDED IN TOTAL\noT"
+  }
+}

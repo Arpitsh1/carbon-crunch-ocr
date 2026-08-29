@@ -1,0 +1,36 @@
+{
+  "store_name": {
+    "value": "WAHIN HARDWARE SDN BHD",
+    "confidence": 0.741,
+    "status": "medium"
+  },
+  "date": {
+    "value": "2017-12-04",
+    "confidence": 0.839,
+    "status": "medium"
+  },
+  "items": [],
+  "total_amount": {
+    "value": 42.4,
+    "confidence": 0.783,
+    "status": "medium"
+  },
+  "reliability": {
+    "low_confidence_fields": [
+      "items"
+    ],
+    "requires_manual_review": true
+  },
+  "_debug": {
+    "total_line": "Total (RM) 42.40",
+    "line_count": 33,
+    "ocr_confidence": 0.774
+  },
+  "source_file": "X51005663272.jpg",
+  "ocr": {
+    "confidence": 0.774,
+    "preprocessing_variant": "gray",
+    "deskew_angle": 1.82,
+    "raw_text": "3 3 Bjr012\n7\nWAHIN HARDWARE SDN BHD\n148481-U\n425, JALAN PAHANG,\nSETAPAK, 53000 KUALA LUMPUR.\nTEL: 603-40232487, 40238191, 40218976,\nSTORE: 40225409 FAX : 603-40217507.\nGST Number : 000048898048\nTAX INVOICE\nInvoice No.: 090013132\nlate 04/12/17 5:06 PH\nCashier : WAHIN\nItenDescription\nQuantity Price (GST Inc.) Amount\n44° MINI ROLLER REFILL\n2 2.6500 5.30 SR\n_ 24\"X18\" ROLLERPAINT HANDLE\n2 3.1800 6.36 SR\n33.5LRT BLACK OXIDE PAINT\ni 30.7400 30.74 SR\nGross Amount + 40.00\nTotal GST Amt : 2.40\nSub Total : 42.40\nRounding Adj. = an\nTotal (RM) 42.40\nAmount Paid + Nico\nmount Change : 0.00\nQuantity Count: 5\n| Total Iten Sold: 3\nGST SuamaryAnount(RH) GST Amount (RH)\n| SRE6% 40.00 2.407\n| THANK YOU !"
+  }
+}

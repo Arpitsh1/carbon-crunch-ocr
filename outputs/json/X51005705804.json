@@ -1,0 +1,39 @@
+{
+  "store_name": {
+    "value": "ng0 ELECTRICAL TRADING SON BHP",
+    "confidence": 0.471,
+    "status": "low"
+  },
+  "date": {
+    "value": null,
+    "confidence": 0.0,
+    "status": "low"
+  },
+  "items": [],
+  "total_amount": {
+    "value": null,
+    "confidence": 0.0,
+    "status": "low"
+  },
+  "reliability": {
+    "low_confidence_fields": [
+      "store_name",
+      "date",
+      "total_amount",
+      "items"
+    ],
+    "requires_manual_review": true
+  },
+  "_debug": {
+    "total_line": null,
+    "line_count": 32,
+    "ocr_confidence": 0.321
+  },
+  "source_file": "X51005705804.jpg",
+  "ocr": {
+    "confidence": 0.321,
+    "preprocessing_variant": "gray",
+    "deskew_angle": 1.7,
+    "raw_text": "ng0 ELECTRICAL TRADING SON BHP\n{000131\nno 3t6,.ALAN SEPADU C280,\nOR 3s TAUANINDUSTRES,\nBEST AH AAI SELANGOR\nce eearenoe1360 FAGETSIZITIS\n{GST NO OEE\nTAKINVOCE\nBite: a\npa\ner “Pave onna2Ot?\note “ne 14.2800 m\nro en\n“oa Strips\naT cont ACTOR. SER MO\n“oer paararicy CC)\n1 gs OREN BO NE — ap\na ce ean\nceameosaoton:\ngem =\npac: om\nrovnaing | 020\n\"rotal ; 98:00\ncash : 10002\nape\neo\nest ‘SUMMARY \\ -\nsaxcode Proust __ 35\na 60) |\nTotal BAO ee |\n(0008 SOLD ARE! NOT RETURNABLE, |\nHARRY: I"
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "store_name": {
+    "value": "POPULAR BOOK",
+    "confidence": 0.889,
+    "status": "high"
+  },
+  "date": {
+    "value": "2018-03-01",
+    "confidence": 0.879,
+    "status": "high"
+  },
+  "items": [],
+  "total_amount": {
+    "value": 0.0,
+    "confidence": 0.823,
+    "status": "medium"
+  },
+  "reliability": {
+    "low_confidence_fields": [
+      "items"
+    ],
+    "requires_manual_review": true
+  },
+  "_debug": {
+    "total_line": "Total Savings 0.00",
+    "line_count": 27,
+    "ocr_confidence": 0.835
+  },
+  "source_file": "X51005757199.jpg",
+  "ocr": {
+    "confidence": 0.835,
+    "preprocessing_variant": "enhanced",
+    "deskew_angle": 0.0,
+    "raw_text": "2180300)\nPOPULAR BOOK\nCO. (M) SDN BHD\n(Co. No. 113825-W)\n(GST Reg No. 001492992000)\nNo 8, dalan 7/118B, Desa Tun Razak\n56000 Kuala Lumpur, Malaysia\nTOI MALL\nTel : 03-80709188 / 80757830\n01/03/18 12:36 Slip No. : 9070058756\nSITE Trans: 21396\nDeser ipt fon Amount\nW/ENV4. 59.5 1.90 T\nUni P&S Env 4. 5X9. 75 2.10 T\nTotal RM Incl. of GST 4.00\nCash -10.00\nCHANGE 6.00\nTtem Count 2\nGST Summary Amount (RM) Tax (RM)\nT @ 6% 3.77 0.23\nTotal Savings 0.00\nBE A POPULAR CARD MEMBER\nAND ENJOY SPECIAL DISCOUNTS\nTHANK YOU. PLEASE COME AGAIN.\nWWW. Popular. Com. my\nBuy Chinese books online\nwww. popularon] ine. com. my"
+  }
+}

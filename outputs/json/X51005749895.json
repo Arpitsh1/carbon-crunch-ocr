@@ -1,0 +1,38 @@
+{
+  "store_name": {
+    "value": "We. 9.0. M _SON BHD",
+    "confidence": 0.596,
+    "status": "low"
+  },
+  "date": {
+    "value": "2018-03-02",
+    "confidence": 0.753,
+    "status": "medium"
+  },
+  "items": [],
+  "total_amount": {
+    "value": null,
+    "confidence": 0.0,
+    "status": "low"
+  },
+  "reliability": {
+    "low_confidence_fields": [
+      "store_name",
+      "total_amount",
+      "items"
+    ],
+    "requires_manual_review": true
+  },
+  "_debug": {
+    "total_line": null,
+    "line_count": 36,
+    "ocr_confidence": 0.642
+  },
+  "source_file": "X51005749895.jpg",
+  "ocr": {
+    "confidence": 0.642,
+    "preprocessing_variant": "enhanced",
+    "deskew_angle": 0.0,
+    "raw_text": "ae “a\n* Pr 4\nWe. 9.0. (M)_SON BHD\nCo-RE i:360671-0\nLOT 1851-A & 1451-B, JALAN KPB 6,\nKAWASAN PERINJUSTRTAN BALAKONG,\n4300 SERI K'MBANGAN, SELANGOR\n| (GST 19 No :000306020352)\n(TESCO EXTR\\ ARA DAMANSARA)\n“TAX. INVOICE\nPILLAR SINK TAP 48\nF102 - 6/54\n9072351 2X 23.90 47.80\nSHIFIDTOX FIK S00L MP 45\nWAUL - 24\n9556111988559 1X 8.90 8.90\nSPONGE KOREA-25 +8\nARG2 - 12/312 |\n9084017 4X 3.00 12.00\nPLASTIC BAGS 285 |\n99999 1X 0.20 0.20\nVANCE LIGHTER 1s VTO2 +8\nB22 - 50/100\n9555258606 161 5X 0.60 3.00 |\n| Item(s) : 5 aty(s) : 13\n“TOTAL INCL. GST@6s RW TT.90\nCASH th i200\nCHANGE RH 0.10\nGST Summary Amt(RM) — Tax(RM)\nGST 566; _, 87.83 4.07\n02-03-18 4423 sui 2442. T1 ROOO227410\nOPERATOR 'TADC - ATM ABDUL\nEXCHANGE AR ALLOWED WITHIN\n7 DAC W TH RECEIPT.\nSTRICT.Y AO CASH REFUND.\nie"
+  }
+}
