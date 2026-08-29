@@ -11,20 +11,19 @@
   },
   "items": [],
   "total_amount": {
-    "value": null,
-    "confidence": 0.0,
-    "status": "low"
+    "value": 6.35,
+    "confidence": 0.706,
+    "status": "medium"
   },
   "reliability": {
     "low_confidence_fields": [
       "store_name",
-      "total_amount",
       "items"
     ],
     "requires_manual_review": true
   },
   "_debug": {
-    "total_line": null,
+    "total_line": "‘Total Amt ble: 6.35 |",
     "line_count": 23,
     "ocr_confidence": 0.656
   },

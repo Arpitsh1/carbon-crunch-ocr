@@ -17,19 +17,18 @@
     }
   ],
   "total_amount": {
-    "value": null,
-    "confidence": 0.0,
-    "status": "low"
+    "value": 4.2,
+    "confidence": 0.708,
+    "status": "medium"
   },
   "reliability": {
     "low_confidence_fields": [
-      "store_name",
-      "total_amount"
+      "store_name"
     ],
     "requires_manual_review": true
   },
   "_debug": {
-    "total_line": null,
+    "total_line": "4.2 Typo: 1 Total 720",
     "line_count": 25,
     "ocr_confidence": 0.658
   },

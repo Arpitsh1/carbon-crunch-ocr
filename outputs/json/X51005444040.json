@@ -11,19 +11,18 @@
   },
   "items": [],
   "total_amount": {
-    "value": null,
-    "confidence": 0.0,
-    "status": "low"
+    "value": 133.7,
+    "confidence": 0.834,
+    "status": "medium"
   },
   "reliability": {
     "low_confidence_fields": [
-      "total_amount",
       "items"
     ],
     "requires_manual_review": true
   },
   "_debug": {
-    "total_line": null,
+    "total_line": "Totai Saving 0.00 Total 133.70",
     "line_count": 28,
     "ocr_confidence": 0.852
   },

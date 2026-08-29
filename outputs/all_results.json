@@ -12,21 +12,20 @@
     },
     "items": [],
     "total_amount": {
-      "value": null,
-      "confidence": 0.0,
-      "status": "low"
+      "value": 5.11,
+      "confidence": 0.713,
+      "status": "medium"
     },
     "reliability": {
       "low_confidence_fields": [
         "store_name",
         "date",
-        "total_amount",
         "items"
       ],
       "requires_manual_review": true
     },
     "_debug": {
-      "total_line": null,
+      "total_line": "yy, TOTAL 5.11",
       "line_count": 13,
       "ocr_confidence": 0.666
     },
@@ -324,20 +323,19 @@
     },
     "items": [],
     "total_amount": {
-      "value": null,
-      "confidence": 0.0,
-      "status": "low"
+      "value": 23.19,
+      "confidence": 0.738,
+      "status": "medium"
     },
     "reliability": {
       "low_confidence_fields": [
         "date",
-        "total_amount",
         "items"
       ],
       "requires_manual_review": true
     },
     "_debug": {
-      "total_line": null,
+      "total_line": "23.19 TOTAL PURCHASE",
       "line_count": 41,
       "ocr_confidence": 0.705
     },
@@ -479,8 +477,8 @@
     },
     "items": [],
     "total_amount": {
-      "value": null,
-      "confidence": 0.0,
+      "value": 49.9,
+      "confidence": 0.667,
       "status": "low"
     },
     "reliability": {
@@ -493,7 +491,7 @@
       "requires_manual_review": true
     },
     "_debug": {
-      "total_line": null,
+      "total_line": "Z 49.90 TOTAL PURCHASE Zp",
       "line_count": 33,
       "ocr_confidence": 0.595
     },
@@ -827,20 +825,19 @@
     },
     "items": [],
     "total_amount": {
-      "value": null,
-      "confidence": 0.0,
-      "status": "low"
+      "value": 23.19,
+      "confidence": 0.738,
+      "status": "medium"
     },
     "reliability": {
       "low_confidence_fields": [
         "date",
-        "total_amount",
         "items"
       ],
       "requires_manual_review": true
     },
     "_debug": {
-      "total_line": null,
+      "total_line": "23.19 TOTAL PURCHASE",
       "line_count": 41,
       "ocr_confidence": 0.705
     },
@@ -954,7 +951,7 @@
       "requires_manual_review": true
     },
     "_debug": {
-      "total_line": "Total 9.00",
+      "total_line": "Round: d Total (RM); 9.00",
       "line_count": 29,
       "ocr_confidence": 0.671
     },
@@ -1052,19 +1049,18 @@
     },
     "items": [],
     "total_amount": {
-      "value": null,
-      "confidence": 0.0,
-      "status": "low"
+      "value": 0.0,
+      "confidence": 0.744,
+      "status": "medium"
     },
     "reliability": {
       "low_confidence_fields": [
-        "total_amount",
         "items"
       ],
       "requires_manual_review": true
     },
     "_debug": {
-      "total_line": null,
+      "total_line": "| Total 80.91 0.00|",
       "line_count": 28,
       "ocr_confidence": 0.714
     },
@@ -1547,20 +1543,19 @@
     },
     "items": [],
     "total_amount": {
-      "value": null,
-      "confidence": 0.0,
-      "status": "low"
+      "value": 6.35,
+      "confidence": 0.706,
+      "status": "medium"
     },
     "reliability": {
       "low_confidence_fields": [
         "store_name",
-        "total_amount",
         "items"
       ],
       "requires_manual_review": true
     },
     "_debug": {
-      "total_line": null,
+      "total_line": "‘Total Amt ble: 6.35 |",
       "line_count": 23,
       "ocr_confidence": 0.656
     },
@@ -2842,19 +2837,18 @@
     },
     "items": [],
     "total_amount": {
-      "value": null,
-      "confidence": 0.0,
-      "status": "low"
+      "value": 1.22,
+      "confidence": 0.719,
+      "status": "medium"
     },
     "reliability": {
       "low_confidence_fields": [
-        "total_amount",
         "items"
       ],
       "requires_manual_review": true
     },
     "_debug": {
-      "total_line": null,
+      "total_line": "a Total 3068 1.22",
       "line_count": 41,
       "ocr_confidence": 0.675
     },
@@ -3433,18 +3427,16 @@
       }
     ],
     "total_amount": {
-      "value": null,
-      "confidence": 0.0,
-      "status": "low"
+      "value": 343.95,
+      "confidence": 0.762,
+      "status": "medium"
     },
     "reliability": {
-      "low_confidence_fields": [
-        "total_amount"
-      ],
-      "requires_manual_review": true
+      "low_confidence_fields": [],
+      "requires_manual_review": false
     },
     "_debug": {
-      "total_line": null,
+      "total_line": "ws TOTAL 343.95",
       "line_count": 22,
       "ocr_confidence": 0.741
     },
@@ -4557,19 +4549,18 @@
     },
     "items": [],
     "total_amount": {
-      "value": null,
-      "confidence": 0.0,
-      "status": "low"
+      "value": 133.7,
+      "confidence": 0.834,
+      "status": "medium"
     },
     "reliability": {
       "low_confidence_fields": [
-        "total_amount",
         "items"
       ],
       "requires_manual_review": true
     },
     "_debug": {
-      "total_line": null,
+      "total_line": "Totai Saving 0.00 Total 133.70",
       "line_count": 28,
       "ocr_confidence": 0.852
     },
@@ -5110,20 +5101,19 @@
     },
     "items": [],
     "total_amount": {
-      "value": null,
-      "confidence": 0.0,
-      "status": "low"
+      "value": 9.9,
+      "confidence": 0.785,
+      "status": "medium"
     },
     "reliability": {
       "low_confidence_fields": [
         "store_name",
-        "total_amount",
         "items"
       ],
       "requires_manual_review": true
     },
     "_debug": {
-      "total_line": null,
+      "total_line": "| Total Sales (Inclusive 6ST) RH 9.90",
       "line_count": 16,
       "ocr_confidence": 0.776
     },
@@ -5296,8 +5286,8 @@
     },
     "items": [],
     "total_amount": {
-      "value": null,
-      "confidence": 0.0,
+      "value": 79.5,
+      "confidence": 0.65,
       "status": "low"
     },
     "reliability": {
@@ -5310,7 +5300,7 @@
       "requires_manual_review": true
     },
     "_debug": {
-      "total_line": null,
+      "total_line": "“Total Aint Payable 79.50",
       "line_count": 27,
       "ocr_confidence": 0.569
     },
@@ -5372,7 +5362,7 @@
     },
     "items": [],
     "total_amount": {
-      "value": 159.0,
+      "value": 150.0,
       "confidence": 0.641,
       "status": "low"
     },
@@ -5386,7 +5376,7 @@
       "requires_manual_review": true
     },
     "_debug": {
-      "total_line": "Total ‘Amt Payable 159.00 A",
+      "total_line": "‘Total 150.00 3. 00 t",
       "line_count": 28,
       "ocr_confidence": 0.555
     },
@@ -5810,19 +5800,18 @@
       }
     ],
     "total_amount": {
-      "value": null,
-      "confidence": 0.0,
-      "status": "low"
+      "value": 4.2,
+      "confidence": 0.708,
+      "status": "medium"
     },
     "reliability": {
       "low_confidence_fields": [
-        "store_name",
-        "total_amount"
+        "store_name"
       ],
       "requires_manual_review": true
     },
     "_debug": {
-      "total_line": null,
+      "total_line": "4.2 Typo: 1 Total 720",
       "line_count": 25,
       "ocr_confidence": 0.658
     },
@@ -6056,18 +6045,16 @@
       }
     ],
     "total_amount": {
-      "value": null,
-      "confidence": 0.0,
-      "status": "low"
+      "value": 46.65,
+      "confidence": 0.745,
+      "status": "medium"
     },
     "reliability": {
-      "low_confidence_fields": [
-        "total_amount"
-      ],
-      "requires_manual_review": true
+      "low_confidence_fields": [],
+      "requires_manual_review": false
     },
     "_debug": {
-      "total_line": null,
+      "total_line": "Rounded Total (RM): 46.65",
       "line_count": 37,
       "ocr_confidence": 0.716
     },
@@ -6098,18 +6085,16 @@
       }
     ],
     "total_amount": {
-      "value": null,
-      "confidence": 0.0,
-      "status": "low"
+      "value": 52.45,
+      "confidence": 0.78,
+      "status": "medium"
     },
     "reliability": {
-      "low_confidence_fields": [
-        "total_amount"
-      ],
-      "requires_manual_review": true
+      "low_confidence_fields": [],
+      "requires_manual_review": false
     },
     "_debug": {
-      "total_line": null,
+      "total_line": "Rounded Total (RM): 52.45",
       "line_count": 32,
       "ocr_confidence": 0.769
     },
@@ -6134,19 +6119,18 @@
     },
     "items": [],
     "total_amount": {
-      "value": null,
-      "confidence": 0.0,
-      "status": "low"
+      "value": 18.8,
+      "confidence": 0.75,
+      "status": "medium"
     },
     "reliability": {
       "low_confidence_fields": [
-        "total_amount",
         "items"
       ],
       "requires_manual_review": true
     },
     "_debug": {
-      "total_line": null,
+      "total_line": "ounded Total (RM): 18.80",
       "line_count": 35,
       "ocr_confidence": 0.722
     },
@@ -6415,7 +6399,7 @@
       }
     ],
     "total_amount": {
-      "value": 7.0,
+      "value": 0.0,
       "confidence": 0.746,
       "status": "medium"
     },
@@ -6424,7 +6408,7 @@
       "requires_manual_review": false
     },
     "_debug": {
-      "total_line": "TOTAL 7.00",
+      "total_line": "TAK TOTAL: (0.0",
       "line_count": 30,
       "ocr_confidence": 0.716
     },
@@ -6559,7 +6543,7 @@
     },
     "items": [],
     "total_amount": {
-      "value": 85.1,
+      "value": 6.0,
       "confidence": 0.682,
       "status": "low"
     },
@@ -6572,7 +6556,7 @@
       "requires_manual_review": true
     },
     "_debug": {
-      "total_line": "Total heecs 85.10",
+      "total_line": "Your Total Savings 6.00 +",
       "line_count": 43,
       "ocr_confidence": 0.618
     },
@@ -6603,8 +6587,8 @@
       }
     ],
     "total_amount": {
-      "value": null,
-      "confidence": 0.0,
+      "value": 84.0,
+      "confidence": 0.689,
       "status": "low"
     },
     "reliability": {
@@ -6616,7 +6600,7 @@
       "requires_manual_review": true
     },
     "_debug": {
-      "total_line": null,
+      "total_line": "& Type. > Total 84.00 ~~",
       "line_count": 29,
       "ocr_confidence": 0.629
     },
@@ -7515,19 +7499,18 @@
     },
     "items": [],
     "total_amount": {
-      "value": null,
-      "confidence": 0.0,
-      "status": "low"
+      "value": 56.8,
+      "confidence": 0.796,
+      "status": "medium"
     },
     "reliability": {
       "low_confidence_fields": [
-        "total_amount",
         "items"
       ],
       "requires_manual_review": true
     },
     "_debug": {
-      "total_line": null,
+      "total_line": "Rounded Total (RM): 56.80",
       "line_count": 36,
       "ocr_confidence": 0.794
     },
@@ -7737,7 +7720,7 @@
     },
     "items": [],
     "total_amount": {
-      "value": 465.34,
+      "value": 28.34,
       "confidence": 0.747,
       "status": "medium"
     },
@@ -7749,7 +7732,7 @@
       "requires_manual_review": true
     },
     "_debug": {
-      "total_line": "Total Oty 470 ~ 465.34",
+      "total_line": "| Total. 498.00 28.34",
       "line_count": 48,
       "ocr_confidence": 0.719
     },
@@ -8146,20 +8129,19 @@
     },
     "items": [],
     "total_amount": {
-      "value": null,
-      "confidence": 0.0,
-      "status": "low"
+      "value": 1.32,
+      "confidence": 0.759,
+      "status": "medium"
     },
     "reliability": {
       "low_confidence_fields": [
         "store_name",
-        "total_amount",
         "items"
       ],
       "requires_manual_review": true
     },
     "_debug": {
-      "total_line": null,
+      "total_line": "| Total : 22.00 1.32 )",
       "line_count": 30,
       "ocr_confidence": 0.736
     },
@@ -8519,19 +8501,18 @@
       }
     ],
     "total_amount": {
-      "value": null,
-      "confidence": 0.0,
-      "status": "low"
+      "value": 2.25,
+      "confidence": 0.742,
+      "status": "medium"
     },
     "reliability": {
       "low_confidence_fields": [
-        "store_name",
-        "total_amount"
+        "store_name"
       ],
       "requires_manual_review": true
     },
     "_debug": {
-      "total_line": null,
+      "total_line": "| Total : 37.50 2.25|/",
       "line_count": 34,
       "ocr_confidence": 0.71
     },
@@ -8556,20 +8537,19 @@
     },
     "items": [],
     "total_amount": {
-      "value": null,
-      "confidence": 0.0,
-      "status": "low"
+      "value": 2.04,
+      "confidence": 0.762,
+      "status": "medium"
     },
     "reliability": {
       "low_confidence_fields": [
         "store_name",
-        "total_amount",
         "items"
       ],
       "requires_manual_review": true
     },
     "_debug": {
-      "total_line": null,
+      "total_line": "| Total: 34.00 2.04",
       "line_count": 31,
       "ocr_confidence": 0.741
     },
@@ -8784,21 +8764,20 @@
     },
     "items": [],
     "total_amount": {
-      "value": null,
-      "confidence": 0.0,
-      "status": "low"
+      "value": 4.68,
+      "confidence": 0.768,
+      "status": "medium"
     },
     "reliability": {
       "low_confidence_fields": [
         "store_name",
         "date",
-        "total_amount",
         "items"
       ],
       "requires_manual_review": true
     },
     "_debug": {
-      "total_line": null,
+      "total_line": "| Total : 78.00 4.68",
       "line_count": 31,
       "ocr_confidence": 0.751
     },
@@ -9132,8 +9111,8 @@
     },
     "items": [],
     "total_amount": {
-      "value": null,
-      "confidence": 0.0,
+      "value": 38.15,
+      "confidence": 0.616,
       "status": "low"
     },
     "reliability": {
@@ -9146,7 +9125,7 @@
       "requires_manual_review": true
     },
     "_debug": {
-      "total_line": null,
+      "total_line": "~ Total: 38.15",
       "line_count": 34,
       "ocr_confidence": 0.518
     },
@@ -10482,8 +10461,8 @@
     },
     "items": [],
     "total_amount": {
-      "value": null,
-      "confidence": 0.0,
+      "value": 5.78,
+      "confidence": 0.682,
       "status": "low"
     },
     "reliability": {
@@ -10496,7 +10475,7 @@
       "requires_manual_review": true
     },
     "_debug": {
-      "total_line": null,
+      "total_line": "___._ Total: ___ 96.00 5.78",
       "line_count": 31,
       "ocr_confidence": 0.618
     },
@@ -10810,19 +10789,18 @@
     },
     "items": [],
     "total_amount": {
-      "value": null,
-      "confidence": 0.0,
-      "status": "low"
+      "value": 6.0,
+      "confidence": 0.755,
+      "status": "medium"
     },
     "reliability": {
       "low_confidence_fields": [
-        "total_amount",
         "items"
       ],
       "requires_manual_review": true
     },
     "_debug": {
-      "total_line": null,
+      "total_line": "BST( 6.0%) Amount RM 4,38",
       "line_count": 27,
       "ocr_confidence": 0.731
     },
@@ -12155,20 +12133,19 @@
       }
     ],
     "total_amount": {
-      "value": null,
-      "confidence": 0.0,
-      "status": "low"
+      "value": 9.9,
+      "confidence": 0.746,
+      "status": "medium"
     },
     "reliability": {
       "low_confidence_fields": [
         "store_name",
-        "date",
-        "total_amount"
+        "date"
       ],
       "requires_manual_review": true
     },
     "_debug": {
-      "total_line": null,
+      "total_line": ". - Total : 165.00 9.90",
       "line_count": 36,
       "ocr_confidence": 0.717
     },
@@ -12739,18 +12716,16 @@
       }
     ],
     "total_amount": {
-      "value": null,
-      "confidence": 0.0,
-      "status": "low"
+      "value": 63.35,
+      "confidence": 0.782,
+      "status": "medium"
     },
     "reliability": {
-      "low_confidence_fields": [
-        "total_amount"
-      ],
-      "requires_manual_review": true
+      "low_confidence_fields": [],
+      "requires_manual_review": false
     },
     "_debug": {
-      "total_line": null,
+      "total_line": "\\ TOTAL 63.35%",
       "line_count": 26,
       "ocr_confidence": 0.773
     },
@@ -13011,19 +12986,18 @@
     },
     "items": [],
     "total_amount": {
-      "value": null,
-      "confidence": 0.0,
-      "status": "low"
+      "value": 4.0,
+      "confidence": 0.768,
+      "status": "medium"
     },
     "reliability": {
       "low_confidence_fields": [
-        "total_amount",
         "items"
       ],
       "requires_manual_review": true
     },
     "_debug": {
-      "total_line": null,
+      "total_line": "by AMOUNT Sa 4.00",
       "line_count": 24,
       "ocr_confidence": 0.75
     },
@@ -13397,19 +13371,18 @@
       }
     ],
     "total_amount": {
-      "value": null,
-      "confidence": 0.0,
-      "status": "low"
+      "value": 24.5,
+      "confidence": 0.729,
+      "status": "medium"
     },
     "reliability": {
       "low_confidence_fields": [
-        "store_name",
-        "total_amount"
+        "store_name"
       ],
       "requires_manual_review": true
     },
     "_debug": {
-      "total_line": null,
+      "total_line": "__NET TOTAL: 24.50,",
       "line_count": 31,
       "ocr_confidence": 0.691
     },
@@ -13440,18 +13413,16 @@
       }
     ],
     "total_amount": {
-      "value": null,
-      "confidence": 0.0,
-      "status": "low"
+      "value": 8.0,
+      "confidence": 0.771,
+      "status": "medium"
     },
     "reliability": {
-      "low_confidence_fields": [
-        "total_amount"
-      ],
-      "requires_manual_review": true
+      "low_confidence_fields": [],
+      "requires_manual_review": false
     },
     "_debug": {
-      "total_line": null,
+      "total_line": "___NET TOTAL: 8.00",
       "line_count": 24,
       "ocr_confidence": 0.755
     },
@@ -14213,8 +14184,8 @@
     },
     "items": [],
     "total_amount": {
-      "value": null,
-      "confidence": 0.0,
+      "value": 21.18,
+      "confidence": 0.573,
       "status": "low"
     },
     "reliability": {
@@ -14227,7 +14198,7 @@
       "requires_manual_review": true
     },
     "_debug": {
-      "total_line": null,
+      "total_line": "_— Total; 38300 21.18)",
       "line_count": 44,
       "ocr_confidence": 0.451
     },
@@ -14290,20 +14261,19 @@
     },
     "items": [],
     "total_amount": {
-      "value": null,
-      "confidence": 0.0,
-      "status": "low"
+      "value": 367.3,
+      "confidence": 0.72,
+      "status": "medium"
     },
     "reliability": {
       "low_confidence_fields": [
         "store_name",
-        "total_amount",
         "items"
       ],
       "requires_manual_review": true
     },
     "_debug": {
-      "total_line": null,
+      "total_line": "Rounded Total (RM): 367.30",
       "line_count": 40,
       "ocr_confidence": 0.678
     },
@@ -14447,19 +14417,18 @@
     },
     "items": [],
     "total_amount": {
-      "value": null,
-      "confidence": 0.0,
-      "status": "low"
+      "value": 73.5,
+      "confidence": 0.774,
+      "status": "medium"
     },
     "reliability": {
       "low_confidence_fields": [
-        "total_amount",
         "items"
       ],
       "requires_manual_review": true
     },
     "_debug": {
-      "total_line": null,
+      "total_line": "Rounded Total (RM): 73.5",
       "line_count": 24,
       "ocr_confidence": 0.759
     },
@@ -14599,21 +14568,20 @@
     },
     "items": [],
     "total_amount": {
-      "value": null,
-      "confidence": 0.0,
-      "status": "low"
+      "value": 6843.87,
+      "confidence": 0.706,
+      "status": "medium"
     },
     "reliability": {
       "low_confidence_fields": [
         "store_name",
         "date",
-        "total_amount",
         "items"
       ],
       "requires_manual_review": true
     },
     "_debug": {
-      "total_line": null,
+      "total_line": "SDN BHD Total: 6843.87!",
       "line_count": 31,
       "ocr_confidence": 0.656
     },

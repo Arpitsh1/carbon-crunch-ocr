@@ -17,18 +17,16 @@
     }
   ],
   "total_amount": {
-    "value": null,
-    "confidence": 0.0,
-    "status": "low"
+    "value": 52.45,
+    "confidence": 0.78,
+    "status": "medium"
   },
   "reliability": {
-    "low_confidence_fields": [
-      "total_amount"
-    ],
-    "requires_manual_review": true
+    "low_confidence_fields": [],
+    "requires_manual_review": false
   },
   "_debug": {
-    "total_line": null,
+    "total_line": "Rounded Total (RM): 52.45",
     "line_count": 32,
     "ocr_confidence": 0.769
   },

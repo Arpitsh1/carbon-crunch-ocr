@@ -22,18 +22,16 @@
     }
   ],
   "total_amount": {
-    "value": null,
-    "confidence": 0.0,
-    "status": "low"
+    "value": 343.95,
+    "confidence": 0.762,
+    "status": "medium"
   },
   "reliability": {
-    "low_confidence_fields": [
-      "total_amount"
-    ],
-    "requires_manual_review": true
+    "low_confidence_fields": [],
+    "requires_manual_review": false
   },
   "_debug": {
-    "total_line": null,
+    "total_line": "ws TOTAL 343.95",
     "line_count": 22,
     "ocr_confidence": 0.741
   },

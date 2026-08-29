@@ -11,19 +11,18 @@
   },
   "items": [],
   "total_amount": {
-    "value": null,
-    "confidence": 0.0,
-    "status": "low"
+    "value": 73.5,
+    "confidence": 0.774,
+    "status": "medium"
   },
   "reliability": {
     "low_confidence_fields": [
-      "total_amount",
       "items"
     ],
     "requires_manual_review": true
   },
   "_debug": {
-    "total_line": null,
+    "total_line": "Rounded Total (RM): 73.5",
     "line_count": 24,
     "ocr_confidence": 0.759
   },

@@ -17,20 +17,19 @@
     }
   ],
   "total_amount": {
-    "value": null,
-    "confidence": 0.0,
-    "status": "low"
+    "value": 9.9,
+    "confidence": 0.746,
+    "status": "medium"
   },
   "reliability": {
     "low_confidence_fields": [
       "store_name",
-      "date",
-      "total_amount"
+      "date"
     ],
     "requires_manual_review": true
   },
   "_debug": {
-    "total_line": null,
+    "total_line": ". - Total : 165.00 9.90",
     "line_count": 36,
     "ocr_confidence": 0.717
   },

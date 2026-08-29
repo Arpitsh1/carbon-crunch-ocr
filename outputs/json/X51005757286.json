@@ -17,18 +17,16 @@
     }
   ],
   "total_amount": {
-    "value": null,
-    "confidence": 0.0,
-    "status": "low"
+    "value": 8.0,
+    "confidence": 0.771,
+    "status": "medium"
   },
   "reliability": {
-    "low_confidence_fields": [
-      "total_amount"
-    ],
-    "requires_manual_review": true
+    "low_confidence_fields": [],
+    "requires_manual_review": false
   },
   "_debug": {
-    "total_line": null,
+    "total_line": "___NET TOTAL: 8.00",
     "line_count": 24,
     "ocr_confidence": 0.755
   },

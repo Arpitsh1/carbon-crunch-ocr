@@ -11,21 +11,20 @@
   },
   "items": [],
   "total_amount": {
-    "value": null,
-    "confidence": 0.0,
-    "status": "low"
+    "value": 6843.87,
+    "confidence": 0.706,
+    "status": "medium"
   },
   "reliability": {
     "low_confidence_fields": [
       "store_name",
       "date",
-      "total_amount",
       "items"
     ],
     "requires_manual_review": true
   },
   "_debug": {
-    "total_line": null,
+    "total_line": "SDN BHD Total: 6843.87!",
     "line_count": 31,
     "ocr_confidence": 0.656
   },

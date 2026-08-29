@@ -11,20 +11,19 @@
   },
   "items": [],
   "total_amount": {
-    "value": null,
-    "confidence": 0.0,
-    "status": "low"
+    "value": 9.9,
+    "confidence": 0.785,
+    "status": "medium"
   },
   "reliability": {
     "low_confidence_fields": [
       "store_name",
-      "total_amount",
       "items"
     ],
     "requires_manual_review": true
   },
   "_debug": {
-    "total_line": null,
+    "total_line": "| Total Sales (Inclusive 6ST) RH 9.90",
     "line_count": 16,
     "ocr_confidence": 0.776
   },

@@ -11,20 +11,19 @@
   },
   "items": [],
   "total_amount": {
-    "value": null,
-    "confidence": 0.0,
-    "status": "low"
+    "value": 2.04,
+    "confidence": 0.762,
+    "status": "medium"
   },
   "reliability": {
     "low_confidence_fields": [
       "store_name",
-      "total_amount",
       "items"
     ],
     "requires_manual_review": true
   },
   "_debug": {
-    "total_line": null,
+    "total_line": "| Total: 34.00 2.04",
     "line_count": 31,
     "ocr_confidence": 0.741
   },

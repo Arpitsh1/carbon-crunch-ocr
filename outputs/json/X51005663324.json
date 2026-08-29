@@ -11,7 +11,7 @@
   },
   "items": [],
   "total_amount": {
-    "value": 465.34,
+    "value": 28.34,
     "confidence": 0.747,
     "status": "medium"
   },
@@ -23,7 +23,7 @@
     "requires_manual_review": true
   },
   "_debug": {
-    "total_line": "Total Oty 470 ~ 465.34",
+    "total_line": "| Total. 498.00 28.34",
     "line_count": 48,
     "ocr_confidence": 0.719
   },

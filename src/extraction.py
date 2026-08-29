@@ -48,7 +48,7 @@ STRONG_TOTAL_RE = re.compile(
 )
 
 NORMAL_TOTAL_RE = re.compile(
-    r"^\s*(?:"
+    r"\b(?:"
     r"total|"
     r"total\s*amount|"
     r"amount"

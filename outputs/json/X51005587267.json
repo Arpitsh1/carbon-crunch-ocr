@@ -11,7 +11,7 @@
   },
   "items": [],
   "total_amount": {
-    "value": 85.1,
+    "value": 6.0,
     "confidence": 0.682,
     "status": "low"
   },
@@ -24,7 +24,7 @@
     "requires_manual_review": true
   },
   "_debug": {
-    "total_line": "Total heecs 85.10",
+    "total_line": "Your Total Savings 6.00 +",
     "line_count": 43,
     "ocr_confidence": 0.618
   },

@@ -11,19 +11,18 @@
   },
   "items": [],
   "total_amount": {
-    "value": null,
-    "confidence": 0.0,
-    "status": "low"
+    "value": 6.0,
+    "confidence": 0.755,
+    "status": "medium"
   },
   "reliability": {
     "low_confidence_fields": [
-      "total_amount",
       "items"
     ],
     "requires_manual_review": true
   },
   "_debug": {
-    "total_line": null,
+    "total_line": "BST( 6.0%) Amount RM 4,38",
     "line_count": 27,
     "ocr_confidence": 0.731
   },

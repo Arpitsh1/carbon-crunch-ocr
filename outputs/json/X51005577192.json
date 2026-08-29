@@ -17,7 +17,7 @@
     }
   ],
   "total_amount": {
-    "value": 7.0,
+    "value": 0.0,
     "confidence": 0.746,
     "status": "medium"
   },
@@ -26,7 +26,7 @@
     "requires_manual_review": false
   },
   "_debug": {
-    "total_line": "TOTAL 7.00",
+    "total_line": "TAK TOTAL: (0.0",
     "line_count": 30,
     "ocr_confidence": 0.716
   },

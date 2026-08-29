@@ -11,19 +11,18 @@
   },
   "items": [],
   "total_amount": {
-    "value": null,
-    "confidence": 0.0,
-    "status": "low"
+    "value": 0.0,
+    "confidence": 0.744,
+    "status": "medium"
   },
   "reliability": {
     "low_confidence_fields": [
-      "total_amount",
       "items"
     ],
     "requires_manual_review": true
   },
   "_debug": {
-    "total_line": null,
+    "total_line": "| Total 80.91 0.00|",
     "line_count": 28,
     "ocr_confidence": 0.714
   },

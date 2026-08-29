@@ -11,20 +11,19 @@
   },
   "items": [],
   "total_amount": {
-    "value": null,
-    "confidence": 0.0,
-    "status": "low"
+    "value": 23.19,
+    "confidence": 0.738,
+    "status": "medium"
   },
   "reliability": {
     "low_confidence_fields": [
       "date",
-      "total_amount",
       "items"
     ],
     "requires_manual_review": true
   },
   "_debug": {
-    "total_line": null,
+    "total_line": "23.19 TOTAL PURCHASE",
     "line_count": 41,
     "ocr_confidence": 0.705
   },

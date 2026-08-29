@@ -11,7 +11,7 @@
   },
   "items": [],
   "total_amount": {
-    "value": 159.0,
+    "value": 150.0,
     "confidence": 0.641,
     "status": "low"
   },
@@ -25,7 +25,7 @@
     "requires_manual_review": true
   },
   "_debug": {
-    "total_line": "Total ‘Amt Payable 159.00 A",
+    "total_line": "‘Total 150.00 3. 00 t",
     "line_count": 28,
     "ocr_confidence": 0.555
   },
